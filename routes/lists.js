@@ -161,7 +161,7 @@ async function updateListItem(req, res, userId, movieId) {
           `UPDATE user_lists SET ${updates.join(', ')} WHERE user_id = ? AND movie_id = ?`,
           values,
           (err) => {
-            if (err) return jsonResponse(res, 500, { ok: false, error: 'Error al actualizar' });
+            if (err) return jsonResponse(res, 500, { ok: false, error: err.message });
             jsonResponse(res, 200, { ok: true, message: 'Actualizado correctamente' });
           }
         );

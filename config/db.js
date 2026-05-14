@@ -37,15 +37,21 @@ db.serialize(() => {
 
   db.run(`
     CREATE TABLE IF NOT EXISTS user_lists (
-      id         INTEGER PRIMARY KEY AUTOINCREMENT,
-      user_id    INTEGER NOT NULL,
-      movie_id   TEXT NOT NULL,
-      status     TEXT NOT NULL DEFAULT 'watchlist',
-      created_at TEXT DEFAULT (datetime('now')),
+      id          INTEGER PRIMARY KEY AUTOINCREMENT,
+      user_id     INTEGER NOT NULL,
+      movie_id    TEXT NOT NULL,
+      status      TEXT NOT NULL DEFAULT 'watchlist',
+      fecha_visto TEXT DEFAULT NULL,
+      mi_rating   INTEGER DEFAULT 0,
+      liked       INTEGER DEFAULT 0,
+      nota        TEXT DEFAULT '',
+      estado      TEXT DEFAULT NULL,
+      temporada   INTEGER DEFAULT 1,
+      capitulo    INTEGER DEFAULT 1,
+      created_at  TEXT DEFAULT (datetime('now')),
       FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE,
       UNIQUE(user_id, movie_id)
     )
   `);
 });
-
 module.exports = db;
