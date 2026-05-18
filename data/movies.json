@@ -1,142 +1,1941 @@
-[
-  {
-    "id": "breaking-bad",
-    "title": "Breaking Bad",
-    "type": "Serie",
-    "genres": ["Crime", "Drama"],
-    "rating": 9.5,
-    "points": 9900,
-    "duration": "3 Temporadas",
-    "platform": "Netflix",
-    "year": 2008,
-    "img": "https://images.unsplash.com/photo-1604975999044-188783d54fb3?w=800&q=80",
-    "trailer": "https://www.youtube.com/embed/HhesaQXLuRY?autoplay=1",
-    "desc": "Un profesor de química diagnosticado con cáncer terminal decide fabricar metanfetamina junto a un ex alumno para asegurar el futuro económico de su familia, mientras su doble vida lo arrastra a un mundo criminal sin retorno."
-  },
-  {
-    "id": "game-of-thrones",
-    "title": "Game of Thrones",
-    "type": "Serie",
-    "genres": ["Fantasy", "Drama"],
-    "rating": 9.3,
-    "points": 9600,
-    "duration": "8 Temporadas",
-    "platform": "HBO Max",
-    "year": 2011,
-    "img": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&q=80",
-    "trailer": "https://www.youtube.com/embed/KPLWWIOCOOQ?autoplay=1",
-    "desc": "Poderosas familias nobles luchan por el control del Trono de Hierro de los Siete Reinos de Westeros, mientras una antigua amenaza sobrenatural regresa desde más allá del muro del norte."
-  },
-  {
-    "id": "interstellar",
-    "title": "Interstellar",
-    "type": "Película",
-    "genres": ["Action", "Sci-Fi"],
-    "rating": 9.2,
-    "points": 9800,
-    "duration": "169 min",
-    "platform": "HBO Max",
-    "year": 2014,
-    "img": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80",
-    "trailer": "https://www.youtube.com/embed/zSWdZtXT7E?autoplay=1",
-    "desc": "Un equipo de exploradores viaja a través de un agujero de gusano en los confines del universo para encontrar un nuevo hogar para la humanidad mientras la Tierra se extingue lentamente."
-  },
-  {
-    "id": "stranger-things",
-    "title": "Stranger Things",
-    "type": "Serie",
-    "genres": ["Sci-Fi", "Mystery"],
-    "rating": 9.0,
-    "points": 9300,
-    "duration": "4 Temporadas",
-    "platform": "Netflix",
-    "year": 2016,
-    "img": "https://images.unsplash.com/photo-1535016120720-40c646be5580?w=800&q=80",
-    "trailer": "https://www.youtube.com/embed/b9EkMc79ZSU?autoplay=1",
-    "desc": "Un grupo de amigos en un pequeño pueblo de Indiana descubre fuerzas sobrenaturales, experimentos secretos del gobierno y una dimensión paralela aterradora que amenaza su mundo."
-  },
-  {
-    "id": "the-dark-knight",
-    "title": "The Dark Knight",
-    "type": "Película",
-    "genres": ["Action", "Thriller"],
-    "rating": 8.9,
-    "points": 9100,
-    "duration": "152 min",
-    "platform": "HBO Max",
-    "year": 2008,
-    "img": "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?w=800&q=80",
-    "trailer": "https://www.youtube.com/embed/EXeTwQWrcwY?autoplay=1",
-    "desc": "Batman enfrenta a su mayor amenaza cuando el Joker, un agente del caos sin escrúpulos, desata el terror en Gotham City con un plan diseñado para destruir todo lo que el Caballero Oscuro representa."
-  },
-  {
-    "id": "severance",
-    "title": "Severance",
-    "type": "Serie",
-    "genres": ["Sci-Fi", "Thriller"],
-    "rating": 8.7,
-    "points": 8800,
-    "duration": "2 Temporadas",
-    "platform": "Apple TV+",
-    "year": 2022,
-    "img": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
-    "trailer": "https://www.youtube.com/embed/xEQP4VVuyrY?autoplay=1",
-    "desc": "Empleados de la misteriosa corporación Lumon se someten a un procedimiento quirúrgico que separa completamente sus recuerdos laborales de los personales, sin saber qué ocurre en la otra mitad de su vida."
-  },
-  {
-    "id": "dune",
-    "title": "Dune: Parte Uno",
-    "type": "Película",
-    "genres": ["Sci-Fi", "Adventure"],
-    "rating": 8.5,
-    "points": 8600,
-    "duration": "155 min",
-    "platform": "HBO Max",
-    "year": 2021,
-    "img": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
-    "trailer": "https://www.youtube.com/embed/8g18jFHCLXk?autoplay=1",
-    "desc": "Paul Atreides, un joven noble, viaja al planeta más peligroso del universo para asegurar el futuro de su familia y su pueblo, heredando el destino de quienes controlan la especia más valiosa de la galaxia."
-  },
-  {
-    "id": "the-boys",
-    "title": "The Boys",
-    "type": "Serie",
-    "genres": ["Action", "Comedy"],
-    "rating": 8.4,
-    "points": 8400,
-    "duration": "4 Temporadas",
-    "platform": "Amazon Prime",
-    "year": 2019,
-    "img": "https://images.unsplash.com/photo-1531259683007-016a7b628fc3?w=800&q=80",
-    "trailer": "https://www.youtube.com/embed/M1bhOaLV4FU?autoplay=1",
-    "desc": "Un grupo de vigilantes sin poderes decide enfrentarse a un equipo de superhéroes corrompidos por la fama y el poder, respaldados por una megacorporación que los usa como herramienta de control."
-  },
-  {
-    "id": "invincible",
-    "title": "Invincible",
-    "type": "Serie",
-    "genres": ["Animation", "Action"],
-    "rating": 8.3,
-    "points": 8100,
-    "duration": "2 Temporadas",
-    "platform": "Amazon Prime",
-    "year": 2021,
-    "img": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?w=800&q=80",
-    "trailer": "https://www.youtube.com/embed/4RLSjBmkGT4?autoplay=1",
-    "desc": "Mark Grayson es un adolescente normal cuyo padre es el superhéroe más poderoso del planeta. Al heredar sus poderes, descubre que la verdad detrás del legado familiar es mucho más oscura de lo que esperaba."
-  },
-  {
-    "id": "dark",
-    "title": "Dark",
-    "type": "Serie",
-    "genres": ["Sci-Fi", "Mystery"],
-    "rating": 8.2,
-    "points": 7900,
-    "duration": "3 Temporadas",
-    "platform": "Netflix",
-    "year": 2017,
-    "img": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=800&q=80",
-    "trailer": "https://www.youtube.com/embed/rrwycJ08PSA?autoplay=1",
-    "desc": "Cuatro familias interconectadas de un pequeño pueblo alemán se ven arrastradas a una conspiración que involucra viajes en el tiempo, paradojas imposibles y ciclos que se repiten a lo largo de décadas."
-  }
-]
+{
+  "netflix": [
+    {
+      "id": "tmdb-1007757",
+      "tmdbId": 1007757,
+      "title": "Intercambiados",
+      "type": "Película",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Aventura",
+        "Fantasía"
+      ],
+      "rating": 9,
+      "points": 9000,
+      "duration": "102 min",
+      "platform": "Netflix",
+      "year": 2026,
+      "img": "https://image.tmdb.org/t/p/w500/i89vUDwNhAEWUZSFYITSiv1RIbK.jpg",
+      "trailer": "https://www.youtube.com/embed/glgmAwRDP8s?autoplay=1",
+      "desc": "Una pequeña criatura del bosque intercambia el cuerpo con un majestuoso pájaro del valle, lo que los obliga a colaborar para sobrevivir a la aventura más salvaje de sus vidas.",
+      "categoria": "netflix"
+    },
+    {
+      "id": "tmdb-1396",
+      "tmdbId": 1396,
+      "title": "Breaking Bad",
+      "type": "Serie",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "rating": 8.9,
+      "points": 8900,
+      "duration": "5 Temporadas",
+      "platform": "Netflix",
+      "year": 2008,
+      "img": "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+      "trailer": "https://www.youtube.com/embed/XZ8daibM3AE?autoplay=1",
+      "desc": "Un profesor de química con cáncer terminal se asocia con un exalumno suyo para fabricar y vender metanfetamina a fin de que su familia no pase apuros económicos.",
+      "categoria": "netflix"
+    },
+    {
+      "id": "tmdb-209867",
+      "tmdbId": 209867,
+      "title": "Frieren: Tras finalizar el viaje",
+      "type": "Serie",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.8,
+      "points": 8800,
+      "duration": "1 Temporada",
+      "platform": "Netflix",
+      "year": 2023,
+      "img": "https://image.tmdb.org/t/p/w500/3NyQpXmkaBVWgYM8miDHEFqGMCB.jpg",
+      "trailer": "https://www.youtube.com/embed/01WEqntM1NI?autoplay=1",
+      "desc": "Décadas después de que su grupo derrotara al Rey Demonio, el funeral de un viejo amigo lleva a la hechicera elfa Frieren a embarcarse en un viaje de autodescubrimiento.",
+      "categoria": "netflix"
+    },
+    {
+      "id": "tmdb-246",
+      "tmdbId": 246,
+      "title": "Avatar: La leyenda de Aang",
+      "type": "Serie",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.8,
+      "points": 8800,
+      "duration": "3 Temporadas",
+      "platform": "Netflix",
+      "year": 2005,
+      "img": "https://image.tmdb.org/t/p/w500/ucNtkZfpZ6KgxqPo039nN4LAyFR.jpg",
+      "trailer": "https://www.youtube.com/embed/IyZ0xetSb9s?autoplay=1",
+      "desc": "La historia transcurre en un mundo de gente principalmente asiática (el estilo de vida en la serie se basa en la primera mitad del siglo XIX), donde predominan las artes marciales y la manipulación de los elementos en combinación con el misticismo oriental, dando seguimiento a las aventuras de Aang, el más reciente sucesor de una larga línea de avatares, y sus amigos en un intento por salvar su místico mundo de la despiadada Nación del Fuego que busca conquistar a las demás naciones. Durante sus travesías son acechados insistentemente por el desterrado príncipe del fuego Zuko, cuyo objetivo es capturar al avatar para recuperar su honor. Esta serie es presentada como si se tratara de una serie de libros, en donde cada episodio actúa como un «capítulo», y cada temporada como un solo «libro», los cuales se titulan por el elemento temático de la temporada.",
+      "categoria": "netflix"
+    },
+    {
+      "id": "tmdb-94605",
+      "tmdbId": 94605,
+      "title": "Arcane",
+      "type": "Serie",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.8,
+      "points": 8800,
+      "duration": "2 Temporadas",
+      "platform": "Netflix",
+      "year": 2021,
+      "img": "https://image.tmdb.org/t/p/w500/i1vSPUbiBe2iK2HapGDfHItBFlC.jpg",
+      "trailer": "https://www.youtube.com/embed/W4gLFBNGgiY?autoplay=1",
+      "desc": "Con las dispares ciudades de Piltover y Zaun como telón de fondo, dos hermanas luchan en bandos opuestos de una guerra entre tecnologías mágicas y creencias enfrentadas.",
+      "categoria": "netflix"
+    },
+    {
+      "id": "tmdb-37854",
+      "tmdbId": 37854,
+      "title": "One Piece",
+      "type": "Serie",
+      "genres": [
+        "Action & Adventure",
+        "Comedia",
+        "Animación"
+      ],
+      "rating": 8.7,
+      "points": 8700,
+      "duration": "23 Temporadas",
+      "platform": "Netflix",
+      "year": 1999,
+      "img": "https://image.tmdb.org/t/p/w500/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
+      "trailer": "https://www.youtube.com/embed/1KMcoJBMWE4?autoplay=1",
+      "desc": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
+      "categoria": "netflix"
+    },
+    {
+      "id": "tmdb-129",
+      "tmdbId": 129,
+      "title": "El viaje de Chihiro",
+      "type": "Película",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Fantasía"
+      ],
+      "rating": 8.5,
+      "points": 8500,
+      "duration": "122 min",
+      "platform": "Netflix",
+      "year": 2001,
+      "img": "https://image.tmdb.org/t/p/w500/2RcxjDykOssx4SfqshewyI9vfSl.jpg",
+      "trailer": "https://www.youtube.com/embed/GAp2_0JJskk?autoplay=1",
+      "desc": "Durante el traslado de su familia a los suburbios, una niña de 10 años de edad deambula por un mundo gobernado por dioses, brujas y espíritus, y donde los humanos se convierten en bestias.",
+      "categoria": "netflix"
+    },
+    {
+      "id": "tmdb-155",
+      "tmdbId": 155,
+      "title": "El caballero oscuro",
+      "type": "Película",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Suspense"
+      ],
+      "rating": 8.5,
+      "points": 8500,
+      "duration": "152 min",
+      "platform": "Netflix",
+      "year": 2008,
+      "img": "https://image.tmdb.org/t/p/w500/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg",
+      "trailer": "https://www.youtube.com/embed/_PZpmTj1Q8Q?autoplay=1",
+      "desc": "Batman/Bruce Wayne regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon y del Fiscal del Distrito Harvey Dent, Batman se propone destruir el crimen organizado en la ciudad de Gotham. El triunvirato demuestra su eficacia, pero, de repente, aparece Joker, un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos.",
+      "categoria": "netflix"
+    },
+    {
+      "id": "tmdb-19404",
+      "tmdbId": 19404,
+      "title": "Un amor contra viento y marea",
+      "type": "Película",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.5,
+      "points": 8500,
+      "duration": "189 min",
+      "platform": "Netflix",
+      "year": 1995,
+      "img": "https://image.tmdb.org/t/p/w500/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+      "trailer": "https://www.youtube.com/embed/_ZaPIKNg_EQ?autoplay=1",
+      "desc": "Los Singh son una familia india con grandes convicciones culturales de su nación de origen, que emigraron a Reino Unido antes de nacer sus primeros hijos. Uno de ellos querrá casarse con una mujer ajena a su cultura y para ello deberá hacer todos los esfuerzos por convencer a su familia.",
+      "categoria": "netflix"
+    },
+    {
+      "id": "tmdb-496243",
+      "tmdbId": 496243,
+      "title": "Parásitos",
+      "type": "Película",
+      "genres": [
+        "Comedia",
+        "Suspense",
+        "Drama"
+      ],
+      "rating": 8.5,
+      "points": 8500,
+      "duration": "132 min",
+      "platform": "Netflix",
+      "year": 2019,
+      "img": "https://image.tmdb.org/t/p/w500/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
+      "trailer": "https://www.youtube.com/embed/bM9QabAojCg?autoplay=1",
+      "desc": "Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
+      "categoria": "netflix"
+    }
+  ],
+  "amazon-prime": [
+    {
+      "id": "tmdb-85077",
+      "tmdbId": 85077,
+      "title": "The Chosen (Los elegidos)",
+      "type": "Serie",
+      "genres": [
+        "Action & Adventure",
+        "Familia",
+        "Drama"
+      ],
+      "rating": 8.7,
+      "points": 8700,
+      "duration": "6 Temporadas",
+      "platform": "Netflix",
+      "year": 2019,
+      "img": "https://image.tmdb.org/t/p/w500/sADRlqLn9na8p7S1mLWMOU04uit.jpg",
+      "trailer": "https://www.youtube.com/embed/5CVj41dtkIA?autoplay=1",
+      "desc": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
+      "categoria": "amazon-prime"
+    },
+    {
+      "id": "tmdb-95557",
+      "tmdbId": 95557,
+      "title": "INVENCIBLE",
+      "type": "Serie",
+      "genres": [
+        "Animación",
+        "Drama",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 8.6,
+      "points": 8600,
+      "duration": "5 Temporadas",
+      "platform": "Amazon Prime Video",
+      "year": 2021,
+      "img": "https://image.tmdb.org/t/p/w500/AdcfiT5FsjUooyP7CrKzEGmP9K1.jpg",
+      "trailer": "https://www.youtube.com/embed/-bfAVpuko5o?autoplay=1",
+      "desc": "Mark Grayson es un adolescente normal, excepto por el hecho de que su padre es el superhéroe más poderoso del planeta. Poco después de su decimoséptimo cumpleaños, Mark comienza a desarrollar sus propios poderes y entra en la tutela de su padre.",
+      "categoria": "amazon-prime"
+    },
+    {
+      "id": "tmdb-62741",
+      "tmdbId": 62741,
+      "title": "Kamisama Hajimemashita",
+      "type": "Serie",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.6,
+      "points": 8600,
+      "duration": "2 Temporadas",
+      "platform": "Netflix",
+      "year": 2012,
+      "img": "https://image.tmdb.org/t/p/w500/ya4TK0J1HyYFX6EpcLOWBiHavHz.jpg",
+      "trailer": "",
+      "desc": "La historia comienza con Nanami Momozono, una chica que ha perdido su  casa a causa de las deudas de juego de su padre y ha sido abandonada por  éste. Al encontrarse en el parque sin casa o lugar adónde ir, conoce a  un joven y lo \"salva\" ya que estaba siendo amenazado por un perro, a  cambio de dicho acto el joven le concede su propiedad y el derecho de  ser el \"nuevo\" dios de la tierra.",
+      "categoria": "amazon-prime"
+    },
+    {
+      "id": "tmdb-65930",
+      "tmdbId": 65930,
+      "title": "My Hero Academia",
+      "type": "Serie",
+      "genres": [
+        "Action & Adventure",
+        "Animación",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.6,
+      "points": 8600,
+      "duration": "8 Temporadas",
+      "platform": "Netflix",
+      "year": 2016,
+      "img": "https://image.tmdb.org/t/p/w500/rxqI6KDfbIzlg5BRqg7i3nLsn9r.jpg",
+      "trailer": "https://www.youtube.com/embed/EPVkcwyLQQ8?autoplay=1",
+      "desc": "Las personas no nacen igual. El protagonista de esta historia es uno de esos casos raros que nacen sin superpoderes, pero esto no le impedirá perseguir su sueño: ser un gran héroe como el legendario All-Might. Para convertirse en el héroe que quiere ser, se apuntará a una de las academias de héroes más prestigiosas del país: Yueiko. Con la ayuda de su ídolo, All-Might, ¿podrá convertirse en un verdadero héroe?",
+      "categoria": "amazon-prime"
+    },
+    {
+      "id": "tmdb-94954",
+      "tmdbId": 94954,
+      "title": "Hazbin Hotel",
+      "type": "Serie",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.6,
+      "points": 8600,
+      "duration": "5 Temporadas",
+      "platform": "Amazon Prime Video",
+      "year": 2024,
+      "img": "https://image.tmdb.org/t/p/w500/aVYHMW8pdzJ9qG1OGRMKyGy9xor.jpg",
+      "trailer": "https://www.youtube.com/embed/OLSWVCwy88g?autoplay=1",
+      "desc": "Charlie Lucero del Alba, la princesa del Infierno, intenta convencer a los demonios y a los ángeles de que toda alma es redimible. Una comedia musical para adultos sobre las segundas oportunidades repleta de canciones y tacos.",
+      "categoria": "amazon-prime"
+    },
+    {
+      "id": "tmdb-497",
+      "tmdbId": 497,
+      "title": "La milla verde",
+      "type": "Película",
+      "genres": [
+        "Fantasía",
+        "Drama",
+        "Crimen"
+      ],
+      "rating": 8.5,
+      "points": 8500,
+      "duration": "189 min",
+      "platform": "Amazon Prime Video",
+      "year": 1999,
+      "img": "https://image.tmdb.org/t/p/w500/aBQiJRxGRrX0mXFMjxyzWYFtEnf.jpg",
+      "trailer": "https://www.youtube.com/embed/Bg7epsq0OIQ?autoplay=1",
+      "desc": "En el sur de los Estados Unidos, en plena Depresión, Paul Edgecomb es un vigilante penitenciario a cargo de la Milla Verde, un pasillo que separa las celdas de los reclusos condenados a la silla eléctrica. Esperando su ejecución está John Coffey, un gigantesco negro acusado de asesinar brutalmente a dos hermanas de nueve años. Tras una personalidad ingenua, Coffey esconde un don sobrenatural prodigioso. A medida que transcurre la historia, Paul Edgecomb aprende que los milagros ocurren... incluso en los lugares más insospechados.",
+      "categoria": "amazon-prime"
+    },
+    {
+      "id": "tmdb-769",
+      "tmdbId": 769,
+      "title": "Uno de los nuestros",
+      "type": "Película",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "rating": 8.5,
+      "points": 8500,
+      "duration": "146 min",
+      "platform": "Amazon Prime Video",
+      "year": 1990,
+      "img": "https://image.tmdb.org/t/p/w500/3Yy0zBO9AlyAZH1cTI8Ko2ouCi.jpg",
+      "trailer": "https://www.youtube.com/embed/PTBRNXGQR9Q?autoplay=1",
+      "desc": "Henry, un niño de trece años de Brooklyn, vive fascinado con el mundo de los gángsters. Su sueño se hace realidad cuando entra a formar parte de la familia Pauline, dueña absoluta de la zona, que lo educan como un miembro más de la banda convirtiéndole en un destacado mafioso.",
+      "categoria": "amazon-prime"
+    },
+    {
+      "id": "tmdb-311",
+      "tmdbId": 311,
+      "title": "Érase una vez en América",
+      "type": "Película",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "rating": 8.4,
+      "points": 8400,
+      "duration": "225 min",
+      "platform": "Amazon Prime Video",
+      "year": 1984,
+      "img": "https://image.tmdb.org/t/p/w500/u4VnqaxINtKVscmdldZsBojU6jm.jpg",
+      "trailer": "https://www.youtube.com/embed/lFw062jAYR0?autoplay=1",
+      "desc": "David Aaronson \"Noodles\", un pobre joven judío, conoce en los suburbios de principios del siglo XX de Manhattan, Nueva York, a Maximilian Bercovicz \"Max\", otro joven de origen hebreo dispuesto a llegar lejos por cualquier método. Entablan una gran amistad y forman, con los 3 colegas de \"Noodles\", Patrick Goldberg \"Patsy\", Philip Stein \"Cockeye\", y Dominic una banda que prospera rápidamente. Desgraciadamente, son perseguidos por Bugsy, el tipo para el que Noodles y sus amigos trabajaban anteriormente, y en uno de sus asaltos, mata a Dominic. Rápidamente Noodles se tira encima suyo y le mata, por lo que pasará 12 años en prisión. Cuando Noodles sale de prisión le recibe Max, que sigue con su banda junto a los otros 2 amigos, Patsy y Cockeye. Rápidamente, entre los 4, llegan a convertirse, en tiempos de la prohibición, en unos de los mayores gánsteres de todo el país.",
+      "categoria": "amazon-prime"
+    },
+    {
+      "id": "tmdb-27205",
+      "tmdbId": 27205,
+      "title": "Origen",
+      "type": "Película",
+      "genres": [
+        "Acción",
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "rating": 8.4,
+      "points": 8400,
+      "duration": "148 min",
+      "platform": "Amazon Prime Video",
+      "year": 2010,
+      "img": "https://image.tmdb.org/t/p/w500/tXQvtRWfkUUnWJAn2tN3jERIUG.jpg",
+      "trailer": "https://www.youtube.com/embed/cdx31ak4KbQ?autoplay=1",
+      "desc": "Dom Cobb es un ladrón hábil, el mejor de todos, especializado en el peligroso arte de extracción: el robo de secretos valiosos desde las profundidades del subconsciente durante el estado de sueño cuando la mente está más vulnerable. Esta habilidad excepcional de Cobb le ha hecho un jugador codiciado en el traicionero nuevo mundo de espionaje corporativo, pero al mismo tiempo, le ha convertido en un fugitivo internacional y ha tenido que sacrificar todo que le importaba. Ahora a Cobb se le ofrece una oportunidad para redimirse. Con un último trabajo podría recuperar su vida anterior, pero solamente si logra lo imposible.",
+      "categoria": "amazon-prime"
+    },
+    {
+      "id": "tmdb-105",
+      "tmdbId": 105,
+      "title": "Regreso al futuro",
+      "type": "Película",
+      "genres": [
+        "Aventura",
+        "Comedia",
+        "Ciencia ficción"
+      ],
+      "rating": 8.3,
+      "points": 8300,
+      "duration": "116 min",
+      "platform": "Amazon Prime Video",
+      "year": 1985,
+      "img": "https://image.tmdb.org/t/p/w500/owk40tn1sFJmC7bhamEpmhdZPKa.jpg",
+      "trailer": "https://www.youtube.com/embed/ez6WQ7IX72U?autoplay=1",
+      "desc": "El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido. Después de impedir su primer encuentro, deberá conseguir que se conozcan y se casen; de lo contrario, su existencia no sería posible.",
+      "categoria": "amazon-prime"
+    }
+  ],
+  "disney-plus": [
+    {
+      "id": "tmdb-92685",
+      "tmdbId": 92685,
+      "title": "Casa Búho",
+      "type": "Serie",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Comedia",
+        "Sci-Fi & Fantasy",
+        "Familia"
+      ],
+      "rating": 8.7,
+      "points": 8700,
+      "duration": "3 Temporadas",
+      "platform": "Disney+",
+      "year": 2020,
+      "img": "https://image.tmdb.org/t/p/w500/lE5OYF0axjCVtrxLMetA8i8QpZ8.jpg",
+      "trailer": "https://www.youtube.com/embed/1W1FFiT51lg?autoplay=1",
+      "desc": "Luz, una adolescente humana muy segura de sí misma, tropieza con un portal a un nuevo mundo mágico donde se hace amiga de una bruja rebelde, Eda, y de un adorable y diminuto guerrero, Rey. A pesar de no saber hacer magia, Luz persigue su sueño de convertirse en bruja aprendiendo de Eda en la Casa Búho, y acaba por encontrar una nueva familia en un entorno extraño.",
+      "categoria": "disney-plus"
+    },
+    {
+      "id": "tmdb-72637",
+      "tmdbId": 72637,
+      "title": "O11CE",
+      "type": "Serie",
+      "genres": [
+        "Comedia",
+        "Familia",
+        "Soap"
+      ],
+      "rating": 8.6,
+      "points": 8600,
+      "duration": "3 Temporadas",
+      "platform": "Disney+",
+      "year": 2017,
+      "img": "https://image.tmdb.org/t/p/w500/8F7Lpm8lWnhhG7tcq06jkGAdLZX.jpg",
+      "trailer": "",
+      "desc": "La serie gira en torno a Gabo, un adolescente amante del fútbol que, al recibir una beca del prestigioso Instituto Académico Deportivo (IAD) de Buenos Aires, verá cumplido su sueño de jugar en Los Halcones Dorados, el reconocido equipo amateur del colegio, y también su anhelo de convertirse en futbolista profesional.",
+      "categoria": "disney-plus"
+    },
+    {
+      "id": "tmdb-3498",
+      "tmdbId": 3498,
+      "title": "Los magos de Waverly Place",
+      "type": "Serie",
+      "genres": [
+        "Comedia",
+        "Sci-Fi & Fantasy",
+        "Kids"
+      ],
+      "rating": 8.6,
+      "points": 8600,
+      "duration": "4 Temporadas",
+      "platform": "Disney+",
+      "year": 2007,
+      "img": "https://image.tmdb.org/t/p/w500/bJisSc7HGAfWgg1M7916CMfSZTX.jpg",
+      "trailer": "",
+      "desc": "La familia Russo es como cualquier otra familia de Manhattan, aunque con una pequeña diferencia: descienden de una ancestral familia de magos. El padre procede de una ancestral familia con poderes mágicos, a los cuales renunció para casarse con su mujer. Sin embargo, sus tres hijos (Justin, Alex y Max) parecen haber heredado parte de esa magia. Eso sí: los tres jovencitos deberán aprender a controlar los poderes que acaban de descubrir si no quieren perderlos para siempre.",
+      "categoria": "disney-plus"
+    },
+    {
+      "id": "tmdb-40075",
+      "tmdbId": 40075,
+      "title": "Gravity Falls",
+      "type": "Serie",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Comedia",
+        "Misterio",
+        "Sci-Fi & Fantasy",
+        "Familia"
+      ],
+      "rating": 8.6,
+      "points": 8600,
+      "duration": "2 Temporadas",
+      "platform": "Disney+",
+      "year": 2012,
+      "img": "https://image.tmdb.org/t/p/w500/gX9NP6pWG47oAkq723TfxtkG4Pr.jpg",
+      "trailer": "https://www.youtube.com/embed/VviwUvs3hd0?autoplay=1",
+      "desc": "Narra las aventuras de los mellizos de 12 años Dipper y Mabel Pines, que ven cómo se desvanecen sus planes para el verano cuando sus padres deciden mandarlos con su tío-abuelo Grunkle Stan, que vive en el corazón de Gravity Falls. Pronto, Dipper y Mabel descubren que en Gravity Falls no todo es lo que parece y confían el uno en el otro y en sus nuevos amigos para descubrir lo que REALMENTE está sucediendo en este extraño lugar...",
+      "categoria": "disney-plus"
+    },
+    {
+      "id": "tmdb-82728",
+      "tmdbId": 82728,
+      "title": "Bluey",
+      "type": "Serie",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia",
+        "Kids"
+      ],
+      "rating": 8.6,
+      "points": 8600,
+      "duration": "3 Temporadas",
+      "platform": "Disney+",
+      "year": 2018,
+      "img": "https://image.tmdb.org/t/p/w500/mspONkqgKmRuwc2wOYqs1MdwZNB.jpg",
+      "trailer": "https://www.youtube.com/embed/2ZtG5Ba6iT0?autoplay=1",
+      "desc": "Bluey es una perrita de seis años incansable. Esta pastor ganadero australiano azul convierte el día a día con su familia en una aventura extraordinaria y desarrolla así tanto su imaginación como su capacidad mental, física y emocional.",
+      "categoria": "disney-plus"
+    },
+    {
+      "id": "tmdb-1439930",
+      "tmdbId": 1439930,
+      "title": "The Punisher: One Last Kill",
+      "type": "Película",
+      "genres": [
+        "Acción",
+        "Drama",
+        "Crimen"
+      ],
+      "rating": 8.5,
+      "points": 8500,
+      "duration": "51 min",
+      "platform": "Disney+",
+      "year": 2026,
+      "img": "https://image.tmdb.org/t/p/w500/p1eqHRxfIxfgtDgfjWcpEESeEvF.jpg",
+      "trailer": "https://www.youtube.com/embed/oSeqs_xeqv4?autoplay=1",
+      "desc": "Mientras Frank Castle busca propósito más allá de la venganza, una fuerza inesperada lo arrastra de nuevo a la lucha.",
+      "categoria": "disney-plus"
+    },
+    {
+      "id": "tmdb-550",
+      "tmdbId": 550,
+      "title": "El club de la lucha",
+      "type": "Película",
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "rating": 8.4,
+      "points": 8400,
+      "duration": "139 min",
+      "platform": "Netflix",
+      "year": 1999,
+      "img": "https://image.tmdb.org/t/p/w500/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
+      "trailer": "https://www.youtube.com/embed/dfeUzm6KF4g?autoplay=1",
+      "desc": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
+      "categoria": "disney-plus"
+    },
+    {
+      "id": "tmdb-1891",
+      "tmdbId": 1891,
+      "title": "El imperio contraataca",
+      "type": "Película",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Ciencia ficción"
+      ],
+      "rating": 8.4,
+      "points": 8400,
+      "duration": "124 min",
+      "platform": "Disney+",
+      "year": 1980,
+      "img": "https://image.tmdb.org/t/p/w500/eU7KcNAOeZj9PBIcGUMSsuJz8qj.jpg",
+      "trailer": "https://www.youtube.com/embed/e0QkbuRaEDc?autoplay=1",
+      "desc": "Tras un ataque sorpresa de las tropas imperiales a las bases camufladas de la alianza rebelde, Luke Skywalker, en compañía de R2D2, parte hacia el planeta Dagobah en busca de Yoda, el último maestro Jedi, para que le enseñe los secretos de la Fuerza. Mientras, Han Solo, la princesa Leia, Chewbacca, y C3PO esquivan a las fuerzas imperiales y piden refugio al antiguo propietario del Halcón Milenario, Lando Calrissian, en la ciudad minera de Bespin, donde les prepara una trampa urdida por Darth Vader.",
+      "categoria": "disney-plus"
+    },
+    {
+      "id": "tmdb-311",
+      "tmdbId": 311,
+      "title": "Érase una vez en América",
+      "type": "Película",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "rating": 8.4,
+      "points": 8400,
+      "duration": "225 min",
+      "platform": "Amazon Prime Video",
+      "year": 1984,
+      "img": "https://image.tmdb.org/t/p/w500/u4VnqaxINtKVscmdldZsBojU6jm.jpg",
+      "trailer": "https://www.youtube.com/embed/lFw062jAYR0?autoplay=1",
+      "desc": "David Aaronson \"Noodles\", un pobre joven judío, conoce en los suburbios de principios del siglo XX de Manhattan, Nueva York, a Maximilian Bercovicz \"Max\", otro joven de origen hebreo dispuesto a llegar lejos por cualquier método. Entablan una gran amistad y forman, con los 3 colegas de \"Noodles\", Patrick Goldberg \"Patsy\", Philip Stein \"Cockeye\", y Dominic una banda que prospera rápidamente. Desgraciadamente, son perseguidos por Bugsy, el tipo para el que Noodles y sus amigos trabajaban anteriormente, y en uno de sus asaltos, mata a Dominic. Rápidamente Noodles se tira encima suyo y le mata, por lo que pasará 12 años en prisión. Cuando Noodles sale de prisión le recibe Max, que sigue con su banda junto a los otros 2 amigos, Patsy y Cockeye. Rápidamente, entre los 4, llegan a convertirse, en tiempos de la prohibición, en unos de los mayores gánsteres de todo el país.",
+      "categoria": "disney-plus"
+    },
+    {
+      "id": "tmdb-207",
+      "tmdbId": 207,
+      "title": "El club de los poetas muertos",
+      "type": "Película",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8.3,
+      "points": 8300,
+      "duration": "128 min",
+      "platform": "Disney+",
+      "year": 1989,
+      "img": "https://image.tmdb.org/t/p/w500/vsLcmuk8KBN73spAIEwm1nLNSjc.jpg",
+      "trailer": "https://www.youtube.com/embed/s_jsDreXFZU?autoplay=1",
+      "desc": "En un elitista y estricto colegio privado de Nueva Inglaterra, un grupo de alumnos descubrirá la poesía, el significado de \"Carpe Diem\" -aprovechar el momento- y la importancia de perseguir los sueños, gracias a un excéntrico profesor que despierta sus mentes por medio de métodos poco convencionales.",
+      "categoria": "disney-plus"
+    }
+  ],
+  "hbo-max": [],
+  "apple-tv": [
+    {
+      "id": "tmdb-89901",
+      "tmdbId": 89901,
+      "title": "Dickinson",
+      "type": "Serie",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "rating": 8.5,
+      "points": 8500,
+      "duration": "3 Temporadas",
+      "platform": "Apple TV+",
+      "year": 2019,
+      "img": "https://image.tmdb.org/t/p/w500/dDdcAfHBZ6Aalv53iR6o35CSLWA.jpg",
+      "trailer": "https://www.youtube.com/embed/6DiO48qkKmg?autoplay=1",
+      "desc": "La historia se ubica en el siglo XIX donde a través de la mirada y perspectiva de la joven y rebelde poeta Emily Dickinson se explorarán las limitaciones de la sociedad, el género y la familia de su tiempo.",
+      "categoria": "apple-tv"
+    },
+    {
+      "id": "tmdb-1022256",
+      "tmdbId": 1022256,
+      "title": "Selena Gomez: Mi mente y yo",
+      "type": "Película",
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "rating": 8.5,
+      "points": 8500,
+      "duration": "95 min",
+      "platform": "Apple TV+",
+      "year": 2022,
+      "img": "https://image.tmdb.org/t/p/w500/tPlQkVzDoIuhV5he0kntNXDcBrK.jpg",
+      "trailer": "https://www.youtube.com/embed/of32sI9jw5Q?autoplay=1",
+      "desc": "Tras años en el candelero, Selena Gómez alcanza un estatus de estrella inimaginable. Sin embargo, justo cuando conquista una nueva cima, un giro inesperado la sume en la oscuridad. Este documental, de una crudeza e intimidad únicas, abarca su viaje de seis años hacia una nueva luz.",
+      "categoria": "apple-tv"
+    },
+    {
+      "id": "tmdb-95396",
+      "tmdbId": 95396,
+      "title": "Separación",
+      "type": "Serie",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.4,
+      "points": 8400,
+      "duration": "3 Temporadas",
+      "platform": "Apple TV+",
+      "year": 2022,
+      "img": "https://image.tmdb.org/t/p/w500/wrZjYKxObEaWZmjB7scQMYo40o8.jpg",
+      "trailer": "https://www.youtube.com/embed/xEQP4VVuyrY?autoplay=1",
+      "desc": "Mark Scout dirige un equipo en Lumon Industries cuyos empleados se han sometido a un procedimiento quirúrgico que separa sus recuerdos entre trabajo y vida personal. Este arriesgado experimento de conciliación es puesto en tela de juicio cuando Mark se encuentra envuelto en un misterio que le obligará a confrontar la verdadera naturaleza de su trabajo... y de sí mismo.",
+      "categoria": "apple-tv"
+    },
+    {
+      "id": "tmdb-97546",
+      "tmdbId": 97546,
+      "title": "Ted Lasso",
+      "type": "Serie",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "rating": 8.3,
+      "points": 8300,
+      "duration": "4 Temporadas",
+      "platform": "Apple TV+",
+      "year": 2020,
+      "img": "https://image.tmdb.org/t/p/w500/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
+      "trailer": "https://www.youtube.com/embed/BwPcMIDFVKw?autoplay=1",
+      "desc": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
+      "categoria": "apple-tv"
+    },
+    {
+      "id": "tmdb-87784",
+      "tmdbId": 87784,
+      "title": "Defender a Jacob",
+      "type": "Serie",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Crimen"
+      ],
+      "rating": 8.2,
+      "points": 8200,
+      "duration": "1 Temporada",
+      "platform": "Apple TV+",
+      "year": 2020,
+      "img": "https://image.tmdb.org/t/p/w500/8u0JR1PumtngQfuOF8T8AnCn91e.jpg",
+      "trailer": "https://www.youtube.com/embed/XQfeoRLvfqU?autoplay=1",
+      "desc": "La vida de una familia cambia drásticamente cuando el hijo es acusado de asesinar a un compañero de clase. Chris Evans, Michelle Dockery y Jaeden Martell protagonizan este dramático thriller judicial, basado en el bestseller de William Landay.",
+      "categoria": "apple-tv"
+    },
+    {
+      "id": "tmdb-995133",
+      "tmdbId": 995133,
+      "title": "El niño, el topo, el zorro y el caballo",
+      "type": "Película",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Drama",
+        "Aventura"
+      ],
+      "rating": 8.2,
+      "points": 8200,
+      "duration": "34 min",
+      "platform": "Apple TV+",
+      "year": 2022,
+      "img": "https://image.tmdb.org/t/p/w500/jfkVV2RrD5tXAy8P0JLl90ELS0S.jpg",
+      "trailer": "https://www.youtube.com/embed/609A7IGdoEc?autoplay=1",
+      "desc": "Sé testigo del improbable vínculo entre cuatro amigos mientras exploran el significado de la bondad, el valor y la esperanza.",
+      "categoria": "apple-tv"
+    },
+    {
+      "id": "tmdb-441130",
+      "tmdbId": 441130,
+      "title": "Wolfwalkers",
+      "type": "Película",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Aventura",
+        "Fantasía"
+      ],
+      "rating": 8.2,
+      "points": 8200,
+      "duration": "102 min",
+      "platform": "Apple TV+",
+      "year": 2020,
+      "img": "https://image.tmdb.org/t/p/w500/4AbbGAiz1t5Hxa9c35avWeyB3dA.jpg",
+      "trailer": "https://www.youtube.com/embed/d_Z_tybgPgg?autoplay=1",
+      "desc": "La joven Robyn viaja a Irlanda con su padre para participar en una cacería de lobos. Todo se complica cuando conoce a Mebh, una niña misteriosa que vive en el bosque y de la que dicen que por las noches, junto a su tribu nómada, se transforma en lobo.",
+      "categoria": "apple-tv"
+    },
+    {
+      "id": "tmdb-125988",
+      "tmdbId": 125988,
+      "title": "Silo",
+      "type": "Serie",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "rating": 8.1,
+      "points": 8100,
+      "duration": "3 Temporadas",
+      "platform": "Apple TV+",
+      "year": 2023,
+      "img": "https://image.tmdb.org/t/p/w500/8gjKCC85lHIGer9q6duOcVR1PVm.jpg",
+      "trailer": "https://www.youtube.com/embed/8ZYhuvIv1pA?autoplay=1",
+      "desc": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen que están destinadas a protegerlas.",
+      "categoria": "apple-tv"
+    },
+    {
+      "id": "tmdb-458220",
+      "tmdbId": 458220,
+      "title": "Palmer",
+      "type": "Película",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8.1,
+      "points": 8100,
+      "duration": "110 min",
+      "platform": "Apple TV+",
+      "year": 2021,
+      "img": "https://image.tmdb.org/t/p/w500/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg",
+      "trailer": "https://www.youtube.com/embed/8jVuOheTNGQ?autoplay=1",
+      "desc": "Tras 12 años en prisión, el exjugador de fútbol Palmer vuelve a casa para rehacer su vida. Mientras se adapta a su nueva realidad, entabla una amistad con un niño abandonado, pero su pasado le persigue y amenaza con destruir su nueva familia.",
+      "categoria": "apple-tv"
+    },
+    {
+      "id": "tmdb-522402",
+      "tmdbId": 522402,
+      "title": "Finch",
+      "type": "Película",
+      "genres": [
+        "Ciencia ficción",
+        "Drama",
+        "Aventura"
+      ],
+      "rating": 7.8,
+      "points": 7800,
+      "duration": "115 min",
+      "platform": "Apple TV+",
+      "year": 2021,
+      "img": "https://image.tmdb.org/t/p/w500/eEJtzD1F05xDipFEDY98CTH5yZn.jpg",
+      "trailer": "https://www.youtube.com/embed/-0bYWnP3jH4?autoplay=1",
+      "desc": "En un mundo devastado, Finch es un inventor con la misión de encontrar un hogar para él y su familia. Acompañado de su querido perro y de un robot que él mismo creó, se embarca en una bonita y emocionante aventura.",
+      "categoria": "apple-tv"
+    }
+  ],
+  "warner": [
+    {
+      "id": "tmdb-155",
+      "tmdbId": 155,
+      "title": "El caballero oscuro",
+      "type": "Película",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Suspense"
+      ],
+      "rating": 8.5,
+      "points": 8500,
+      "duration": "152 min",
+      "platform": "Netflix",
+      "year": 2008,
+      "img": "https://image.tmdb.org/t/p/w500/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg",
+      "trailer": "https://www.youtube.com/embed/_PZpmTj1Q8Q?autoplay=1",
+      "desc": "Batman/Bruce Wayne regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon y del Fiscal del Distrito Harvey Dent, Batman se propone destruir el crimen organizado en la ciudad de Gotham. El triunvirato demuestra su eficacia, pero, de repente, aparece Joker, un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos.",
+      "categoria": "warner"
+    },
+    {
+      "id": "tmdb-769",
+      "tmdbId": 769,
+      "title": "Uno de los nuestros",
+      "type": "Película",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "rating": 8.5,
+      "points": 8500,
+      "duration": "146 min",
+      "platform": "Amazon Prime Video",
+      "year": 1990,
+      "img": "https://image.tmdb.org/t/p/w500/3Yy0zBO9AlyAZH1cTI8Ko2ouCi.jpg",
+      "trailer": "https://www.youtube.com/embed/PTBRNXGQR9Q?autoplay=1",
+      "desc": "Henry, un niño de trece años de Brooklyn, vive fascinado con el mundo de los gángsters. Su sueño se hace realidad cuando entra a formar parte de la familia Pauline, dueña absoluta de la zona, que lo educan como un miembro más de la banda convirtiéndole en un destacado mafioso.",
+      "categoria": "warner"
+    },
+    {
+      "id": "tmdb-27205",
+      "tmdbId": 27205,
+      "title": "Origen",
+      "type": "Película",
+      "genres": [
+        "Acción",
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "rating": 8.4,
+      "points": 8400,
+      "duration": "148 min",
+      "platform": "Amazon Prime Video",
+      "year": 2010,
+      "img": "https://image.tmdb.org/t/p/w500/tXQvtRWfkUUnWJAn2tN3jERIUG.jpg",
+      "trailer": "https://www.youtube.com/embed/cdx31ak4KbQ?autoplay=1",
+      "desc": "Dom Cobb es un ladrón hábil, el mejor de todos, especializado en el peligroso arte de extracción: el robo de secretos valiosos desde las profundidades del subconsciente durante el estado de sueño cuando la mente está más vulnerable. Esta habilidad excepcional de Cobb le ha hecho un jugador codiciado en el traicionero nuevo mundo de espionaje corporativo, pero al mismo tiempo, le ha convertido en un fugitivo internacional y ha tenido que sacrificar todo que le importaba. Ahora a Cobb se le ofrece una oportunidad para redimirse. Con un último trabajo podría recuperar su vida anterior, pero solamente si logra lo imposible.",
+      "categoria": "warner"
+    },
+    {
+      "id": "tmdb-603",
+      "tmdbId": 603,
+      "title": "Matrix",
+      "type": "Película",
+      "genres": [
+        "Acción",
+        "Ciencia ficción"
+      ],
+      "rating": 8.2,
+      "points": 8200,
+      "duration": "138 min",
+      "platform": "Netflix",
+      "year": 1999,
+      "img": "https://image.tmdb.org/t/p/w500/8rT9kG2EYkZpJmYCuTJNnPDEube.jpg",
+      "trailer": "https://www.youtube.com/embed/d0XTFAMmhrE?autoplay=1",
+      "desc": "Thomas Anderson lleva una doble vida: por el día es programador en una importante empresa de software, y por la noche un hacker informático llamado Neo. Su vida no volverá a ser igual cuando unos misteriosos personajes le inviten a descubrir la respuesta a la pregunta que no le deja dormir: ¿qué es Matrix?",
+      "categoria": "warner"
+    },
+    {
+      "id": "tmdb-1124",
+      "tmdbId": 1124,
+      "title": "El truco final (El prestigio)",
+      "type": "Película",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Ciencia ficción"
+      ],
+      "rating": 8.2,
+      "points": 8200,
+      "duration": "130 min",
+      "platform": "HBO Max",
+      "year": 2006,
+      "img": "https://image.tmdb.org/t/p/w500/lIl2CrnWohGrZSO9eyKRptxZ7Hs.jpg",
+      "trailer": "https://www.youtube.com/embed/ObGVA1WOqyE?autoplay=1",
+      "desc": "Robert Angier es un ilusionista respetado que se obsesiona con uno de los trucos de su rival Alfred Borden. Para conseguir el truco hará todo lo posible, sin saber hasta qué punto cambiará su vida...",
+      "categoria": "warner"
+    },
+    {
+      "id": "tmdb-19614",
+      "tmdbId": 19614,
+      "title": "It",
+      "type": "Serie",
+      "genres": [
+        "Misterio",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.9,
+      "points": 6900,
+      "duration": "1 Temporada",
+      "platform": "",
+      "year": 1990,
+      "img": "https://image.tmdb.org/t/p/w500/uuTYA9LIlIRCFMgFlxWb1KznfEx.jpg",
+      "trailer": "https://www.youtube.com/embed/A4vPcP_tPQE?autoplay=1",
+      "desc": "Un tranquilo y pequeño pueblo de Maine está siendo aterrorizado por una fuerza malévola oculta tras la máscara de un payaso, y que tan sólo se la conoce como \"Eso\". Tras sus primeras víctimas, una pandilla formada por siete amigos de la infancia dedicen volver a reunirse para atacar el mal y destruirlo, intentando librar así del terror a su pueblo natal.",
+      "categoria": "warner"
+    },
+    {
+      "id": "tmdb-16118",
+      "tmdbId": 16118,
+      "title": "El misterio de Salem's Lot",
+      "type": "Serie",
+      "genres": [
+        "Misterio"
+      ],
+      "rating": 6.8,
+      "points": 6800,
+      "duration": "1 Temporada",
+      "platform": "",
+      "year": 1979,
+      "img": "https://image.tmdb.org/t/p/w500/tfVZ1eVdDUTS0MAI2vOvPy3vGgv.jpg",
+      "trailer": "https://www.youtube.com/embed/8fy03Ijr4tc?autoplay=1",
+      "desc": "Después de haber estado ausente durante años, el novelista Ben Mears (David Soul) regresa a Salem, su pueblo natal. Buscando inspiración para su nueva novela, se instala en una especie de casa encantada en lo alto de una colina, donde vivió una desagradable experiencia cuando era niño. La casa pertenece al anticuario señor Barlow (James Mason), que ha llegado al pueblo con su ayudante Straker. Cuando los vecinos se van convirtiendo en vampiros, el terror se apoderará del pueblo. Ben intentará averiguar el origen de la epidemia para erradicarla",
+      "categoria": "warner"
+    }
+  ],
+  "pixar": [
+    {
+      "id": "tmdb-354912",
+      "tmdbId": 354912,
+      "title": "Coco",
+      "type": "Película",
+      "genres": [
+        "Familia",
+        "Animación",
+        "Música",
+        "Aventura"
+      ],
+      "rating": 8.2,
+      "points": 8200,
+      "duration": "109 min",
+      "platform": "Disney+",
+      "year": 2017,
+      "img": "https://image.tmdb.org/t/p/w500/vwsFGblLYxWBNjg9pdWN1Mm5YfW.jpg",
+      "trailer": "https://www.youtube.com/embed/Rvr68u6k5sI?autoplay=1",
+      "desc": "Un joven aspirante a músico llamado Miguel se embarca en un viaje extraordinario a la mágica tierra de sus ancestros. Allí, el encantador embaucador Héctor se convierte en su inesperado amigo y le ayuda a descubrir los misterios detrás de las historias y tradiciones de su familia.",
+      "categoria": "pixar"
+    },
+    {
+      "id": "tmdb-399106",
+      "tmdbId": 399106,
+      "title": "Piper",
+      "type": "Película",
+      "genres": [
+        "Familia",
+        "Animación"
+      ],
+      "rating": 8.1,
+      "points": 8100,
+      "duration": "6 min",
+      "platform": "Disney+",
+      "year": 2016,
+      "img": "https://image.tmdb.org/t/p/w500/pWreJldRrODmxreUWUnXudSbLNI.jpg",
+      "trailer": "https://www.youtube.com/embed/DW8T9nvitLI?autoplay=1",
+      "desc": "Piper es una cría de 'correlimos' (una especie de ave común en zonas húmedas) que se aventura fuera del nido por primera vez para buscar comida en la costa. El único problema es que la comida está enterrada bajo la arena de la orilla, donde llegan las olas húmedas, frías y aterradoras. Con la ayuda de un nuevo amigo, el pequeño pájaro se sumerge con la esperanza de superar sus miedos y llenar su tripa.",
+      "categoria": "pixar"
+    },
+    {
+      "id": "tmdb-10681",
+      "tmdbId": 10681,
+      "title": "WALL·E: Batallón de limpieza",
+      "type": "Película",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Ciencia ficción"
+      ],
+      "rating": 8.1,
+      "points": 8100,
+      "duration": "97 min",
+      "platform": "Disney+",
+      "year": 2008,
+      "img": "https://image.tmdb.org/t/p/w500/5CXpoYB2YAZRPBcv9pjkgR6tZ0X.jpg",
+      "trailer": "https://www.youtube.com/embed/Tbr_L9Gap_M?autoplay=1",
+      "desc": "En el año 2800, en un planeta Tierra devastado y sin vida, tras cientos de solitarios años haciendo aquello para lo que fue construido -limpiar el planeta de basura- el pequeño robot WALL•E descubre una nueva misión en su vida cuando se encuentra con una moderna y lustrosa robot exploradora llamada EVE. Ambos viajarán a lo largo de la galaxia y vivirán una emocionante e inolvidable aventura.",
+      "categoria": "pixar"
+    },
+    {
+      "id": "tmdb-508442",
+      "tmdbId": 508442,
+      "title": "Soul",
+      "type": "Película",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Drama",
+        "Música",
+        "Fantasía"
+      ],
+      "rating": 8.1,
+      "points": 8100,
+      "duration": "107 min",
+      "platform": "Disney+",
+      "year": 2020,
+      "img": "https://image.tmdb.org/t/p/w500/xJ7MCAy4oCLerPo3JjnB8lKOhl4.jpg",
+      "trailer": "https://www.youtube.com/embed/Gs--6c7Hn_A?autoplay=1",
+      "desc": "¿Alguna vez te has preguntado de dónde provienen tu pasión, tus sueños y tus intereses? ¿Qué es lo que te hace ser... tú? Viaja desde las calles de Nueva York a los reinos cósmicos para descubrir las respuestas a las preguntas más importantes de la vida.",
+      "categoria": "pixar"
+    },
+    {
+      "id": "tmdb-1327819",
+      "tmdbId": 1327819,
+      "title": "Hoppers",
+      "type": "Película",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia",
+        "Familia",
+        "Ciencia ficción"
+      ],
+      "rating": 8.1,
+      "points": 8100,
+      "duration": "104 min",
+      "platform": "",
+      "year": 2026,
+      "img": "https://image.tmdb.org/t/p/w500/4Z0E1W7YvQ0aVtgj7KKtktb9ukd.jpg",
+      "trailer": "https://www.youtube.com/embed/PypDSyIRRSs?autoplay=1",
+      "desc": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
+      "categoria": "pixar"
+    },
+    {
+      "id": "tmdb-114502",
+      "tmdbId": 114502,
+      "title": "Cars: En la carretera",
+      "type": "Serie",
+      "genres": [
+        "Familia",
+        "Comedia",
+        "Kids",
+        "Animación",
+        "Action & Adventure"
+      ],
+      "rating": 7.4,
+      "points": 7400,
+      "duration": "1 Temporada",
+      "platform": "Disney+",
+      "year": 2022,
+      "img": "https://image.tmdb.org/t/p/w500/z58JCUkxDEm7CdZnE8ThW4xiamC.jpg",
+      "trailer": "https://www.youtube.com/embed/-Vui-DhwIAg?autoplay=1",
+      "desc": "Rayo McQueen y Mate se dirigen hacia el este desde Radiador Springs en un viaje a través del país para reunirse con la hermana de Mate. Por el camino, cada parada es toda una aventura, con impresionantes atracciones de carretera y pintorescos nuevos personajes.",
+      "categoria": "pixar"
+    },
+    {
+      "id": "tmdb-114501",
+      "tmdbId": 114501,
+      "title": "Dug y Carl",
+      "type": "Serie",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia"
+      ],
+      "rating": 7.4,
+      "points": 7400,
+      "duration": "1 Temporada",
+      "platform": "Disney+",
+      "year": 2021,
+      "img": "https://image.tmdb.org/t/p/w500/l9VfCdnAoJvL9DheFsqOPGEwwDV.jpg",
+      "trailer": "https://www.youtube.com/embed/JeuoUHn9Cfg?autoplay=1",
+      "desc": "Es una serie de cortos que relatan las aventuras y desventuras de Dug, el adorable perro de la película Up, de Disney y Pixar. Cada corto narra historias cotidianas que suceden en el jardín de Dug, todo a través de los ilusionados (y ligeramente distorsionados) ojos de nuestro perro parlante favorito.",
+      "categoria": "pixar"
+    }
+  ],
+  "disney": [
+    {
+      "id": "tmdb-1139087",
+      "tmdbId": 1139087,
+      "title": "Érase una vez un estudio",
+      "type": "Película",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Fantasía",
+        "Drama",
+        "Comedia"
+      ],
+      "rating": 8.3,
+      "points": 8300,
+      "duration": "9 min",
+      "platform": "Disney+",
+      "year": 2023,
+      "img": "https://image.tmdb.org/t/p/w500/81BdCKeRtyHr0muZY72zYr0JM3j.jpg",
+      "trailer": "https://www.youtube.com/embed/JuQrVla3TTk?autoplay=1",
+      "desc": "Los queridos personajes de los 100 años de Disney Animation tienen un reencuentro inolvidable.",
+      "categoria": "disney"
+    },
+    {
+      "id": "tmdb-8587",
+      "tmdbId": 8587,
+      "title": "El rey león",
+      "type": "Película",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Drama"
+      ],
+      "rating": 8.3,
+      "points": 8300,
+      "duration": "85 min",
+      "platform": "Disney+",
+      "year": 1994,
+      "img": "https://image.tmdb.org/t/p/w500/b0MxU37dNmMwKtoPVYPKOZSIrIn.jpg",
+      "trailer": "https://www.youtube.com/embed/UgjEj5mXLlk?autoplay=1",
+      "desc": "La sabana africana es el escenario en el que tienen lugar las aventuras de Simba, un pequeño león que es el heredero del trono. Sin embargo, se ve forzado a exiliarse al ser injustamente acusado de la muerte de su padre. Durante su destierro, hará buenas amistades y, finalmente, regresará para recuperar lo que legítimamente le corresponde.",
+      "categoria": "disney"
+    },
+    {
+      "id": "tmdb-606856",
+      "tmdbId": 606856,
+      "title": "Togo",
+      "type": "Película",
+      "genres": [
+        "Aventura",
+        "Familia"
+      ],
+      "rating": 8.1,
+      "points": 8100,
+      "duration": "111 min",
+      "platform": "Netflix",
+      "year": 2019,
+      "img": "https://image.tmdb.org/t/p/w500/921q4gPNN4J6UxvKaw6SCNBe3F8.jpg",
+      "trailer": "https://www.youtube.com/embed/HMfyueM-ZBQ?autoplay=1",
+      "desc": "'Togo' es la historia real no contada ambientada en el invierno de 1925 de un periplo por el terreno traicionero de la tundra de Alaska en busca de una aventura emocionante que pondrá a prueba la fuerza, el coraje y la determinación de un hombre, Leonhard Seppala, y de su perro de trineo guía, Togo.",
+      "categoria": "disney"
+    },
+    {
+      "id": "tmdb-831827",
+      "tmdbId": 831827,
+      "title": "Lejos del árbol",
+      "type": "Película",
+      "genres": [
+        "Animación",
+        "Familia"
+      ],
+      "rating": 8.1,
+      "points": 8100,
+      "duration": "7 min",
+      "platform": "Disney+",
+      "year": 2021,
+      "img": "https://image.tmdb.org/t/p/w500/ebQ8RXIjKZoGnpZ7mFs7z2iklb6.jpg",
+      "trailer": "https://www.youtube.com/embed/dPKg1du3xmI?autoplay=1",
+      "desc": "En una playa idílica en el noroeste del Pacífico, la curiosidad se apodera de un mapache joven cuyo padre frustrado intenta mantenerlos a ambos a salvo.",
+      "categoria": "disney"
+    },
+    {
+      "id": "tmdb-140420",
+      "tmdbId": 140420,
+      "title": "Paperman",
+      "type": "Película",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Romance",
+        "Comedia",
+        "Fantasía"
+      ],
+      "rating": 8,
+      "points": 8000,
+      "duration": "7 min",
+      "platform": "Disney+",
+      "year": 2012,
+      "img": "https://image.tmdb.org/t/p/w500/9tvF744hwTm2Bn9hkDjMfEsysKz.jpg",
+      "trailer": "https://www.youtube.com/embed/mM6cLnscmO8?autoplay=1",
+      "desc": "Un joven solitario de los años 50 de Nueva York solo cuenta con su corazón, su imaginación y un montón de papeles para conquistar a la mujer de sus sueños.",
+      "categoria": "disney"
+    },
+    {
+      "id": "tmdb-5028",
+      "tmdbId": 5028,
+      "title": "La tormenta del siglo",
+      "type": "Serie",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "rating": 7,
+      "points": 7000,
+      "duration": "1 Temporada",
+      "platform": "",
+      "year": 1999,
+      "img": "https://image.tmdb.org/t/p/w500/jlLD4LIPL5XuHo4Avgc2bUSVsMC.jpg",
+      "trailer": "https://www.youtube.com/embed/HeDnEi7DvN8?autoplay=1",
+      "desc": "Una pequeña comunidad de una isla de Maine queda sitiada por una atroz tormenta y por la presencia de su acompañante, un ser que lo sabe todo, y que resulta ser más terrorífico que la tormenta que les envuelve. \"Si me dais lo que quiero, me marcharé\", proclama el ser humanoide que se llama a sí mismo Linoge. Hay misterio en su nombre. Y en su exigencia implacable. Pero lo que tienen claro los habitantes del pueblo es que, aunque el sólido ayuntamiento puede refugiarles de la tormenta, nada podrá protegerlos del terror cada vez más intenso de un mal que se ha ido arraigando desde el principio de los tiempos... (FILMAFFINITY)",
+      "categoria": "disney"
+    },
+    {
+      "id": "tmdb-2745",
+      "tmdbId": 2745,
+      "title": "Aladdin",
+      "type": "Serie",
+      "genres": [
+        "Action & Adventure",
+        "Animación",
+        "Comedia",
+        "Sci-Fi & Fantasy",
+        "Kids"
+      ],
+      "rating": 7,
+      "points": 7000,
+      "duration": "3 Temporadas",
+      "platform": "",
+      "year": 1994,
+      "img": "https://image.tmdb.org/t/p/w500/tsDlDLIscp4untKlHU2PxnlkeHF.jpg",
+      "trailer": "",
+      "desc": "Basada en la éxitosa película que se estrenó en 1992, Aladdín - La Serie nos trae las trepidante aventuras diarias de Aladdin y su pandilla. En la serie la princesa Jasmine es tan protagonista como Aladdin y muchas veces es ella quien resuelve los líos en los que se ven metidos; el Genio, ya no vive en la lámpara mágica y por lo tanto no puede hacer desaparecer los problemas tan fácilmente como antes; Iago el loro, ha cambiado de bando y ahora es fiel a Aladdin ; Abu el travieso mono que junto con Iago siempre causan destrozos; y la Alfombra. En cada episodio Aladdin y su pandilla tendrán que vérselas con bandas de ladrones, bestias, espíritus y hechicheros. Y cuando creen que las cosas recobran la calma, siempre queda el Gran Tiburón de Arena para fastidiarlo todo. Incluso con un Genio, un loro, un mono y una alfombra mágica para ayudarles, Aladdin y Jasmine no podrán bajar la guardia ni un segundo.",
+      "categoria": "disney"
+    }
+  ],
+  "studio-ghibli": [
+    {
+      "id": "tmdb-129",
+      "tmdbId": 129,
+      "title": "El viaje de Chihiro",
+      "type": "Película",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Fantasía"
+      ],
+      "rating": 8.5,
+      "points": 8500,
+      "duration": "122 min",
+      "platform": "Netflix",
+      "year": 2001,
+      "img": "https://image.tmdb.org/t/p/w500/2RcxjDykOssx4SfqshewyI9vfSl.jpg",
+      "trailer": "https://www.youtube.com/embed/GAp2_0JJskk?autoplay=1",
+      "desc": "Durante el traslado de su familia a los suburbios, una niña de 10 años de edad deambula por un mundo gobernado por dioses, brujas y espíritus, y donde los humanos se convierten en bestias.",
+      "categoria": "studio-ghibli"
+    },
+    {
+      "id": "tmdb-12477",
+      "tmdbId": 12477,
+      "title": "La tumba de las luciérnagas",
+      "type": "Película",
+      "genres": [
+        "Animación",
+        "Drama",
+        "Bélica"
+      ],
+      "rating": 8.4,
+      "points": 8400,
+      "duration": "95 min",
+      "platform": "Netflix",
+      "year": 1988,
+      "img": "https://image.tmdb.org/t/p/w500/juKTAn2AuoE9MvCNvf3kwZrt1t4.jpg",
+      "trailer": "https://www.youtube.com/embed/QZbcx0WNrMU?autoplay=1",
+      "desc": "Verano de 1945. La aviación estadounidense somete las ciudades japonesas a continuos ataques aéreos. En uno de ellos, una incursión con bombas incendiarias convierte la ciudad de Kōbe en un infierno humeante, para los dos protagonistas (Seita, de 14 años, y su hermanita Setsuko, de 5). El joven Seita y su pequeña hermana Setsuko son hijos de un oficial de la marina japonesa. Durante la Segunda Guerra Mundial, ambos viven con su madre, pero un día, tras un bombardeo, ellos se retrasan y no consiguen llegar al búnker donde ella los espera.",
+      "categoria": "studio-ghibli"
+    },
+    {
+      "id": "tmdb-4935",
+      "tmdbId": 4935,
+      "title": "El castillo ambulante",
+      "type": "Película",
+      "genres": [
+        "Fantasía",
+        "Animación",
+        "Aventura"
+      ],
+      "rating": 8.4,
+      "points": 8400,
+      "duration": "120 min",
+      "platform": "Netflix",
+      "year": 2004,
+      "img": "https://image.tmdb.org/t/p/w500/p8EARnEw8KPZzlZg3vkseYVMczu.jpg",
+      "trailer": "https://www.youtube.com/embed/ARCQf2CEr8k?autoplay=1",
+      "desc": "Sophie, una joven sobre la que pesa una horrible maldición que le confiere el aspecto de una anciana, decide pedir ayuda al mago Howl, que vive en un castillo ambulante, pero tal vez sea Howl quien necesite la ayuda de Sophie.",
+      "categoria": "studio-ghibli"
+    },
+    {
+      "id": "tmdb-128",
+      "tmdbId": 128,
+      "title": "La princesa Mononoke",
+      "type": "Película",
+      "genres": [
+        "Aventura",
+        "Fantasía",
+        "Animación"
+      ],
+      "rating": 8.3,
+      "points": 8300,
+      "duration": "134 min",
+      "platform": "Netflix",
+      "year": 1997,
+      "img": "https://image.tmdb.org/t/p/w500/xP466sdt19CPLVljpRwI7luEgFn.jpg",
+      "trailer": "https://www.youtube.com/embed/I1dHzoRl0sQ?autoplay=1",
+      "desc": "Tras sufrir el ataque de un monstruoso jabalí maldito, el joven Ashitaka emprende el camino en busca de la cura que detenga la infección. Mientras, los humanos están acabando con los bosques y los dioses convertidos en temibles bestias hacen todo lo posible por protegerlo encabezados por Mononoke, una princesa guerrera. Ashikata deberá escoger bando y decidir si ayudar a los hombres o las deidades intentando detener la maldición de su herida que se extiende por su cuerpo sin cuartel.",
+      "categoria": "studio-ghibli"
+    },
+    {
+      "id": "tmdb-149871",
+      "tmdbId": 149871,
+      "title": "El cuento de la princesa Kaguya",
+      "type": "Película",
+      "genres": [
+        "Animación",
+        "Drama",
+        "Fantasía"
+      ],
+      "rating": 8.1,
+      "points": 8100,
+      "duration": "137 min",
+      "platform": "Netflix",
+      "year": 2013,
+      "img": "https://image.tmdb.org/t/p/w500/tCw5ZR5RkmAtCztmkP8dYh1nkoX.jpg",
+      "trailer": "https://www.youtube.com/embed/iPm7HfO3mis?autoplay=1",
+      "desc": "Basada en un cuento popular japonés anónimo del siglo IX, 'El cortador de bambú', la historia comienza cuando una pareja de ancianos campesinos encuentran a una niña diminuta dentro de una planta de bambú y deciden adoptarla como si fuera su hija. Convertida rápidamente en una hermosa mujer, es pretendida por muchos hombres, incluido el emperador, pero ella los rechaza a todos porque asegura venir de la Luna y debe volver allí...",
+      "categoria": "studio-ghibli"
+    }
+  ],
+  "star-wars": [
+    {
+      "id": "tmdb-209867",
+      "tmdbId": 209867,
+      "title": "Frieren: Tras finalizar el viaje",
+      "type": "Serie",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.8,
+      "points": 8800,
+      "duration": "1 Temporada",
+      "platform": "Netflix",
+      "year": 2023,
+      "img": "https://image.tmdb.org/t/p/w500/3NyQpXmkaBVWgYM8miDHEFqGMCB.jpg",
+      "trailer": "https://www.youtube.com/embed/01WEqntM1NI?autoplay=1",
+      "desc": "Décadas después de que su grupo derrotara al Rey Demonio, el funeral de un viejo amigo lleva a la hechicera elfa Frieren a embarcarse en un viaje de autodescubrimiento.",
+      "categoria": "star-wars"
+    },
+    {
+      "id": "tmdb-37854",
+      "tmdbId": 37854,
+      "title": "One Piece",
+      "type": "Serie",
+      "genres": [
+        "Action & Adventure",
+        "Comedia",
+        "Animación"
+      ],
+      "rating": 8.7,
+      "points": 8700,
+      "duration": "23 Temporadas",
+      "platform": "Netflix",
+      "year": 1999,
+      "img": "https://image.tmdb.org/t/p/w500/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
+      "trailer": "https://www.youtube.com/embed/1KMcoJBMWE4?autoplay=1",
+      "desc": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
+      "categoria": "star-wars"
+    },
+    {
+      "id": "tmdb-31911",
+      "tmdbId": 31911,
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "type": "Serie",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "rating": 8.7,
+      "points": 8700,
+      "duration": "1 Temporada",
+      "platform": "Netflix",
+      "year": 2009,
+      "img": "https://image.tmdb.org/t/p/w500/vIkH7fUQf8Olo8Apq56FQLGDXOo.jpg",
+      "trailer": "https://www.youtube.com/embed/RNwNA1M8A94?autoplay=1",
+      "desc": "Remake de Fullmetal Alchemist. Edward y Alphonse rompieron la regla basica de la alquimia, la cual les trajo graves consecuencias. Para remediar esto, se embarcan en busca de alguna forma de solucionar sus males",
+      "categoria": "star-wars"
+    },
+    {
+      "id": "tmdb-1429",
+      "tmdbId": 1429,
+      "title": "Ataque a los Titanes",
+      "type": "Serie",
+      "genres": [
+        "Animación",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 8.7,
+      "points": 8700,
+      "duration": "4 Temporadas",
+      "platform": "Crunchyroll",
+      "year": 2013,
+      "img": "https://image.tmdb.org/t/p/w500/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
+      "trailer": "https://www.youtube.com/embed/HJaUvV9Hwgs?autoplay=1",
+      "desc": "Tras un siglo de aparente paz, un titán colosal rompe las murallas que protegían a la humanidad, desatando una nueva masacre. Eren Jaeger y el Cuerpo de Exploradores lucharán para recuperar su mundo y enfrentar la amenaza titán.",
+      "categoria": "star-wars"
+    },
+    {
+      "id": "tmdb-46298",
+      "tmdbId": 46298,
+      "title": "Hunter × Hunter",
+      "type": "Serie",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.7,
+      "points": 8700,
+      "duration": "3 Temporadas",
+      "platform": "Netflix",
+      "year": 2011,
+      "img": "https://image.tmdb.org/t/p/w500/43wEsSJxuV8SZuipKpolOsuGVRZ.jpg",
+      "trailer": "https://www.youtube.com/embed/D-51-3Dpio0?autoplay=1",
+      "desc": "Gon Frecks, un niño de 12 años, vive con su tía Mito y su abuela en Isla Ballena, huérfano de madre y según su tía también de padre. Un día Gon es atacado por un oso del bosque, pero es salvado por un cazador quien le explica que está en busca de su maestro para así convertirse en un cazador, él es quien le dice que su padre Gin está vivo. Enterado de esto Gon decide convertirse en cazador para poder encontrar a su padre.",
+      "categoria": "star-wars"
+    },
+    {
+      "id": "tmdb-129",
+      "tmdbId": 129,
+      "title": "El viaje de Chihiro",
+      "type": "Película",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Fantasía"
+      ],
+      "rating": 8.5,
+      "points": 8500,
+      "duration": "122 min",
+      "platform": "Netflix",
+      "year": 2001,
+      "img": "https://image.tmdb.org/t/p/w500/2RcxjDykOssx4SfqshewyI9vfSl.jpg",
+      "trailer": "https://www.youtube.com/embed/GAp2_0JJskk?autoplay=1",
+      "desc": "Durante el traslado de su familia a los suburbios, una niña de 10 años de edad deambula por un mundo gobernado por dioses, brujas y espíritus, y donde los humanos se convierten en bestias.",
+      "categoria": "star-wars"
+    },
+    {
+      "id": "tmdb-372058",
+      "tmdbId": 372058,
+      "title": "Your Name.",
+      "type": "Película",
+      "genres": [
+        "Animación",
+        "Romance",
+        "Drama"
+      ],
+      "rating": 8.5,
+      "points": 8500,
+      "duration": "106 min",
+      "platform": "MovistarTV",
+      "year": 2016,
+      "img": "https://image.tmdb.org/t/p/w500/iaiy3tg9QVkDpObm1IGqmbC9A5C.jpg",
+      "trailer": "https://www.youtube.com/embed/o4-URMnBOPU?autoplay=1",
+      "desc": "Taki y Mitsuha descubren un día que durante el sueño sus cuerpos se intercambian, y comienzan a comunicarse por medio de notas. A medida que consiguen superar torpemente un reto tras otro, se va creando entre los dos un vínculo que poco a poco se convierte en algo más romántico.",
+      "categoria": "star-wars"
+    },
+    {
+      "id": "tmdb-12477",
+      "tmdbId": 12477,
+      "title": "La tumba de las luciérnagas",
+      "type": "Película",
+      "genres": [
+        "Animación",
+        "Drama",
+        "Bélica"
+      ],
+      "rating": 8.4,
+      "points": 8400,
+      "duration": "95 min",
+      "platform": "Netflix",
+      "year": 1988,
+      "img": "https://image.tmdb.org/t/p/w500/juKTAn2AuoE9MvCNvf3kwZrt1t4.jpg",
+      "trailer": "https://www.youtube.com/embed/QZbcx0WNrMU?autoplay=1",
+      "desc": "Verano de 1945. La aviación estadounidense somete las ciudades japonesas a continuos ataques aéreos. En uno de ellos, una incursión con bombas incendiarias convierte la ciudad de Kōbe en un infierno humeante, para los dos protagonistas (Seita, de 14 años, y su hermanita Setsuko, de 5). El joven Seita y su pequeña hermana Setsuko son hijos de un oficial de la marina japonesa. Durante la Segunda Guerra Mundial, ambos viven con su madre, pero un día, tras un bombardeo, ellos se retrasan y no consiguen llegar al búnker donde ella los espera.",
+      "categoria": "star-wars"
+    },
+    {
+      "id": "tmdb-4935",
+      "tmdbId": 4935,
+      "title": "El castillo ambulante",
+      "type": "Película",
+      "genres": [
+        "Fantasía",
+        "Animación",
+        "Aventura"
+      ],
+      "rating": 8.4,
+      "points": 8400,
+      "duration": "120 min",
+      "platform": "Netflix",
+      "year": 2004,
+      "img": "https://image.tmdb.org/t/p/w500/p8EARnEw8KPZzlZg3vkseYVMczu.jpg",
+      "trailer": "https://www.youtube.com/embed/ARCQf2CEr8k?autoplay=1",
+      "desc": "Sophie, una joven sobre la que pesa una horrible maldición que le confiere el aspecto de una anciana, decide pedir ayuda al mago Howl, que vive en un castillo ambulante, pero tal vez sea Howl quien necesite la ayuda de Sophie.",
+      "categoria": "star-wars"
+    },
+    {
+      "id": "tmdb-378064",
+      "tmdbId": 378064,
+      "title": "A Silent Voice",
+      "type": "Película",
+      "genres": [
+        "Animación",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.4,
+      "points": 8400,
+      "duration": "130 min",
+      "platform": "",
+      "year": 2016,
+      "img": "https://image.tmdb.org/t/p/w500/hGQnljXpDGI429SC39LohaQBHhf.jpg",
+      "trailer": "https://www.youtube.com/embed/TQK9By9qQiw?autoplay=1",
+      "desc": "Shōko, una niña con discapacidad auditiva, es víctima de acoso en su escuela, siendo Shōya su principal agresor. Cuando ella se cambia de colegio, él sufre el rechazo de sus compañeros y queda aislado. Años después, intenta enmendar su error y hacer las paces con Shōko.",
+      "categoria": "star-wars"
+    }
+  ],
+  "harry-potter": [],
+  "lotr": [
+    {
+      "id": "tmdb-278",
+      "tmdbId": 278,
+      "title": "Cadena perpetua",
+      "type": "Película",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "rating": 8.7,
+      "points": 8700,
+      "duration": "143 min",
+      "platform": "HBO Max",
+      "year": 1994,
+      "img": "https://image.tmdb.org/t/p/w500/uRRTV7p6l2ivtODWJVVAMRrwTn2.jpg",
+      "trailer": "https://www.youtube.com/embed/PLl99DlL6b4?autoplay=1",
+      "desc": "Acusado del asesinato de su mujer, Andrew Dufresne, tras ser condenado a cadena perpetua, es enviado a la prisión de Shawshank. Con el paso de los años conseguirá ganarse la confianza del director del centro y el respeto de sus compañeros presidiarios, especialmente de Red, el jefe de la mafia de los sobornos.",
+      "categoria": "lotr"
+    },
+    {
+      "id": "tmdb-238",
+      "tmdbId": 238,
+      "title": "El padrino",
+      "type": "Película",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "rating": 8.7,
+      "points": 8700,
+      "duration": "175 min",
+      "platform": "Paramount Plus",
+      "year": 1972,
+      "img": "https://image.tmdb.org/t/p/w500/ApiEfzSkrqS4m1L5a2GwWXzIiAs.jpg",
+      "trailer": "https://www.youtube.com/embed/Ew9ngL1GZvs?autoplay=1",
+      "desc": "Don Vito Corleone, conocido dentro de los círculos del hampa como 'El Padrino', es el patriarca de una de las cinco familias que ejercen el mando de la Cosa Nostra en Nueva York en los años cuarenta. Don Corleone tiene cuatro hijos: una chica, Connie, y tres varones; Sonny, Michael y Fredo. Cuando el Padrino reclina intervenir en el negocio de estupefacientes, empieza una cruenta lucha de violentos episodios entre las distintas familias del crimen organizado.",
+      "categoria": "lotr"
+    },
+    {
+      "id": "tmdb-122019",
+      "tmdbId": 122019,
+      "title": "Macario",
+      "type": "Película",
+      "genres": [
+        "Drama",
+        "Fantasía"
+      ],
+      "rating": 8.7,
+      "points": 8700,
+      "duration": "90 min",
+      "platform": "VIX ",
+      "year": 1960,
+      "img": "https://image.tmdb.org/t/p/w500/4tQz97U3qeoabGTtVoKPwuEMVV1.jpg",
+      "trailer": "",
+      "desc": "Un humilde campesino y leñador llamado Macario (\"Ignacio López Tarso\") vive obsesionado por la pobreza que sufre y el temor a la muerte. Debido a la precaria situación al borde de inanición que viven él y su familia comienza a anhelar poder disfrutar de un banquete sin tener que compartirlo con nadie.",
+      "categoria": "lotr"
+    },
+    {
+      "id": "tmdb-301507",
+      "tmdbId": 301507,
+      "title": "Más que rivales",
+      "type": "Serie",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8.7,
+      "points": 8700,
+      "duration": "1 Temporada",
+      "platform": "HBO Max",
+      "year": 2025,
+      "img": "https://image.tmdb.org/t/p/w500/rFZLFbuAOIQGZxXJT9XWhE87XMY.jpg",
+      "trailer": "https://www.youtube.com/embed/ADi1iextoUM?autoplay=1",
+      "desc": "Dos de las mayores estrellas de la Major League Hockey están unidas por la ambición, la rivalidad y una atracción magnética que ninguna de las dos comprende del todo. Lo que comienza como una aventura secreta entre dos novatos se convierte en un viaje de años de amor, negación y autodescubrimiento. Durante los siguientes ocho años, mientras buscan la gloria sobre el hielo, luchan por comprender sus sentimientos mutuos. Divididos entre el deporte que les apasiona y el amor que no pueden ignorar, deben decidir si hay espacio en su mundo ferozmente competitivo para algo tan frágil —y poderoso— como el amor verdadero.",
+      "categoria": "lotr"
+    },
+    {
+      "id": "tmdb-70785",
+      "tmdbId": 70785,
+      "title": "Anne with an E",
+      "type": "Serie",
+      "genres": [
+        "Drama",
+        "Familia"
+      ],
+      "rating": 8.7,
+      "points": 8700,
+      "duration": "3 Temporadas",
+      "platform": "Netflix",
+      "year": 2017,
+      "img": "https://image.tmdb.org/t/p/w500/6P6tXhjT5tK3qOXzxF9OMLlG7iz.jpg",
+      "trailer": "https://www.youtube.com/embed/S5qJXYNNINo?autoplay=1",
+      "desc": "Anne Shirley es una niña huérfana que vive en un pequeño pueblo llamado Avonlea que pertenece a la Isla del Príncipe Eduardo, en el año 1890. Después de una infancia difícil, donde fue pasando de orfanato a hogares de acogida, es enviada por error a vivir con una solterona y su hermano. Cuando cumple 13 años, Anne va a conseguir transformar su vida y el pequeño pueblo donde vive gracias a su fuerte personalidad, intelecto e imaginación.",
+      "categoria": "lotr"
+    },
+    {
+      "id": "tmdb-687163",
+      "tmdbId": 687163,
+      "title": "Proyecto Salvación",
+      "type": "Película",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "rating": 8.6,
+      "points": 8600,
+      "duration": "157 min",
+      "platform": "",
+      "year": 2026,
+      "img": "https://image.tmdb.org/t/p/w500/fj1FAiS6OHidg1O1T6z2356fD6u.jpg",
+      "trailer": "https://www.youtube.com/embed/NKYea63tQmI?autoplay=1",
+      "desc": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "categoria": "lotr"
+    },
+    {
+      "id": "tmdb-240",
+      "tmdbId": 240,
+      "title": "El Padrino Parte II",
+      "type": "Película",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "rating": 8.6,
+      "points": 8600,
+      "duration": "200 min",
+      "platform": "Paramount Plus",
+      "year": 1974,
+      "img": "https://image.tmdb.org/t/p/w500/mbry0W5PRylSUHsYzdiY2FSJwze.jpg",
+      "trailer": "https://www.youtube.com/embed/7pfqivkYUlE?autoplay=1",
+      "desc": "Continuación de la saga de los Corleone con dos historias paralelas: la elección de Michael Corleone como jefe de los negocios familiares y los orígenes del patriarca, el ya fallecido Don Vito, primero en Sicilia y luego en Estados Unidos, donde, empezando desde abajo, llegó a ser un poderosísimo jefe de la mafia de Nueva York.",
+      "categoria": "lotr"
+    },
+    {
+      "id": "tmdb-280945",
+      "tmdbId": 280945,
+      "title": "Bon appétit, majestad",
+      "type": "Serie",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.6,
+      "points": 8600,
+      "duration": "1 Temporada",
+      "platform": "Netflix",
+      "year": 2025,
+      "img": "https://image.tmdb.org/t/p/w500/kqFofZ0hOQ7Y3VUQQ59lpHaCJpM.jpg",
+      "trailer": "https://www.youtube.com/embed/rkB623sLOiM?autoplay=1",
+      "desc": "Una chef de talento viaja en el tiempo y conoce a un rey tiránico. Con sus platos modernos, logra cautivar su paladar, pero le esperan desafíos muy reales.",
+      "categoria": "lotr"
+    },
+    {
+      "id": "tmdb-4613",
+      "tmdbId": 4613,
+      "title": "Hermanos de sangre",
+      "type": "Serie",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "rating": 8.6,
+      "points": 8600,
+      "duration": "1 Temporada",
+      "platform": "HBO Max",
+      "year": 2001,
+      "img": "https://image.tmdb.org/t/p/w500/kq9KiusAWPPITQrGovbgdhD9R1R.jpg",
+      "trailer": "https://www.youtube.com/embed/KKRBAFlN5ww?autoplay=1",
+      "desc": "Miniserie de TV de 10 episodios que se basa en el bestseller de Stephen E. Ambrose \"Band Of Brothers\". Narra la historia de la Easy Company, un batallón americano del regimiento 506 de paracaidistas que luchó en Europa durante la II Guerra Mundial (1939-1945). Incluye entrevistas a los supervivientes, recuerdos de los periodistas y cartas de los soldados.",
+      "categoria": "lotr"
+    },
+    {
+      "id": "tmdb-66433",
+      "tmdbId": 66433,
+      "title": "Amantes de la Luna Escarlata: Corazón Ryeo",
+      "type": "Serie",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy",
+        "War & Politics"
+      ],
+      "rating": 8.5,
+      "points": 8500,
+      "duration": "1 Temporada",
+      "platform": "",
+      "year": 2016,
+      "img": "https://image.tmdb.org/t/p/w500/7Ji4MvbqOnAnwGJV5Z953AkuE0X.jpg",
+      "trailer": "https://www.youtube.com/embed/2ljxyaAIphc?autoplay=1",
+      "desc": "Wang Soo es heredero del Emperador. Él no quiere estar en el centro de atención, pero nace de forma natural en la realeza. Su personalidad es tan fría como el hielo. Hae Soo, quien se encuentra en el tiempo actual, debido a un accidente inesperado termina viajando de regreso a la época histórica. Hae Soo se las arregla para sobrevivir en ese tiempo sin embargo debido a su personalidad y diversas situaciones terminará involucrada con los diferentes príncipes. Tras la muerte del Emperador comienza una guerra por el trono.",
+      "categoria": "lotr"
+    }
+  ],
+  "mcu": [
+    {
+      "id": "tmdb-1439930",
+      "tmdbId": 1439930,
+      "title": "The Punisher: One Last Kill",
+      "type": "Película",
+      "genres": [
+        "Acción",
+        "Drama",
+        "Crimen"
+      ],
+      "rating": 8.5,
+      "points": 8500,
+      "duration": "51 min",
+      "platform": "Disney+",
+      "year": 2026,
+      "img": "https://image.tmdb.org/t/p/w500/p1eqHRxfIxfgtDgfjWcpEESeEvF.jpg",
+      "trailer": "https://www.youtube.com/embed/oSeqs_xeqv4?autoplay=1",
+      "desc": "Mientras Frank Castle busca propósito más allá de la venganza, una fuerza inesperada lo arrastra de nuevo a la lucha.",
+      "categoria": "mcu"
+    },
+    {
+      "id": "tmdb-299534",
+      "tmdbId": 299534,
+      "title": "Vengadores: Endgame",
+      "type": "Película",
+      "genres": [
+        "Aventura",
+        "Ciencia ficción",
+        "Acción"
+      ],
+      "rating": 8.2,
+      "points": 8200,
+      "duration": "181 min",
+      "platform": "Disney+",
+      "year": 2019,
+      "img": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+      "trailer": "https://www.youtube.com/embed/AMSITikqKiM?autoplay=1",
+      "desc": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
+      "categoria": "mcu"
+    },
+    {
+      "id": "tmdb-299536",
+      "tmdbId": 299536,
+      "title": "Vengadores: Infinity War",
+      "type": "Película",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Ciencia ficción"
+      ],
+      "rating": 8.2,
+      "points": 8200,
+      "duration": "149 min",
+      "platform": "Disney+",
+      "year": 2018,
+      "img": "https://image.tmdb.org/t/p/w500/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg",
+      "trailer": "https://www.youtube.com/embed/QwievZ1Tx-8?autoplay=1",
+      "desc": "El todopoderoso Thanos ha despertado con la promesa de arrasar con todo a su paso, portando el Guantelete del Infinito, que le confiere un poder incalculable. Los únicos capaces de pararle los pies son los Vengadores y el resto de superhéroes de la galaxia, que deberán estar dispuestos a sacrificarlo todo por un bien mayor. Capitán América e Ironman deberán limar sus diferencias, Black Panther apoyará con sus tropas desde Wakanda, Thor y los Guardianes de la Galaxia e incluso Spider-Man se unirán antes de que los planes de devastación y ruina pongan fin al universo. ¿Serán capaces de frenar el avance del titán del caos?",
+      "categoria": "mcu"
+    },
+    {
+      "id": "tmdb-85271",
+      "tmdbId": 85271,
+      "title": "Bruja Escarlata y Visión",
+      "type": "Serie",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Misterio",
+        "Drama"
+      ],
+      "rating": 8.2,
+      "points": 8200,
+      "duration": "1 Temporada",
+      "platform": "Disney+",
+      "year": 2021,
+      "img": "https://image.tmdb.org/t/p/w500/j2VeSZ7tncd2p8z1CeMnxbxK76b.jpg",
+      "trailer": "https://www.youtube.com/embed/UBhlqe2OTt4?autoplay=1",
+      "desc": "Combinando el estilo clásico de las sitcoms con el MCU (Universo Cinematográfico de Marvel), cuenta la historia Wanda Maximoff y Vision, dos seres con superpoderes que viven una vida idílica en las afueras de una ciudad hasta que un día comienzan a sospechar que no todo es lo que parece.",
+      "categoria": "mcu"
+    },
+    {
+      "id": "tmdb-84958",
+      "tmdbId": 84958,
+      "title": "Loki",
+      "type": "Serie",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.2,
+      "points": 8200,
+      "duration": "2 Temporadas",
+      "platform": "Disney+",
+      "year": 2021,
+      "img": "https://image.tmdb.org/t/p/w500/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg",
+      "trailer": "https://www.youtube.com/embed/nW948Va-l10?autoplay=1",
+      "desc": "Loki es llevado ante la misteriosa organización llamada AVT (Autoridad de Variación Temporal) después de los acontecimientos  ocurridos en  \"Avengers: Endgame (2019)\" y  se le da a elegir  enfrentarse a ser borrado de la existencia debido a que es una \"variante de tiempo\" o ayudar a arreglar la línea de tiempo y detener una amenaza mayor.",
+      "categoria": "mcu"
+    },
+    {
+      "id": "tmdb-61889",
+      "tmdbId": 61889,
+      "title": "Marvel - Daredevil",
+      "type": "Serie",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "rating": 8.2,
+      "points": 8200,
+      "duration": "3 Temporadas",
+      "platform": "Disney+",
+      "year": 2015,
+      "img": "https://image.tmdb.org/t/p/w500/zdjmPOMNlDpmqXLgNaGBT7jAiFj.jpg",
+      "trailer": "https://www.youtube.com/embed/jAy6NJ_D5vU?autoplay=1",
+      "desc": "'Daredevil' es una serie cargada de acción que sigue las aventuras de Matt Murdock -abogado de día y superhéroe de noche- en el barrio de la ciudad de Nueva York conocido como Hell’s Kitchen. Matt quedó ciego tras un accidente de niño, pero ahora tiene los otros cuatro sentidos incrementados y se dedica a luchar contra la injusticia como el superhéroe Daredevil.",
+      "categoria": "mcu"
+    },
+    {
+      "id": "tmdb-202555",
+      "tmdbId": 202555,
+      "title": "Daredevil: Born Again",
+      "type": "Serie",
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "Crimen"
+      ],
+      "rating": 8.2,
+      "points": 8200,
+      "duration": "2 Temporadas",
+      "platform": "Disney+",
+      "year": 2025,
+      "img": "https://image.tmdb.org/t/p/w500/zNH50kOA5Zm5QSFqeIu3hJGuNdO.jpg",
+      "trailer": "https://www.youtube.com/embed/7xALolZzhSM?autoplay=1",
+      "desc": "Matt Murdock, un abogado ciego con habilidades super desarrolladas lucha por la justicia desde su ajetreado bufete mientras el antiguo jefe mafioso Wilson Fisk emprende una carrera política en Nueva York. Cuando sus identidades pasadas empiezan a salir a la luz, ambos se ven abocados a un enfrentamiento inevitable.",
+      "categoria": "mcu"
+    },
+    {
+      "id": "tmdb-67178",
+      "tmdbId": 67178,
+      "title": "Marvel - The Punisher",
+      "type": "Serie",
+      "genres": [
+        "Action & Adventure",
+        "Crimen",
+        "Drama"
+      ],
+      "rating": 8.1,
+      "points": 8100,
+      "duration": "2 Temporadas",
+      "platform": "Disney+",
+      "year": 2017,
+      "img": "https://image.tmdb.org/t/p/w500/8OdIbo68mFE4w6jXA20aL8ocPsE.jpg",
+      "trailer": "https://www.youtube.com/embed/s4QV6OZdmWY?autoplay=1",
+      "desc": "Un antiguo marine decidido a castigar a los asesinos de su familia termina atrapado en una conspiración militar.",
+      "categoria": "mcu"
+    },
+    {
+      "id": "tmdb-24428",
+      "tmdbId": 24428,
+      "title": "Los Vengadores",
+      "type": "Película",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ],
+      "rating": 8,
+      "points": 8000,
+      "duration": "142 min",
+      "platform": "Disney+",
+      "year": 2012,
+      "img": "https://image.tmdb.org/t/p/w500/ugX4WZJO3jEvTOerctAWJLinujo.jpg",
+      "trailer": "https://www.youtube.com/embed/hIR8Ar-Z4hw?autoplay=1",
+      "desc": "Cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial, Nick Fury, director de la Agencia SHIELD, decide reclutar a un equipo para salvar al mundo de un desastre casi seguro.",
+      "categoria": "mcu"
+    },
+    {
+      "id": "tmdb-634649",
+      "tmdbId": 634649,
+      "title": "Spider-Man: No Way Home",
+      "type": "Película",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ],
+      "rating": 7.9,
+      "points": 7900,
+      "duration": "148 min",
+      "platform": "MovistarTV",
+      "year": 2021,
+      "img": "https://image.tmdb.org/t/p/w500/miZFgV81xG324rpUknQX8dtXuBl.jpg",
+      "trailer": "https://www.youtube.com/embed/1mTjfMFyPi8?autoplay=1",
+      "desc": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser Spider-Man.",
+      "categoria": "mcu"
+    }
+  ]
+}
