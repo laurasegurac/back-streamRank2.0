@@ -27,14 +27,17 @@ function parseBody(req) {
     req.on('error', reject);
   });
 }
-
-/* ── Leer catálogo de movies.json ── */
 function getMovieCatalog() {
   try {
     const raw = fs.readFileSync(path.join(__dirname, '..', 'data', 'movies.json'), 'utf8');
-    return JSON.parse(raw);
+    const data = JSON.parse(raw);
+    // Si es objeto por categorías, aplanar a array
+    if (Array.isArray(data)) return data;
+    return Object.values(data).flat();
   } catch { return []; }
 }
+
+/* ── Leer catálogo de movies.json ── */
 
 /* ── GET /api/lists/:userId ──
    Retorna { verDespues: [...], historial: [...] }

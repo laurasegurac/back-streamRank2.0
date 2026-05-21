@@ -31,7 +31,7 @@ const STUDIOS = {
 /* ── Colecciones/keywords para sagas ── */
 const SAGAS = {
   'star-wars':    { keyword: 210024, name: 'Star Wars' },
-  'harry-potter': { keyword: 81133,  name: 'Harry Potter' },
+  'harry-potter': { keyword: 83133,  name: 'Harry Potter' },
   'lotr':         { keyword: 818,    name: 'Lord of the Rings' },
   'mcu':          { keyword: 180547, name: 'Marvel Cinematic Universe' },
 };

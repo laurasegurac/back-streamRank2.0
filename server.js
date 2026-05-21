@@ -24,15 +24,65 @@ function jsonResponse(res, status, data) {
   res.end(JSON.stringify(data));
 }
 
+/* ── /api/movies ──
+   Sin parámetro  → devuelve todo el catálogo (objeto o array)
+   ?categoria=X   → devuelve solo esa categoría como array
+   ?global=true   → devuelve top global (todos los items combinados, sin duplicados, ordenados por rating)
+*/
 function getMovies(req, res) {
   const filePath = path.join(__dirname, 'data', 'movies.json');
-  fs.readFile(filePath, 'utf8', (err, data) => {
+  fs.readFile(filePath, 'utf8', (err, raw) => {
     if (err) return jsonResponse(res, 500, { ok: false, error: 'No se pudo leer el catálogo' });
+
+    let catalogo;
+    try { catalogo = JSON.parse(raw); }
+    catch { return jsonResponse(res, 500, { ok: false, error: 'JSON inválido' }); }
+
+    const urlObj   = new URL(req.url, `http://localhost:${PORT}`);
+    const categoria = urlObj.searchParams.get('categoria');
+    const global_  = urlObj.searchParams.get('global');
+
+    // Array plano (scraper viejo) → devolver directo
+    if (Array.isArray(catalogo)) {
+      if (categoria) {
+        // Filtrar por plataforma si el campo existe
+        const filtrado = catalogo.filter(m =>
+          (m.platform || '').toLowerCase().includes(categoria.replace('-', ' '))
+        );
+        return jsonResponse(res, 200, filtrado);
+      }
+      return jsonResponse(res, 200, catalogo);
+    }
+
+    // Objeto por categorías (scraper nuevo)
+    if (categoria) {
+      const items = catalogo[categoria] || [];
+      return jsonResponse(res, 200, items);
+    }
+
+    if (global_) {
+      // Top global: combinar todas las categorías, quitar duplicados por tmdbId o id, ordenar por rating
+      const vistos = new Set();
+      const todos  = [];
+      for (const items of Object.values(catalogo)) {
+        for (const item of items) {
+          const key = item.tmdbId || item.id;
+          if (!vistos.has(key)) {
+            vistos.add(key);
+            todos.push(item);
+          }
+        }
+      }
+      todos.sort((a, b) => b.rating - a.rating);
+      return jsonResponse(res, 200, todos.slice(0, 20));
+    }
+
+    // Sin parámetros → devolver objeto completo
     res.writeHead(200, {
       'Content-Type':                'application/json',
       'Access-Control-Allow-Origin': '*',
     });
-    res.end(data);
+    res.end(raw);
   });
 }
 
@@ -50,7 +100,7 @@ const server = http.createServer((req, res) => {
   }
 
   // ── /api/movies ──
-  if (method === 'GET' && url === '/api/movies') return getMovies(req, res);
+  if (method === 'GET' && url.startsWith('/api/movies')) return getMovies(req, res);
 
   // ── /api/users ──
   if (url === '/api/users') {
@@ -94,7 +144,9 @@ const server = http.createServer((req, res) => {
 server.listen(PORT, () => {
   console.log(`🚀 StreamRank API corriendo en http://localhost:${PORT}`);
   console.log('📡 Endpoints:');
-  console.log('   GET    /api/movies');
+  console.log('   GET    /api/movies                  → todo el catálogo');
+  console.log('   GET    /api/movies?categoria=netflix → top de esa categoría');
+  console.log('   GET    /api/movies?global=true       → top global sin duplicados');
   console.log('   GET    /api/users');
   console.log('   POST   /api/users        (registro)');
   console.log('   POST   /api/login');
