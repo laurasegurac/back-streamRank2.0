@@ -1,0 +1,1988 @@
+[
+  {
+    "id": "tmdb-1007757",
+    "tmdbId": 1007757,
+    "title": "Intercambiados",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Animación",
+      "Familia",
+      "Fantasía"
+    ],
+    "rating": 9,
+    "points": 328,
+    "duration": "102 min",
+    "platform": "Netflix",
+    "year": 2026,
+    "img": "https://image.tmdb.org/t/p/w500/i89vUDwNhAEWUZSFYITSiv1RIbK.jpg",
+    "trailer": "https://www.youtube.com/embed/glgmAwRDP8s?autoplay=1",
+    "desc": "Una pequeña criatura del bosque intercambia el cuerpo con un majestuoso pájaro del valle, lo que los obliga a colaborar para sobrevivir a la aventura más salvaje de sus vidas.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-1396",
+    "tmdbId": 1396,
+    "title": "Breaking Bad",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "Crimen"
+    ],
+    "rating": 8.9,
+    "points": 241,
+    "duration": "5 Temporadas",
+    "platform": "Netflix",
+    "year": 2008,
+    "img": "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+    "trailer": "https://www.youtube.com/embed/XZ8daibM3AE?autoplay=1",
+    "desc": "Un profesor de química con cáncer terminal se asocia con un exalumno suyo para fabricar y vender metanfetamina a fin de que su familia no pase apuros económicos.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-209867",
+    "tmdbId": 209867,
+    "title": "Frieren: Tras finalizar el viaje",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.8,
+    "points": 103,
+    "duration": "1 Temporada",
+    "platform": "Netflix",
+    "year": 2023,
+    "img": "https://image.tmdb.org/t/p/w500/3NyQpXmkaBVWgYM8miDHEFqGMCB.jpg",
+    "trailer": "https://www.youtube.com/embed/01WEqntM1NI?autoplay=1",
+    "desc": "Décadas después de que su grupo derrotara al Rey Demonio, el funeral de un viejo amigo lleva a la hechicera elfa Frieren a embarcarse en un viaje de autodescubrimiento.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-246",
+    "tmdbId": 246,
+    "title": "Avatar: La leyenda de Aang",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.8,
+    "points": 27,
+    "duration": "3 Temporadas",
+    "platform": "Netflix",
+    "year": 2005,
+    "img": "https://image.tmdb.org/t/p/w500/ucNtkZfpZ6KgxqPo039nN4LAyFR.jpg",
+    "trailer": "https://www.youtube.com/embed/IyZ0xetSb9s?autoplay=1",
+    "desc": "La historia transcurre en un mundo de gente principalmente asiática (el estilo de vida en la serie se basa en la primera mitad del siglo XIX), donde predominan las artes marciales y la manipulación de los elementos en combinación con el misticismo oriental, dando seguimiento a las aventuras de Aang, el más reciente sucesor de una larga línea de avatares, y sus amigos en un intento por salvar su místico mundo de la despiadada Nación del Fuego que busca conquistar a las demás naciones. Durante sus travesías son acechados insistentemente por el desterrado príncipe del fuego Zuko, cuyo objetivo es capturar al avatar para recuperar su honor. Esta serie es presentada como si se tratara de una serie de libros, en donde cada episodio actúa como un «capítulo», y cada temporada como un solo «libro», los cuales se titulan por el elemento temático de la temporada.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-94605",
+    "tmdbId": 94605,
+    "title": "Arcane",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.8,
+    "points": 42,
+    "duration": "2 Temporadas",
+    "platform": "Netflix",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/i1vSPUbiBe2iK2HapGDfHItBFlC.jpg",
+    "trailer": "https://www.youtube.com/embed/W4gLFBNGgiY?autoplay=1",
+    "desc": "Con las dispares ciudades de Piltover y Zaun como telón de fondo, dos hermanas luchan en bandos opuestos de una guerra entre tecnologías mágicas y creencias enfrentadas.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-37854",
+    "tmdbId": 37854,
+    "title": "One Piece",
+    "type": "Serie",
+    "genres": [
+      "Action & Adventure",
+      "Comedia",
+      "Animación"
+    ],
+    "rating": 8.7,
+    "points": 71,
+    "duration": "23 Temporadas",
+    "platform": "Netflix",
+    "year": 1999,
+    "img": "https://image.tmdb.org/t/p/w500/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
+    "trailer": "https://www.youtube.com/embed/1KMcoJBMWE4?autoplay=1",
+    "desc": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-219246",
+    "tmdbId": 219246,
+    "title": "Si la vida te da mandarinas...",
+    "type": "Serie",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 8.7,
+    "points": 35,
+    "duration": "1 Temporada",
+    "platform": "Netflix",
+    "year": 2025,
+    "img": "https://image.tmdb.org/t/p/w500/h3Sv1qMAc6ADS6xWoIrUAzdXarf.jpg",
+    "trailer": "https://www.youtube.com/embed/4ECAaQkNAbc?autoplay=1",
+    "desc": "En la isla de Jeju, una chica llena de vida y un joven decidido viven una historia repleta de desafíos y triunfos que demuestra que el amor puede trascender el tiempo.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-85077",
+    "tmdbId": 85077,
+    "title": "The Chosen (Los elegidos)",
+    "type": "Serie",
+    "genres": [
+      "Action & Adventure",
+      "Familia",
+      "Drama"
+    ],
+    "rating": 8.7,
+    "points": 47,
+    "duration": "6 Temporadas",
+    "platform": "Netflix",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/sADRlqLn9na8p7S1mLWMOU04uit.jpg",
+    "trailer": "https://www.youtube.com/embed/5CVj41dtkIA?autoplay=1",
+    "desc": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-31911",
+    "tmdbId": 31911,
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "rating": 8.7,
+    "points": 66,
+    "duration": "1 Temporada",
+    "platform": "Netflix",
+    "year": 2009,
+    "img": "https://image.tmdb.org/t/p/w500/vIkH7fUQf8Olo8Apq56FQLGDXOo.jpg",
+    "trailer": "https://www.youtube.com/embed/RNwNA1M8A94?autoplay=1",
+    "desc": "Remake de Fullmetal Alchemist. Edward y Alphonse rompieron la regla basica de la alquimia, la cual les trajo graves consecuencias. Para remediar esto, se embarcan en busca de alguna forma de solucionar sus males",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-60059",
+    "tmdbId": 60059,
+    "title": "Better Call Saul",
+    "type": "Serie",
+    "genres": [
+      "Crimen",
+      "Drama"
+    ],
+    "rating": 8.7,
+    "points": 84,
+    "duration": "6 Temporadas",
+    "platform": "Netflix",
+    "year": 2015,
+    "img": "https://image.tmdb.org/t/p/w500/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg",
+    "trailer": "https://www.youtube.com/embed/HN4oydykJFc?autoplay=1",
+    "desc": "Esta precuela de \"Breaking Bad\" nominada al Emmy narra la vida del picapleitos Jimmy McGill y su transformación en Saul Goodman, el abogado de moral laxa.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-60625",
+    "tmdbId": 60625,
+    "title": "Rick y Morty",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "rating": 8.7,
+    "points": 88,
+    "duration": "9 Temporadas",
+    "platform": "Netflix",
+    "year": 2013,
+    "img": "https://image.tmdb.org/t/p/w500/5Yiep9EwcQgLolg013ETBVqHxuD.jpg",
+    "trailer": "https://www.youtube.com/embed/WNhH00OIPP0?autoplay=1",
+    "desc": "Comedia animada que narra las aventuras de un científico loco Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos Morty y Summer.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-200709",
+    "tmdbId": 200709,
+    "title": "Un héroe débil",
+    "type": "Serie",
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ],
+    "rating": 8.7,
+    "points": 78,
+    "duration": "2 Temporadas",
+    "platform": "Netflix",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/wmYQAByUOf3mQp0xOQa0Xkf5ea1.jpg",
+    "trailer": "https://www.youtube.com/embed/GDTz8sLK3_Q?autoplay=1",
+    "desc": "Yeon Shi Eun, un estudiante modelo con calificaciones que pertenecen al 1% superior de la escuela. Se ve débil pero lucha contra numerosas violencias dentro y fuera de la escuela. Representa a un chico naturalmente débil en términos de apariencia, dominando una escuela parecida a una jungla usando su cerebro, poder analítico y herramientas.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-46298",
+    "tmdbId": 46298,
+    "title": "Hunter × Hunter",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.7,
+    "points": 79,
+    "duration": "3 Temporadas",
+    "platform": "Netflix",
+    "year": 2011,
+    "img": "https://image.tmdb.org/t/p/w500/43wEsSJxuV8SZuipKpolOsuGVRZ.jpg",
+    "trailer": "https://www.youtube.com/embed/D-51-3Dpio0?autoplay=1",
+    "desc": "Gon Frecks, un niño de 12 años, vive con su tía Mito y su abuela en Isla Ballena, huérfano de madre y según su tía también de padre. Un día Gon es atacado por un oso del bosque, pero es salvado por un cazador quien le explica que está en busca de su maestro para así convertirse en un cazador, él es quien le dice que su padre Gin está vivo. Enterado de esto Gon decide convertirse en cazador para poder encontrar a su padre.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-42573",
+    "tmdbId": 42573,
+    "title": "Slam Dunk",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Comedia"
+    ],
+    "rating": 8.7,
+    "points": 20,
+    "duration": "1 Temporada",
+    "platform": "Netflix",
+    "year": 1993,
+    "img": "https://image.tmdb.org/t/p/w500/tl44cjAK0UiQSH6aRLs1ActnGEp.jpg",
+    "trailer": "https://www.youtube.com/embed/HI9L-ll_IGg?autoplay=1",
+    "desc": "Slam Dunk trata sobre la vida de Hanamichi Sakuragi, un pandillero que se convierte en un gran jugador de baloncesto, sólo para tratar de ligar con una chica de su escuela.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-70785",
+    "tmdbId": 70785,
+    "title": "Anne with an E",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "Familia"
+    ],
+    "rating": 8.7,
+    "points": 21,
+    "duration": "3 Temporadas",
+    "platform": "Netflix",
+    "year": 2017,
+    "img": "https://image.tmdb.org/t/p/w500/6P6tXhjT5tK3qOXzxF9OMLlG7iz.jpg",
+    "trailer": "https://www.youtube.com/embed/S5qJXYNNINo?autoplay=1",
+    "desc": "Anne Shirley es una niña huérfana que vive en un pequeño pueblo llamado Avonlea que pertenece a la Isla del Príncipe Eduardo, en el año 1890. Después de una infancia difícil, donde fue pasando de orfanato a hogares de acogida, es enviada por error a vivir con una solterona y su hermano. Cuando cumple 13 años, Anne va a conseguir transformar su vida y el pequeño pueblo donde vive gracias a su fuerte personalidad, intelecto e imaginación.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-42705",
+    "tmdbId": 42705,
+    "title": "Espíritu de lucha: Hajime no Ippo",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "rating": 8.6,
+    "points": 51,
+    "duration": "3 Temporadas",
+    "platform": "Netflix",
+    "year": 2000,
+    "img": "https://image.tmdb.org/t/p/w500/umMYjHm7FjsyllUnC8lWDy9rrZQ.jpg",
+    "trailer": "",
+    "desc": "\"Hajime no Ippo\" sigue a Makunouchi Ippo, un joven de 17 años que, cansado de ser considerado débil, entra al mundo del boxeo inspirado por Mamoru Takamura, un reconocido boxeador profesional en Japón.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-85937",
+    "tmdbId": 85937,
+    "title": "Kimetsu no Yaiba: Guardianes de la Noche",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.6,
+    "points": 29,
+    "duration": "5 Temporadas",
+    "platform": "Netflix",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/inXU5hvbDbitrYOgLrq2QjYqiJD.jpg",
+    "trailer": "https://www.youtube.com/embed/SWAMTXfqer0?autoplay=1",
+    "desc": "Tanjiro Kamado vive feliz con su madre y hermanos pequeños en la montaña, subsistiendo humildemente. Una mañana, al regresar a casa, se encuentra a toda su familia asesinada y a su hermana Nezuko convertida en demonio. Tanjiro buscará desesperadamente la manera de devolverla a su condición humana y de cobrarse venganza. Para ello, se someterá a un arduo entrenamiento, con el objetivo de ingresar en el Cuerpo de Matademonios y dar caza al demonio Muzan Kibutsuji, con la ayuda de Nezuko, que se resiste a perder del todo su humanidad. Juntos forman la nueva hornada de los guardianes de la noche.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-62741",
+    "tmdbId": 62741,
+    "title": "Kamisama Hajimemashita",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.6,
+    "points": 17,
+    "duration": "2 Temporadas",
+    "platform": "Netflix",
+    "year": 2012,
+    "img": "https://image.tmdb.org/t/p/w500/ya4TK0J1HyYFX6EpcLOWBiHavHz.jpg",
+    "trailer": "",
+    "desc": "La historia comienza con Nanami Momozono, una chica que ha perdido su  casa a causa de las deudas de juego de su padre y ha sido abandonada por  éste. Al encontrarse en el parque sin casa o lugar adónde ir, conoce a  un joven y lo \"salva\" ya que estaba siendo amenazado por un perro, a  cambio de dicho acto el joven le concede su propiedad y el derecho de  ser el \"nuevo\" dios de la tierra.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-13916",
+    "tmdbId": 13916,
+    "title": "Death Note",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Misterio",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.6,
+    "points": 49,
+    "duration": "1 Temporada",
+    "platform": "Netflix",
+    "year": 2006,
+    "img": "https://image.tmdb.org/t/p/w500/cFirFPdzle2QYyjFlLVwWUP5YAo.jpg",
+    "trailer": "https://www.youtube.com/embed/NlJZ-YgAt-c?autoplay=1",
+    "desc": "Light Yagami, un estudiante japonés, encuentra un cuaderno llamado Death Note que permite matar a cualquier persona cuyo nombre se escriba en él. Usando este poder, decide crear un mundo \"perfecto\" eliminando a los criminales. Sin embargo, su plan empieza a torcerse cuando L, un brillante detective, intenta descifrar el misterio que rodea a todas estas muertes.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-65930",
+    "tmdbId": 65930,
+    "title": "My Hero Academia",
+    "type": "Serie",
+    "genres": [
+      "Action & Adventure",
+      "Animación",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.6,
+    "points": 21,
+    "duration": "8 Temporadas",
+    "platform": "Netflix",
+    "year": 2016,
+    "img": "https://image.tmdb.org/t/p/w500/rxqI6KDfbIzlg5BRqg7i3nLsn9r.jpg",
+    "trailer": "https://www.youtube.com/embed/EPVkcwyLQQ8?autoplay=1",
+    "desc": "Las personas no nacen igual. El protagonista de esta historia es uno de esos casos raros que nacen sin superpoderes, pero esto no le impedirá perseguir su sueño: ser un gran héroe como el legendario All-Might. Para convertirse en el héroe que quiere ser, se apuntará a una de las academias de héroes más prestigiosas del país: Yueiko. Con la ayuda de su ídolo, All-Might, ¿podrá convertirse en un verdadero héroe?",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-60863",
+    "tmdbId": 60863,
+    "title": "Haikyuu!! Los ases del vóley",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Drama"
+    ],
+    "rating": 8.6,
+    "points": 64,
+    "duration": "4 Temporadas",
+    "platform": "Netflix",
+    "year": 2014,
+    "img": "https://image.tmdb.org/t/p/w500/k8YZ296JIxo6qr3rS7fxGGJyY4H.jpg",
+    "trailer": "https://www.youtube.com/embed/KhZG9Uw7PxM?autoplay=1",
+    "desc": "Un hecho fortuito desencadena el amor de Shouyou Hinata por el voleibol. Su club no tenía ningún miembro, pero de algún modo perseveró y finalmente realizó su primer y último partido regular de la escuela secundaria, donde fue aniquilado por Tobio Kageyama, un jugador superestrella conocido como \"Rey de la Corte.\" ¡Jurando venganza, Hinata ingresa en el club de voleibol Karasuno, de secundaria alta, solo para volver a encontrarse cara a cara con su odiado rival, Kageyama!",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-79141",
+    "tmdbId": 79141,
+    "title": "Scissor Seven",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.6,
+    "points": 31,
+    "duration": "5 Temporadas",
+    "platform": "Netflix",
+    "year": 2018,
+    "img": "https://image.tmdb.org/t/p/w500/jz9ii5sft8l6zP3lzu51xNWmgiO.jpg",
+    "trailer": "",
+    "desc": "Este aprendiz de sicario empuña de noche sus tijeras de peluquero para ganar dinero y recordar su pasado mientras lidia con unos compañeros poco amistosos.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-2316",
+    "tmdbId": 2316,
+    "title": "The Office",
+    "type": "Serie",
+    "genres": [
+      "Comedia"
+    ],
+    "rating": 8.6,
+    "points": 110,
+    "duration": "9 Temporadas",
+    "platform": "Netflix",
+    "year": 2005,
+    "img": "https://image.tmdb.org/t/p/w500/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+    "trailer": "https://www.youtube.com/embed/-C2z-nshFts?autoplay=1",
+    "desc": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-220542",
+    "tmdbId": 220542,
+    "title": "Los diarios de la boticaria",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Drama",
+      "Misterio"
+    ],
+    "rating": 8.6,
+    "points": 222,
+    "duration": "1 Temporada",
+    "platform": "Netflix",
+    "year": 2023,
+    "img": "https://image.tmdb.org/t/p/w500/bYPACmBf5Nomw3I2IEGGTNwgvWj.jpg",
+    "trailer": "https://www.youtube.com/embed/3lfb_KeqdEM?autoplay=1",
+    "desc": "Maomao llevaba una vida tranquila ayudando a su padre, un boticario. Todo cambia el día que la venden como sirvienta al palacio del emperador, pero la vida entre nobles y realeza no es para ella. Cuando la familia imperial enferma, ella decide intervenir para encontrar una cura, lo que llama la atención de Jinshi, un guapo oficial de palacio que decide ascenderla como dama de compañía de una de las concubinas del emperador. ¡Su habilidad con la medicina la hará conocida en el palacio por ayudar a resolver muchos misterios!",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-35610",
+    "tmdbId": 35610,
+    "title": "InuYasha",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.6,
+    "points": 32,
+    "duration": "2 Temporadas",
+    "platform": "Netflix",
+    "year": 2000,
+    "img": "https://image.tmdb.org/t/p/w500/5pMVrmb6tGmNAH0sX7guM9WbrU3.jpg",
+    "trailer": "https://www.youtube.com/embed/UCFBsLagBPk?autoplay=1",
+    "desc": "InuYasha es el nombre de un demonio que en su día sellaron para que no provocara más problemas. Pero Kagome, fruto del destino, consigue atravesar la barrera mágica que separa el mundo actual con el de las guerras civiles, y quita el sello a Inu Yasha debido a la amenaza de cierto monstruo. Kagome posee la joya de las cuatro almas, que permite ganar gran poder, y ella será fruto del recelo de muchos monstruos en busca de ella. Pero la joya se ha roto en mil y un pedazos, e Inu Yasha y Kagome partirán en busca de todos los trozos de la joya.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-890",
+    "tmdbId": 890,
+    "title": "Neon Genesis Evangelion",
+    "type": "Serie",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Animación",
+      "Drama"
+    ],
+    "rating": 8.6,
+    "points": 38,
+    "duration": "1 Temporada",
+    "platform": "Netflix",
+    "year": 1995,
+    "img": "https://image.tmdb.org/t/p/w500/8t5BmqgaYQQckYXF4Q9M1cVnqXt.jpg",
+    "trailer": "https://www.youtube.com/embed/Ni8kEQi1BwA?autoplay=1",
+    "desc": "En 2015, tras el catastrófico \"Segundo Impacto\" que devastó la Tierra, los \"Ángeles\" regresan para atacar. La organización NERV crea los Evas, robots bio-mecánicos pilotados por jóvenes como Shinji, Rei y Asuka, los únicos capaces de enfrentarlos. Mientras luchan, descubren oscuros secretos sobre la humanidad y su destino.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-66732",
+    "tmdbId": 66732,
+    "title": "Stranger Things",
+    "type": "Serie",
+    "genres": [
+      "Action & Adventure",
+      "Misterio",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.6,
+    "points": 141,
+    "duration": "5 Temporadas",
+    "platform": "Netflix",
+    "year": 2016,
+    "img": "https://image.tmdb.org/t/p/w500/1sRJ8D1vpXE5WQBGrUBky3uUwvX.jpg",
+    "trailer": "https://www.youtube.com/embed/mnd7sFt5c3A?autoplay=1",
+    "desc": "A raíz de la desaparición de un niño, un pueblo desvela un misterio relacionado con experimentos secretos, fuerzas sobrenaturales aterradoras y una niña muy extraña.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-1408",
+    "tmdbId": 1408,
+    "title": "House",
+    "type": "Serie",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 8.6,
+    "points": 175,
+    "duration": "8 Temporadas",
+    "platform": "Netflix",
+    "year": 2004,
+    "img": "https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg",
+    "trailer": "https://www.youtube.com/embed/MczMB8nU1sY?autoplay=1",
+    "desc": "House M. D. es un drama médico Estadounidense que se emitió originalmente por la cadena Fox durante ocho temporadas, desde el 16 de noviembre de 2004 al 21 de mayo de 2012. El protagonista de la serie es el Dr. Gregory House, un médico nada convencional, genio, misántropo y adicto a las drogas que dirige un equipo de diagnósticos en el \"Princeton-Plainsboro Teaching Hospital\" (nombre ficticio) en Nueva Jersey.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-95479",
+    "tmdbId": 95479,
+    "title": "Jujutsu Kaisen",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.6,
+    "points": 167,
+    "duration": "1 Temporada",
+    "platform": "Netflix",
+    "year": 2020,
+    "img": "https://image.tmdb.org/t/p/w500/80eHrBl03xWcQYecoTO1LlkXpN1.jpg",
+    "trailer": "https://www.youtube.com/embed/VpO6APNqY1c?autoplay=1",
+    "desc": "La vida de Itadori cambia para siempre cuando, para salvar a un compañero de clase, se come el dedo de Ryomen Sukuna y absorbe una poderosa maldición.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-124834",
+    "tmdbId": 124834,
+    "title": "Heartstopper",
+    "type": "Serie",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 8.6,
+    "points": 14,
+    "duration": "3 Temporadas",
+    "platform": "Netflix",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/fBbhBvFEVgVxWrBbOJDzDjcVXM4.jpg",
+    "trailer": "https://www.youtube.com/embed/FrK4xPy4ahg?autoplay=1",
+    "desc": "Dos adolescentes británicos, Nick Nelson y Charlie Spring, estudian en una escuela primaria exclusiva para varones. Charlie, un pensador demasiado nervioso y abiertamente gay, y Nick, un jugador de rugby alegre y de buen corazón, un día se sientan juntos en clase. La amistad florece rápidamente, pero ¿podría haber algo más...? Basada en la novela gráfica de Alice Oseman.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-45790",
+    "tmdbId": 45790,
+    "title": "JoJo's Bizarre Adventure",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.6,
+    "points": 89,
+    "duration": "6 Temporadas",
+    "platform": "Netflix",
+    "year": 2012,
+    "img": "https://image.tmdb.org/t/p/w500/ieP7Q9z24sNUfVNFC38rYBw6yxq.jpg",
+    "trailer": "https://www.youtube.com/embed/fOvrr5izejw?autoplay=1",
+    "desc": "La trama se desarrolla en torno a la historia del linaje Joestar, una poderosa familia de origen británico destinada a combatir fuerzas sobrenaturales malvadas usando poderes adquiridos; la obra abarca varias generaciones de dicho linaje, las cuales son adaptadas en cada parte poniendo un descendiente como protagonista, empezando con Jonathan en el año 1880.  El nombre «JoJo», presente en el título de la obra, consiste en un juego de palabras compuesto por el nombre de los protagonistas de cada parte, los cuales pueden abreviarse como «Jojo» y usarse a forma de apodo; sin embargo, en las últimas partes de la obra se hacen juegos de palabras más complejos: por ejemplo, Josuke es un juego de palabras en japonés en que la sílaba «suke» (助) se puede leer también como «jo», y el diminutivo de Giorno Giovana (Gio. Gio.) tiene una pronunciación bastante similar a «Jojo». Todos los Joestar se identifican porque tienen una marca de nacimiento en forma de estrella de cinco puntas.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-94664",
+    "tmdbId": 94664,
+    "title": "Mushoku Tensei: Reencarnación desde cero",
+    "type": "Serie",
+    "genres": [
+      "Action & Adventure",
+      "Animación",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.6,
+    "points": 103,
+    "duration": "3 Temporadas",
+    "platform": "Netflix",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/sviEqFIPJW5gFtuYy8XyE0Uscid.jpg",
+    "trailer": "https://www.youtube.com/embed/k5VxfJpzy1Q?autoplay=1",
+    "desc": "Un joven virgen \"nini\" de 34 años es echado de casa cuando se queda sin dinero. Él se arrepiente de su vida cuando muere en un accidente de tráfico. Tras el accidente, se reencarna en un bebé en un mundo fantástico de espada y brujería. Tras la decisión de hacer lo mejor que pueda con el conocimiento adquirido en su anterior mundo, él decide aprovechar la oportunidad y aprender a usar magia desde su nueva juventud.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-135157",
+    "tmdbId": 135157,
+    "title": "Alquimia de almas",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Misterio"
+    ],
+    "rating": 8.6,
+    "points": 41,
+    "duration": "2 Temporadas",
+    "platform": "Netflix",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/1TtUh6UT1eLcOxYsBaUBdaBrSws.jpg",
+    "trailer": "https://www.youtube.com/embed/50kLmhGpt1s?autoplay=1",
+    "desc": "Una poderosa hechicera atrapada en el cuerpo de una mujer ciega se encuentra con un integrante de una prestigiosa familia, que necesita su ayuda para cambiar su destino.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-240411",
+    "tmdbId": 240411,
+    "title": "DAN DA DAN",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Comedia",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.5,
+    "points": 42,
+    "duration": "1 Temporada",
+    "platform": "Netflix",
+    "year": 2024,
+    "img": "https://image.tmdb.org/t/p/w500/wQy1dCYgdSwoY78aKFTWFT1xADX.jpg",
+    "trailer": "https://www.youtube.com/embed/pHLEyqsxZV8?autoplay=1",
+    "desc": "Cuando Momo, una estudiante de instituto de una familia de médiums espirituales, conoce a su compañero de clase Okarun, un friki del ocultismo, discuten: Momo cree en los fantasmas pero no en los extraterrestres, y Okarun cree en los extraterrestres pero no en los fantasmas. Cuando resulta que ambos fenómenos son reales, en Momo surge un poder oculto y en Okarun el poder de una maldición. Juntos, deberán desafiar a las fuerzas paranormales que amenazan su mundo.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-79744",
+    "tmdbId": 79744,
+    "title": "The Rookie",
+    "type": "Serie",
+    "genres": [
+      "Crimen",
+      "Drama",
+      "Comedia"
+    ],
+    "rating": 8.5,
+    "points": 262,
+    "duration": "9 Temporadas",
+    "platform": "Netflix",
+    "year": 2018,
+    "img": "https://image.tmdb.org/t/p/w500/g39Rn6PcZjK2yLzz5Z5oBKSpsZR.jpg",
+    "trailer": "https://www.youtube.com/embed/8BPlx6eK1vc?autoplay=1",
+    "desc": "Comenzar de nuevo no es fácil, especialmente para el chico de una ciudad pequeña John Nolan que, después de un incidente que cambia su vida, está persiguiendo su sueño de ser un oficial de policía de Los Ángeles. Como el novato más viejo de la fuerza, se ha encontrado con el escepticismo de algunos de los superiores que lo ven como una crisis ambulante.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-61222",
+    "tmdbId": 61222,
+    "title": "BoJack Horseman",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Drama"
+    ],
+    "rating": 8.5,
+    "points": 47,
+    "duration": "6 Temporadas",
+    "platform": "Netflix",
+    "year": 2014,
+    "img": "https://image.tmdb.org/t/p/w500/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg",
+    "trailer": "https://www.youtube.com/embed/i1eJMig5Ik4?autoplay=1",
+    "desc": "Conoce al caballo más querido de los 90… veinte años después. Vive en Los Ángeles donde humanos y animales antropomórficos coexisten, BoJack Horseman es la historia de un hombre (bueno, un caballo-hombre) que llegó muy rápido a la cima y ahora tiene que averiguar qué hacer.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-37606",
+    "tmdbId": 37606,
+    "title": "El asombroso mundo de Gumball",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Sci-Fi & Fantasy",
+      "Comedia"
+    ],
+    "rating": 8.5,
+    "points": 41,
+    "duration": "6 Temporadas",
+    "platform": "Netflix",
+    "year": 2011,
+    "img": "https://image.tmdb.org/t/p/w500/dMYY2XqsQvDEdTtPfykTEOUZngK.jpg",
+    "trailer": "https://www.youtube.com/embed/v27QcfOoonI?autoplay=1",
+    "desc": "Narra las divertidas aventuras de Gumball y su peculiar familia en el idílico pueblecito de Elmore. Un papá conejo rosa de 1,95 metros, una madre que se gana la vida vendiendo arco iris, un gato azul muy torpe y una conejita con un cerebro superdotado componen la familia protagonista. No hay que olvidar a Darwin, un pez rojo que se convirtió en miembro del clan el día en que le crecieron piernas y pulmones. Así es el asombroso mundo de Gumball.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-94796",
+    "tmdbId": 94796,
+    "title": "Crash Landing on You",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "Comedia"
+    ],
+    "rating": 8.5,
+    "points": 26,
+    "duration": "1 Temporada",
+    "platform": "Netflix",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/a6Z73Ou52jHSrelffGK04GyVhtd.jpg",
+    "trailer": "https://www.youtube.com/embed/K58Z1RORRaI?autoplay=1",
+    "desc": "Tras un percance con el parapente, una rica heredera surcoreana aterriza en Corea del Norte y en la vida de un oficial del ejército, que la ayudará a esconderse.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-86031",
+    "tmdbId": 86031,
+    "title": "Dr. Stone",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Comedia",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.5,
+    "points": 11,
+    "duration": "4 Temporadas",
+    "platform": "Netflix",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/dLlnzbDCblBXcJqFLXyvN43NIwp.jpg",
+    "trailer": "https://www.youtube.com/embed/kKBZFM89xYM?autoplay=1",
+    "desc": "Senku es un joven extremadamente inteligente con un gran don para la ciencia y una ácida personalidad, y su mejor amigo es Taiju, que es muy buena persona pero más apto para usar los músculos que para pensar. Cuando tras cierto incidente toda la humanidad acaba convertida en piedra, ellos logran despertarse en un mundo miles de años después, con la civilización humana completamente desaparecida y con toda la humanidad congelada en piedra como ellos estuvieron. Ahora es su obligación rescatar a la gente y crear un nuevo mundo.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-31910",
+    "tmdbId": 31910,
+    "title": "Naruto Shippuden",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.5,
+    "points": 78,
+    "duration": "20 Temporadas",
+    "platform": "Netflix",
+    "year": 2007,
+    "img": "https://image.tmdb.org/t/p/w500/ews8shcDbRG3tY33dF0jClNvgIK.jpg",
+    "trailer": "https://www.youtube.com/embed/22R0j8UKRzY?autoplay=1",
+    "desc": "La historia transcurre en un mundo dominado por aldeas ninja. En las cuales el papel del ninja se traduce como el poder de cada país. Cada uno de estos cuenta con su aldea oculta que es donde estudian, entrenan, graduan y forman cada ninja. Los ninjas utilizan todo tipo de artes marciales desde la lucha cuerpo a cuerpo a ilusiones o técnicas secretas como por ejemplo la manipulación de elementos.  El protagonista es un joven aspirante a ninja Uzumaki Naruto, un muchacho que sueña en convertirse algun dia en el líder de su aldea (Hokage). Será para él una tarea difícil ya que cuando era solo un bebé le fué confiado en su interior el poder de un ser malvado, que antaño causo grandes males en su aldea (Konoha) y el cual irá poco a poco descubriendo y dominando. Por culpa de ese poder Naruto pasa una dura infancia con desprecio y negación por parte de los vecinos de su aldea...",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-88803",
+    "tmdbId": 88803,
+    "title": "Vinland Saga",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "War & Politics",
+      "Action & Adventure",
+      "Drama"
+    ],
+    "rating": 8.5,
+    "points": 29,
+    "duration": "2 Temporadas",
+    "platform": "Netflix",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/ySPYLN1sHmgRdqdfLOE092JlNTp.jpg",
+    "trailer": "https://www.youtube.com/embed/H3fS-bZ4e2E?autoplay=1",
+    "desc": "Cuando Thors, un gran guerrero viking muere asesinado en batalla a manos de Askeladd, un mercenario, su hijo, Thorfinn, jura vengarse. Para ello tendrá que demostrar su valía antes de ganarse el derecho a retar a un duelo al asesino de su padre.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-60574",
+    "tmdbId": 60574,
+    "title": "Peaky Blinders",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "Crimen"
+    ],
+    "rating": 8.5,
+    "points": 118,
+    "duration": "6 Temporadas",
+    "platform": "Netflix",
+    "year": 2013,
+    "img": "https://image.tmdb.org/t/p/w500/zUqNyXRfYkFAFXsqJJjKMZpjYus.jpg",
+    "trailer": "https://www.youtube.com/embed/EM12mcTEI88?autoplay=1",
+    "desc": "Una familia de pandilleros asentada en Birmingham, Reino Unido, tras la Primera Guerra Mundial (1914-1918), dirige un local de apuestas hípicas. Las actividades del ambicioso jefe de la banda llaman la atención del Inspector jefe Chester Campbell, un detective de la Real Policía Irlandesa que es enviado desde Belfast para limpiar la ciudad y acabar con la banda.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-125910",
+    "tmdbId": 125910,
+    "title": "Jóvenes altezas",
+    "type": "Serie",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 8.5,
+    "points": 10,
+    "duration": "3 Temporadas",
+    "platform": "Netflix",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/69UFOFctnHpu7i7CDZO9QUiHYrK.jpg",
+    "trailer": "https://www.youtube.com/embed/rHmw87EpGIM?autoplay=1",
+    "desc": "El príncipe Wilhelm se adapta a la vida en su nuevo y prestigioso internado, Hillerska. Pero seguir lo que le dicta su corazón es más difícil de lo que esperaba.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-110070",
+    "tmdbId": 110070,
+    "title": "Horimiya",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Drama"
+    ],
+    "rating": 8.5,
+    "points": 39,
+    "duration": "1 Temporada",
+    "platform": "Netflix",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/2ZOfEetRHnqCBzvubdYU3ytwcq.jpg",
+    "trailer": "https://www.youtube.com/embed/tryurXgGqkI?autoplay=1",
+    "desc": "Kyouko es una alumna modélica y popular que al llegar a casa se convierte en una chica hogareña muy discreta. Miyamura, su compañero de clase, es un tipo del montón con cierto aire de friki que en sus ratos libres se transforma en un chico muy atractivo con piercings y mucho estilo. ¿Qué ocurriría si Izumi y Kyouko descubrieran la cara oculta el uno del otro?",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-90447",
+    "tmdbId": 90447,
+    "title": "Hotel del Luna",
+    "type": "Serie",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Comedia"
+    ],
+    "rating": 8.5,
+    "points": 20,
+    "duration": "1 Temporada",
+    "platform": "Netflix",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/uuQvLgr3xWuW5bb4LeR1jwa0G82.jpg",
+    "trailer": "https://www.youtube.com/embed/ms8RJVcn_eU?autoplay=1",
+    "desc": "Jang Man Wol (IU) es la CEO del Hotel del Luna. El hotel está situado en el centro de Seúl y tiene una apariencia muy misteriosa. Ella cometió un gran pecado hace muchos años y, debido a esto, ha estado atrapada en el Hotel del Luna. Aunque hermosa como la luna, tiene mal carácter, es desconfiada y codiciosa.\n\nGoo Chan Sung (Yeo Jin Goo) trabajó como el subdirector más joven en una corporación hotelera multinacional. Es un sincero perfeccionista. Parece sensato, pero en realidad tiene una disposición suave. Debido a un caso inesperado, comienza a trabajar como gerente en el Hotel del Luna.\n\nEl hotel del Luna es habitado por clientes fantasmas.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-30981",
+    "tmdbId": 30981,
+    "title": "Monster",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Drama",
+      "Misterio",
+      "Crimen"
+    ],
+    "rating": 8.5,
+    "points": 86,
+    "duration": "1 Temporada",
+    "platform": "Netflix",
+    "year": 2004,
+    "img": "https://image.tmdb.org/t/p/w500/en7EgMFKYxPKSHpljzveLf6YYfH.jpg",
+    "trailer": "https://www.youtube.com/embed/9aS-EgdAq6U?autoplay=1",
+    "desc": "El neurocirujano Kenzo Tenma pierde su trabajo y su novia tras salvar a un niño en lugar de al alcalde. Cuando los médicos responsables de su destitución aparecen muertos, Tenma se convierte en sospechoso y comienza a investigar la verdad detrás de las muertes.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-120089",
+    "tmdbId": 120089,
+    "title": "SPY x FAMILY",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Comedia"
+    ],
+    "rating": 8.5,
+    "points": 105,
+    "duration": "3 Temporadas",
+    "platform": "Netflix",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/vaIREdPGZOnW9Jrs86mheVVlIQQ.jpg",
+    "trailer": "https://www.youtube.com/embed/JP6vBnazpWI?autoplay=1",
+    "desc": "El espía \"Twilight\" recibe la misión de infiltrarse en la familia de un líder político. Para ello, crea una falsa familia con una hija que lee mentes y una esposa asesina, mientras ocultan sus secretos y viven juntos en una aventura peligrosa para mantener la paz mundial.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-117376",
+    "tmdbId": 117376,
+    "title": "Vincenzo",
+    "type": "Serie",
+    "genres": [
+      "Action & Adventure",
+      "Comedia",
+      "Drama",
+      "Crimen"
+    ],
+    "rating": 8.5,
+    "points": 30,
+    "duration": "1 Temporada",
+    "platform": "Netflix",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/mWYW3xNeV2IM06aUl2xMUdLicpa.jpg",
+    "trailer": "https://www.youtube.com/embed/S12-4mXCNj4?autoplay=1",
+    "desc": "[Vincenzo] A la edad de 8 años, Park Joo Hyung fue a Italia después de ser adoptado. Ahora es adulto y se llama Vincenzo Cassano, es abogado y trabaja para la mafia como consejero. Decide regresar a Corea del Sur porque encontró algo valioso y lo va a obtener ahora que se retiró de la mafia. Cuando llega a Corea del Sur, se involucra con la abogada Hong Cha Young y los habitantes de Geumga Plaza y la vida de Vincenzo cambia.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-96462",
+    "tmdbId": 96462,
+    "title": "Está bien no estar bien",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "Comedia"
+    ],
+    "rating": 8.5,
+    "points": 14,
+    "duration": "1 Temporada",
+    "platform": "Netflix",
+    "year": 2020,
+    "img": "https://image.tmdb.org/t/p/w500/yGoQugW6v16jdK32JNhMpHl1aCo.jpg",
+    "trailer": "https://www.youtube.com/embed/89i-Fn2CqQg?autoplay=1",
+    "desc": "Una historia sobre un empleado de una sala psiquiátrica y una mujer, con un trastorno de personalidad antisocial, que es una escritora popular de libros infantiles. Un hombre que niega el amor y una mujer que no conoce el amor desafían el destino y se enamoran, encontrando sus almas e identidades en el proceso.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-83095",
+    "tmdbId": 83095,
+    "title": "The Rising of the Shield Hero",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "rating": 8.5,
+    "points": 21,
+    "duration": "5 Temporadas",
+    "platform": "Netflix",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/yX0d6aTjHrE5Sjp6gZ1dkPWCmIF.jpg",
+    "trailer": "https://www.youtube.com/embed/rKnyi3TRznA?autoplay=1",
+    "desc": "Un joven otaku es convocado por arte de magia a un universo paralelo como uno de los cuatro héroes elegidos para salvar el mundo de su vaticinada destrucción.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-83639",
+    "tmdbId": 83639,
+    "title": "Girl from Nowhere",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "Misterio",
+      "Crimen"
+    ],
+    "rating": 8.5,
+    "points": 13,
+    "duration": "2 Temporadas",
+    "platform": "Netflix",
+    "year": 2018,
+    "img": "https://image.tmdb.org/t/p/w500/eOmhBPnWj0HoPtuAra4IQbH22GP.jpg",
+    "trailer": "https://www.youtube.com/embed/qgI2oEpMN58?autoplay=1",
+    "desc": "Nanno es una chica inteligente y misteriosa que va de un instituto a otro sacando a la luz los secretos más oscuros tanto de alumnos como de profesores.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-1330021",
+    "tmdbId": 1330021,
+    "title": "Criaturas luminosas",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Misterio"
+    ],
+    "rating": 8.5,
+    "points": 97,
+    "duration": "114 min",
+    "platform": "Netflix",
+    "year": 2026,
+    "img": "https://image.tmdb.org/t/p/w500/aNixJoh0U4kN85YM6vPyVZL6ALF.jpg",
+    "trailer": "https://www.youtube.com/embed/b14IFe4an5k?autoplay=1",
+    "desc": "En este drama, basado en el bestseller homónimo, una viuda forja un vínculo con un pulpo muy listo y un joven a la deriva mientras trabaja de noche en un pequeño acuario.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-129",
+    "tmdbId": 129,
+    "title": "El viaje de Chihiro",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Fantasía"
+    ],
+    "rating": 8.5,
+    "points": 32,
+    "duration": "122 min",
+    "platform": "Netflix",
+    "year": 2001,
+    "img": "https://image.tmdb.org/t/p/w500/2RcxjDykOssx4SfqshewyI9vfSl.jpg",
+    "trailer": "https://www.youtube.com/embed/GAp2_0JJskk?autoplay=1",
+    "desc": "Durante el traslado de su familia a los suburbios, una niña de 10 años de edad deambula por un mundo gobernado por dioses, brujas y espíritus, y donde los humanos se convierten en bestias.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-155",
+    "tmdbId": 155,
+    "title": "El caballero oscuro",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Suspense"
+    ],
+    "rating": 8.5,
+    "points": 46,
+    "duration": "152 min",
+    "platform": "Netflix",
+    "year": 2008,
+    "img": "https://image.tmdb.org/t/p/w500/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg",
+    "trailer": "https://www.youtube.com/embed/_PZpmTj1Q8Q?autoplay=1",
+    "desc": "Batman/Bruce Wayne regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon y del Fiscal del Distrito Harvey Dent, Batman se propone destruir el crimen organizado en la ciudad de Gotham. El triunvirato demuestra su eficacia, pero, de repente, aparece Joker, un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-19404",
+    "tmdbId": 19404,
+    "title": "Un amor contra viento y marea",
+    "type": "Película",
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Romance"
+    ],
+    "rating": 8.5,
+    "points": 17,
+    "duration": "189 min",
+    "platform": "Netflix",
+    "year": 1995,
+    "img": "https://image.tmdb.org/t/p/w500/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+    "trailer": "https://www.youtube.com/embed/_ZaPIKNg_EQ?autoplay=1",
+    "desc": "Los Singh son una familia india con grandes convicciones culturales de su nación de origen, que emigraron a Reino Unido antes de nacer sus primeros hijos. Uno de ellos querrá casarse con una mujer ajena a su cultura y para ello deberá hacer todos los esfuerzos por convencer a su familia.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-496243",
+    "tmdbId": 496243,
+    "title": "Parásitos",
+    "type": "Película",
+    "genres": [
+      "Comedia",
+      "Suspense",
+      "Drama"
+    ],
+    "rating": 8.5,
+    "points": 37,
+    "duration": "132 min",
+    "platform": "Netflix",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
+    "trailer": "https://www.youtube.com/embed/bM9QabAojCg?autoplay=1",
+    "desc": "Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-680",
+    "tmdbId": 680,
+    "title": "Pulp Fiction",
+    "type": "Película",
+    "genres": [
+      "Suspense",
+      "Crimen",
+      "Comedia"
+    ],
+    "rating": 8.5,
+    "points": 35,
+    "duration": "154 min",
+    "platform": "Netflix",
+    "year": 1994,
+    "img": "https://image.tmdb.org/t/p/w500/hNcQAuquJxTxl2fJFs1R42DrWcf.jpg",
+    "trailer": "https://www.youtube.com/embed/tGpTpVyI_OQ?autoplay=1",
+    "desc": "Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-12477",
+    "tmdbId": 12477,
+    "title": "La tumba de las luciérnagas",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Drama",
+      "Bélica"
+    ],
+    "rating": 8.4,
+    "points": 0,
+    "duration": "95 min",
+    "platform": "Netflix",
+    "year": 1988,
+    "img": "https://image.tmdb.org/t/p/w500/juKTAn2AuoE9MvCNvf3kwZrt1t4.jpg",
+    "trailer": "https://www.youtube.com/embed/QZbcx0WNrMU?autoplay=1",
+    "desc": "Verano de 1945. La aviación estadounidense somete las ciudades japonesas a continuos ataques aéreos. En uno de ellos, una incursión con bombas incendiarias convierte la ciudad de Kōbe en un infierno humeante, para los dos protagonistas (Seita, de 14 años, y su hermanita Setsuko, de 5). El joven Seita y su pequeña hermana Setsuko son hijos de un oficial de la marina japonesa. Durante la Segunda Guerra Mundial, ambos viven con su madre, pero un día, tras un bombardeo, ellos se retrasan y no consiguen llegar al búnker donde ella los espera.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-550",
+    "tmdbId": 550,
+    "title": "El club de la lucha",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Suspense"
+    ],
+    "rating": 8.4,
+    "points": 29,
+    "duration": "139 min",
+    "platform": "Netflix",
+    "year": 1999,
+    "img": "https://image.tmdb.org/t/p/w500/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
+    "trailer": "https://www.youtube.com/embed/dfeUzm6KF4g?autoplay=1",
+    "desc": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-664280",
+    "tmdbId": 664280,
+    "title": "David Attenborough: Una vida en nuestro planeta",
+    "type": "Película",
+    "genres": [
+      "Documental",
+      "Drama"
+    ],
+    "rating": 8.4,
+    "points": 6,
+    "duration": "83 min",
+    "platform": "Netflix",
+    "year": 2020,
+    "img": "https://image.tmdb.org/t/p/w500/wA9I2KKUT1moiSnshjTL2QALv3q.jpg",
+    "trailer": "https://www.youtube.com/embed/64R2MYUt394?autoplay=1",
+    "desc": "A sus 93 años, David Attenborough ha visitado todos los continentes del planeta, explorando cientos de lugares, documentando el mundo viviente en todo su esplendor. Ahora, por primera vez, reflexiona sobre las experiencias más relevantes de su vida como naturalista.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-4935",
+    "tmdbId": 4935,
+    "title": "El castillo ambulante",
+    "type": "Película",
+    "genres": [
+      "Fantasía",
+      "Animación",
+      "Aventura"
+    ],
+    "rating": 8.4,
+    "points": 20,
+    "duration": "120 min",
+    "platform": "Netflix",
+    "year": 2004,
+    "img": "https://image.tmdb.org/t/p/w500/p8EARnEw8KPZzlZg3vkseYVMczu.jpg",
+    "trailer": "https://www.youtube.com/embed/ARCQf2CEr8k?autoplay=1",
+    "desc": "Sophie, una joven sobre la que pesa una horrible maldición que le confiere el aspecto de una anciana, decide pedir ayuda al mago Howl, que vive en un castillo ambulante, pero tal vez sea Howl quien necesite la ayuda de Sophie.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-128",
+    "tmdbId": 128,
+    "title": "La princesa Mononoke",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Fantasía",
+      "Animación"
+    ],
+    "rating": 8.3,
+    "points": 14,
+    "duration": "134 min",
+    "platform": "Netflix",
+    "year": 1997,
+    "img": "https://image.tmdb.org/t/p/w500/xP466sdt19CPLVljpRwI7luEgFn.jpg",
+    "trailer": "https://www.youtube.com/embed/I1dHzoRl0sQ?autoplay=1",
+    "desc": "Tras sufrir el ataque de un monstruoso jabalí maldito, el joven Ashitaka emprende el camino en busca de la cura que detenga la infección. Mientras, los humanos están acabando con los bosques y los dioses convertidos en temibles bestias hacen todo lo posible por protegerlo encabezados por Mononoke, una princesa guerrera. Ashikata deberá escoger bando y decidir si ayudar a los hombres o las deidades intentando detener la maldición de su herida que se extiende por su cuerpo sin cuartel.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-533514",
+    "tmdbId": 533514,
+    "title": "Violet Evergarden: La película",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Drama",
+      "Fantasía",
+      "Romance"
+    ],
+    "rating": 8.3,
+    "points": 8,
+    "duration": "140 min",
+    "platform": "Netflix",
+    "year": 2020,
+    "img": "https://image.tmdb.org/t/p/w500/dXQ0UVNJTFi7YhDgchFJJCBOxQO.jpg",
+    "trailer": "https://www.youtube.com/embed/BUfSen2rYQs?autoplay=1",
+    "desc": "La historia se retoma desde los últimos hechos acontecidos en la serie. Violet sigue trabajando como muñeca sin olvidar a Gilbert. En su camino se cruza Ulysse Yurith, un niño enfermo que le pide a la muñeca que redacte cartas de despedida para su familia. Además, Violet se topa con una carta que cambiará el destino de su vida. ¿Podría Gilbert haberse salvado y seguir vivo en algún lugar?",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-820067",
+    "tmdbId": 820067,
+    "title": "Las Quintillizas: La Película",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Romance"
+    ],
+    "rating": 8.3,
+    "points": 7,
+    "duration": "136 min",
+    "platform": "Netflix",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/6QsExD8uP3vLk64yLnxD8MSS4A6.jpg",
+    "trailer": "https://www.youtube.com/embed/AYxCeeA3LaI?autoplay=1",
+    "desc": "Como tutor a tiempo parcial, a Fuutarou se le asigna la tarea de guiar a las cinco hermosas chicas, que están “a punto de suspender” y “odian los estudios”, hasta la “graduación”. Fuutarou se esfuerza por preparar el festival escolar mientras vigila los estudios de Ichika, que ha decidido tomarse una licencia para concentrarse en la actuación, y Yotsuba está aún más decidida que de costumbre a que sea un festival escolar sin remordimientos.  Fuutarou se siente animado por la decisión de Itsuki de no rendirse, y busca respuestas a los sentimientos de Nino, la determinación de Miku y sus sentimientos por Ichika, Yotsuba e Itsuki. Con cada uno de ellos con sus propios pensamientos y sentimientos, el primer día del festival escolar, el último evento de su vida en el instituto, finalmente comenzó. “Ven al salón de clases a las 15:00, el primer día del festival escolar”. Las quintillizas se reúnen en el aula y Fuutarou finalmente les informa que tomará una decisión…",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-335",
+    "tmdbId": 335,
+    "title": "Hasta que llegó su hora",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "rating": 8.3,
+    "points": 10,
+    "duration": "166 min",
+    "platform": "Netflix",
+    "year": 1968,
+    "img": "https://image.tmdb.org/t/p/w500/upiek8u4rHTrOJW9B0woXe4A4h7.jpg",
+    "trailer": "https://www.youtube.com/embed/Yw-Av9BpC-w?autoplay=1",
+    "desc": "Mientras los constructores del ferrocarril avanzan imparables por el desierto de Arizona en su camino hacia el mar, Jill llega al pequeño pueblo de Flagstone con la intención de empezar una nueva vida.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-654299",
+    "tmdbId": 654299,
+    "title": "Como caído del cielo",
+    "type": "Película",
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Música"
+    ],
+    "rating": 8.3,
+    "points": 3,
+    "duration": "112 min",
+    "platform": "Netflix",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/o9cSEHrXzPOO4OIoT9yrdxc216w.jpg",
+    "trailer": "",
+    "desc": "El legendario actor y cantante mexicano Pedro Infante es enviado de regreso a la Tierra en el cuerpo de un imitador para enmendar sus errores por la forma en que trató a las mujeres y así ganar su entrada al cielo.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-18491",
+    "tmdbId": 18491,
+    "title": "Neon Genesis Evangelion: The End of Evangelion",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Ciencia ficción",
+      "Drama",
+      "Fantasía"
+    ],
+    "rating": 8.3,
+    "points": 10,
+    "duration": "90 min",
+    "platform": "Netflix",
+    "year": 1997,
+    "img": "https://image.tmdb.org/t/p/w500/9jbxvKB937BWeYAmMKZTqPxBLsk.jpg",
+    "trailer": "",
+    "desc": "Seele ordena un ataque sin cuartel contra NERV con el objetivo de destruir los Evas antes de que Gendo pueda provocar el Tercer Impacto y la unión de las almas humanas.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-603",
+    "tmdbId": 603,
+    "title": "Matrix",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Ciencia ficción"
+    ],
+    "rating": 8.2,
+    "points": 39,
+    "duration": "138 min",
+    "platform": "Netflix",
+    "year": 1999,
+    "img": "https://image.tmdb.org/t/p/w500/8rT9kG2EYkZpJmYCuTJNnPDEube.jpg",
+    "trailer": "https://www.youtube.com/embed/d0XTFAMmhrE?autoplay=1",
+    "desc": "Thomas Anderson lleva una doble vida: por el día es programador en una importante empresa de software, y por la noche un hacker informático llamado Neo. Su vida no volverá a ser igual cuando unos misteriosos personajes le inviten a descubrir la respuesta a la pregunta que no le deja dormir: ¿qué es Matrix?",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-1356039",
+    "tmdbId": 1356039,
+    "title": "Contraataque",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Suspense"
+    ],
+    "rating": 8.2,
+    "points": 7,
+    "duration": "85 min",
+    "platform": "Netflix",
+    "year": 2025,
+    "img": "https://image.tmdb.org/t/p/w500/vaRGCGxYeKKgI9df2YZj5vlJebr.jpg",
+    "trailer": "https://www.youtube.com/embed/pEO34SeTsY0?autoplay=1",
+    "desc": "En una misión de rescate de rehenes, el capitán Guerrero y sus soldados de élite sufren una emboscada de un despiadado cártel de la droga.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-508965",
+    "tmdbId": 508965,
+    "title": "Klaus",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Comedia"
+    ],
+    "rating": 8.2,
+    "points": 6,
+    "duration": "97 min",
+    "platform": "Netflix",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/aLniylyJlbXEdxvaGSuQkRACWUx.jpg",
+    "trailer": "https://www.youtube.com/embed/taE3PwurhYM?autoplay=1",
+    "desc": "Un cartero egoísta y un juguetero huraño forjan una amistad muy especial, que sembrará la alegría en un pueblo frío y oscuro.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-16869",
+    "tmdbId": 16869,
+    "title": "Malditos bastardos",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Suspense",
+      "Bélica"
+    ],
+    "rating": 8.2,
+    "points": 15,
+    "duration": "153 min",
+    "platform": "Netflix",
+    "year": 2009,
+    "img": "https://image.tmdb.org/t/p/w500/dqu7nUtKTLdpM7DaJvD4zcSXhn1.jpg",
+    "trailer": "https://www.youtube.com/embed/uSEDz-my7XQ?autoplay=1",
+    "desc": "Segunda Guerra Mundial. Durante la ocupación de Francia por los alemanes, Shosanna Dreyfus presencia la ejecución de su familia por orden del coronel nazi Hans Landa. Ella consigue huir a París, donde adopta una nueva identidad como propietaria de un cine. En otro lugar de Europa, el teniente Aldo Raine adiestra a un grupo de soldados judíos \"Los bastardos\" para atacar objetivos concretos. Los hombres de Raine y una actriz alemana, que trabaja para los aliados, deben llevar a cabo una misión que hará caer a los jefes del Tercer Reich. El destino quiere que todos se encuentren bajo la marquesina de un cine donde Shosanna espera para vengarse.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-740996",
+    "tmdbId": 740996,
+    "title": "Blackpink: Light Up the Sky",
+    "type": "Película",
+    "genres": [
+      "Documental",
+      "Música"
+    ],
+    "rating": 8.2,
+    "points": 2,
+    "duration": "79 min",
+    "platform": "Netflix",
+    "year": 2020,
+    "img": "https://image.tmdb.org/t/p/w500/qfcnBeX8o7MndM52Ig79Zc1R4cT.jpg",
+    "trailer": "https://www.youtube.com/embed/7jx_vdvxWu0?autoplay=1",
+    "desc": "Blackpink: Light Up the Sky es un documental musical sobre el grupo femenino surcoreano Blackpink, dirigido por Caroline Suh, que realiza un seguimiento al grupo desde sus inicios hasta su etapa más exitosa.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-81481",
+    "tmdbId": 81481,
+    "title": "Silenced",
+    "type": "Película",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 8.2,
+    "points": 5,
+    "duration": "125 min",
+    "platform": "Netflix",
+    "year": 2011,
+    "img": "https://image.tmdb.org/t/p/w500/bBNkmna3iDVpNJmIc8QlECTmiUH.jpg",
+    "trailer": "https://www.youtube.com/embed/vOxlmwYmjws?autoplay=1",
+    "desc": "Basada en el best seller de la escritora Gong Ji Young, trata un caso real de violación y abusos sexuales ocurridos en una escuela para sordomudos en Gwangju. Gong Yoo interpreta el papel de un profesor que descubre el caso al lado de una activista de derechos humanos, interpretada por Jeong Yu Mi. Juntos intentarán por todos los medios dar a conocer los hechos, a pesar de que para ello deban enfrentarse al personal docente y algunos oficiales que tratan de ocultar el incidente.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-111",
+    "tmdbId": 111,
+    "title": "El precio del poder",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Drama"
+    ],
+    "rating": 8.2,
+    "points": 19,
+    "duration": "170 min",
+    "platform": "Netflix",
+    "year": 1983,
+    "img": "https://image.tmdb.org/t/p/w500/iDABT5GD9OQmFiXM3wR0DJIxtkY.jpg",
+    "trailer": "https://www.youtube.com/embed/lZMIrD36MG8?autoplay=1",
+    "desc": "Un emigrante cubano frío y sanguinario, Tony Montana, llega de Cuba para instalarse en Miami, donde se propone hacerse con un nombre dentro del crimen organizado de Florida. Junto a su amigo, Manny Rivera, inicia una ascendente carrera delictiva.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-851644",
+    "tmdbId": 851644,
+    "title": "Una chica del siglo XX",
+    "type": "Película",
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "rating": 8.2,
+    "points": 11,
+    "duration": "119 min",
+    "platform": "Netflix",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/4kU4QFgExCgybhcKv1mzZ0vuND6.jpg",
+    "trailer": "https://www.youtube.com/embed/KFS4_qevE7M?autoplay=1",
+    "desc": "Yeon-du le pide a su mejor amiga Bora que recopile toda la información que pueda sobre Baek Hyun-jin mientras ella está en los Estados Unidos para someterse a una cirugía de corazón. Bora decide acercarse primero al mejor amigo de Baek, Pung Woon-ho. Sin embargo, el torpe plan de Bora se desarrolla en una dirección inesperada. En 1999, un año antes del nuevo siglo, Bora, que cumple diecisiete años, cae en la fiebre del primer amor.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-693134",
+    "tmdbId": 693134,
+    "title": "Dune: Parte dos",
+    "type": "Película",
+    "genres": [
+      "Ciencia ficción",
+      "Aventura"
+    ],
+    "rating": 8.1,
+    "points": 26,
+    "duration": "167 min",
+    "platform": "Netflix",
+    "year": 2024,
+    "img": "https://image.tmdb.org/t/p/w500/xCHmhHeO7aOCMlzcNukGH6Q7EiD.jpg",
+    "trailer": "https://www.youtube.com/embed/U2Qp5pL3ovA?autoplay=1",
+    "desc": "Sigue el viaje mítico de Paul Atreides mientras se une a Chani y los Fremen en una guerra de venganza contra los conspiradores que destruyeron a su familia. Al enfrentarse a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por evitar un futuro terrible que solo él puede prever.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-606856",
+    "tmdbId": 606856,
+    "title": "Togo",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Familia"
+    ],
+    "rating": 8.1,
+    "points": 5,
+    "duration": "111 min",
+    "platform": "Netflix",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/921q4gPNN4J6UxvKaw6SCNBe3F8.jpg",
+    "trailer": "https://www.youtube.com/embed/HMfyueM-ZBQ?autoplay=1",
+    "desc": "'Togo' es la historia real no contada ambientada en el invierno de 1925 de un periplo por el terreno traicionero de la tundra de Alaska en busca de una aventura emocionante que pondrá a prueba la fuerza, el coraje y la determinación de un hombre, Leonhard Seppala, y de su perro de trineo guía, Togo.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-1103621",
+    "tmdbId": 1103621,
+    "title": "Cómo hacerse millonario antes de que muera la abuela",
+    "type": "Película",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 8.1,
+    "points": 7,
+    "duration": "126 min",
+    "platform": "Netflix",
+    "year": 2024,
+    "img": "https://image.tmdb.org/t/p/w500/fgWhmlpxPEJQTZeKOAEPlgrD0lB.jpg",
+    "trailer": "https://www.youtube.com/embed/HrVX_nHNIUA?autoplay=1",
+    "desc": "Un hombre deja el trabajo para cuidar de su abuela moribunda, aunque sus aparentemente buenas intenciones vienen motivadas por la fortuna de la anciana. El nieto tratará de ganarse el favor de su abuela antes de que fallezca.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-812225",
+    "tmdbId": 812225,
+    "title": "Black Clover: La espada del rey mago",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Fantasía",
+      "Acción",
+      "Aventura"
+    ],
+    "rating": 8.1,
+    "points": 7,
+    "duration": "110 min",
+    "platform": "Netflix",
+    "year": 2023,
+    "img": "https://image.tmdb.org/t/p/w500/jm2BckEhy1upr4iPpOZ6WTx1tWw.jpg",
+    "trailer": "https://www.youtube.com/embed/ihFHJ1tgKWk?autoplay=1",
+    "desc": "Mientras un audaz chico sin poderes mágicos intenta proclamarse Rey de los Magos, cuatro proscritos que antes ostentaban ese título vuelven para destruir el Reino Trébol.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-810693",
+    "tmdbId": 810693,
+    "title": "Jujutsu Kaisen 0",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Acción",
+      "Fantasía"
+    ],
+    "rating": 8.1,
+    "points": 14,
+    "duration": "105 min",
+    "platform": "Netflix",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/2ndvx03fmREMxEgaZ1vWt756TOQ.jpg",
+    "trailer": "https://www.youtube.com/embed/2docezZl574?autoplay=1",
+    "desc": "Yuta Okkotsu es un nervioso estudiante de instituto que sufre un grave problema: su amiga de la infancia Rika se ha convertido en una maldición y no le deja en paz. Como Rika no es una maldición cualquiera, su situación es percibida por Satoru Gojo, un profesor del instituto Jujutsu, una escuela donde los exorcistas noveles aprenden a combatir las maldiciones. Gojo convence a Yuta para que se matricule, pero ¿podrá aprender lo suficiente a tiempo para enfrentarse a la Maldición que le persigue?",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-149871",
+    "tmdbId": 149871,
+    "title": "El cuento de la princesa Kaguya",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Drama",
+      "Fantasía"
+    ],
+    "rating": 8.1,
+    "points": 5,
+    "duration": "137 min",
+    "platform": "Netflix",
+    "year": 2013,
+    "img": "https://image.tmdb.org/t/p/w500/tCw5ZR5RkmAtCztmkP8dYh1nkoX.jpg",
+    "trailer": "https://www.youtube.com/embed/iPm7HfO3mis?autoplay=1",
+    "desc": "Basada en un cuento popular japonés anónimo del siglo IX, 'El cortador de bambú', la historia comienza cuando una pareja de ancianos campesinos encuentran a una niña diminuta dentro de una planta de bambú y deciden adoptarla como si fuera su hija. Convertida rápidamente en una hermosa mujer, es pretendida por muchos hombres, incluido el emperador, pero ella los rechaza a todos porque asegura venir de la Luna y debe volver allí...",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-755812",
+    "tmdbId": 755812,
+    "title": "Mundo Prodigiosa: Las aventuras de Ladybug en Nueva York",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Acción",
+      "Aventura",
+      "Película de TV"
+    ],
+    "rating": 8.1,
+    "points": 3,
+    "duration": "62 min",
+    "platform": "Netflix",
+    "year": 2020,
+    "img": "https://image.tmdb.org/t/p/w500/mFoxoluhrUYHJNIfE1j1ZikdLeo.jpg",
+    "trailer": "https://www.youtube.com/embed/952fktHweJs?autoplay=1",
+    "desc": "Ladybug al lado de sus amigos, son enviados a la universidad de Nueva York con una finalidad, celebrar la Semana de la Amistad Franco-Americana, pero no cuentan con que se toparán con superhéroes estadounidenses que les cambiarán la estadía.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-610892",
+    "tmdbId": 610892,
+    "title": "Violet Evergarden: La eternidad y la muñeca de recuerdos automáticos",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Fantasía",
+      "Animación"
+    ],
+    "rating": 8.1,
+    "points": 4,
+    "duration": "90 min",
+    "platform": "Netflix",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/m4TcBgEoyVZjSGqmhctz5uQQkxi.jpg",
+    "trailer": "https://www.youtube.com/embed/fpHaL3uJA2w?autoplay=1",
+    "desc": "Isabella es una chicca de la nobleza, que vive \"recluida\" por las estrictas reglas de su padre, hasta que recupera la esperanza al conocer a cierta persona… una chica llamada Violet Evergarden, una veterana de la guerra, que encontró un peculiar trabajo como escritora de cartas en los cuales tiene el reto de entender a los demás y escribir los sentimientos de sus clientes.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-795607",
+    "tmdbId": 795607,
+    "title": "La serpiente verde",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Fantasía",
+      "Acción",
+      "Aventura"
+    ],
+    "rating": 8.1,
+    "points": 4,
+    "duration": "132 min",
+    "platform": "Netflix",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/wpDfbawubKtY6JteqNv7wbNsSZx.jpg",
+    "trailer": "https://www.youtube.com/embed/kvwydcOAH2k?autoplay=1",
+    "desc": "Mientras intenta liberar a su hermana de las garras de Fahai, Xiao Qing acaba en una ciudad distópica y conoce a un misterioso hombre que no recuerda su pasado.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-663558",
+    "tmdbId": 663558,
+    "title": "Nezha: El renacer de un dios",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Fantasía",
+      "Acción"
+    ],
+    "rating": 8.1,
+    "points": 6,
+    "duration": "117 min",
+    "platform": "Netflix",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/bPj2YRLOnYtY7dQCZl3hHef9PZA.jpg",
+    "trailer": "https://www.youtube.com/embed/G0qiLpWdm5Q?autoplay=1",
+    "desc": "La historia tiene lugar tres mil años después de \"Nezha nao hai\". Nezha nace de nuevo ¿Qué desafíos enfrentará en esta vida? Un nuevo superhéroe está naciendo en silencio...",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-8392",
+    "tmdbId": 8392,
+    "title": "Mi vecino Totoro",
+    "type": "Película",
+    "genres": [
+      "Fantasía",
+      "Animación",
+      "Familia"
+    ],
+    "rating": 8.1,
+    "points": 12,
+    "duration": "86 min",
+    "platform": "Netflix",
+    "year": 1988,
+    "img": "https://image.tmdb.org/t/p/w500/uu6RaEAfkIQaolf20axWaRU4h3w.jpg",
+    "trailer": "https://www.youtube.com/embed/HaLISMAGdOE?autoplay=1",
+    "desc": "Dos chicas jóvenes, Mei y Satsuki, se mudan a una nueva casa cerca del hospital en el que se encuentra su madre. En el patio junto a la casa, existe un gran árbol que es el hogar de tres Totoros, dioses de la selva. Poco después, reciben noticias desde el hospital de que su madre no puede venir a casa como había prometido, por lo que Mei (la más joven) se escapa para ir a visitarla. Satsuki tiene que recurrir a un Totoro para ayudar a encontrarla.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-640344",
+    "tmdbId": 640344,
+    "title": "Me contro Te: Il film - La vendetta del Signor S",
+    "type": "Película",
+    "genres": [
+      "Familia",
+      "Fantasía"
+    ],
+    "rating": 8.1,
+    "points": 1,
+    "duration": "64 min",
+    "platform": "Netflix",
+    "year": 2020,
+    "img": "https://image.tmdb.org/t/p/w500/qnmbb2de5Bh3xNsBRqozQsbwBLh.jpg",
+    "trailer": "",
+    "desc": "Una joven pareja que hace videos populares de YouTube para niños se propone ganar un premio, pero una mente maestra malvada se interpone en el camino de su éxito.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-593691",
+    "tmdbId": 593691,
+    "title": "HOMECOMING: A film by Beyoncé",
+    "type": "Película",
+    "genres": [
+      "Documental",
+      "Música"
+    ],
+    "rating": 8.1,
+    "points": 1,
+    "duration": "137 min",
+    "platform": "Netflix",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/nKdP4K3Bj3qnjtDCq9lTg7UOHVy.jpg",
+    "trailer": "https://www.youtube.com/embed/fB8qvx0HOlI?autoplay=1",
+    "desc": "Esta mirada íntima y exhaustiva a la famosa actuación de Beyoncé en Coachella 2018 revela la senda emocional desde el concepto creativo hasta el movimiento cultural.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-51822",
+    "tmdbId": 51822,
+    "title": "Amar te duele",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "rating": 8,
+    "points": 4,
+    "duration": "104 min",
+    "platform": "Netflix",
+    "year": 2002,
+    "img": "https://image.tmdb.org/t/p/w500/wK5UVMVjWMLV71SLpCjUFrO8mHI.jpg",
+    "trailer": "https://www.youtube.com/embed/PaCulQK3V7w?autoplay=1",
+    "desc": "Renata (Martha Higareda) pertenece a una familia de la alta sociedad mexicana. Ulises (Luis Fernando Peña) es pobre, y trabaja con su padre en el mercado. Los dos jóvenes se enamoran en un centro comercial, pero ese idilio adolescente se encuentra con el rechazo de sus familias y amigos...",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-762975",
+    "tmdbId": 762975,
+    "title": "Corazones malheridos",
+    "type": "Película",
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "rating": 8,
+    "points": 6,
+    "duration": "122 min",
+    "platform": "Netflix",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/ndp4yIfg04i3raprDJ0UKWD8IK9.jpg",
+    "trailer": "https://www.youtube.com/embed/WTLgg8oRSBE?autoplay=1",
+    "desc": "Una aspirante a música y un marine a punto de irse a Irak deciden casarse por conveniencia. Pero una tragedia pronto convierte su relación falsa en algo muy real.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-829402",
+    "tmdbId": 829402,
+    "title": "Ultraman: El ascenso",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Ciencia ficción",
+      "Familia",
+      "Acción"
+    ],
+    "rating": 8,
+    "points": 4,
+    "duration": "116 min",
+    "platform": "Netflix",
+    "year": 2024,
+    "img": "https://image.tmdb.org/t/p/w500/2D7SsqU8VZOl838KR7q9pzljaLe.jpg",
+    "trailer": "https://www.youtube.com/embed/TwXgOMDONK8?autoplay=1",
+    "desc": "Una estrella del deporte vuelve a casa a regañadientes para seguir los pasos de su padre y convertirse en Ultraman, el héroe encargado de proteger Tokio de unos monstruos gigantes.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-518068",
+    "tmdbId": 518068,
+    "title": "Junto a los dioses: Los últimos 49 días",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía",
+      "Suspense"
+    ],
+    "rating": 8,
+    "points": 5,
+    "duration": "142 min",
+    "platform": "Netflix",
+    "year": 2018,
+    "img": "https://image.tmdb.org/t/p/w500/jR1oAKk8m71THgpAEWkBkW5mtrr.jpg",
+    "trailer": "https://www.youtube.com/embed/IxAXrPf57ZU?autoplay=1",
+    "desc": "La continuación de \"Along with the Gods: The Two Worlds\" no se hace de rogar. Aquí, Su-Hong y sus tres guardianes del más allá viajan a través de los siete infiernos para conseguir reencarnarse. Mientras, un dios desafía todas las reglas para ayudar a gente común en el mundo de los vivos.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-397567",
+    "tmdbId": 397567,
+    "title": "Along with the Gods: Los dos mundos",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Drama",
+      "Fantasía",
+      "Suspense"
+    ],
+    "rating": 8,
+    "points": 6,
+    "duration": "135 min",
+    "platform": "Netflix",
+    "year": 2017,
+    "img": "https://image.tmdb.org/t/p/w500/hEuIC6M7PnBewZo91DrRr3RIXYx.jpg",
+    "trailer": "https://www.youtube.com/embed/dyh_OY1DgqU?autoplay=1",
+    "desc": "Tras morir de forma inesperada, el bombero Ja-hong es llevado al más allá por tres guardianes. Sólo si pasa una serie de juicios durante y demuestra que es inocente en su vida, es apto para reencarnarse. Sus tres guardianes le apoyarán y le defenderán.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-872585",
+    "tmdbId": 872585,
+    "title": "Oppenheimer",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Historia"
+    ],
+    "rating": 8,
+    "points": 29,
+    "duration": "181 min",
+    "platform": "Netflix",
+    "year": 2023,
+    "img": "https://image.tmdb.org/t/p/w500/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg",
+    "trailer": "https://www.youtube.com/embed/qiuSBWVdgLI?autoplay=1",
+    "desc": "Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica. Basada en el libro 'American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer' de Kai Bird y Martin J. Sherwin.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-120467",
+    "tmdbId": 120467,
+    "title": "El gran hotel Budapest",
+    "type": "Película",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ],
+    "rating": 8,
+    "points": 11,
+    "duration": "99 min",
+    "platform": "Netflix",
+    "year": 2014,
+    "img": "https://image.tmdb.org/t/p/w500/1wk0vpNCX5T40KsGQKjfoDAhmJw.jpg",
+    "trailer": "https://www.youtube.com/embed/G1jG8HUY4zI?autoplay=1",
+    "desc": "El Sr. Gustave H., un legendario conserje de un famoso hotel europeo de entreguerras, entabla amistad con Zero Moustafa, un joven empleado al que convierte en su protegido. La historia trata sobre el robo y la recuperación de una pintura renacentista de valor incalculable y sobre la batalla que enfrenta a los miembros de una familia por una inmensa fortuna. Como telón de fondo, los levantamientos que transformaron Europa durante la primera mitad del siglo XX.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-803796",
+    "tmdbId": 803796,
+    "title": "Las guerreras k-pop",
+    "type": "Película",
+    "genres": [
+      "Fantasía",
+      "Música",
+      "Comedia",
+      "Animación"
+    ],
+    "rating": 8,
+    "points": 41,
+    "duration": "95 min",
+    "platform": "Netflix",
+    "year": 2025,
+    "img": "https://image.tmdb.org/t/p/w500/6EQMqEmdG5HoGe2zT1WwWUMvVhv.jpg",
+    "trailer": "https://www.youtube.com/embed/AzCAwdp1uIQ?autoplay=1",
+    "desc": "Cuando no están llenando estadios, las superestrellas del K-pop Rumi, Mira y Zoey usan sus poderes secretos para proteger a sus fans de una amenaza sobrenatural.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-555604",
+    "tmdbId": 555604,
+    "title": "Pinocho de Guillermo del Toro",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Fantasía",
+      "Aventura",
+      "Drama"
+    ],
+    "rating": 8,
+    "points": 6,
+    "duration": "117 min",
+    "platform": "Netflix",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/lGQR8HybJkO20DFTlrX3egEmvpR.jpg",
+    "trailer": "https://www.youtube.com/embed/Od2NW1sfRdA?autoplay=1",
+    "desc": "Versión musical en animación stop motion del famoso cuento de 'Pinocho', ambientada en la Italia fascista, durante la década de 1930.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-538362",
+    "tmdbId": 538362,
+    "title": "En mi propia piel",
+    "type": "Película",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 8,
+    "points": 1,
+    "duration": "100 min",
+    "platform": "Netflix",
+    "year": 2018,
+    "img": "https://image.tmdb.org/t/p/w500/jOvvIZjdbGVpPaQ8upPpZzttO3T.jpg",
+    "trailer": "https://www.youtube.com/embed/tI9wa-Y9O8s?autoplay=1",
+    "desc": "Stefano Cucchi, detenido en Roma por un delito de drogas, sufre una semana horrible de encarcelamiento que afecta a su familia para siempre.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-9277",
+    "tmdbId": 9277,
+    "title": "El golpe",
+    "type": "Película",
+    "genres": [
+      "Comedia",
+      "Crimen",
+      "Drama"
+    ],
+    "rating": 8,
+    "points": 5,
+    "duration": "122 min",
+    "platform": "Netflix",
+    "year": 1973,
+    "img": "https://image.tmdb.org/t/p/w500/1CuTYAQrU3PVZFH4aPp6tQARmUt.jpg",
+    "trailer": "https://www.youtube.com/embed/_nAIb_J9T5M?autoplay=1",
+    "desc": "En Illinois, en 1936, dos ladrones dan un golpe a un hombre de confianza de un gángster y se embolsan un montón de dinero. El gángster decide vengarse y mata a uno de los que dieron el golpe, mientras que el otro logra escapar y entra en contacto con un ex compinche. Los dos deciden intentar un gran timo que hará temblar las finanzas del jefe de la mafia.",
+    "categoria": "netflix"
+  },
+  {
+    "id": "tmdb-823754",
+    "tmdbId": 823754,
+    "title": "Bo Burnham: Inside",
+    "type": "Película",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ],
+    "rating": 8,
+    "points": 2,
+    "duration": "87 min",
+    "platform": "Netflix",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/ku1UvTWYvhFQbSesOD6zteY7bXT.jpg",
+    "trailer": "",
+    "desc": "Bo Burnham interpretó y grabó en solitario este especial de comedia musical a lo largo de un año muy, muy raro.",
+    "categoria": "netflix"
+  }
+]

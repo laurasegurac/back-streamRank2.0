@@ -32,7 +32,7 @@ function validateEmail(email) {
 /* ── GET /api/users ── */
 function getUsers(req, res) {
   db.all(
-    'SELECT id, username, email,password, created_at FROM users ORDER BY created_at DESC',
+    'SELECT id, username, email, created_at FROM users ORDER BY created_at DESC',
     [],
     (err, rows) => {
       if (err) return jsonResponse(res, 500, { ok: false, error: 'Error al obtener usuarios' });
@@ -44,7 +44,7 @@ function getUsers(req, res) {
 /* ── GET /api/users/:id ── */
 function getUserById(req, res, id) {
   db.get(
-    'SELECT id, username, email, password, created_at FROM users WHERE id = ?',
+    'SELECT id, username, email, created_at FROM users WHERE id = ?',
     [id],
     (err, row) => {
       if (err) return jsonResponse(res, 500, { ok: false, error: 'Error al obtener usuario' });
@@ -78,7 +78,7 @@ async function createUser(req, res) {
         function (err) {
           if (err) return jsonResponse(res, 500, { ok: false, error: 'Error al crear usuario' });
           db.get(
-            'SELECT id, username, email, password, created_at FROM users WHERE id = ?',
+            'SELECT id, username, email, created_at FROM users WHERE id = ?',
             [this.lastID],
             (err, newUser) => {
               if (err) return jsonResponse(res, 500, { ok: false, error: 'Error al obtener usuario creado' });
@@ -147,7 +147,7 @@ async function updateUser(req, res, id) {
         (err) => {
           if (err) return jsonResponse(res, 500, { ok: false, error: 'Error al actualizar' });
           db.get(
-            'SELECT id, username, email, password, created_at FROM users WHERE id = ?',
+            'SELECT id, username, email, created_at FROM users WHERE id = ?',
             [id],
             (err, updated) => {
               if (err) return jsonResponse(res, 500, { ok: false, error: 'Error interno' });

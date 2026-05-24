@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "tmdb-1139087",
+    "tmdbId": 1139087,
+    "title": "Érase una vez un estudio",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Fantasía",
+      "Drama",
+      "Comedia"
+    ],
+    "rating": 8.3,
+    "points": 5,
+    "duration": "9 min",
+    "platform": "Disney+",
+    "year": 2023,
+    "img": "https://image.tmdb.org/t/p/w500/81BdCKeRtyHr0muZY72zYr0JM3j.jpg",
+    "trailer": "https://www.youtube.com/embed/JuQrVla3TTk?autoplay=1",
+    "desc": "Los queridos personajes de los 100 años de Disney Animation tienen un reencuentro inolvidable.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-8587",
+    "tmdbId": 8587,
+    "title": "El rey león",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Drama"
+    ],
+    "rating": 8.3,
+    "points": 21,
+    "duration": "85 min",
+    "platform": "Disney+",
+    "year": 1994,
+    "img": "https://image.tmdb.org/t/p/w500/b0MxU37dNmMwKtoPVYPKOZSIrIn.jpg",
+    "trailer": "https://www.youtube.com/embed/UgjEj5mXLlk?autoplay=1",
+    "desc": "La sabana africana es el escenario en el que tienen lugar las aventuras de Simba, un pequeño león que es el heredero del trono. Sin embargo, se ve forzado a exiliarse al ser injustamente acusado de la muerte de su padre. Durante su destierro, hará buenas amistades y, finalmente, regresará para recuperar lo que legítimamente le corresponde.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-606856",
+    "tmdbId": 606856,
+    "title": "Togo",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Familia"
+    ],
+    "rating": 8.1,
+    "points": 5,
+    "duration": "111 min",
+    "platform": "Netflix",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/921q4gPNN4J6UxvKaw6SCNBe3F8.jpg",
+    "trailer": "https://www.youtube.com/embed/HMfyueM-ZBQ?autoplay=1",
+    "desc": "'Togo' es la historia real no contada ambientada en el invierno de 1925 de un periplo por el terreno traicionero de la tundra de Alaska en busca de una aventura emocionante que pondrá a prueba la fuerza, el coraje y la determinación de un hombre, Leonhard Seppala, y de su perro de trineo guía, Togo.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-831827",
+    "tmdbId": 831827,
+    "title": "Lejos del árbol",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Familia"
+    ],
+    "rating": 8.1,
+    "points": 2,
+    "duration": "7 min",
+    "platform": "Disney+",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/ebQ8RXIjKZoGnpZ7mFs7z2iklb6.jpg",
+    "trailer": "https://www.youtube.com/embed/dPKg1du3xmI?autoplay=1",
+    "desc": "En una playa idílica en el noroeste del Pacífico, la curiosidad se apodera de un mapache joven cuyo padre frustrado intenta mantenerlos a ambos a salvo.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-140420",
+    "tmdbId": 140420,
+    "title": "Paperman",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Romance",
+      "Comedia",
+      "Fantasía"
+    ],
+    "rating": 8,
+    "points": 1,
+    "duration": "7 min",
+    "platform": "Disney+",
+    "year": 2012,
+    "img": "https://image.tmdb.org/t/p/w500/9tvF744hwTm2Bn9hkDjMfEsysKz.jpg",
+    "trailer": "https://www.youtube.com/embed/mM6cLnscmO8?autoplay=1",
+    "desc": "Un joven solitario de los años 50 de Nueva York solo cuenta con su corazón, su imaginación y un montón de papeles para conquistar a la mujer de sus sueños.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-337404",
+    "tmdbId": 337404,
+    "title": "Cruella",
+    "type": "Película",
+    "genres": [
+      "Comedia",
+      "Crimen"
+    ],
+    "rating": 8,
+    "points": 15,
+    "duration": "134 min",
+    "platform": "Disney+",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/tNFBP5OTmKm7CTc5ptUwgmepd8G.jpg",
+    "trailer": "https://www.youtube.com/embed/jpZrVxvG3mk?autoplay=1",
+    "desc": "Ambientada en el Londres de los años 70, en plena revolución del punk rock, muestra a una joven estafadora llamada Estella, una chica inteligente y creativa, decidida a convertirse en una exitosa diseñadora de moda, que se asocia con un par de ladrones para sobrevivir en las calles de la capital británica. Pero cuando su talento para la moda llama la atención de la legendaria diseñadora, la Baronesa von Hellman, Estella cambia el rumbo de su vida hasta que una serie de acontecimientos y revelaciones que harán que Estella asuma su lado malvado y se convierta en la estridente, moderna y vengativa Cruella de Vil.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-10674",
+    "tmdbId": 10674,
+    "title": "Mulán",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Aventura"
+    ],
+    "rating": 7.9,
+    "points": 15,
+    "duration": "88 min",
+    "platform": "Disney+",
+    "year": 1998,
+    "img": "https://image.tmdb.org/t/p/w500/towmTJ0k29quKI9IDnOZKAAtQx.jpg",
+    "trailer": "https://www.youtube.com/embed/2z2KsFZs-8I?autoplay=1",
+    "desc": "Mulán, una joven china hija única de la familia Fa, en lugar de buscar novio, como sus amigas, trata por todos los medios de alistarse en el ejército imperial para evitar que su anciano padre sea llamado a filas para defender al Emperador del acoso de los Hunos. Cuando el emisario imperial lleva a cabo la orden de reclutar a los varones de todas las familias, Mulán se hará pasar por soldado y se someterá a un duro entrenamiento hasta hacerse merecedora de la estima y de la confianza del resto de su escuadrón.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-774531",
+    "tmdbId": 774531,
+    "title": "La joven y el mar",
+    "type": "Película",
+    "genres": [
+      "Historia",
+      "Drama"
+    ],
+    "rating": 7.9,
+    "points": 3,
+    "duration": "100 min",
+    "platform": "Disney+",
+    "year": 2024,
+    "img": "https://image.tmdb.org/t/p/w500/oyQXRZD0CHC4sf3lMph3X3cJzSw.jpg",
+    "trailer": "https://www.youtube.com/embed/7tNvrYzPUrk?autoplay=1",
+    "desc": "Esta es la extraordinaria historia real de Trudy Ederle, la primera mujer que cruzó el canal de la Mancha a nado. Gracias al apoyo inquebrantable de su hermana mayor y sus entrenadores, supera todas las adversidades, así como la hostilidad de una sociedad patriarcal, y logra llegar a lo más alto del equipo olímpico de natación y completar con éxito la travesía de 33 kilómetros entre Francia e Inglaterra.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-293299",
+    "tmdbId": 293299,
+    "title": "Buenas migas",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Drama",
+      "Familia"
+    ],
+    "rating": 7.8,
+    "points": 1,
+    "duration": "6 min",
+    "platform": "Disney+",
+    "year": 2014,
+    "img": "https://image.tmdb.org/t/p/w500/iiKxK5ddn3pSJ8sp135Xx3MB63d.jpg",
+    "trailer": "",
+    "desc": "Vemos la historia de la vida amorosa de un hombre a través de los ojos de su mejor amigo, su perro Winston, que, mordisco a mordisco, se va revelando a través de las comidas que comparten.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-406785",
+    "tmdbId": 406785,
+    "title": "Funcionamiento interno",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Comedia"
+    ],
+    "rating": 7.8,
+    "points": 1,
+    "duration": "7 min",
+    "platform": "Disney+",
+    "year": 2016,
+    "img": "https://image.tmdb.org/t/p/w500/asz4eDCainN6iGZSNjkyoCo2jsO.jpg",
+    "trailer": "https://www.youtube.com/embed/xoP9OQxSd9c?autoplay=1",
+    "desc": "Esta es la historia del tira y afloja que sufre Paul. Su cerebro es pragmático y lógico, mientras que su corazón es despreocupado, aventurero y dispuesto a dejarse llevar.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-22",
+    "tmdbId": 22,
+    "title": "Piratas del Caribe: La maldición de la Perla Negra",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Fantasía",
+      "Acción"
+    ],
+    "rating": 7.8,
+    "points": 45,
+    "duration": "143 min",
+    "platform": "Disney+",
+    "year": 2003,
+    "img": "https://image.tmdb.org/t/p/w500/bVG48kmXuLaZYgPfSCmhs6EYFbX.jpg",
+    "trailer": "https://www.youtube.com/embed/-9HT0l9HV4c?autoplay=1",
+    "desc": "El aventurero capitán Jack Sparrow recorre las aguas caribeñas. Pero su andanzas terminan cuando su enemigo, el capitán Barbossa le roba su barco, la Perla Negra, y ataca la ciudad de Port Royal, secuestrando a Elizabeth Swann, hija del gobernador. Will Turner, el amigo de la infancia de Elizabeth, se une a Jack para rescatarla y recuperar la Perla Negra. Pero el prometido de Elizabeth, comodoro Norrington, les persigue a bordo del HMS Impávido. Además, Barbossa y su tripulación son víctimas de un conjuro por el que están condenados a vivir eternamente, y a transformarse cada noche en esqueletos vivientes, en fantasmas guerreros.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-779047",
+    "tmdbId": 779047,
+    "title": "Nosotros de nuevo",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Drama",
+      "Familia",
+      "Romance"
+    ],
+    "rating": 7.8,
+    "points": 1,
+    "duration": "7 min",
+    "platform": "Disney+",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/qvYuHbO3YQ74pam3uieWzXj3ZXr.jpg",
+    "trailer": "https://www.youtube.com/embed/0ylr70WNAe8?autoplay=1",
+    "desc": "Ambientado en una vibrante ciudad llena de ritmo y movimiento, un anciano y su esposa, joven de corazón, recuperan la pasión que sienten uno por el otro y por la vida durante una noche mágica. Los años se desvanecen mientras la alegría de bailar los lleva por el apasionante paisaje urbano de su juventud y les hace revivir recuerdos y ambiciones.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-10020",
+    "tmdbId": 10020,
+    "title": "La bella y la bestia",
+    "type": "Película",
+    "genres": [
+      "Romance",
+      "Familia",
+      "Animación",
+      "Fantasía"
+    ],
+    "rating": 7.7,
+    "points": 13,
+    "duration": "84 min",
+    "platform": "Disney+",
+    "year": 1991,
+    "img": "https://image.tmdb.org/t/p/w500/1FxMtEUc6DP1MXsTBftOFaoCVVO.jpg",
+    "trailer": "https://www.youtube.com/embed/0QwuPbbT_zk?autoplay=1",
+    "desc": "Una hermosa joven llamada Bella acepta alojarse en un castillo con una bestia a cambio de la libertad de su padre. La bestia es, en realidad, un príncipe encantado. Para romper el hechizo, deberá ganarse el amor de una preciosa dama antes de que caiga el último pétalo de una rosa encantada.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-40619",
+    "tmdbId": 40619,
+    "title": "Día y noche",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Comedia"
+    ],
+    "rating": 7.7,
+    "points": 1,
+    "duration": "6 min",
+    "platform": "Disney+",
+    "year": 2010,
+    "img": "https://image.tmdb.org/t/p/w500/uEzLDVn1r7GhV2WMFbmtMbA2sHz.jpg",
+    "trailer": "https://www.youtube.com/embed/k3XqALiIQHI?autoplay=1",
+    "desc": "Cuando Día, un tipo soleado, se encuentra con Noche, un desconocido con hábitos más oscuros, saltan chispas. Ambos se temen, desconfían el uno del otro. Sin embargo, a medida que cada uno va descubriendo las cualidades del otro, se dan cuenta de que sus contrapuestas visiones del mundo pueden ser complementarias e incluso beneficiosas.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-14813",
+    "tmdbId": 14813,
+    "title": "Cuento de Navidad con Mickey",
+    "type": "Película",
+    "genres": [
+      "Familia",
+      "Animación"
+    ],
+    "rating": 7.7,
+    "points": 2,
+    "duration": "25 min",
+    "platform": "",
+    "year": 1983,
+    "img": "https://image.tmdb.org/t/p/w500/3fp6Og76ETtbKGiMffBTsrCcXJ3.jpg",
+    "trailer": "https://www.youtube.com/embed/eCO4D7KTRtE?autoplay=1",
+    "desc": "Ebenezer Scrooge (Gilito McPato) es un viejo banquero avaricioso y ruin. Además de no dar dinero a los pobres, hace trabajar sin parar a su ayudante Bob Cratchit (Mickey Mouse). Una noche, cuando a Scrooge le visita el fantasma de su antiguo socio, Jacobo Marley (Goofy), éste le dice que por sus maldades acabará arrastrando unas pesadas cadenas para toda la eternidad, al igual que le pasa a él, y le avisa de que esa misma noche le visitarán tres espíritus a los que debe escuchar antes de que sea demasiado tarde.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-10637",
+    "tmdbId": 10637,
+    "title": "Titanes, hicieron historia",
+    "type": "Película",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 7.6,
+    "points": 9,
+    "duration": "113 min",
+    "platform": "Disney+",
+    "year": 2000,
+    "img": "https://image.tmdb.org/t/p/w500/fh9fyi0pEpsY1vli8b0myyqRuJ2.jpg",
+    "trailer": "https://www.youtube.com/embed/nPhu9XsRl4M?autoplay=1",
+    "desc": "Corre el año 1971, cuando en la ciudad de Alexandria, Virginia, se tomó la polémica decisión de integrar en el Secundario T.C. Williams a los estudiantes de raza negra con los de raza blanca. Los jugadores blancos veían con temor el ingreso de jugadores negros al equipo, llamado \"Los Titanes\", pues ponía en peligro sus puestos. Su miedo aumentó cuando el hasta entonces entrenador Bill Yoast es reemplazado en su cargo por Herman Boone, de raza afroamericana.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-508439",
+    "tmdbId": 508439,
+    "title": "Onward",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "rating": 7.6,
+    "points": 7,
+    "duration": "102 min",
+    "platform": "Disney+",
+    "year": 2020,
+    "img": "https://image.tmdb.org/t/p/w500/tHWeWBBOlkPYdlZcjSKeToQvgZg.jpg",
+    "trailer": "https://www.youtube.com/embed/HxKXiQvyG_o?autoplay=1",
+    "desc": "Ambientado en un mundo de fantasía suburbana, dos hermanos elfos adolescentes, Ian y Barley Lightfood, se embarcan en una aventura en la que se proponen descubrir si existe aún algo de magia en el mundo que les permita pasar un último día con su padre, que falleció cuando ellos eran aún muy pequeños como para poder recordarlo.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-234567",
+    "tmdbId": 234567,
+    "title": "Es hora de viajar",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Comedia"
+    ],
+    "rating": 7.6,
+    "points": 1,
+    "duration": "6 min",
+    "platform": "Disney+",
+    "year": 2013,
+    "img": "https://image.tmdb.org/t/p/w500/uilfIBBhTWVuBZQ2KTlOeaapI4E.jpg",
+    "trailer": "https://www.youtube.com/embed/7CUaI-PPc50?autoplay=1",
+    "desc": "Mickey, Minnie y Clarabelle Cow se unen a Horace Horsecollar (Horacio) cuando esté pasea en un carruaje lleno de heno disfrutando de la música tocada por sus amigos, en ese momento aparece Peg-Leg Pete (Pete el Malo) que trata de echarlos fuera de la carretera.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-38757",
+    "tmdbId": 38757,
+    "title": "Enredados",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Aventura"
+    ],
+    "rating": 7.6,
+    "points": 18,
+    "duration": "101 min",
+    "platform": "Disney+",
+    "year": 2010,
+    "img": "https://image.tmdb.org/t/p/w500/z5kvXWek4smCyeWBDJQkT5sLc9T.jpg",
+    "trailer": "https://www.youtube.com/embed/gsYKF8ecC8g?autoplay=1",
+    "desc": "Flynn Rider, el más buscado -y encantador- bandido del reino, se esconde en una misteriosa torre y allí se encuentra con Rapunzel, una bella y avispada adolescente con una cabellera dorada de 21 metros de largo, que vive encerrada allí desde hace años. Ambos sellan un pacto y a partir de ese momento la pareja vivirá emocionantes aventuras en compañía de un caballo superpolicía, un camaleón sobreprotector y una ruda pandilla de matones",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-759054",
+    "tmdbId": 759054,
+    "title": "Superación: La historia de la familia Antetokounmpo",
+    "type": "Película",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 7.6,
+    "points": 2,
+    "duration": "113 min",
+    "platform": "Disney+",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/pBrjWoIKhkOhCyBI4To0CIbUgiC.jpg",
+    "trailer": "https://www.youtube.com/embed/numzJtJWT8c?autoplay=1",
+    "desc": "Después de emigrar a Grecia desde Nigeria, Vera y Charles Antetokounmpo lucharon por sobrevivir y mantener a sus cinco hijos, mientras vivían bajo la amenaza diaria de la deportación. Desesperados por obtener la ciudadanía griega pero socavados por un sistema que los bloqueaba en todo momento, la visión, la determinación y la fe de la familia los sacaron de la oscuridad para lanzar las carreras de tres campeones de la NBA.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-9016",
+    "tmdbId": 9016,
+    "title": "El planeta del tesoro",
+    "type": "Película",
+    "genres": [
+      "Ciencia ficción",
+      "Aventura",
+      "Animación",
+      "Familia",
+      "Fantasía"
+    ],
+    "rating": 7.6,
+    "points": 8,
+    "duration": "95 min",
+    "platform": "Disney+",
+    "year": 2002,
+    "img": "https://image.tmdb.org/t/p/w500/cwwRIK1V1R6QQKromGi0OaJLD8l.jpg",
+    "trailer": "https://www.youtube.com/embed/nYzW3jfoEUw?autoplay=1",
+    "desc": "Jim, un surfista solar, se enfrenta a una cacería intergaláctica de tesoros cuando cae en sus manos un legendario mapa que le llevará a buscar la fortuna más grande del Universo. A bordo de un espectacular 'galeón solar', Jim se convierte en el ayudante del cocinero del barco, John Silver -mitad hombre, mitad máquina-, que le enseña a ser un buen explorador del espacio.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-11688",
+    "tmdbId": 11688,
+    "title": "El emperador y sus locuras",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "rating": 7.6,
+    "points": 14,
+    "duration": "78 min",
+    "platform": "Disney+",
+    "year": 2000,
+    "img": "https://image.tmdb.org/t/p/w500/X9jChoAotaGU81lEraUVi8RHOe.jpg",
+    "trailer": "https://www.youtube.com/embed/vjlPrTzOPUI?autoplay=1",
+    "desc": "El arrogante y egoísta emperador Cuzco es traicionado y convertido en llama por la ambiciosa Yzma y su guardaespaldas Kronk. El emperador, que una vez lo tuvo todo, se verá abocado a confiar en un llano y simpático campesino llamado Pacha, para encontrarse a sí mismo.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-11544",
+    "tmdbId": 11544,
+    "title": "Lilo & Stitch",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Comedia",
+      "Ciencia ficción"
+    ],
+    "rating": 7.6,
+    "points": 11,
+    "duration": "85 min",
+    "platform": "Disney+",
+    "year": 2002,
+    "img": "https://image.tmdb.org/t/p/w500/dTYyAszU6NWbmWGvhqLZpZTdS5T.jpg",
+    "trailer": "https://www.youtube.com/embed/wAtaSKQ4-T0?autoplay=1",
+    "desc": "Lilo es una niña hawaiana que se siente sola y decide adoptar un \"perro\" muy feo al que llama Stitch. Stitch sería la mascota perfecta... si no fuera en realidad un experimento genético que ha escapado de un planeta alienígena y que ha aterrizado por casualidad en la tierra.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-727306",
+    "tmdbId": 727306,
+    "title": "Safety: La última línea de defensa",
+    "type": "Película",
+    "genres": [
+      "Familia",
+      "Drama",
+      "Historia"
+    ],
+    "rating": 7.5,
+    "points": 1,
+    "duration": "122 min",
+    "platform": "Disney+",
+    "year": 2020,
+    "img": "https://image.tmdb.org/t/p/w500/3SwUcvS7HPLLjd1ttwSW26Kb1li.jpg",
+    "trailer": "https://www.youtube.com/embed/m0j8O2swT5o?autoplay=1",
+    "desc": "\"Safety\" es una película basada en la inspiradora historia de Ray McElrathbey, antiguo \"safety\" de la Universidad de Clemson, un joven que se enfrentó a todo tipo de dificultades y cuya dedicación y persistencia le permitieron superar numerosas adversidades. Con ayuda de sus compañeros de equipo y de la comunidad de Clemson, logró triunfar en el campo, a la vez que criaba y cuidaba de Fahmarr, su hermano de once años.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-228203",
+    "tmdbId": 228203,
+    "title": "McFarland",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Familia"
+    ],
+    "rating": 7.5,
+    "points": 3,
+    "duration": "128 min",
+    "platform": "Disney+",
+    "year": 2015,
+    "img": "https://image.tmdb.org/t/p/w500/71bNxM4kKh2tSBwTgV4V8C0Bcaj.jpg",
+    "trailer": "https://www.youtube.com/embed/74eJaVQFybI?autoplay=1",
+    "desc": "'McFarland' cuenta la historia de un entrenador de atletismo (interpretado por Kevin Costner, 'The Guardian' y 'El último voto') que hace lo posible por intentar reconstruir un equipo perteneciente al instituto de educación secundaria de una pequeña ciudad de California. A través de una enérgica motivación, el instructor consigue estimular la habilidad, la competitividad y el desarrollo de los alumnos que componen el equipo. El grupo de jóvenes deportistas, de la mano de este destacado entrenador, tendrá que hacer frente a numerosos obstáculos de carácter físico y social a lo largo de su recorrido y evolución. La capacidad de superación del preparador de la cuadrilla servirá de inspiración a todos los miembros del equipo, que tras un duro recorrido verán recompensado su esfuerzo y dedicación.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-10437",
+    "tmdbId": 10437,
+    "title": "Los Teleñecos en Cuento de Navidad",
+    "type": "Película",
+    "genres": [
+      "Música",
+      "Comedia",
+      "Familia",
+      "Fantasía",
+      "Drama"
+    ],
+    "rating": 7.4,
+    "points": 3,
+    "duration": "86 min",
+    "platform": "Disney+",
+    "year": 1992,
+    "img": "https://image.tmdb.org/t/p/w500/lgYHWsO9g9reG9RXiXbVhoQ5DZW.jpg",
+    "trailer": "https://www.youtube.com/embed/JXaVI60BFJM?autoplay=1",
+    "desc": "El clásico 'Cuento de Navidad' de Charles Dickens brilla con humor y fantasía en las manos de los siempre divertidos Teleñecos. Michael Caine da vida al avaro Mr. Scrooge, en una excelente interpretación que sin embargo no se caracteriza por su buen humor. La noche de navidad los fantasmas visitan a Scrooge y lo transportan a su pasado, presente y futuro, ofreciéndole un panorama muy poco alentador...",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-352812",
+    "tmdbId": 352812,
+    "title": "Cuento Tick Tock",
+    "type": "Película",
+    "genres": [
+      "Animación"
+    ],
+    "rating": 7.4,
+    "points": 0,
+    "duration": "7 min",
+    "platform": "Disney+",
+    "year": 2015,
+    "img": "https://image.tmdb.org/t/p/w500/adx0vSGKAwSd9rydH6vUJXMkh7x.jpg",
+    "trailer": "",
+    "desc": "",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-9918",
+    "tmdbId": 9918,
+    "title": "Camino a la gloria",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Historia"
+    ],
+    "rating": 7.4,
+    "points": 4,
+    "duration": "118 min",
+    "platform": "Disney+",
+    "year": 2006,
+    "img": "https://image.tmdb.org/t/p/w500/lVTQtULJnhO0PVGFAE1Pqjutd0I.jpg",
+    "trailer": "https://www.youtube.com/embed/uEd69QSBI0s?autoplay=1",
+    "desc": "\"Camino a la gloria\" cuenta la historia real del equipo de baloncesto de la Universidad Texas Western que contó con el primer jugador negro de la historia y que revolucionó el país al conquistar el título de la NCAA en 1966. Josh Lucas interpreta a Don Haskins, un apasionado entrenador de baloncesto universitario que cambió la historia de este deporte gracias al triunfo de su equipo en una época en la que todavía imperaba la inocencia y la ingenuidad.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-39486",
+    "tmdbId": 39486,
+    "title": "Secretariat",
+    "type": "Película",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 7.4,
+    "points": 4,
+    "duration": "123 min",
+    "platform": "Disney+",
+    "year": 2010,
+    "img": "https://image.tmdb.org/t/p/w500/6YJ39NqRJ0ljUQohizHmE2hB6Wh.jpg",
+    "trailer": "",
+    "desc": "Narra las peripecias del ganador de la Triple Corona en 1973. Penny Chenery es una madre y ama de casa que, al enfermar su padre, se compromete a hacerse cargo de las caballerizas de la familia, en Virginia. Aunque ignora todo cuanto se refiere al mundo de las carreras de caballos, con la ayuda de un veterano entrenador y contra todo pronóstico, acaba consiguiendo la primera Triple Corona en 25 años, gracias a uno de los mejores caballos de carreras de todos los tiempos.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-37135",
+    "tmdbId": 37135,
+    "title": "Tarzán",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Aventura"
+    ],
+    "rating": 7.4,
+    "points": 10,
+    "duration": "88 min",
+    "platform": "Disney+",
+    "year": 1999,
+    "img": "https://image.tmdb.org/t/p/w500/1Gk8iihu4Q4BGh2n1IwNLB3zM8E.jpg",
+    "trailer": "https://www.youtube.com/embed/JYOMf4SS2oA?autoplay=1",
+    "desc": "Cuando Kala, una gorila hembra, encuentra un niño huérfano en la jungla, decide adoptarlo como su propio hijo a pesar de la oposición de Kerchak, el jefe de la manada. Junto a Terk, un gracioso mono, y Tantor, un elefante algo neurótico, Tazán crecerá en la jungla desarrollando los instintos de los animales y aprendiendo a deslizarse entre los árboles a velocidad de vértigo. Pero cuando una expedición se adentra en la jungla y Tarzán conoce a Jane, descubrirá quién es realmente y cuál es el mundo al que pertenece...",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-382748",
+    "tmdbId": 382748,
+    "title": "Stargirl",
+    "type": "Película",
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Romance",
+      "Familia"
+    ],
+    "rating": 7.4,
+    "points": 1,
+    "duration": "107 min",
+    "platform": "MovistarTV",
+    "year": 2020,
+    "img": "https://image.tmdb.org/t/p/w500/gwsrtzSrr7G6xjxsa7IwaAMHpEF.jpg",
+    "trailer": "https://www.youtube.com/embed/pTwCA-0koSg?autoplay=1",
+    "desc": "En el Instituto Mica de Arizona, todo es siempre lo mismo, hasta que un día llega Susan 'Stargirl' Caraway, una joven que siempre había estudiado en casa y revoluciona las aulas con su aura colorida y su contínua música de ukelele.\r Su singularidad parece no gustar mucho a los chavales del instituto, pero todo es diferente para Leo que no puede evitar su fascinación por la joven.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-58",
+    "tmdbId": 58,
+    "title": "Piratas del Caribe: El cofre del hombre muerto",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Fantasía",
+      "Acción"
+    ],
+    "rating": 7.4,
+    "points": 23,
+    "duration": "151 min",
+    "platform": "Disney+",
+    "year": 2006,
+    "img": "https://image.tmdb.org/t/p/w500/7L7H6sHAt48EfwsqFaa0dw2NJhz.jpg",
+    "trailer": "https://www.youtube.com/embed/9SFWn9taQTw?autoplay=1",
+    "desc": "Will Turner y Elizabeth Swann se van a casar, pero ambos son hechos prisioneros por Lord Cutler Beckett y acusados de haber liberado al capitán Jack Sparrow. Para salvar su vida, Will tendrá que encontrar a Jack y conseguir su misteriosa brújula. Esta esconde un gran poder, además de la clave de una deuda de sangre del pirata con un temible y siniestro Davy Jones, el legendario capitán del barco fantasma Holandés Errante.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-23438",
+    "tmdbId": 23438,
+    "title": "La fuerza del valor",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Familia"
+    ],
+    "rating": 7.4,
+    "points": 1,
+    "duration": "90 min",
+    "platform": "",
+    "year": 1991,
+    "img": "https://image.tmdb.org/t/p/w500/kY7KaiN3vh4g49Pn3ShM2ATnFVw.jpg",
+    "trailer": "https://www.youtube.com/embed/ew3S69fcRq0?autoplay=1",
+    "desc": "Una huérfana fugitiva, la joven Sonora, persiste en un trabajo de baja categoría limpiando establos en la feria de espectáculo de acrobacias de Doc Carver. Su gran deseo es convertirse en la \"Chica de buceo\", un desafío a la muerte, pero Doc niega sus súplicas. Sin desanimarse, Sonora persiste y lo consigue. Al borde de la fama, sin embargo, un cruel giro del destino amenaza con destruir su sueño.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-508570",
+    "tmdbId": 508570,
+    "title": "El magnífico Iván",
+    "type": "Película",
+    "genres": [
+      "Familia",
+      "Comedia",
+      "Drama"
+    ],
+    "rating": 7.3,
+    "points": 3,
+    "duration": "95 min",
+    "platform": "MovistarTV",
+    "year": 2020,
+    "img": "https://image.tmdb.org/t/p/w500/a8DMtkQBCA44tDNxapqsF99M6K0.jpg",
+    "trailer": "https://www.youtube.com/embed/MK9i6l7oao4?autoplay=1",
+    "desc": "Ivan es un gorila de espalda plateada de 400 libras que comparte un hábitat comunal en un centro comercial suburbano con Stella el elefante, Bob el perro y varios otros animales. Tiene pocos recuerdos de la jungla donde fue capturado, pero cuando llega una cría de elefante llamada Ruby, toca algo profundo dentro de él. Ruby se separó recientemente de su familia en la naturaleza, lo que le hace cuestionar su vida, de dónde viene y dónde quiere estar en última instancia.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-140823",
+    "tmdbId": 140823,
+    "title": "Al encuentro de Mr. Banks",
+    "type": "Película",
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Historia"
+    ],
+    "rating": 7.3,
+    "points": 3,
+    "duration": "125 min",
+    "platform": "Disney+",
+    "year": 2013,
+    "img": "https://image.tmdb.org/t/p/w500/wxJN9aTc6kB14OYaFBC0ylLw2SV.jpg",
+    "trailer": "https://www.youtube.com/embed/nijccxWvyXU?autoplay=1",
+    "desc": "Producción centrada en la historia real de cómo Walt Disney estuvo catorce años cortejando a la escritora australiana P.L. Travers para que le cediera los derechos cinematográficos de su primera y más popular novela, 'Mary Poppins', y que finalmente fue llevada a la gran pantalla en 1964 en el clásico filme protagonizado por Julie Andrews.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-762509",
+    "tmdbId": 762509,
+    "title": "Mufasa: El rey león",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Familia",
+      "Animación"
+    ],
+    "rating": 7.3,
+    "points": 21,
+    "duration": "118 min",
+    "platform": "Disney+",
+    "year": 2024,
+    "img": "https://image.tmdb.org/t/p/w500/dmw74cWIEKaEgl5Dv3kUTcCob6D.jpg",
+    "trailer": "https://www.youtube.com/embed/lMXh6vjiZrI?autoplay=1",
+    "desc": "Rafiki debe transmitir la leyenda de Mufasa a la joven cachorro de león Kiara, hija de Simba y Nala, y con Timón y Pumba prestando su estilo característico. Mufasa, un cachorro huérfano, perdido y solo, conoce a un simpático león llamado Taka, heredero de un linaje real. Este encuentro casual pone en marcha un viaje de un extraordinario grupo de inadaptados que buscan su destino.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-15487",
+    "tmdbId": 15487,
+    "title": "Juego de honor",
+    "type": "Película",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 7.3,
+    "points": 4,
+    "duration": "120 min",
+    "platform": "Disney+",
+    "year": 2005,
+    "img": "https://image.tmdb.org/t/p/w500/zv8adNlsTTOkcyrRwODlHREXaPU.jpg",
+    "trailer": "https://www.youtube.com/embed/sv6FZMeA2Mw?autoplay=1",
+    "desc": "El joven jugador amateur Francis Quimet tiene un talento innato para el golf y un gran sueño: llegar a competir con los mejores jugadores del mundo en un gran torneo. Para un chico de clase humilde, esto es prácticamente imposible. Pero, a fuerza de voluntad, coraje y talento, Quimet intentará vencer todas las barreras para convertirse en campeón del Open de Estados Unidos...",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-420814",
+    "tmdbId": 420814,
+    "title": "Christopher Robin",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "rating": 7.3,
+    "points": 4,
+    "duration": "100 min",
+    "platform": "Disney+",
+    "year": 2018,
+    "img": "https://image.tmdb.org/t/p/w500/dECHNeABQCuG4B08eDpgbDOUVCI.jpg",
+    "trailer": "https://www.youtube.com/embed/kHnqoHj1ipk?autoplay=1",
+    "desc": "En esta nueva aventura de acción real, el niño que se embarcó en innumerables aventuras en el bosque de los Cien Acres con su banda de animales de peluche, ha crecido y…  ha perdido el rumbo. Ahora les toca a sus amigos de la infancia aventurarse en nuestro mundo y ayudar a Christopher Robin a recordar al niño cariñoso y juguetón que aún tiene dentro.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-420809",
+    "tmdbId": 420809,
+    "title": "Maléfica: Maestra del mal",
+    "type": "Película",
+    "genres": [
+      "Familia",
+      "Fantasía",
+      "Aventura"
+    ],
+    "rating": 7.3,
+    "points": 10,
+    "duration": "119 min",
+    "platform": "Disney+",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/eZOkXqHXWCKytd78TggAtJ0M3gU.jpg",
+    "trailer": "https://www.youtube.com/embed/AZJUQ9Sp_0U?autoplay=1",
+    "desc": "Maléfica: Maestra del mal, de Disney, es una aventura de fantasía que retoma la historia de Maléfica varios años más tarde —en la que se dieron a conocer los hechos que endurecieron el corazón de la villana más emblemática de Disney y la llevaron a arrojar una maldición sobre la princesa recién nacida: Aurora. La película continúa explorando la compleja relación entre el hada de enormes cuernos y la futura reina, mientras forjan nuevas alianzas y se enfrentan a nuevos adversarios en su lucha por proteger el páramo y las criaturas mágicas que lo habitan.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-451048",
+    "tmdbId": 451048,
+    "title": "Jungle Cruise",
+    "type": "Película",
+    "genres": [
+      "Fantasía",
+      "Aventura",
+      "Acción"
+    ],
+    "rating": 7.3,
+    "points": 16,
+    "duration": "127 min",
+    "platform": "Disney+",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/HPEXPFY5B2TWyC1mKoUtz4fNsB.jpg",
+    "trailer": "https://www.youtube.com/embed/hJZ82pwwJqA?autoplay=1",
+    "desc": "Principios del siglo XX. Frank es el carismático capitán de una peculiar embarcación que recorre la selva amazónica. Allí, a pesar de los peligros que el río Amazonas les tiene preparados, Frank llevará en su barco a la científica Lily Houghton y a su hermano McGregor Houghton. Su misión será encontrar un árbol místico que podría tener poderes curativos. Claro que su objetivo no será fácil, y en su aventura se encontrarán con toda clase de dificultades, además de una expedición alemana que busca también este árbol con propiedades curativas. Esta comedia de acción y aventuras está basada en la atracción Jungle Cruise de los parques de ocio de Disney.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-13932",
+    "tmdbId": 13932,
+    "title": "Jack-Jack ataca",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Animación",
+      "Familia"
+    ],
+    "rating": 7.3,
+    "points": 1,
+    "duration": "5 min",
+    "platform": "Disney+",
+    "year": 2005,
+    "img": "https://image.tmdb.org/t/p/w500/AgeXR2oE5uBQZYte0ETUZUeRtvI.jpg",
+    "trailer": "https://www.youtube.com/embed/D9JkGNhwxb0?autoplay=1",
+    "desc": "Kari piensa que le espera otra noche más haciendo de canguro de Jack-Jack, el más pequeño de la increíble familia Parr. Pero lo que no se imagina es que Jack-Jack le enseñará a ella a tratar a niños con 'necesidades especiales'.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-285",
+    "tmdbId": 285,
+    "title": "Piratas del Caribe: En el fin del mundo",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Fantasía",
+      "Acción"
+    ],
+    "rating": 7.3,
+    "points": 18,
+    "duration": "168 min",
+    "platform": "Disney+",
+    "year": 2007,
+    "img": "https://image.tmdb.org/t/p/w500/xHcUMez2b1QiMGQYCuQTAlqwDEe.jpg",
+    "trailer": "https://www.youtube.com/embed/HKSZtp_OGHY?autoplay=1",
+    "desc": "Siguiendo la estela de lo sucedido en “Piratas del caribe: el cofre del hombre muerto”, encontramos a nuestros héroes Will Turner y Elizabeth Swann aliados con el capitán Barbossa, en una búsqueda desesperada para liberar al capitán Jack Sparrow de las manos de Davy Jones. Mientras, el terrorífico barco fantasma, el Holandés Errante, bajo el control de la Compañía de las Indias Orientales, causa estragos a lo largo de los Siete Mares. Will y Elizabeth, navegando en medio de la traición, la felonía y mares salvajes, deben seguir adelante rumbo a Singapur y enfrentarse al astuto pirata chino Sao Feng. Ahora, en los mismísimos confines de la tierra, todos ellos deben elegir un bando en la batalla final, ya que no sólo sus vidas y fortunas, sino también el futuro de la piratería clásica, pende de un hilo...",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-105325",
+    "tmdbId": 105325,
+    "title": "Cómo conectar su sistema de cine en casa",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Comedia"
+    ],
+    "rating": 7.2,
+    "points": 1,
+    "duration": "6 min",
+    "platform": "",
+    "year": 2007,
+    "img": "https://image.tmdb.org/t/p/w500/eHU8HfMozjS6bC8APU4Ik3l3zXs.jpg",
+    "trailer": "",
+    "desc": "Goofy intenta configurar su nuevo sistema de cine en casa para poder ver el partido y consigue resultados desastrosos.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-706860",
+    "tmdbId": 706860,
+    "title": "Salir",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Drama",
+      "Fantasía",
+      "Familia",
+      "Romance"
+    ],
+    "rating": 7.2,
+    "points": 1,
+    "duration": "10 min",
+    "platform": "Disney+",
+    "year": 2020,
+    "img": "https://image.tmdb.org/t/p/w500/nr1J6KdvapMqPaBsagUMykIuzRy.jpg",
+    "trailer": "https://www.youtube.com/embed/Y5iJxgH9Dlw?autoplay=1",
+    "desc": "La vida cotidiana de Greg comprende a su familia, amor y a una perrita muy revoltosa. Sin embargo, Greg oculta un secreto. El día de hoy es distinto. Con la ayuda de su precoz perrita y algo de magia, puede que Greg aprenda que no tiene nada que ocultar.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-9820",
+    "tmdbId": 9820,
+    "title": "Tú a Londres y yo a California",
+    "type": "Película",
+    "genres": [
+      "Comedia",
+      "Familia",
+      "Romance"
+    ],
+    "rating": 7.2,
+    "points": 13,
+    "duration": "128 min",
+    "platform": "Disney+",
+    "year": 1998,
+    "img": "https://image.tmdb.org/t/p/w500/3JyIUavN6byTNKjWXupCCvRljRF.jpg",
+    "trailer": "https://www.youtube.com/embed/PMAhVpgzmRU?autoplay=1",
+    "desc": "Hallie y Annie, dos gemelas que se parecen como dos gotas de agua, fueron separadas poco después de nacer, a causa del divorcio de sus padres. Hallie vive en Napa Valley con su padre, que es viticultor. Por su parte, Annie vive en Londres con su madre, una famosa diseñadora de trajes de novia. Ninguna de las dos conoce la existencia de la otra, pero el destino hace que se encuentren por casualidad en Maine, en un campamento de verano. Antes de volver a casa, las niñas urden un plan para conseguir reunir a sus padres, pero hay un inconveniente con el que no contaban: su padre proyecta casarse con otra mujer.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-552524",
+    "tmdbId": 552524,
+    "title": "Lilo y Stitch",
+    "type": "Película",
+    "genres": [
+      "Familia",
+      "Ciencia ficción",
+      "Comedia"
+    ],
+    "rating": 7.2,
+    "points": 21,
+    "duration": "108 min",
+    "platform": "Disney+",
+    "year": 2025,
+    "img": "https://image.tmdb.org/t/p/w500/4oLLOAT55JhAoe73VliaSKFvEEr.jpg",
+    "trailer": "https://www.youtube.com/embed/VWqJifMMgZE?autoplay=1",
+    "desc": "La conmovedora y divertidísima historia de una solitaria niña hawaiana y el extraterrestre fugitivo que la ayuda a reparar su desestructurada familia.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-213121",
+    "tmdbId": 213121,
+    "title": "Toy Story: ¡Terror!",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
+    "rating": 7.2,
+    "points": 0,
+    "duration": "22 min",
+    "platform": "Disney+",
+    "year": 2013,
+    "img": "https://image.tmdb.org/t/p/w500/gKPCTXj1xllfTHWQ8op7sKCGpvW.jpg",
+    "trailer": "https://www.youtube.com/embed/0PmoiC8ensA?autoplay=1",
+    "desc": "Lo que empieza siendo una divertida excursión para la pandilla da un giro inesperado a peor cuando el coche se desvía a un motel. Al desaparecer uno de los juguetes, los demás caen atrapados en una misteriosa secuencia de sucesos.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-47813",
+    "tmdbId": 47813,
+    "title": "Despertando a la Bella Durmiente",
+    "type": "Película",
+    "genres": [
+      "Documental"
+    ],
+    "rating": 7.2,
+    "points": 2,
+    "duration": "86 min",
+    "platform": "Disney+",
+    "year": 2009,
+    "img": "https://image.tmdb.org/t/p/w500/hywGLq5tMOuKwXfOhYUzoqNNAnU.jpg",
+    "trailer": "https://www.youtube.com/embed/EyeoyRjEiUU?autoplay=1",
+    "desc": "Ópera prima de Don Hahn, uno de los productores más importantes de Disney. Documental que analiza el periodo que va de 1984 a 1994, en el que se filmaron obras como “¿Quién engañó a Robert Rabbit“, “La Sirenita“, “Aladdín“, “Pesadilla antes de Navidad\" o \"El rey león\". Cuenta con testimonios de grandes personalidades de los estudios Walt Disney como el director Tim Burton, el productor John Lasseter, el desaparecido Roy Edward Disney, que fue quien renovó la producción animada y lideró el imperio. Queda patente que la producción animada no es ajena a las luchas por el poder entre los productores ejecutivos.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-512895",
+    "tmdbId": 512895,
+    "title": "La dama y el vagabundo",
+    "type": "Película",
+    "genres": [
+      "Familia",
+      "Romance",
+      "Comedia"
+    ],
+    "rating": 7.2,
+    "points": 3,
+    "duration": "101 min",
+    "platform": "Disney+",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/69f1DVUiK8e9Y1GhShe5Wx33vSe.jpg",
+    "trailer": "https://www.youtube.com/embed/t6zCp8wIbKs?autoplay=1",
+    "desc": "La historia de amor entre una mimada Cocker Spaniel llamada Reina y un cruzado callejero llamado Golfo. Reina se encuentra en la calle después de que sus dueños tengan un bebé y es salvada de la perrera por Golfo, quien trata de mostrarle que viva su vida libre y sin collar.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-35114",
+    "tmdbId": 35114,
+    "title": "Destino",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Música",
+      "Familia"
+    ],
+    "rating": 7.2,
+    "points": 1,
+    "duration": "6 min",
+    "platform": "Disney+",
+    "year": 2003,
+    "img": "https://image.tmdb.org/t/p/w500/7IyDJdaGlU7olLC08mSwLJTmsC3.jpg",
+    "trailer": "",
+    "desc": "Destino es un cortometraje lanzado en 2003 por The Walt Disney Company. Destino es único porque su producción comenzó originalmente en 1945, 58 años antes de su conclusión final. El proyecto fue una colaboración entre el cineasta estadounidense Walt Disney y el pintor español Salvador Dalí. La música fue compuesta por el compositor mexicano Armando Domínguez e interpretada por Dora Luz.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-642885",
+    "tmdbId": 642885,
+    "title": "El retorno de las brujas 2",
+    "type": "Película",
+    "genres": [
+      "Fantasía",
+      "Comedia"
+    ],
+    "rating": 7.2,
+    "points": 4,
+    "duration": "105 min",
+    "platform": "Disney+",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/gbbZNVuGSD6cPGZ4sfcrA59EKNY.jpg",
+    "trailer": "https://www.youtube.com/embed/idc0EOmKr30?autoplay=1",
+    "desc": "Han pasado 29 años desde que alguien encendió la Vela de la Llama Negra y resucitó a las hermanas Sanderson del siglo XVII, y ahora buscan venganza. De tres estudiantes de secundaria depende impedir que las voraces brujas causen un nuevo tipo de estrago en Salem antes del amanecer el día de Halloween.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-82881",
+    "tmdbId": 82881,
+    "title": "Enredados para siempre",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Acción",
+      "Familia"
+    ],
+    "rating": 7.1,
+    "points": 5,
+    "duration": "6 min",
+    "platform": "Disney+",
+    "year": 2012,
+    "img": "https://image.tmdb.org/t/p/w500/iGwR2zXocHKYAU1IppE4jCURzO6.jpg",
+    "trailer": "https://www.youtube.com/embed/ukS_OOX3S3M?autoplay=1",
+    "desc": "El reino está de fiesta y todos se juntan para la boda de Rapunzel y Flynn. Sin embargo, cuando Pascal y Maximus pierden los anillos, se produce una frenética búsqueda para encontrarlos.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-411",
+    "tmdbId": 411,
+    "title": "Las crónicas de Narnia: El león, la bruja y el armario",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Familia",
+      "Fantasía"
+    ],
+    "rating": 7.1,
+    "points": 16,
+    "duration": "143 min",
+    "platform": "Disney+",
+    "year": 2005,
+    "img": "https://image.tmdb.org/t/p/w500/2Lv2wKf2YocOcRfzmvQYOUGRhFg.jpg",
+    "trailer": "https://www.youtube.com/embed/3mKPrxjwF7A?autoplay=1",
+    "desc": "La historia narra las aventuras de cuatro hermanos: Lucy, Edmund, Susan y Peter, que durante la Segunda Guerra Mundial descubren el mundo de Narnia, al que acceden a través de un armario mágico mientras juegan al escondite en la casa de campo de un viejo profesor. En Narnia descubrirán un mundo increíble habitado por animales que hablan, duendes, faunos, centauros y gigantes al que la Bruja Blanca- Jadis- ha condenado al invierno eterno. Con la ayuda del león Aslan, el noble soberano, los niños lucharán para vencer el poder que la Bruja Blanca ejerce sobre Narnia en una espectacular batalla y conseguir así liberarle de la maldición del frío.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-719643",
+    "tmdbId": 719643,
+    "title": "Black Is King",
+    "type": "Película",
+    "genres": [
+      "Música"
+    ],
+    "rating": 7.1,
+    "points": 1,
+    "duration": "80 min",
+    "platform": "Disney+",
+    "year": 2020,
+    "img": "https://image.tmdb.org/t/p/w500/2u1cyQgBpWWypISdbUDCu2hasGV.jpg",
+    "trailer": "https://www.youtube.com/embed/69MO7yU0d70?autoplay=1",
+    "desc": "Beyoncé reimagina las enseñanzas de \"El rey león\" para pequeños reyes y reinas en este álbum visual.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-10545",
+    "tmdbId": 10545,
+    "title": "El jorobado de Notre Dame",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Animación",
+      "Familia"
+    ],
+    "rating": 7.1,
+    "points": 8,
+    "duration": "91 min",
+    "platform": "Disney+",
+    "year": 1996,
+    "img": "https://image.tmdb.org/t/p/w500/pvnmJckCNgzEbuE5sHXX3tDRQox.jpg",
+    "trailer": "https://www.youtube.com/embed/HUGraD-rxjk?autoplay=1",
+    "desc": "Oculto a las miradas de todos los ciudadanos de París, en lo alto del campanario de la catedral de Notre Dame, vive Quasimodo. Su tutor, el juez Frollo, no le permite bajar nunca del Campanario. En compañía de tres simpáticas gárgolas de piedra, Victor, Hugo y Laverne, Quasimodo pasa las horas observando el bullicioso ir y venir de la gente. Hasta que un día, decide bajar a escondidas y conoce a la bella Esmeralda, con la que vivirá su mayor aventura.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-14292",
+    "tmdbId": 14292,
+    "title": "El milagro (Miracle)",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Historia"
+    ],
+    "rating": 7.1,
+    "points": 2,
+    "duration": "135 min",
+    "platform": "Disney+",
+    "year": 2004,
+    "img": "https://image.tmdb.org/t/p/w500/mxtej2th8t8x0ufVBTyhsO6Htxj.jpg",
+    "trailer": "https://www.youtube.com/embed/X7xfRXGMrDM?autoplay=1",
+    "desc": "Basada en hechos reales, narra la historia de Herb Brooks (Kurt Russell), el jugador convertido en entrenador que llevó al equipo americano de hockey sobre hielo a enfrentarse en los Juegos Olímpicos de Invierno de 1980 al aparentemente invencible equipo de la Unión Soviética.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-594530",
+    "tmdbId": 594530,
+    "title": "Las aventuras de Bo Peep",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
+    "rating": 7.1,
+    "points": 1,
+    "duration": "7 min",
+    "platform": "Disney+",
+    "year": 2020,
+    "img": "https://image.tmdb.org/t/p/w500/kBIkCS3PQlHY86agofKY411jLM7.jpg",
+    "trailer": "https://www.youtube.com/embed/S4NBWqFS3io?autoplay=1",
+    "desc": "Bo Peep tiene un gran regreso y finalmente contesta las preguntas sobre dónde ha estado desde la última vez que la vimos en 'Toy Story 2'.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-420818",
+    "tmdbId": 420818,
+    "title": "El rey león",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Drama",
+      "Familia",
+      "Animación"
+    ],
+    "rating": 7.1,
+    "points": 13,
+    "duration": "118 min",
+    "platform": "Disney+",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/eGfq90BF8QGCMpncF2ag0lGTgKk.jpg",
+    "trailer": "https://www.youtube.com/embed/7TavVZMewpY?autoplay=1",
+    "desc": "Simba es el hijo del rey de los leones, Mufasa, y heredero de todo el reino. Pero cuando su padre es brutalmente asesinado por su tío Scar, decidirá huir, dejando vía libre para que su tío tome el puesto de su padre como líder de la manada. En su camino, Simba se encuentra con el suricato  Timón y el jabalí Pumba, que le enseñarán a vivir la vida sin preocupaciones. Pero el joven león se verá obligado a decidir entre su vida libre de problemas o su destino como rey .",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-818370",
+    "tmdbId": 818370,
+    "title": "El princesito(a)",
+    "type": "Película",
+    "genres": [
+      "Familia",
+      "Drama"
+    ],
+    "rating": 7.1,
+    "points": 0,
+    "duration": "19 min",
+    "platform": "Disney+",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/4O65UNeSnWqRcuTUFcy75PluCzz.jpg",
+    "trailer": "https://www.youtube.com/embed/J8x68fgDkfU?autoplay=1",
+    "desc": "Cuando Gabriel, un niño chino de 7 años que ama el ballet, se hace amigo de Rob, otro niño chino de la escuela, el padre de Rob sospecha del comportamiento femenino de Gabriel y decide intervenir.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-102651",
+    "tmdbId": 102651,
+    "title": "Maléfica",
+    "type": "Película",
+    "genres": [
+      "Fantasía",
+      "Aventura",
+      "Acción",
+      "Familia",
+      "Romance"
+    ],
+    "rating": 7.1,
+    "points": 13,
+    "duration": "97 min",
+    "platform": "Disney+",
+    "year": 2014,
+    "img": "https://image.tmdb.org/t/p/w500/i8qn2A0Qfjj45EXlZVt92WnX7iH.jpg",
+    "trailer": "https://www.youtube.com/embed/LaArkjF7AnM?autoplay=1",
+    "desc": "Es la historia jamás contada de Maléfica, la villana más querida de Disney, la mala de 'La Bella durmiente', el clásico de 1959. La película relata los acontecimientos que endurecieron su corazón y la llevaron a lanzar una maldición sobre la pequeña Aurora.",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-5028",
+    "tmdbId": 5028,
+    "title": "La tormenta del siglo",
+    "type": "Serie",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "rating": 7,
+    "points": 4,
+    "duration": "1 Temporada",
+    "platform": "",
+    "year": 1999,
+    "img": "https://image.tmdb.org/t/p/w500/jlLD4LIPL5XuHo4Avgc2bUSVsMC.jpg",
+    "trailer": "https://www.youtube.com/embed/HeDnEi7DvN8?autoplay=1",
+    "desc": "Una pequeña comunidad de una isla de Maine queda sitiada por una atroz tormenta y por la presencia de su acompañante, un ser que lo sabe todo, y que resulta ser más terrorífico que la tormenta que les envuelve. \"Si me dais lo que quiero, me marcharé\", proclama el ser humanoide que se llama a sí mismo Linoge. Hay misterio en su nombre. Y en su exigencia implacable. Pero lo que tienen claro los habitantes del pueblo es que, aunque el sólido ayuntamiento puede refugiarles de la tormenta, nada podrá protegerlos del terror cada vez más intenso de un mal que se ha ido arraigando desde el principio de los tiempos... (FILMAFFINITY)",
+    "categoria": "disney"
+  },
+  {
+    "id": "tmdb-2745",
+    "tmdbId": 2745,
+    "title": "Aladdin",
+    "type": "Serie",
+    "genres": [
+      "Action & Adventure",
+      "Animación",
+      "Comedia",
+      "Sci-Fi & Fantasy",
+      "Kids"
+    ],
+    "rating": 7,
+    "points": 32,
+    "duration": "3 Temporadas",
+    "platform": "",
+    "year": 1994,
+    "img": "https://image.tmdb.org/t/p/w500/tsDlDLIscp4untKlHU2PxnlkeHF.jpg",
+    "trailer": "",
+    "desc": "Basada en la éxitosa película que se estrenó en 1992, Aladdín - La Serie nos trae las trepidante aventuras diarias de Aladdin y su pandilla. En la serie la princesa Jasmine es tan protagonista como Aladdin y muchas veces es ella quien resuelve los líos en los que se ven metidos; el Genio, ya no vive en la lámpara mágica y por lo tanto no puede hacer desaparecer los problemas tan fácilmente como antes; Iago el loro, ha cambiado de bando y ahora es fiel a Aladdin ; Abu el travieso mono que junto con Iago siempre causan destrozos; y la Alfombra. En cada episodio Aladdin y su pandilla tendrán que vérselas con bandas de ladrones, bestias, espíritus y hechicheros. Y cuando creen que las cosas recobran la calma, siempre queda el Gran Tiburón de Arena para fastidiarlo todo. Incluso con un Genio, un loro, un mono y una alfombra mágica para ayudarles, Aladdin y Jasmine no podrán bajar la guardia ni un segundo.",
+    "categoria": "disney"
+  }
+]

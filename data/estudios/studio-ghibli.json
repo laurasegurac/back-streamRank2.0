@@ -1,0 +1,544 @@
+[
+  {
+    "id": "tmdb-129",
+    "tmdbId": 129,
+    "title": "El viaje de Chihiro",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Fantasía"
+    ],
+    "rating": 8.5,
+    "points": 32,
+    "duration": "122 min",
+    "platform": "Netflix",
+    "year": 2001,
+    "img": "https://image.tmdb.org/t/p/w500/2RcxjDykOssx4SfqshewyI9vfSl.jpg",
+    "trailer": "https://www.youtube.com/embed/GAp2_0JJskk?autoplay=1",
+    "desc": "Durante el traslado de su familia a los suburbios, una niña de 10 años de edad deambula por un mundo gobernado por dioses, brujas y espíritus, y donde los humanos se convierten en bestias.",
+    "categoria": "studio-ghibli"
+  },
+  {
+    "id": "tmdb-12477",
+    "tmdbId": 12477,
+    "title": "La tumba de las luciérnagas",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Drama",
+      "Bélica"
+    ],
+    "rating": 8.4,
+    "points": 0,
+    "duration": "95 min",
+    "platform": "Netflix",
+    "year": 1988,
+    "img": "https://image.tmdb.org/t/p/w500/juKTAn2AuoE9MvCNvf3kwZrt1t4.jpg",
+    "trailer": "https://www.youtube.com/embed/QZbcx0WNrMU?autoplay=1",
+    "desc": "Verano de 1945. La aviación estadounidense somete las ciudades japonesas a continuos ataques aéreos. En uno de ellos, una incursión con bombas incendiarias convierte la ciudad de Kōbe en un infierno humeante, para los dos protagonistas (Seita, de 14 años, y su hermanita Setsuko, de 5). El joven Seita y su pequeña hermana Setsuko son hijos de un oficial de la marina japonesa. Durante la Segunda Guerra Mundial, ambos viven con su madre, pero un día, tras un bombardeo, ellos se retrasan y no consiguen llegar al búnker donde ella los espera.",
+    "categoria": "studio-ghibli"
+  },
+  {
+    "id": "tmdb-4935",
+    "tmdbId": 4935,
+    "title": "El castillo ambulante",
+    "type": "Película",
+    "genres": [
+      "Fantasía",
+      "Animación",
+      "Aventura"
+    ],
+    "rating": 8.4,
+    "points": 20,
+    "duration": "120 min",
+    "platform": "Netflix",
+    "year": 2004,
+    "img": "https://image.tmdb.org/t/p/w500/p8EARnEw8KPZzlZg3vkseYVMczu.jpg",
+    "trailer": "https://www.youtube.com/embed/ARCQf2CEr8k?autoplay=1",
+    "desc": "Sophie, una joven sobre la que pesa una horrible maldición que le confiere el aspecto de una anciana, decide pedir ayuda al mago Howl, que vive en un castillo ambulante, pero tal vez sea Howl quien necesite la ayuda de Sophie.",
+    "categoria": "studio-ghibli"
+  },
+  {
+    "id": "tmdb-128",
+    "tmdbId": 128,
+    "title": "La princesa Mononoke",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Fantasía",
+      "Animación"
+    ],
+    "rating": 8.3,
+    "points": 14,
+    "duration": "134 min",
+    "platform": "Netflix",
+    "year": 1997,
+    "img": "https://image.tmdb.org/t/p/w500/xP466sdt19CPLVljpRwI7luEgFn.jpg",
+    "trailer": "https://www.youtube.com/embed/I1dHzoRl0sQ?autoplay=1",
+    "desc": "Tras sufrir el ataque de un monstruoso jabalí maldito, el joven Ashitaka emprende el camino en busca de la cura que detenga la infección. Mientras, los humanos están acabando con los bosques y los dioses convertidos en temibles bestias hacen todo lo posible por protegerlo encabezados por Mononoke, una princesa guerrera. Ashikata deberá escoger bando y decidir si ayudar a los hombres o las deidades intentando detener la maldición de su herida que se extiende por su cuerpo sin cuartel.",
+    "categoria": "studio-ghibli"
+  },
+  {
+    "id": "tmdb-149871",
+    "tmdbId": 149871,
+    "title": "El cuento de la princesa Kaguya",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Drama",
+      "Fantasía"
+    ],
+    "rating": 8.1,
+    "points": 5,
+    "duration": "137 min",
+    "platform": "Netflix",
+    "year": 2013,
+    "img": "https://image.tmdb.org/t/p/w500/tCw5ZR5RkmAtCztmkP8dYh1nkoX.jpg",
+    "trailer": "https://www.youtube.com/embed/iPm7HfO3mis?autoplay=1",
+    "desc": "Basada en un cuento popular japonés anónimo del siglo IX, 'El cortador de bambú', la historia comienza cuando una pareja de ancianos campesinos encuentran a una niña diminuta dentro de una planta de bambú y deciden adoptarla como si fuera su hija. Convertida rápidamente en una hermosa mujer, es pretendida por muchos hombres, incluido el emperador, pero ella los rechaza a todos porque asegura venir de la Luna y debe volver allí...",
+    "categoria": "studio-ghibli"
+  },
+  {
+    "id": "tmdb-8392",
+    "tmdbId": 8392,
+    "title": "Mi vecino Totoro",
+    "type": "Película",
+    "genres": [
+      "Fantasía",
+      "Animación",
+      "Familia"
+    ],
+    "rating": 8.1,
+    "points": 12,
+    "duration": "86 min",
+    "platform": "Netflix",
+    "year": 1988,
+    "img": "https://image.tmdb.org/t/p/w500/uu6RaEAfkIQaolf20axWaRU4h3w.jpg",
+    "trailer": "https://www.youtube.com/embed/HaLISMAGdOE?autoplay=1",
+    "desc": "Dos chicas jóvenes, Mei y Satsuki, se mudan a una nueva casa cerca del hospital en el que se encuentra su madre. En el patio junto a la casa, existe un gran árbol que es el hogar de tres Totoros, dioses de la selva. Poco después, reciben noticias desde el hospital de que su madre no puede venir a casa como había prometido, por lo que Mei (la más joven) se escapa para ir a visitarla. Satsuki tiene que recurrir a un Totoro para ayudar a encontrarla.",
+    "categoria": "studio-ghibli"
+  },
+  {
+    "id": "tmdb-10515",
+    "tmdbId": 10515,
+    "title": "El castillo en el cielo",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Fantasía",
+      "Animación",
+      "Acción",
+      "Familia"
+    ],
+    "rating": 8,
+    "points": 8,
+    "duration": "125 min",
+    "platform": "Netflix",
+    "year": 1986,
+    "img": "https://image.tmdb.org/t/p/w500/6EkloGi5FUtPLZl5NtGvVGIfX0B.jpg",
+    "trailer": "https://www.youtube.com/embed/5lMRfLJGXSM?autoplay=1",
+    "desc": "La huérfana Sheeta ha heredado un misterioso cristal que la une al mítico reino de las nubes de Laputa. Con la ayuda del  ingenioso Pazu y una graciosa banda de piratas del cielo, dirige su camino hacia las ruinas de la que fué, una gran civilización. Sheeta y Pazu deben ser más listos que el malvado Muska, quien planea usar la tecnología de Laputa para dominar el mundo.",
+    "categoria": "studio-ghibli"
+  },
+  {
+    "id": "tmdb-37797",
+    "tmdbId": 37797,
+    "title": "Susurros del corazón",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Drama",
+      "Familia"
+    ],
+    "rating": 8,
+    "points": 6,
+    "duration": "115 min",
+    "platform": "Netflix",
+    "year": 1995,
+    "img": "https://image.tmdb.org/t/p/w500/q5ucEqlNH6ypr6KF8UILssqdasU.jpg",
+    "trailer": "https://www.youtube.com/embed/J4lXUZTPAXg?autoplay=1",
+    "desc": "Una joven estudiante amante de los libros descubre que todos los libros que ha elegido en la biblioteca han sido previamente elegidos por una misma persona. Cuando descubre quién es conoce a Seiji, un joven que está aprendiendo el arte de fabricar violines.",
+    "categoria": "studio-ghibli"
+  },
+  {
+    "id": "tmdb-242828",
+    "tmdbId": 242828,
+    "title": "El recuerdo de Marnie",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Drama",
+      "Familia"
+    ],
+    "rating": 7.9,
+    "points": 4,
+    "duration": "103 min",
+    "platform": "Netflix",
+    "year": 2014,
+    "img": "https://image.tmdb.org/t/p/w500/yeB3UCvjRsKTuDs6iTS7u9HYpJ2.jpg",
+    "trailer": "https://www.youtube.com/embed/YBIfz76BYiY?autoplay=1",
+    "desc": "Anna es una chica solitaria, sin amigos, que vive con sus padres adoptivos. Un día es enviada con el señor y la señora Pegg. Allí, donde se extienden las dunas de arena, conoce a una chica llamada Marnie, quien pronto se convertirá en su mejor amiga. Habiendo aprendido muchas cosas sobre la amistad, Anna se dará cuenta de que Marnie no es quien parece...",
+    "categoria": "studio-ghibli"
+  },
+  {
+    "id": "tmdb-16859",
+    "tmdbId": 16859,
+    "title": "Nicky, la aprendiz de bruja",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Fantasía"
+    ],
+    "rating": 7.8,
+    "points": 10,
+    "duration": "102 min",
+    "platform": "Netflix",
+    "year": 1989,
+    "img": "https://image.tmdb.org/t/p/w500/psw0tp25DNBkdEAfwjZYcgbpgme.jpg",
+    "trailer": "https://www.youtube.com/embed/nu4OX6RKeLY?autoplay=1",
+    "desc": "Nicky no es una niña como otra cualquiera porque es aprendiz de bruja. Con solo 13 años y por tradición del oficio que está aprendiendo, la niña tiene que abandonar la casa de sus padres y buscar algún sitio donde sean necesarios sus servicios de bruja. Para emprender el viaje, Nicky se acompaña de su amigo Jiji y también de su gato; juntos, y sobre una escoba voladora, los amigos se instalan en un pueblecito que da al mar, donde la niña empezará a conocerse verdaderamente a sí misma.",
+    "categoria": "studio-ghibli"
+  },
+  {
+    "id": "tmdb-11621",
+    "tmdbId": 11621,
+    "title": "Porco Rosso",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Fantasía"
+    ],
+    "rating": 7.8,
+    "points": 8,
+    "duration": "93 min",
+    "platform": "Netflix",
+    "year": 1992,
+    "img": "https://image.tmdb.org/t/p/w500/vyCevwQl24NIUlUc3ifHQgV9QYl.jpg",
+    "trailer": "https://www.youtube.com/embed/3LRyNwYg1f8?autoplay=1",
+    "desc": "Periodo de entreguerras. Porco es un cerdo aviador que fustra todos los actos de piratería perpetrados por los piratas aéreos del Adriático. Éstos, decididos a acabar con el valiente y hábil Porco, se unen para contratar a un aventurero americano que le elimine de los aires donde las mafias operan",
+    "categoria": "studio-ghibli"
+  },
+  {
+    "id": "tmdb-149870",
+    "tmdbId": 149870,
+    "title": "El viento se levanta",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Drama",
+      "Historia",
+      "Romance"
+    ],
+    "rating": 7.8,
+    "points": 5,
+    "duration": "125 min",
+    "platform": "Netflix",
+    "year": 2013,
+    "img": "https://image.tmdb.org/t/p/w500/a1DKL2yPyxoZthv0du5gcAWA0gw.jpg",
+    "trailer": "https://www.youtube.com/embed/q3kdZpeVbLM?autoplay=1",
+    "desc": "Jiro sueña con volar y diseñar hermosos aviones, inspirados por el famoso diseñador aeronáutico italiano Caproni. Corto de vista desde niño y por ello incapaz de volar, Jiro se une a la división aeronáutica de una compañía de ingeniería en 1927. Su genio pronto es reconocido y se convierte en uno de los más prestigiosos diseñadores aeronáuticos. La película relata su biografía y recrea sucesos históricos que marcaron su vida, como el terremoto de Kanto de 1923, la Gran Depresión, la epidemia de tuberculosis y la entrada de Japón en la guerra.",
+    "categoria": "studio-ghibli"
+  },
+  {
+    "id": "tmdb-12429",
+    "tmdbId": 12429,
+    "title": "Ponyo en el acantilado",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Fantasía",
+      "Familia"
+    ],
+    "rating": 7.8,
+    "points": 9,
+    "duration": "100 min",
+    "platform": "Netflix",
+    "year": 2008,
+    "img": "https://image.tmdb.org/t/p/w500/ew6o3jOBGnx8GETvCkIanorvjka.jpg",
+    "trailer": "https://www.youtube.com/embed/h6XP82TyFWw?autoplay=1",
+    "desc": "La historia se centra en Sosuke, un niño de 5 años, y su relación con una princesa pez que ansía convertirse en un ser humano. Libre adaptación de \"La sirenita\" que obtuvo muy buena acogida de la crítica en el Festival de Venecia 2008.",
+    "categoria": "studio-ghibli"
+  },
+  {
+    "id": "tmdb-51739",
+    "tmdbId": 51739,
+    "title": "Arrietty y el mundo de los diminutos",
+    "type": "Película",
+    "genres": [
+      "Fantasía",
+      "Animación",
+      "Familia"
+    ],
+    "rating": 7.7,
+    "points": 6,
+    "duration": "95 min",
+    "platform": "Netflix",
+    "year": 2010,
+    "img": "https://image.tmdb.org/t/p/w500/1uEzy1zW8M4c4jePqLfIGXlBHvl.jpg",
+    "trailer": "https://www.youtube.com/embed/DskjJGeaRQA?autoplay=1",
+    "desc": "Una joven diminuta llamada Arrietty, que se hace amiga de un niño mucho más grande que ella, tendrá que proteger a su familia de todos los gigantes.",
+    "categoria": "studio-ghibli"
+  },
+  {
+    "id": "tmdb-252511",
+    "tmdbId": 252511,
+    "title": "El reino de los sueños y la locura",
+    "type": "Película",
+    "genres": [
+      "Documental"
+    ],
+    "rating": 7.5,
+    "points": 2,
+    "duration": "118 min",
+    "platform": "",
+    "year": 2013,
+    "img": "https://image.tmdb.org/t/p/w500/4Difufke8JT5RJbuTjtrUnz6SM2.jpg",
+    "trailer": "https://www.youtube.com/embed/cQ0QdgnYfwk?autoplay=1",
+    "desc": "Un largometraje documental sobre el célebre estudio de cine de animación Ghibli. Con libre acceso a las interioridades del estudio, la directora Mami Sunada sigue al personal clave de Ghibli (el director Hayao Miyazaki, el productor Toshio Suzuki y el esquivo\"otro\" director, Isao Takahata) a lo largo de un año, mientras el estudio prepara sus nuevas y esperadas películas, El viento se levanta de Miyazaki y The Tale of Princess Kaguya de Takahata. El resultado es una mirada única al método de trabajo de uno de los más célebres estudios de animación del mundo, un retrato de sus sueños, su pasión y una dedicación que bordea la locura.",
+    "categoria": "studio-ghibli"
+  },
+  {
+    "id": "tmdb-83389",
+    "tmdbId": 83389,
+    "title": "La colina de las amapolas",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Drama"
+    ],
+    "rating": 7.5,
+    "points": 4,
+    "duration": "91 min",
+    "platform": "Netflix",
+    "year": 2011,
+    "img": "https://image.tmdb.org/t/p/w500/lW5P1iWiMhatviKXV32J9iiMfF4.jpg",
+    "trailer": "https://www.youtube.com/embed/a0DIxdy8CZA?autoplay=1",
+    "desc": "Umi Matsuzaki es una chica de instituto que cuida a sus dos hermanos y, en ausencia de su madre, administra un albergue de estilo occidental, el Coquelicot Manor, cercano al mar. La chica compagina tranquilamente sus responsabilidades con su vida escolar junto a Shun Kazama, miembro del club de periodismo, y Shiro Mizunuma, presidente del consejo de estudiantes.",
+    "categoria": "studio-ghibli"
+  },
+  {
+    "id": "tmdb-337703",
+    "tmdbId": 337703,
+    "title": "La tortuga roja",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Drama",
+      "Fantasía",
+      "Familia"
+    ],
+    "rating": 7.4,
+    "points": 2,
+    "duration": "81 min",
+    "platform": "",
+    "year": 2016,
+    "img": "https://image.tmdb.org/t/p/w500/m3pixAC0hJSYTo0gvBlwcHncXpv.jpg",
+    "trailer": "https://www.youtube.com/embed/9Wf57f5F09c?autoplay=1",
+    "desc": "Historia muda sobre un náufrago en una isla tropical desierta poblada de tortugas, cangrejos y aves. Cuenta las grandes etapas de la vida de un ser humano. Debut en el largometraje del animador Michaël Dudok de Wit (ganador del Oscar por su cortometraje \"Father and Daughter\"). Coproducción de varias productoras francesas y el Studio Ghibli.",
+    "categoria": "studio-ghibli"
+  },
+  {
+    "id": "tmdb-508883",
+    "tmdbId": 508883,
+    "title": "El chico y la garza",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Fantasía",
+      "Drama"
+    ],
+    "rating": 7.4,
+    "points": 11,
+    "duration": "124 min",
+    "platform": "Netflix",
+    "year": 2023,
+    "img": "https://image.tmdb.org/t/p/w500/cUZop9T440Bx25P8Ptc0qXkLYEa.jpg",
+    "trailer": "https://www.youtube.com/embed/A002-b7IH2M?autoplay=1",
+    "desc": "La película muestra el crecimiento psicológico de un adolescente a través de interacciones con sus amigos y su tío. Está basada en el libro de 1937 del mismo nombre escrito por Genzaburo Yoshino.",
+    "categoria": "studio-ghibli"
+  },
+  {
+    "id": "tmdb-15080",
+    "tmdbId": 15080,
+    "title": "Recuerdos del ayer",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Drama",
+      "Romance"
+    ],
+    "rating": 7.4,
+    "points": 4,
+    "duration": "118 min",
+    "platform": "Netflix",
+    "year": 1991,
+    "img": "https://image.tmdb.org/t/p/w500/oRhdS9KvZgQ3MvlKCNAMygCXQW1.jpg",
+    "trailer": "https://www.youtube.com/embed/5gSKk-wwLsY?autoplay=1",
+    "desc": "Taeko Okajima es una joven de que pide permiso de vacaciones para poder regresar a casa a Yamagata, el pueblo de su cuñada, y donde de niña vivió los momentos mas felices de toda su vida. En el transcurso de su viaje a la granja de sus familiares y a su posterior residencia, Taeko ira recordando su pasado en el colegio, mientras vive intensamente su presente, sin saber bien qué hacer con su vida y si acceder a las presiones de la familia para casarse con el granjero Toshio con el que le une un poderoso afecto.",
+    "categoria": "studio-ghibli"
+  },
+  {
+    "id": "tmdb-12140",
+    "tmdbId": 12140,
+    "title": "Ghost in the Shell 2: Innocence",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Drama",
+      "Ciencia ficción"
+    ],
+    "rating": 7.3,
+    "points": 4,
+    "duration": "95 min",
+    "platform": "",
+    "year": 2004,
+    "img": "https://image.tmdb.org/t/p/w500/ltaWpzIbNWUnGlPLLre4tDi0PU8.jpg",
+    "trailer": "https://www.youtube.com/embed/0XkATpPvqEA?autoplay=1",
+    "desc": "En el año 2032, la frontera entre seres humanos y máquinas se ha reducido a niveles casi imperceptibles. En este contexto, un cyborg detective de la unidad antiterrorista (Batou) investigará el caso de un robot con forma de mujer, creado exclusivamente para satisfacer deseos sexuales, que ha asesinado a su propietario. Batou deberá indagar en las profundidades de la conciencia humana y en la sociedad del momento; donde la diferencia entre los robots y los humanos es extremadamente vaga.",
+    "categoria": "studio-ghibli"
+  },
+  {
+    "id": "tmdb-15283",
+    "tmdbId": 15283,
+    "title": "Pompoko",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Animación",
+      "Fantasía"
+    ],
+    "rating": 7.2,
+    "points": 5,
+    "duration": "119 min",
+    "platform": "Netflix",
+    "year": 1994,
+    "img": "https://image.tmdb.org/t/p/w500/edLTBJfrOBEk32cLidjFuWCb1cp.jpg",
+    "trailer": "https://www.youtube.com/embed/KUBqMHPy3bI?autoplay=1",
+    "desc": "Ante la inminente destrucción de un frondoso bosque cercano a una ciudad, cuyos dirigentes quieren construir en su lugar una urbanización, los mapaches que viven en el bosque intentarán sabotear la operación para así conservar sus hogares.",
+    "categoria": "studio-ghibli"
+  },
+  {
+    "id": "tmdb-15370",
+    "tmdbId": 15370,
+    "title": "Haru en el reino de los gatos",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Fantasía",
+      "Animación",
+      "Drama",
+      "Familia"
+    ],
+    "rating": 7.1,
+    "points": 8,
+    "duration": "75 min",
+    "platform": "Netflix",
+    "year": 2002,
+    "img": "https://image.tmdb.org/t/p/w500/gqtdSLSuTmpPAQISIcCKH1ChBec.jpg",
+    "trailer": "https://www.youtube.com/embed/yVnlvaxFQ6E?autoplay=1",
+    "desc": "Esta es la historia de Haru, una joven cuya suerte cambiará un día al volver del instituto, cuando salvará a un gato de ser atropellado por un camión. Pero no es un gato común, es Lune, el Príncipe del Reino de los Gatos. En recompensa por su acción, Haru será invitada a pasar un tiempo en el Reino de los Gatos, aunque no es lo que ella esperaba....",
+    "categoria": "studio-ghibli"
+  },
+  {
+    "id": "tmdb-16198",
+    "tmdbId": 16198,
+    "title": "Mis vecinos los Yamada",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
+    "rating": 7,
+    "points": 3,
+    "duration": "104 min",
+    "platform": "Netflix",
+    "year": 1999,
+    "img": "https://image.tmdb.org/t/p/w500/1t4cy5vPAkkmfclX9MEMcvAj4dL.jpg",
+    "trailer": "https://www.youtube.com/embed/oJD0k7hWc6M?autoplay=1",
+    "desc": "Basada en el famoso manga de Hisachi Ishii, esta película cuenta pequeñas e imaginativas historias de la vida diaria de una típica familia de clase media de Tokyo. Los Yamada son Takashi y Matsuko (el padre y la madre), Shige (la suegra), Noboru (el hijo), Nonoko (la hija) y Pochi (el perro de la familia).",
+    "categoria": "studio-ghibli"
+  },
+  {
+    "id": "tmdb-37933",
+    "tmdbId": 37933,
+    "title": "Cuentos de Terramar",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Fantasía",
+      "Aventura"
+    ],
+    "rating": 6.5,
+    "points": 4,
+    "duration": "115 min",
+    "platform": "Netflix",
+    "year": 2006,
+    "img": "https://image.tmdb.org/t/p/w500/hYsQ9aP0TJBIfoJnwZppFMYtWAE.jpg",
+    "trailer": "https://www.youtube.com/embed/8hxYx3Jq3kI?autoplay=1",
+    "desc": "Arren tenía una vida tranquila como príncipe de Enlad, pero ahora que se encuentra en el exilio es constantemente perseguido por una misteriosa sombra que conoce sus debilidades. Cuando se da cuenta de que el equilibrio del mundo se ha roto por culpa de una bruja, pide la ayuda de Gavilán, el mago más poderoso de las islas de Terramar. Juntos emprenderán un viaje fascinante en el que unirán su destino al de una joven maltratada por el pasado. La batalla contra las fuerzas del mal les espera.",
+    "categoria": "studio-ghibli"
+  },
+  {
+    "id": "tmdb-21057",
+    "tmdbId": 21057,
+    "title": "Puedo escuchar el mar",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Drama",
+      "Romance"
+    ],
+    "rating": 6.4,
+    "points": 4,
+    "duration": "70 min",
+    "platform": "Netflix",
+    "year": 1993,
+    "img": "https://image.tmdb.org/t/p/w500/c1yxP5Hp8pw22vzLxjBt9hSuifv.jpg",
+    "trailer": "https://www.youtube.com/embed/tfkHiHjrqa8?autoplay=1",
+    "desc": "Una chica de Tokio acaba de ser trasladada a una de las escuelas superiores de la ciudad de Kochi. Es guapa, buena en los deportes y en los estudios, pero de algún modo no consigue adaptarse a la vida social de la escuela. A ese mismo colegio pertenecen Taku Morisaki y Yukata Matsuno, dos grandes amigos, el primero de los cuales empieza a interesarse visiblemente por la recién llegada Muto.",
+    "categoria": "studio-ghibli"
+  },
+  {
+    "id": "tmdb-1044343",
+    "tmdbId": 1044343,
+    "title": "Zen - Grogu y los Hollines",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Fantasía"
+    ],
+    "rating": 6.1,
+    "points": 2,
+    "duration": "3 min",
+    "platform": "",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/oUt6skwlKRwpq4MfNxE1cYsNejt.jpg",
+    "trailer": "",
+    "desc": "Un cortometraje animado de Studio Ghibli dibujado a mano.",
+    "categoria": "studio-ghibli"
+  },
+  {
+    "id": "tmdb-683127",
+    "tmdbId": 683127,
+    "title": "Earwig y la bruja",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Fantasía",
+      "Familia"
+    ],
+    "rating": 5.9,
+    "points": 2,
+    "duration": "82 min",
+    "platform": "Netflix",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/oH7XpfTSKZ2Uwn30yHnkBsnfVFQ.jpg",
+    "trailer": "https://www.youtube.com/embed/V--UCVHLzAY?autoplay=1",
+    "desc": "Earwig tiene diez años, vive en el orfanato San Morwald y no quiere marcharse de allí. Para ahuyentar a posibles padres adoptivos, utiliza sus poderes mágicos. Sin embargo, un día aparecerán Bella Yaga y Mandrágora, dos extraños y espeluznantes personajes que conseguirán adoptarla. La joven Earwig descubrirá que Bella Yaga es una poderosa bruja y se convertirá en su aprendiz.",
+    "categoria": "studio-ghibli"
+  }
+]

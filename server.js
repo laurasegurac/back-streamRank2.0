@@ -30,62 +30,142 @@ function jsonResponse(res, status, data) {
    ?global=true   → devuelve top global (todos los items combinados, sin duplicados, ordenados por rating)
 */
 function getMovies(req, res) {
-  const filePath = path.join(__dirname, 'data', 'movies.json');
-  fs.readFile(filePath, 'utf8', (err, raw) => {
-    if (err) return jsonResponse(res, 500, { ok: false, error: 'No se pudo leer el catálogo' });
-
-    let catalogo;
-    try { catalogo = JSON.parse(raw); }
-    catch { return jsonResponse(res, 500, { ok: false, error: 'JSON inválido' }); }
-
-    const urlObj   = new URL(req.url, `http://localhost:${PORT}`);
-    const categoria = urlObj.searchParams.get('categoria');
-    const global_  = urlObj.searchParams.get('global');
-
-    // Array plano (scraper viejo) → devolver directo
-    if (Array.isArray(catalogo)) {
-      if (categoria) {
-        // Filtrar por plataforma si el campo existe
-        const filtrado = catalogo.filter(m =>
-          (m.platform || '').toLowerCase().includes(categoria.replace('-', ' '))
-        );
-        return jsonResponse(res, 200, filtrado);
+  const urlObj    = new URL(req.url, `http://localhost:${PORT}`);
+  const categoria = urlObj.searchParams.get('categoria');
+  const tipo      = urlObj.searchParams.get('tipo');
+  const global_   = urlObj.searchParams.get('global');
+ 
+  const dataDir = path.join(__dirname, 'data');
+ 
+  /* ── Categoría específica ── */
+  if (categoria) {
+    // Buscar en plataformas, estudios y sagas
+    const posibles = [
+      path.join(dataDir, 'plataformas', `${categoria}.json`),
+      path.join(dataDir, 'estudios',    `${categoria}.json`),
+      path.join(dataDir, 'sagas',       `${categoria}.json`),
+      // Fallback al movies.json viejo
+      path.join(dataDir, 'movies.json'),
+    ];
+ 
+    for (const filePath of posibles) {
+      if (!fs.existsSync(filePath)) continue;
+      try {
+        const raw  = fs.readFileSync(filePath, 'utf8');
+        const data = JSON.parse(raw);
+ 
+        // Si es el movies.json viejo (objeto por categorías)
+        if (!Array.isArray(data)) {
+          const items = data[categoria] || [];
+          return jsonResponse(res, 200, items);
+        }
+ 
+        // Es un array directo (nuevo formato)
+        return jsonResponse(res, 200, data);
+      } catch {
+        continue;
       }
-      return jsonResponse(res, 200, catalogo);
     }
-
-    // Objeto por categorías (scraper nuevo)
-    if (categoria) {
-      const items = catalogo[categoria] || [];
-      return jsonResponse(res, 200, items);
+ 
+    return jsonResponse(res, 404, { ok: false, error: `Categoría '${categoria}' no encontrada` });
+  }
+ 
+  /* ── Por tipo (plataformas / estudios / sagas) ── */
+  if (tipo) {
+    const tipoDir = path.join(dataDir, tipo);
+    if (!fs.existsSync(tipoDir)) {
+      return jsonResponse(res, 404, { ok: false, error: `Tipo '${tipo}' no existe` });
     }
-
-    if (global_) {
-      // Top global: combinar todas las categorías, quitar duplicados por tmdbId o id, ordenar por rating
+    try {
+      const archivos = fs.readdirSync(tipoDir).filter(f => f.endsWith('.json'));
+      const resultado = {};
+      for (const archivo of archivos) {
+        const catId = archivo.replace('.json', '');
+        const raw   = fs.readFileSync(path.join(tipoDir, archivo), 'utf8');
+        resultado[catId] = JSON.parse(raw);
+      }
+      return jsonResponse(res, 200, resultado);
+    } catch (err) {
+      return jsonResponse(res, 500, { ok: false, error: 'Error leyendo tipo' });
+    }
+  }
+ 
+  /* ── Top global ── */
+  if (global_) {
+    try {
       const vistos = new Set();
       const todos  = [];
-      for (const items of Object.values(catalogo)) {
-        for (const item of items) {
-          const key = item.tmdbId || item.id;
-          if (!vistos.has(key)) {
-            vistos.add(key);
-            todos.push(item);
+      const carpetas = ['plataformas', 'estudios', 'sagas'];
+ 
+      for (const carpeta of carpetas) {
+        const carpetaDir = path.join(dataDir, carpeta);
+        if (!fs.existsSync(carpetaDir)) continue;
+        const archivos = fs.readdirSync(carpetaDir).filter(f => f.endsWith('.json'));
+        for (const archivo of archivos) {
+          const raw   = fs.readFileSync(path.join(carpetaDir, archivo), 'utf8');
+          const items = JSON.parse(raw);
+          for (const item of items) {
+            const key = item.tmdbId || item.id;
+            if (!vistos.has(key)) {
+              vistos.add(key);
+              todos.push(item);
+            }
           }
         }
       }
+ 
+      // Fallback al movies.json viejo si no hay carpetas nuevas
+      if (todos.length === 0) {
+        const oldPath = path.join(dataDir, 'movies.json');
+        if (fs.existsSync(oldPath)) {
+          const raw  = fs.readFileSync(oldPath, 'utf8');
+          const data = JSON.parse(raw);
+          const items = Array.isArray(data) ? data : Object.values(data).flat();
+          for (const item of items) {
+            const key = item.tmdbId || item.id;
+            if (!vistos.has(key)) { vistos.add(key); todos.push(item); }
+          }
+        }
+      }
+ 
       todos.sort((a, b) => b.rating - a.rating);
       return jsonResponse(res, 200, todos.slice(0, 20));
+    } catch (err) {
+      return jsonResponse(res, 500, { ok: false, error: 'Error generando top global' });
     }
-
-    // Sin parámetros → devolver objeto completo
-    res.writeHead(200, {
-      'Content-Type':                'application/json',
-      'Access-Control-Allow-Origin': '*',
-    });
-    res.end(raw);
-  });
+  }
+ 
+  /* ── Sin parámetros: devuelve todo combinado ── */
+  try {
+    const resultado  = {};
+    const carpetas   = ['plataformas', 'estudios', 'sagas'];
+ 
+    for (const carpeta of carpetas) {
+      const carpetaDir = path.join(dataDir, carpeta);
+      if (!fs.existsSync(carpetaDir)) continue;
+      const archivos = fs.readdirSync(carpetaDir).filter(f => f.endsWith('.json'));
+      for (const archivo of archivos) {
+        const catId = archivo.replace('.json', '');
+        const raw   = fs.readFileSync(path.join(carpetaDir, archivo), 'utf8');
+        resultado[catId] = JSON.parse(raw);
+      }
+    }
+ 
+    // Fallback al movies.json si no hay nada nuevo
+    if (Object.keys(resultado).length === 0) {
+      const oldPath = path.join(dataDir, 'movies.json');
+      if (fs.existsSync(oldPath)) {
+        const raw = fs.readFileSync(oldPath, 'utf8');
+        return res.end(raw);
+      }
+    }
+ 
+    return jsonResponse(res, 200, resultado);
+  } catch (err) {
+    return jsonResponse(res, 500, { ok: false, error: 'Error leyendo catálogo' });
+  }
 }
-
+ 
 const server = http.createServer((req, res) => {
   const { method, url } = req;
 

@@ -1,0 +1,1339 @@
+[
+  {
+    "id": "tmdb-89901",
+    "tmdbId": 89901,
+    "title": "Dickinson",
+    "type": "Serie",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ],
+    "rating": 8.5,
+    "points": 13,
+    "duration": "3 Temporadas",
+    "platform": "Apple TV+",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/dDdcAfHBZ6Aalv53iR6o35CSLWA.jpg",
+    "trailer": "https://www.youtube.com/embed/6DiO48qkKmg?autoplay=1",
+    "desc": "La historia se ubica en el siglo XIX donde a través de la mirada y perspectiva de la joven y rebelde poeta Emily Dickinson se explorarán las limitaciones de la sociedad, el género y la familia de su tiempo.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-1022256",
+    "tmdbId": 1022256,
+    "title": "Selena Gomez: Mi mente y yo",
+    "type": "Película",
+    "genres": [
+      "Documental",
+      "Música"
+    ],
+    "rating": 8.5,
+    "points": 12,
+    "duration": "95 min",
+    "platform": "Apple TV+",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/tPlQkVzDoIuhV5he0kntNXDcBrK.jpg",
+    "trailer": "https://www.youtube.com/embed/of32sI9jw5Q?autoplay=1",
+    "desc": "Tras años en el candelero, Selena Gómez alcanza un estatus de estrella inimaginable. Sin embargo, justo cuando conquista una nueva cima, un giro inesperado la sume en la oscuridad. Este documental, de una crudeza e intimidad únicas, abarca su viaje de seis años hacia una nueva luz.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-95396",
+    "tmdbId": 95396,
+    "title": "Separación",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "Misterio",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.4,
+    "points": 34,
+    "duration": "3 Temporadas",
+    "platform": "Apple TV+",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/wrZjYKxObEaWZmjB7scQMYo40o8.jpg",
+    "trailer": "https://www.youtube.com/embed/xEQP4VVuyrY?autoplay=1",
+    "desc": "Mark Scout dirige un equipo en Lumon Industries cuyos empleados se han sometido a un procedimiento quirúrgico que separa sus recuerdos entre trabajo y vida personal. Este arriesgado experimento de conciliación es puesto en tela de juicio cuando Mark se encuentra envuelto en un misterio que le obligará a confrontar la verdadera naturaleza de su trabajo... y de sí mismo.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-97546",
+    "tmdbId": 97546,
+    "title": "Ted Lasso",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "Comedia"
+    ],
+    "rating": 8.3,
+    "points": 34,
+    "duration": "4 Temporadas",
+    "platform": "Apple TV+",
+    "year": 2020,
+    "img": "https://image.tmdb.org/t/p/w500/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
+    "trailer": "https://www.youtube.com/embed/BwPcMIDFVKw?autoplay=1",
+    "desc": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-95171",
+    "tmdbId": 95171,
+    "title": "Planeta prehistórico",
+    "type": "Serie",
+    "genres": [
+      "Documental"
+    ],
+    "rating": 8.3,
+    "points": 10,
+    "duration": "3 Temporadas",
+    "platform": "Apple TV+",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/u7Ulem8hT8nKVPvYlTeNLoWXfvk.jpg",
+    "trailer": "https://www.youtube.com/embed/w7EvnNIV8_0?autoplay=1",
+    "desc": "Experimenta las maravillas del mundo como nunca antes en esta épica docuserie de Jon Favreau y los productores de Planeta Tierra. Retrocede 66 millones de años en el tiempo, cuando majestuosos dinosaurios y extraordinarias criaturas deambulaban por la tierra, los mares y el cielo.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-87784",
+    "tmdbId": 87784,
+    "title": "Defender a Jacob",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "Misterio",
+      "Crimen"
+    ],
+    "rating": 8.3,
+    "points": 7,
+    "duration": "1 Temporada",
+    "platform": "Apple TV+",
+    "year": 2020,
+    "img": "https://image.tmdb.org/t/p/w500/8u0JR1PumtngQfuOF8T8AnCn91e.jpg",
+    "trailer": "https://www.youtube.com/embed/XQfeoRLvfqU?autoplay=1",
+    "desc": "La vida de una familia cambia drásticamente cuando el hijo es acusado de asesinar a un compañero de clase. Chris Evans, Michelle Dockery y Jaeden Martell protagonizan este dramático thriller judicial, basado en el bestseller de William Landay.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-117303",
+    "tmdbId": 117303,
+    "title": "Cocina con química",
+    "type": "Serie",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 8.2,
+    "points": 8,
+    "duration": "1 Temporada",
+    "platform": "Apple TV+",
+    "year": 2023,
+    "img": "https://image.tmdb.org/t/p/w500/pQ2jgWYYp8t7dFZiTlPCF3rSDPE.jpg",
+    "trailer": "https://www.youtube.com/embed/-1PuK8mxASE?autoplay=1",
+    "desc": "En los años 50, el sueño de Elizabeth Zott de ser científica se ve en peligro porque la sociedad dicta que las mujeres solo pertenecen al ámbito doméstico. Acepta un trabajo en un programa de cocina de televisión y se propone enseñar a las amas de casa olvidadas del país algo más que recetas.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-654754",
+    "tmdbId": 654754,
+    "title": "Billie Eilish: The World's a Little Blurry",
+    "type": "Película",
+    "genres": [
+      "Documental",
+      "Música"
+    ],
+    "rating": 8.2,
+    "points": 3,
+    "duration": "140 min",
+    "platform": "Apple TV+",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/iSaM0hRbCqi65NAWTD5HgK21H4W.jpg",
+    "trailer": "https://www.youtube.com/embed/7JUQvUv7QxY?autoplay=1",
+    "desc": "Una mirada íntima a la trayectoria de Billie Eilish a través de la lente de R.J. Cutler, que nos muestra a la extraordinaria adolescente de gira, sobre el escenario y en casa con su familia mientras escribe y graba el álbum debut que cambió su vida.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-995133",
+    "tmdbId": 995133,
+    "title": "El niño, el topo, el zorro y el caballo",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Drama",
+      "Aventura"
+    ],
+    "rating": 8.2,
+    "points": 4,
+    "duration": "34 min",
+    "platform": "Apple TV+",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/jfkVV2RrD5tXAy8P0JLl90ELS0S.jpg",
+    "trailer": "https://www.youtube.com/embed/609A7IGdoEc?autoplay=1",
+    "desc": "Sé testigo del improbable vínculo entre cuatro amigos mientras exploran el significado de la bondad, el valor y la esperanza.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-441130",
+    "tmdbId": 441130,
+    "title": "Wolfwalkers",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Aventura",
+      "Fantasía"
+    ],
+    "rating": 8.2,
+    "points": 5,
+    "duration": "102 min",
+    "platform": "Apple TV+",
+    "year": 2020,
+    "img": "https://image.tmdb.org/t/p/w500/4AbbGAiz1t5Hxa9c35avWeyB3dA.jpg",
+    "trailer": "https://www.youtube.com/embed/d_Z_tybgPgg?autoplay=1",
+    "desc": "La joven Robyn viaja a Irlanda con su padre para participar en una cacería de lobos. Todo se complica cuando conoce a Mebh, una niña misteriosa que vive en el bosque y de la que dicen que por las noches, junto a su tribu nómada, se transforma en lobo.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-125988",
+    "tmdbId": 125988,
+    "title": "Silo",
+    "type": "Serie",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "rating": 8.1,
+    "points": 48,
+    "duration": "3 Temporadas",
+    "platform": "Apple TV+",
+    "year": 2023,
+    "img": "https://image.tmdb.org/t/p/w500/8gjKCC85lHIGer9q6duOcVR1PVm.jpg",
+    "trailer": "https://www.youtube.com/embed/8ZYhuvIv1pA?autoplay=1",
+    "desc": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen que están destinadas a protegerlas.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-80752",
+    "tmdbId": 80752,
+    "title": "See",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "rating": 8.1,
+    "points": 31,
+    "duration": "3 Temporadas",
+    "platform": "Apple TV+",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/lKDIhc9FQibDiBQ57n3ELfZCyZg.jpg",
+    "trailer": "https://www.youtube.com/embed/03RAKJipMeM?autoplay=1",
+    "desc": "En un futuro lejano, la humanidad ha perdido el sentido de la vista. Jason Momoa, padre de gemelos que nacen con la mítica capacidad de ver, deberá proteger a su clan de una despiadada reina.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-155537",
+    "tmdbId": 155537,
+    "title": "Encerrado con el diablo",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "Crimen"
+    ],
+    "rating": 8.1,
+    "points": 14,
+    "duration": "1 Temporada",
+    "platform": "Apple TV+",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/6ZalUWRabIM2HehTDv8eqffqD4g.jpg",
+    "trailer": "https://www.youtube.com/embed/aH1FOkJys3Y?autoplay=1",
+    "desc": "Cuando Jimmy Keene comienza una condena de 10 años de cárcel, recibe una oferta increíble: si puede obtener una confesión del presunto asesino Larry Hall, Jimmy será liberado. Completar esta misión se convierte en el reto de su vida.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-458220",
+    "tmdbId": 458220,
+    "title": "Palmer",
+    "type": "Película",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 8.1,
+    "points": 4,
+    "duration": "110 min",
+    "platform": "Apple TV+",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg",
+    "trailer": "https://www.youtube.com/embed/8jVuOheTNGQ?autoplay=1",
+    "desc": "Tras 12 años en prisión, el exjugador de fútbol Palmer vuelve a casa para rehacer su vida. Mientras se adapta a su nueva realidad, entabla una amistad con un niño abandonado, pero su pasado le persigue y amenaza con destruir su nueva familia.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-95480",
+    "tmdbId": 95480,
+    "title": "Slow Horses",
+    "type": "Serie",
+    "genres": [
+      "Crimen",
+      "Drama",
+      "Comedia"
+    ],
+    "rating": 8,
+    "points": 31,
+    "duration": "5 Temporadas",
+    "platform": "Apple TV+",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/glcBuLW6NkZytmcpkkETsFXuVYj.jpg",
+    "trailer": "https://www.youtube.com/embed/O9ZJChzPn0U?autoplay=1",
+    "desc": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-225171",
+    "tmdbId": 225171,
+    "title": "Pluribus",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 7.9,
+    "points": 17,
+    "duration": "1 Temporada",
+    "platform": "Apple TV+",
+    "year": 2025,
+    "img": "https://image.tmdb.org/t/p/w500/stkYbERuo2YYuay37rYaE41Izyu.jpg",
+    "trailer": "https://www.youtube.com/embed/a6lzvWby9UE?autoplay=1",
+    "desc": "La persona más desgraciada de la Tierra tiene que salvar al mundo de la felicidad.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-156933",
+    "tmdbId": 156933,
+    "title": "Presunto inocente",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "Misterio"
+    ],
+    "rating": 7.9,
+    "points": 11,
+    "duration": "1 Temporada",
+    "platform": "Apple TV+",
+    "year": 2024,
+    "img": "https://image.tmdb.org/t/p/w500/tSBeMzdbfZuifTwaQGl6ngNhxZh.jpg",
+    "trailer": "https://www.youtube.com/embed/ZNSY3lMioHs?autoplay=1",
+    "desc": "Un asesinato horrible trastoca a la Fiscalía de Chicago cuando uno de los suyos es sospechoso del crimen. El acusado deberá luchar por mantener unida a su familia.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-136311",
+    "tmdbId": 136311,
+    "title": "Terapia sin filtro",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "Comedia"
+    ],
+    "rating": 7.8,
+    "points": 25,
+    "duration": "3 Temporadas",
+    "platform": "Apple TV+",
+    "year": 2023,
+    "img": "https://image.tmdb.org/t/p/w500/1paLVdoniAR45emRMlOTGnZG0F7.jpg",
+    "trailer": "https://www.youtube.com/embed/YjHfjQDWl1A?autoplay=1",
+    "desc": "Jimmy trata de asimilar la muerte de su esposa mientras ejerce de padre, amigo y terapeuta. Decide cambiar su forma de ser con la gente y volverse una persona completamente honesta, sin ningún tipo de filtro. ¿Conseguirá que las cosas mejoren o desatará el caos?",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-202411",
+    "tmdbId": 202411,
+    "title": "Monarch: El legado de los monstruos",
+    "type": "Serie",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "rating": 7.8,
+    "points": 52,
+    "duration": "2 Temporadas",
+    "platform": "Apple TV+",
+    "year": 2023,
+    "img": "https://image.tmdb.org/t/p/w500/ufFSOyMYcuPhZpVs1obeYIzcnYY.jpg",
+    "trailer": "https://www.youtube.com/embed/oNjnEFEheh4?autoplay=1",
+    "desc": "Tras sobrevivir al ataque de Godzilla en San Francisco, un espeluznante secreto vuelve a sobrecoger a Cate. En medio de amenazas monstruosas, se embarca en una aventura por todo el mundo para descubrir la verdad sobre su familia y la misteriosa organización conocida como Monarca.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-196322",
+    "tmdbId": 196322,
+    "title": "Materia oscura",
+    "type": "Serie",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "rating": 7.8,
+    "points": 11,
+    "duration": "2 Temporadas",
+    "platform": "Apple TV+",
+    "year": 2024,
+    "img": "https://image.tmdb.org/t/p/w500/r6TcNXNJbHBblNiL9zPxOX31Fro.jpg",
+    "trailer": "https://www.youtube.com/embed/j6ucGt_Xp14?autoplay=1",
+    "desc": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-46518",
+    "tmdbId": 46518,
+    "title": "Los amos del aire",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "War & Politics"
+    ],
+    "rating": 7.8,
+    "points": 16,
+    "duration": "1 Temporada",
+    "platform": "Apple TV+",
+    "year": 2024,
+    "img": "https://image.tmdb.org/t/p/w500/pHTOwJIUN1L4h8sACkpkthy01ei.jpg",
+    "trailer": "https://www.youtube.com/embed/lA-1JCRguZ0?autoplay=1",
+    "desc": "Durante la Segunda Guerra Mundial, muchos aviadores arriesgan sus vidas en el Grupo de bombarderos número 100, una hermandad forjada por el valor, la pérdida y el triunfo.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-522402",
+    "tmdbId": 522402,
+    "title": "Finch",
+    "type": "Película",
+    "genres": [
+      "Ciencia ficción",
+      "Drama",
+      "Aventura"
+    ],
+    "rating": 7.8,
+    "points": 6,
+    "duration": "115 min",
+    "platform": "Apple TV+",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/eEJtzD1F05xDipFEDY98CTH5yZn.jpg",
+    "trailer": "https://www.youtube.com/embed/-0bYWnP3jH4?autoplay=1",
+    "desc": "En un mundo devastado, Finch es un inventor con la misión de encontrar un hogar para él y su familia. Acompañado de su querido perro y de un robot que él mismo creó, se embarca en una bonita y emocionante aventura.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-911430",
+    "tmdbId": 911430,
+    "title": "F1 la película",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Drama"
+    ],
+    "rating": 7.8,
+    "points": 37,
+    "duration": "155 min",
+    "platform": "Apple TV+",
+    "year": 2025,
+    "img": "https://image.tmdb.org/t/p/w500/wfpqaxoPKvcqzLy8FO0enGXBzU.jpg",
+    "trailer": "https://www.youtube.com/embed/ge_ABjtYx88?autoplay=1",
+    "desc": "El mítico piloto Sonny Hayes vuelve de su retiro, persuadido para liderar un equipo de Fórmula 1 en apuros y guiar a su joven promesa, en busca de una nueva oportunidad de éxito.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-715931",
+    "tmdbId": 715931,
+    "title": "Hacia la libertad",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Bélica",
+      "Historia"
+    ],
+    "rating": 7.8,
+    "points": 5,
+    "duration": "132 min",
+    "platform": "Apple TV+",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/i189g3TK7XGxOoDqGNFF7eaqVKR.jpg",
+    "trailer": "https://www.youtube.com/embed/C3yHUpR7yv8?autoplay=1",
+    "desc": "Inspirada en la conmovedora historia real de un hombre dispuesto a cualquier cosa por su familia, y por la libertad. Cuando Peter, un hombre esclavizado, arriesga su vida por escapar y regresar con su familia, se embarca en una peligrosa travesía de amor y resiliencia.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-87917",
+    "tmdbId": 87917,
+    "title": "Para toda la humanidad",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "War & Politics"
+    ],
+    "rating": 7.7,
+    "points": 60,
+    "duration": "5 Temporadas",
+    "platform": "Apple TV+",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/q5vmnIJvXJgstbjCW9Jxhd4GoRJ.jpg",
+    "trailer": "https://www.youtube.com/embed/HZS9M52Bd_w?autoplay=1",
+    "desc": "Imagina un mundo donde la carrera espacial global nunca terminó. Entra en un cautivante \"qué pasaría si\" en la historia, donde el programa espacial de la NASA sigue siendo la pieza central cultural de las esperanzas y sueños de Estados Unidos.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-90282",
+    "tmdbId": 90282,
+    "title": "The Morning Show",
+    "type": "Serie",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 7.7,
+    "points": 24,
+    "duration": "4 Temporadas",
+    "platform": "Apple TV+",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/y9x2R87yt2U616736NJrP0d56dt.jpg",
+    "trailer": "https://www.youtube.com/embed/iJjp5p51Cow?autoplay=1",
+    "desc": "Una mirada al interior de la vida de las personas que ayudan a Estados Unidos a despertarse cada mañana, explorando los desafíos únicos que enfrentan los hombres y mujeres que llevan a cabo este ritual televisado diario.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-247767",
+    "tmdbId": 247767,
+    "title": "The Studio",
+    "type": "Serie",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ],
+    "rating": 7.7,
+    "points": 15,
+    "duration": "2 Temporadas",
+    "platform": "Apple TV+",
+    "year": 2025,
+    "img": "https://image.tmdb.org/t/p/w500/qPu7IVfA4RYyCzd6kq0lFgeNgck.jpg",
+    "trailer": "https://www.youtube.com/embed/EIQuE7JGXU8?autoplay=1",
+    "desc": "Desesperados por gustar a las celebrities, el nuevo director de un estudio de cine y su equipo buscan el equilibro entre las exigencias corporativas y las aspiraciones creativas para poder seguir haciendo pelis atractivas.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-93740",
+    "tmdbId": 93740,
+    "title": "Fundación",
+    "type": "Serie",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "rating": 7.7,
+    "points": 46,
+    "duration": "3 Temporadas",
+    "platform": "Apple TV+",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/wSUYYcMMNtob0qslOwA0PAcqH0J.jpg",
+    "trailer": "https://www.youtube.com/embed/X4QYV5GTz7c?autoplay=1",
+    "desc": "Basada en la fascinante obra de Isaac Asimov, Foundation gira en torno a un grupo de exiliados en el ocaso del Imperio Galáctico y su afán por salvar a la humanidad y reconstruir la civilización.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-123192",
+    "tmdbId": 123192,
+    "title": "The Crowded Room",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "Crimen",
+      "Misterio"
+    ],
+    "rating": 7.7,
+    "points": 8,
+    "duration": "1 Temporada",
+    "platform": "Apple TV+",
+    "year": 2023,
+    "img": "https://image.tmdb.org/t/p/w500/ycvMXrRjpWBKB59n8hbyLuGtuNB.jpg",
+    "trailer": "https://www.youtube.com/embed/4w1xZA7pX2c?autoplay=1",
+    "desc": "Un thriller psicológico ambientado en Manhattan en el verano de 1979, cuando arrestan a un joven por un crimen espeluznante y una insólita investigadora debe resolver el misterio que se esconde tras él.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-585511",
+    "tmdbId": 585511,
+    "title": "Luck",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Fantasía",
+      "Familia"
+    ],
+    "rating": 7.7,
+    "points": 9,
+    "duration": "105 min",
+    "platform": "Apple TV+",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/bwlHp4KsAyuEIAtbYs4mxCkrgyx.jpg",
+    "trailer": "https://www.youtube.com/embed/xSG5UX0EQVg?autoplay=1",
+    "desc": "Sam Greenfield es la persona con menos suerte del mundo. Cuando de repente se encuentra en la desconocida Tierra de la Suerte, debe aliarse con los seres mágicos que la habitan para que su suerte cambie.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-13187",
+    "tmdbId": 13187,
+    "title": "La Navidad de Charlie Brown",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Comedia",
+      "Película de TV"
+    ],
+    "rating": 7.7,
+    "points": 2,
+    "duration": "25 min",
+    "platform": "Apple TV+",
+    "year": 1965,
+    "img": "https://image.tmdb.org/t/p/w500/9MIBIU9T12Gwc9mfo71tlvB5V7w.jpg",
+    "trailer": "https://www.youtube.com/embed/dV9sgMB-BKE?autoplay=1",
+    "desc": "Charlie Brown está deprimido porque piensa que la navidad carece de sentido, ve a Lucy y Snoopy obsesionados con regalos y decoraciones, Schroeder obsesionado con la obra de navidad, y todos los demás concentrados en las tarjetas y cartas a santa, todo esto lo hace cuestionarse el verdadero significado de la navidad. Charlie se disgusta por ver como la festividad se ha convertido en un comercialismo total. Cuando los chicos se comprometen a dar a Charlie la tarea de seleccionar un árbol de navidad para la obra, el escoge uno feo y solitario, pero Linus con un conmovedor discurso logra hacer que todos comprendan el verdadero significado de la navidad.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-726759",
+    "tmdbId": 726759,
+    "title": "Tetris",
+    "type": "Película",
+    "genres": [
+      "Suspense",
+      "Historia",
+      "Drama"
+    ],
+    "rating": 7.7,
+    "points": 7,
+    "duration": "118 min",
+    "platform": "Apple TV+",
+    "year": 2023,
+    "img": "https://image.tmdb.org/t/p/w500/qWZTrcZOIhWI4AkpferJFR5n5Ob.jpg",
+    "trailer": "https://www.youtube.com/embed/-BLM1naCfME?autoplay=1",
+    "desc": "Basada en la historia real del comercial de videojuegos estadounidense Henk Rogers y su descubrimiento del Tetris en 1988. Cuando se dispone a hacer que el juego sea disponible en el mundo, se mete en una peligrosa red de mentiras y corrupción que hay detrás de la Cortina de Hierro.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-950396",
+    "tmdbId": 950396,
+    "title": "El abismo secreto",
+    "type": "Película",
+    "genres": [
+      "Romance",
+      "Ciencia ficción",
+      "Suspense"
+    ],
+    "rating": 7.6,
+    "points": 28,
+    "duration": "127 min",
+    "platform": "Apple TV+",
+    "year": 2025,
+    "img": "https://image.tmdb.org/t/p/w500/3s0jkMh0YUhIeIeioH3kt2X4st4.jpg",
+    "trailer": "https://www.youtube.com/embed/rUSdnuOLebE?autoplay=1",
+    "desc": "Mandan a dos operativos de élite a vigilar lados opuestos de un misterioso abismo y allí intiman desde la distancia, pero deberán aunar fuerzas para sobrevivir al mal que esconde el abismo.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-627725",
+    "tmdbId": 627725,
+    "title": "El banquero",
+    "type": "Película",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 7.6,
+    "points": 4,
+    "duration": "120 min",
+    "platform": "Apple TV+",
+    "year": 2020,
+    "img": "https://image.tmdb.org/t/p/w500/sxV1aV1ca2gKLnEoNdzaeySmgU.jpg",
+    "trailer": "https://www.youtube.com/embed/J_-nk9-sMus?autoplay=1",
+    "desc": "En los años 60, dos emprendedores traman un ingenioso plan para conseguir acceso igualitario al sueño americano.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-198102",
+    "tmdbId": 198102,
+    "title": "Hijack",
+    "type": "Serie",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 7.5,
+    "points": 17,
+    "duration": "2 Temporadas",
+    "platform": "Apple TV+",
+    "year": 2023,
+    "img": "https://image.tmdb.org/t/p/w500/vAo3QL02oOI9Xz90FILQN5vxMsQ.jpg",
+    "trailer": "https://www.youtube.com/embed/WxwKzsklvJo?autoplay=1",
+    "desc": "El negociador Sam Nelson va a vivir el viaje de su vida cuando un grupo de secuestradores toma el control. Sam agotará sus tácticas, pero la situación es límite.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-103913",
+    "tmdbId": 103913,
+    "title": "Teherán",
+    "type": "Serie",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 7.5,
+    "points": 13,
+    "duration": "3 Temporadas",
+    "platform": "Apple TV+",
+    "year": 2020,
+    "img": "https://image.tmdb.org/t/p/w500/daeA95EXBB7AZP3JJWKpmMUAP1X.jpg",
+    "trailer": "https://www.youtube.com/embed/Hm_vHTy9IYA?autoplay=1",
+    "desc": "Tamar es una hacker del Mosad que se infiltra en Teherán bajo una identidad falsa para ayudar a destruir el reactor nuclear de Irán. Pero, tras fracasar en su misión, Tamar deberá trazar un plan que pondrá en riesgo a todos sus seres queridos.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-98161",
+    "tmdbId": 98161,
+    "title": "Home Before Dark - Las crónicas de Hilde Lisko",
+    "type": "Serie",
+    "genres": [
+      "Misterio",
+      "Drama"
+    ],
+    "rating": 7.5,
+    "points": 7,
+    "duration": "2 Temporadas",
+    "platform": "Apple TV+",
+    "year": 2020,
+    "img": "https://image.tmdb.org/t/p/w500/A4uh92nSommxHUkEKoeNH6I53dO.jpg",
+    "trailer": "https://www.youtube.com/embed/jsONbsXCuSg?autoplay=1",
+    "desc": "Cuando Hilde y su familia se mudan al pequeño pueblo natal del padre, su empeño por conocer la verdad la lleva a desenterrar impactantes secretos. De la coguionista de Cruella y el director de En un barrio de Nueva York.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-88055",
+    "tmdbId": 88055,
+    "title": "Servant",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "Misterio"
+    ],
+    "rating": 7.5,
+    "points": 15,
+    "duration": "4 Temporadas",
+    "platform": "Apple TV+",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/plsSSobmPSSz4hm8vYMXeIVkJJP.jpg",
+    "trailer": "https://www.youtube.com/embed/N1cOR0sRRIw?autoplay=1",
+    "desc": "Una pareja de Philadelphia, de luto tras suceder una horrible tragedia, crea una grieta en su matrimonio que abre la puerta a una misteriosa fuerza que entra en su hogar.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-597922",
+    "tmdbId": 597922,
+    "title": "Yo me encargo de la cerveza",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Comedia",
+      "Bélica"
+    ],
+    "rating": 7.5,
+    "points": 3,
+    "duration": "127 min",
+    "platform": "Apple TV+",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/vCnEq0eQJVtVhwDVp0NqJSkcdcx.jpg",
+    "trailer": "https://www.youtube.com/embed/NqxziDlZOIo?autoplay=1",
+    "desc": "Chickie quiere ayudar a sus amigos en la guerra de Vietnam así que hace una locura: va a llevarles cerveza americana. Lo que comienza como un viaje con buenas intenciones rapidamente cambia la visión de Chickie sobre la vida.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-13353",
+    "tmdbId": 13353,
+    "title": "Ésta es la gran calabaza, Charlie Brown",
+    "type": "Película",
+    "genres": [
+      "Familia",
+      "Animación",
+      "Película de TV",
+      "Comedia"
+    ],
+    "rating": 7.5,
+    "points": 2,
+    "duration": "25 min",
+    "platform": "Apple TV+",
+    "year": 1966,
+    "img": "https://image.tmdb.org/t/p/w500/59wp9OWexYsxlSPHYmVLsl5xlFt.jpg",
+    "trailer": "https://www.youtube.com/embed/eiOHiN39N9w?autoplay=1",
+    "desc": "Vive una aventura repleta de brujas, fantasmas, golosinas y calabazas junto a Carlitos, Snoopy y sus amigos en este entrañable clásico de Halloween.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-516486",
+    "tmdbId": 516486,
+    "title": "Greyhound: Enemigos bajo el mar",
+    "type": "Película",
+    "genres": [
+      "Bélica",
+      "Acción",
+      "Drama"
+    ],
+    "rating": 7.4,
+    "points": 8,
+    "duration": "92 min",
+    "platform": "Apple TV+",
+    "year": 2020,
+    "img": "https://image.tmdb.org/t/p/w500/SS4UfZR1AESjtSSIs3o5Gndypx.jpg",
+    "trailer": "https://www.youtube.com/embed/5Byeq_hyh2U?autoplay=1",
+    "desc": "El capitán Krause lidera un convoy de 37 buques en una misión crucial a través de las peligrosas aguas del Atlántico atestadas de submarinos alemanes.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-466420",
+    "tmdbId": 466420,
+    "title": "Los asesinos de la luna",
+    "type": "Película",
+    "genres": [
+      "Crimen",
+      "Historia",
+      "Drama"
+    ],
+    "rating": 7.4,
+    "points": 9,
+    "duration": "206 min",
+    "platform": "Apple TV+",
+    "year": 2023,
+    "img": "https://image.tmdb.org/t/p/w500/731ydMfVJaIyR1bhFEeX7rubqGH.jpg",
+    "trailer": "https://www.youtube.com/embed/1oZUCkJEuvo?autoplay=1",
+    "desc": "Miembros de la tribu Osage de los Estados Unidos, son asesinados bajo misteriosas circunstancias en la década de 1920 provocando una importante investigación por el FBI involucrando a J. Edgar Hoover.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-98178",
+    "tmdbId": 98178,
+    "title": "Cuentos asombrosos",
+    "type": "Serie",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "rating": 7.3,
+    "points": 7,
+    "duration": "1 Temporada",
+    "platform": "Apple TV+",
+    "year": 2020,
+    "img": "https://image.tmdb.org/t/p/w500/alNBohs3NLzWCEh4t1wad60hI5d.jpg",
+    "trailer": "https://www.youtube.com/embed/8sa8EDeb3eQ?autoplay=1",
+    "desc": "Los visionarios productores ejecutivos Steven Spielberg, Edward Kitsis y Adam Horowitz reinventan esta antología clásica que transporta a personajes corrientes a mundos asombrosos llenos de posibilidades e imaginación.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-241554",
+    "tmdbId": 241554,
+    "title": "Matabot",
+    "type": "Serie",
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 7.3,
+    "points": 12,
+    "duration": "1 Temporada",
+    "platform": "Apple TV+",
+    "year": 2025,
+    "img": "https://image.tmdb.org/t/p/w500/ntZB7o2CONuXtjPctRVRsiIZvxj.jpg",
+    "trailer": "https://www.youtube.com/embed/vEioDeOiqEs?autoplay=1",
+    "desc": "En un futuro tecnológico, un robot de seguridad rebelde consigue en secreto voluntad propia. Para no llamar la atención, se une a regañadientes a una nueva misión. Debe proteger a unos científicos en un planeta peligroso... aunque solo quiere ver culebrones.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-133727",
+    "tmdbId": 133727,
+    "title": "Acapulco",
+    "type": "Serie",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ],
+    "rating": 7.3,
+    "points": 10,
+    "duration": "4 Temporadas",
+    "platform": "Apple TV+",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/462Nyyeyl3E2aiyU1pCCHqxAgH1.jpg",
+    "trailer": "https://www.youtube.com/embed/e8YKi_05emo?autoplay=1",
+    "desc": "En 1984, Máximo Gallardo cumple el sueño de su vida cuando empieza a trabajar en Las Colinas, el mejor resort de Acapulco. Pronto descubrirá que las cosas van a ser mucho más complicadas de lo que imaginaba.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-544401",
+    "tmdbId": 544401,
+    "title": "Cherry",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Crimen"
+    ],
+    "rating": 7.3,
+    "points": 4,
+    "duration": "142 min",
+    "platform": "Apple TV+",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/pwDvkDyaHEU9V7cApQhbcSJMG1w.jpg",
+    "trailer": "https://www.youtube.com/embed/H5bH6O0bErk?autoplay=1",
+    "desc": "Cuando Cherry deja los estudios para unirse al ejército, su novia Emily se convierte en su único apoyo. Al volver de la guerra, su estrés postraumático le llevará a una espiral de drogas y crimen que amenaza con destruirlo todo.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-94951",
+    "tmdbId": 94951,
+    "title": "Mythic Quest",
+    "type": "Serie",
+    "genres": [
+      "Comedia"
+    ],
+    "rating": 7.2,
+    "points": 17,
+    "duration": "4 Temporadas",
+    "platform": "Apple TV+",
+    "year": 2020,
+    "img": "https://image.tmdb.org/t/p/w500/8Ggua9daH75BdaGS8GJ1SQKkZCk.jpg",
+    "trailer": "https://www.youtube.com/embed/50Yz1apB7iw?autoplay=1",
+    "desc": "Conoce al equipo detrás del videojuego multijugador más grande de todos los tiempos. En una empresa con la misión de construir mundos, moldear héroes y crear leyendas, las batallas más difíciles no se libran en el juego sino en la oficina.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-1029575",
+    "tmdbId": 1029575,
+    "title": "Plan en familia",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Familia"
+    ],
+    "rating": 7.2,
+    "points": 21,
+    "duration": "118 min",
+    "platform": "Apple TV+",
+    "year": 2023,
+    "img": "https://image.tmdb.org/t/p/w500/7mEX07jWRYrjarW84sBeFghGMfa.jpg",
+    "trailer": "https://www.youtube.com/embed/ns8weNznn1Y?autoplay=1",
+    "desc": "Dan Morgan es muchas cosas: un marido devoto, un padre cariñoso, un reputado vendedor de coches. También es un exasesino. Y, cuando su pasado alcanza su presente, se ve obligado a embarcar a su ingenua familia en un viaje por carretera sin igual.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-127235",
+    "tmdbId": 127235,
+    "title": "Invasión",
+    "type": "Serie",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "rating": 7.1,
+    "points": 23,
+    "duration": "3 Temporadas",
+    "platform": "Apple TV+",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/2iDGTCLRz1oWxU7cVRDsTqgJv7u.jpg",
+    "trailer": "https://www.youtube.com/embed/DlaHxL3mHAU?autoplay=1",
+    "desc": "La llegada de una especie alienígena a la Tierra pone en peligro a toda la humanidad. Sigue los acontecimientos a través de la perspectiva de cinco personas que, desde diferentes lugares del mundo, se esfuerzan por dar sentido al caos que las rodea.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-814340",
+    "tmdbId": 814340,
+    "title": "Bailando por la vida",
+    "type": "Película",
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Romance"
+    ],
+    "rating": 7.1,
+    "points": 2,
+    "duration": "108 min",
+    "platform": "Apple TV+",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/7n3se3N7IcB0B7bxvMJPJz32IAg.jpg",
+    "trailer": "https://www.youtube.com/embed/QRyyagJ9GPo?autoplay=1",
+    "desc": "Recién salido de la universidad y atrapado en su casa de Nueva Jersey sin tener muy claro su futuro, Andrew, de 22 años, empieza a trabajar como animador de fiestas para bar y bat mitzvás. Allí entabla una amistad especial con una joven madre y su hija adolescente.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-765245",
+    "tmdbId": 765245,
+    "title": "El canto del cisne",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Ciencia ficción"
+    ],
+    "rating": 7.1,
+    "points": 3,
+    "duration": "112 min",
+    "platform": "Apple TV+",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/k8grTFIqokqAbQgvZSCIYdzub3p.jpg",
+    "trailer": "https://www.youtube.com/embed/LxftqrrlSqc?autoplay=1",
+    "desc": "En un futuro cercano, Cameron Turner es diagnosticado con una enfermedad terminal y para ahorrarle el dolor a su familia decide optar por una solución experimental que cambiará su destino. Una reflexiva historia de amor, pérdida y sacrificio.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-197125",
+    "tmdbId": 197125,
+    "title": "Constelación",
+    "type": "Serie",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Misterio",
+      "Drama"
+    ],
+    "rating": 7,
+    "points": 8,
+    "duration": "1 Temporada",
+    "platform": "Apple TV+",
+    "year": 2024,
+    "img": "https://image.tmdb.org/t/p/w500/kW8pv9jMKE2t1L5xyy1JRxjWJ9n.jpg",
+    "trailer": "https://www.youtube.com/embed/4dAaLbsQSzI?autoplay=1",
+    "desc": "Tras un accidente mortal en la Estación Espacial Internacional, una astronauta logra volver sola a la Tierra de forma heroica. Pero, al regresar, descubre que las piezas clave de su vida, incluida su hija, han cambiado.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-1259102",
+    "tmdbId": 1259102,
+    "title": "Eternity",
+    "type": "Película",
+    "genres": [
+      "Romance",
+      "Comedia",
+      "Drama"
+    ],
+    "rating": 7,
+    "points": 9,
+    "duration": "114 min",
+    "platform": "Apple TV+",
+    "year": 2025,
+    "img": "https://image.tmdb.org/t/p/w500/5zCTIGICQ9ykuBXDmS4rL1kEK9l.jpg",
+    "trailer": "https://www.youtube.com/embed/GzkoY6hUvQQ?autoplay=1",
+    "desc": "En un más allá donde las almas tienen una semana para decidir dónde pasarán la eternidad, Joan (Elizabeth Olsen) se enfrenta a la diabólica disyuntiva de elegir entre el hombre con el que ha compartido su vida (Miles Teller) y su primer amor (Callum Turner), que murió joven y ha estado décadas esperando a que ella llegara.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-1236470",
+    "tmdbId": 1236470,
+    "title": "Laberinto en llamas",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Historia",
+      "Suspense"
+    ],
+    "rating": 7,
+    "points": 5,
+    "duration": "130 min",
+    "platform": "Apple TV+",
+    "year": 2025,
+    "img": "https://image.tmdb.org/t/p/w500/8n0kkUc4wKknqEJfq8eErWrvvUL.jpg",
+    "trailer": "https://www.youtube.com/embed/kQFiO88d_gk?autoplay=1",
+    "desc": "En uno de los incendios forestales más mortíferos de la historia de Estados Unidos que amenaza la ciudad de Paradise, Kevin McKay, un conductor de autobús escolar, y Mary Ludwig, una maestra infantil, luchan para salvar a 22 niños del aterrador infierno.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-591538",
+    "tmdbId": 591538,
+    "title": "Macbeth",
+    "type": "Película",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 6.9,
+    "points": 3,
+    "duration": "105 min",
+    "platform": "Apple TV+",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/d6qvkjvo84eCQDnlpIMBqSUAjdI.jpg",
+    "trailer": "https://www.youtube.com/embed/ptqe7s6pO7g?autoplay=1",
+    "desc": "Macbeth, recibe una profecía de un trío de brujas de que algún día se convertirá en rey de Escocia. Consumido por la ambición y empujado a la acción por su esposa, Macbeth asesina a su rey y toma el trono para él.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-868759",
+    "tmdbId": 868759,
+    "title": "Ghosting",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Romance"
+    ],
+    "rating": 6.9,
+    "points": 8,
+    "duration": "117 min",
+    "platform": "Apple TV+",
+    "year": 2023,
+    "img": "https://image.tmdb.org/t/p/w500/zSw2JeQ03GivcS4VKJmWK5sYi1F.jpg",
+    "trailer": "https://www.youtube.com/embed/IAdCsNtEuBU?autoplay=1",
+    "desc": "Cole, un tipo campechano, se enamora perdidamente de la enigmática Sadie, quien, para su enorme sorpresa, resulta ser una agente secreta. Antes de que pueda surgir una segunda cita, los dos deben embarcarse en una aventura internacional para salvar el mundo.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-717980",
+    "tmdbId": 717980,
+    "title": "Embaucadores",
+    "type": "Película",
+    "genres": [
+      "Suspense",
+      "Crimen"
+    ],
+    "rating": 6.9,
+    "points": 3,
+    "duration": "116 min",
+    "platform": "Apple TV+",
+    "year": 2023,
+    "img": "https://image.tmdb.org/t/p/w500/uqOaJvWbTEHzISjyx3XibRI8Va9.jpg",
+    "trailer": "https://www.youtube.com/embed/r00ldaPQbjs?autoplay=1",
+    "desc": "Esta película explora los secretos de la ciudad de Nueva York, desde los áticos de la Quinta Avenida hasta los rincones sombríos de Queens. Los motivos son sospechosos y las expectativas cambian cuando nada es lo que parece.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-632856",
+    "tmdbId": 632856,
+    "title": "El espíritu de la Navidad",
+    "type": "Película",
+    "genres": [
+      "Comedia"
+    ],
+    "rating": 6.8,
+    "points": 4,
+    "duration": "127 min",
+    "platform": "Apple TV+",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/v32IbOmBVViSq1dML1Tt8jV0uIY.jpg",
+    "trailer": "https://www.youtube.com/embed/tnAJntI3NNs?autoplay=1",
+    "desc": "Cada Nochebuena, el Fantasma de las Navidades Presentes elige un alma oscura para reformarla con una visita de los tres espíritus. Pero esta vez ha elegido al Scrooge equivocado. Clint Briggs le da la vuelta a las intenciones de su fantasmagórico invitado, hasta que Presente se empieza a replantear su propio pasado, presente y futuro.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-956842",
+    "tmdbId": 956842,
+    "title": "Fly Me to the Moon",
+    "type": "Película",
+    "genres": [
+      "Romance",
+      "Comedia"
+    ],
+    "rating": 6.8,
+    "points": 4,
+    "duration": "132 min",
+    "platform": "Apple TV+",
+    "year": 2024,
+    "img": "https://image.tmdb.org/t/p/w500/tWDZF3PuigBvYisM83ZPuWM4v89.jpg",
+    "trailer": "https://www.youtube.com/embed/1ZO5k948MkY?autoplay=1",
+    "desc": "Ambientada en el histórico alunizaje del Apolo 11, en 1969. Llamados para mejorar la imagen pública de la NASA, las chispas vuelan en todas las direcciones cuando la prodigio del marketing Kelly Jones causa estragos en la ya difícil tarea del director de lanzamiento Cole Davis. Cuando la Casa Blanca considera que la misión es demasiado importante para fracasar, Jones recibe la orden de simular un alunizaje falso como respaldo y comienza la verdadera cuenta atrás.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-1363123",
+    "tmdbId": 1363123,
+    "title": "Plan en familia 2",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Comedia"
+    ],
+    "rating": 6.6,
+    "points": 14,
+    "duration": "106 min",
+    "platform": "Apple TV+",
+    "year": 2025,
+    "img": "https://image.tmdb.org/t/p/w500/sxoN17pPyL6SiqD8F6DXmTPILwJ.jpg",
+    "trailer": "https://www.youtube.com/embed/dqolYtJGuf4?autoplay=1",
+    "desc": "Dan ha dejado atrás su pasado como asesino y lo único que quiere esta Navidad es pasar tiempo de calidad con sus hijos. Pero, al ver que su hija tiene otros planes, organiza un viaje familiar a Londres... y los pone a todos en la mira de un enemigo inesperado.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-877817",
+    "tmdbId": 877817,
+    "title": "Wolfs",
+    "type": "Película",
+    "genres": [
+      "Crimen",
+      "Comedia"
+    ],
+    "rating": 6.5,
+    "points": 18,
+    "duration": "108 min",
+    "platform": "Apple TV+",
+    "year": 2024,
+    "img": "https://image.tmdb.org/t/p/w500/uNNVMzJg7NVqxRu8mDLEwIiQgDJ.jpg",
+    "trailer": "https://www.youtube.com/embed/5RSUcuGIiI0?autoplay=1",
+    "desc": "Dos “solucionadores” rivales cruzan sus caminos cuando los llaman a ambos para ayudar a ocultar el desliz de una importante funcionaria de Nueva York. Durante una noche muy intensa, deberán dejar de lado sus pequeñas rencillas -y sus egos- para terminar el trabajo.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-595586",
+    "tmdbId": 595586,
+    "title": "Causeway",
+    "type": "Película",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 6.5,
+    "points": 3,
+    "duration": "92 min",
+    "platform": "Apple TV+",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/1Llmpsg6iI8jWzl7WDXWe8H1sx9.jpg",
+    "trailer": "https://www.youtube.com/embed/i-iIkeMqXXE?autoplay=1",
+    "desc": "Lyndsey es una soldado que lucha por volver a adaptarse a su hogar en Nueva Orleans después de sufrir una lesión traumática. Tas conocer a un mecánico de la zona, James, ambos comienzan a forjar un vínculo inesperado.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-1097311",
+    "tmdbId": 1097311,
+    "title": "Echo Valley",
+    "type": "Película",
+    "genres": [
+      "Suspense",
+      "Drama"
+    ],
+    "rating": 6.4,
+    "points": 3,
+    "duration": "105 min",
+    "platform": "Apple TV+",
+    "year": 2025,
+    "img": "https://image.tmdb.org/t/p/w500/1E4WCgTodyS7zo8pSp1gZlPO0th.jpg",
+    "trailer": "https://www.youtube.com/embed/KQiZ5zMhliw?autoplay=1",
+    "desc": "Kate es una madre que trata de reconducir su relación con su problemática hija Claire. La situación se vuelve crítica cuando Claire aparece sin avisar en casa de Kate, histérica y cubierta de la sangre de otra persona. A medida que Kate trata de desvelar la terrible verdad de lo sucedido, descubrirá hasta qué punto puede llegar una madre para tratar de salvar a su hija.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-753342",
+    "tmdbId": 753342,
+    "title": "Napoleón",
+    "type": "Película",
+    "genres": [
+      "Historia",
+      "Bélica",
+      "Romance"
+    ],
+    "rating": 6.3,
+    "points": 8,
+    "duration": "158 min",
+    "platform": "Apple TV+",
+    "year": 2023,
+    "img": "https://image.tmdb.org/t/p/w500/opn1o3OClYWOHgsJ0QWA74ytwBx.jpg",
+    "trailer": "https://www.youtube.com/embed/KPr42qEdhnU?autoplay=1",
+    "desc": "Una mirada personal a los orígenes del líder militar francés y su rápido y despiadado ascenso a emperador. La historia se ve a través de la lente de la relación adictiva y volátil de Napoleón Bonaparte con su esposa y único amor verdadero, Josefina.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-1098006",
+    "tmdbId": 1098006,
+    "title": "La fuente de la eterna juventud",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Fantasía",
+      "Misterio"
+    ],
+    "rating": 6.3,
+    "points": 6,
+    "duration": "126 min",
+    "platform": "Apple TV+",
+    "year": 2025,
+    "img": "https://image.tmdb.org/t/p/w500/9bhDUyOCrcwPLKbPyHM4uKOa65T.jpg",
+    "trailer": "https://www.youtube.com/embed/-7S28bH8iDs?autoplay=1",
+    "desc": "Un genio cazatesoros reúne a un equipo para una misión que cambiará vidas. Pero para esquivar y superar los obstáculos que se encontrará, necesitará a alguien más listo que él: su distanciada hermana.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-1059064",
+    "tmdbId": 1059064,
+    "title": "Los instigadores",
+    "type": "Película",
+    "genres": [
+      "Crimen",
+      "Comedia"
+    ],
+    "rating": 6.1,
+    "points": 4,
+    "duration": "102 min",
+    "platform": "Apple TV+",
+    "year": 2024,
+    "img": "https://image.tmdb.org/t/p/w500/zDWHsjfdsvZZkMWo1u1Ep7Y77FQ.jpg",
+    "trailer": "https://www.youtube.com/embed/X5oqpxi3U7M?autoplay=1",
+    "desc": "Rory, un padre desesperado, y Cobby, un expresidiario, se ven obligados a aliarse para cometer un atraco. Cuando todo se tuerce, hacen equipo con un cómplice inesperado, la psicóloga de Rory, para escapar de la policía, unos funcionarios corruptos y un capo vengativo.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-575417",
+    "tmdbId": 575417,
+    "title": "On the Rocks",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Comedia",
+      "Romance"
+    ],
+    "rating": 6.1,
+    "points": 2,
+    "duration": "96 min",
+    "platform": "Apple TV+",
+    "year": 2020,
+    "img": "https://image.tmdb.org/t/p/w500/lJ4rECb09CWmzwEc5iLgsyj3SpP.jpg",
+    "trailer": "https://www.youtube.com/embed/Xn3sK4WiviA?autoplay=1",
+    "desc": "Ante las recientes dudas sobre su matrimonio, una joven neoyorquina le pide ayuda a su extravagante padre para seguir a su marido.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-848538",
+    "tmdbId": 848538,
+    "title": "Argylle",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Comedia"
+    ],
+    "rating": 6,
+    "points": 6,
+    "duration": "139 min",
+    "platform": "Apple TV+",
+    "year": 2024,
+    "img": "https://image.tmdb.org/t/p/w500/3Db7sBWOB9B4Uo7MqSt9apxYzZp.jpg",
+    "trailer": "https://www.youtube.com/embed/Sy6eNs3EW3E?autoplay=1",
+    "desc": "Cuando las tramas de sus libros empiezan a parecerse demasiado a las actividades de un siniestro sindicato clandestino, la introvertida autora de novelas de espías Elly Conway y su gato se ven inmersos en el verdadero mundo del espionaje… donde nada, ni nadie, es lo que parece.",
+    "categoria": "apple-tv"
+  },
+  {
+    "id": "tmdb-1242434",
+    "tmdbId": 1242434,
+    "title": "Del cielo al infierno",
+    "type": "Película",
+    "genres": [
+      "Suspense",
+      "Crimen",
+      "Drama"
+    ],
+    "rating": 5.5,
+    "points": 7,
+    "duration": "133 min",
+    "platform": "Apple TV+",
+    "year": 2025,
+    "img": "https://image.tmdb.org/t/p/w500/b0AQYSM09AYVRKLZr6jIAP2xNq9.jpg",
+    "trailer": "https://www.youtube.com/embed/Sh8yqcozfn8?autoplay=1",
+    "desc": "Cuando un poderoso empresario musical es víctima de una extorsión, se ve obligado a luchar por su familia y su legado mientras afronta un dilema ético vital.",
+    "categoria": "apple-tv"
+  }
+]
