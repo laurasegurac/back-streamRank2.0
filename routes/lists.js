@@ -29,13 +29,364 @@ function parseBody(req) {
 }
 function getMovieCatalog() {
   try {
-    const raw = fs.readFileSync(path.join(__dirname, '..', 'data', 'movies.json'), 'utf8');
-    const data = JSON.parse(raw);
-    // Si es objeto por categorías, aplanar a array
-    if (Array.isArray(data)) return data;
-    return Object.values(data).flat();
+    const dataDir  = path.join(__dirname, '..', 'data');
+    const carpetas = ['plataformas', 'estudios', 'sagas'];
+    const todos    = [];
+    const vistos   = new Set();
+
+    for (const carpeta of carpetas) {
+      const carpetaDir = path.join(dataDir, carpeta);
+      if (!fs.existsSync(carpetaDir)) continue;
+
+      const archivos = fs.readdirSync(carpetaDir).filter(f => f.endsWith('.json'));
+      for (const archivo of archivos) {
+        const raw   = fs.readFileSync(path.join(carpetaDir, archivo), 'utf8');
+        const items = JSON.parse(raw);
+        for (const item of items) {
+          const key = item.tmdbId || item.id;
+          if (!vistos.has(key)) {
+            vistos.add(key);
+            todos.push(item);
+          }
+        }
+      }
+    }
+
+    // Fallback al movies.json viejo
+    if (todos.length === 0) {
+      const oldPath = path.join(dataDir, 'movies.json');
+      if (fs.existsSync(oldPath)) {
+        const raw  = fs.readFileSync(oldPath, 'utf8');
+        const data = JSON.parse(raw);
+        return Array.isArray(data) ? data : Object.values(data).flat();
+      }
+    }
+
+    return todos;
   } catch { return []; }
 }
+
+/* ── Leer catálogo de movies.json ── */
+function getMovieCatalog() {
+  try {
+    const dataDir  = path.join(__dirname, '..', 'data');
+    const carpetas = ['plataformas', 'estudios', 'sagas'];
+    const todos    = [];
+    const vistos   = new Set();
+
+    for (const carpeta of carpetas) {
+      const carpetaDir = path.join(dataDir, carpeta);
+      if (!fs.existsSync(carpetaDir)) continue;
+
+      const archivos = fs.readdirSync(carpetaDir).filter(f => f.endsWith('.json'));
+      for (const archivo of archivos) {
+        const raw   = fs.readFileSync(path.join(carpetaDir, archivo), 'utf8');
+        const items = JSON.parse(raw);
+        for (const item of items) {
+          const key = item.tmdbId || item.id;
+          if (!vistos.has(key)) {
+            vistos.add(key);
+            todos.push(item);
+          }
+        }
+      }
+    }
+
+    // Fallback al movies.json viejo
+    if (todos.length === 0) {
+      const oldPath = path.join(dataDir, 'movies.json');
+      if (fs.existsSync(oldPath)) {
+        const raw  = fs.readFileSync(oldPath, 'utf8');
+        const data = JSON.parse(raw);
+        return Array.isArray(data) ? data : Object.values(data).flat();
+      }
+    }
+
+    return todos;
+  } catch { return []; }
+}
+
+/* ── Leer catálogo de movies.json ── */
+function getMovieCatalog() {
+  try {
+    const dataDir  = path.join(__dirname, '..', 'data');
+    const carpetas = ['plataformas', 'estudios', 'sagas'];
+    const todos    = [];
+    const vistos   = new Set();
+
+    for (const carpeta of carpetas) {
+      const carpetaDir = path.join(dataDir, carpeta);
+      if (!fs.existsSync(carpetaDir)) continue;
+
+      const archivos = fs.readdirSync(carpetaDir).filter(f => f.endsWith('.json'));
+      for (const archivo of archivos) {
+        const raw   = fs.readFileSync(path.join(carpetaDir, archivo), 'utf8');
+        const items = JSON.parse(raw);
+        for (const item of items) {
+          const key = item.tmdbId || item.id;
+          if (!vistos.has(key)) {
+            vistos.add(key);
+            todos.push(item);
+          }
+        }
+      }
+    }
+
+    // Fallback al movies.json viejo
+    if (todos.length === 0) {
+      const oldPath = path.join(dataDir, 'movies.json');
+      if (fs.existsSync(oldPath)) {
+        const raw  = fs.readFileSync(oldPath, 'utf8');
+        const data = JSON.parse(raw);
+        return Array.isArray(data) ? data : Object.values(data).flat();
+      }
+    }
+
+    return todos;
+  } catch { return []; }
+}
+
+/* ── Leer catálogo de movies.json ── */
+function getMovieCatalog() {
+  try {
+    const dataDir  = path.join(__dirname, '..', 'data');
+    const carpetas = ['plataformas', 'estudios', 'sagas'];
+    const todos    = [];
+    const vistos   = new Set();
+
+    for (const carpeta of carpetas) {
+      const carpetaDir = path.join(dataDir, carpeta);
+      if (!fs.existsSync(carpetaDir)) continue;
+
+      const archivos = fs.readdirSync(carpetaDir).filter(f => f.endsWith('.json'));
+      for (const archivo of archivos) {
+        const raw   = fs.readFileSync(path.join(carpetaDir, archivo), 'utf8');
+        const items = JSON.parse(raw);
+        for (const item of items) {
+          const key = item.tmdbId || item.id;
+          if (!vistos.has(key)) {
+            vistos.add(key);
+            todos.push(item);
+          }
+        }
+      }
+    }
+
+    // Fallback al movies.json viejo
+    if (todos.length === 0) {
+      const oldPath = path.join(dataDir, 'movies.json');
+      if (fs.existsSync(oldPath)) {
+        const raw  = fs.readFileSync(oldPath, 'utf8');
+        const data = JSON.parse(raw);
+        return Array.isArray(data) ? data : Object.values(data).flat();
+      }
+    }
+
+    return todos;
+  } catch { return []; }
+}
+
+/* ── Leer catálogo de movies.json ── */
+function getMovieCatalog() {
+  try {
+    const dataDir  = path.join(__dirname, '..', 'data');
+    const carpetas = ['plataformas', 'estudios', 'sagas'];
+    const todos    = [];
+    const vistos   = new Set();
+
+    for (const carpeta of carpetas) {
+      const carpetaDir = path.join(dataDir, carpeta);
+      if (!fs.existsSync(carpetaDir)) continue;
+
+      const archivos = fs.readdirSync(carpetaDir).filter(f => f.endsWith('.json'));
+      for (const archivo of archivos) {
+        const raw   = fs.readFileSync(path.join(carpetaDir, archivo), 'utf8');
+        const items = JSON.parse(raw);
+        for (const item of items) {
+          const key = item.tmdbId || item.id;
+          if (!vistos.has(key)) {
+            vistos.add(key);
+            todos.push(item);
+          }
+        }
+      }
+    }
+
+    // Fallback al movies.json viejo
+    if (todos.length === 0) {
+      const oldPath = path.join(dataDir, 'movies.json');
+      if (fs.existsSync(oldPath)) {
+        const raw  = fs.readFileSync(oldPath, 'utf8');
+        const data = JSON.parse(raw);
+        return Array.isArray(data) ? data : Object.values(data).flat();
+      }
+    }
+
+    return todos;
+  } catch { return []; }
+}
+
+/* ── Leer catálogo de movies.json ── */
+function getMovieCatalog() {
+  try {
+    const dataDir  = path.join(__dirname, '..', 'data');
+    const carpetas = ['plataformas', 'estudios', 'sagas'];
+    const todos    = [];
+    const vistos   = new Set();
+
+    for (const carpeta of carpetas) {
+      const carpetaDir = path.join(dataDir, carpeta);
+      if (!fs.existsSync(carpetaDir)) continue;
+
+      const archivos = fs.readdirSync(carpetaDir).filter(f => f.endsWith('.json'));
+      for (const archivo of archivos) {
+        const raw   = fs.readFileSync(path.join(carpetaDir, archivo), 'utf8');
+        const items = JSON.parse(raw);
+        for (const item of items) {
+          const key = item.tmdbId || item.id;
+          if (!vistos.has(key)) {
+            vistos.add(key);
+            todos.push(item);
+          }
+        }
+      }
+    }
+
+    // Fallback al movies.json viejo
+    if (todos.length === 0) {
+      const oldPath = path.join(dataDir, 'movies.json');
+      if (fs.existsSync(oldPath)) {
+        const raw  = fs.readFileSync(oldPath, 'utf8');
+        const data = JSON.parse(raw);
+        return Array.isArray(data) ? data : Object.values(data).flat();
+      }
+    }
+
+    return todos;
+  } catch { return []; }
+}
+
+/* ── Leer catálogo de movies.json ── */
+function getMovieCatalog() {
+  try {
+    const dataDir  = path.join(__dirname, '..', 'data');
+    const carpetas = ['plataformas', 'estudios', 'sagas'];
+    const todos    = [];
+    const vistos   = new Set();
+
+    for (const carpeta of carpetas) {
+      const carpetaDir = path.join(dataDir, carpeta);
+      if (!fs.existsSync(carpetaDir)) continue;
+
+      const archivos = fs.readdirSync(carpetaDir).filter(f => f.endsWith('.json'));
+      for (const archivo of archivos) {
+        const raw   = fs.readFileSync(path.join(carpetaDir, archivo), 'utf8');
+        const items = JSON.parse(raw);
+        for (const item of items) {
+          const key = item.tmdbId || item.id;
+          if (!vistos.has(key)) {
+            vistos.add(key);
+            todos.push(item);
+          }
+        }
+      }
+    }
+
+    // Fallback al movies.json viejo
+    if (todos.length === 0) {
+      const oldPath = path.join(dataDir, 'movies.json');
+      if (fs.existsSync(oldPath)) {
+        const raw  = fs.readFileSync(oldPath, 'utf8');
+        const data = JSON.parse(raw);
+        return Array.isArray(data) ? data : Object.values(data).flat();
+      }
+    }
+
+    return todos;
+  } catch { return []; }
+}
+
+/* ── Leer catálogo de movies.json ── */
+function getMovieCatalog() {
+  try {
+    const dataDir  = path.join(__dirname, '..', 'data');
+    const carpetas = ['plataformas', 'estudios', 'sagas'];
+    const todos    = [];
+    const vistos   = new Set();
+
+    for (const carpeta of carpetas) {
+      const carpetaDir = path.join(dataDir, carpeta);
+      if (!fs.existsSync(carpetaDir)) continue;
+
+      const archivos = fs.readdirSync(carpetaDir).filter(f => f.endsWith('.json'));
+      for (const archivo of archivos) {
+        const raw   = fs.readFileSync(path.join(carpetaDir, archivo), 'utf8');
+        const items = JSON.parse(raw);
+        for (const item of items) {
+          const key = item.tmdbId || item.id;
+          if (!vistos.has(key)) {
+            vistos.add(key);
+            todos.push(item);
+          }
+        }
+      }
+    }
+
+    // Fallback al movies.json viejo
+    if (todos.length === 0) {
+      const oldPath = path.join(dataDir, 'movies.json');
+      if (fs.existsSync(oldPath)) {
+        const raw  = fs.readFileSync(oldPath, 'utf8');
+        const data = JSON.parse(raw);
+        return Array.isArray(data) ? data : Object.values(data).flat();
+      }
+    }
+
+    return todos;
+  } catch { return []; }
+}
+
+/* ── Leer catálogo de movies.json ── */
+function getMovieCatalog() {
+  try {
+    const dataDir  = path.join(__dirname, '..', 'data');
+    const carpetas = ['plataformas', 'estudios', 'sagas'];
+    const todos    = [];
+    const vistos   = new Set();
+
+    for (const carpeta of carpetas) {
+      const carpetaDir = path.join(dataDir, carpeta);
+      if (!fs.existsSync(carpetaDir)) continue;
+
+      const archivos = fs.readdirSync(carpetaDir).filter(f => f.endsWith('.json'));
+      for (const archivo of archivos) {
+        const raw   = fs.readFileSync(path.join(carpetaDir, archivo), 'utf8');
+        const items = JSON.parse(raw);
+        for (const item of items) {
+          const key = item.tmdbId || item.id;
+          if (!vistos.has(key)) {
+            vistos.add(key);
+            todos.push(item);
+          }
+        }
+      }
+    }
+
+    // Fallback al movies.json viejo
+    if (todos.length === 0) {
+      const oldPath = path.join(dataDir, 'movies.json');
+      if (fs.existsSync(oldPath)) {
+        const raw  = fs.readFileSync(oldPath, 'utf8');
+        const data = JSON.parse(raw);
+        return Array.isArray(data) ? data : Object.values(data).flat();
+      }
+    }
+
+    return todos;
+  } catch { return []; }
+}
+
+/* ── Leer catálogo de movies.json ── */
 
 /* ── Leer catálogo de movies.json ── */
 
