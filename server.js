@@ -89,51 +89,64 @@ function getMovies(req, res) {
       return jsonResponse(res, 500, { ok: false, error: 'Error leyendo tipo' });
     }
   }
- 
   /* ── Top global ── */
-  if (global_) {
-    try {
-      const vistos = new Set();
-      const todos  = [];
-      const carpetas = ['plataformas', 'estudios', 'sagas'];
- 
-      for (const carpeta of carpetas) {
-        const carpetaDir = path.join(dataDir, carpeta);
-        if (!fs.existsSync(carpetaDir)) continue;
-        const archivos = fs.readdirSync(carpetaDir).filter(f => f.endsWith('.json'));
-        for (const archivo of archivos) {
-          const raw   = fs.readFileSync(path.join(carpetaDir, archivo), 'utf8');
-          const items = JSON.parse(raw);
-          for (const item of items) {
-            const key = item.tmdbId || item.id;
-            if (!vistos.has(key)) {
-              vistos.add(key);
-              todos.push(item);
-            }
-          }
+if (global_) {
+  try {
+    const vistos    = new Set();
+    const peliculas = [];
+    const series    = [];
+    const carpetas  = ['plataformas', 'estudios', 'sagas'];
+
+    for (const carpeta of carpetas) {
+      const carpetaDir = path.join(dataDir, carpeta);
+      if (!fs.existsSync(carpetaDir)) continue;
+      const archivos = fs.readdirSync(carpetaDir).filter(f => f.endsWith('.json'));
+      for (const archivo of archivos) {
+        const raw   = fs.readFileSync(path.join(carpetaDir, archivo), 'utf8');
+        const items = JSON.parse(raw);
+        for (const item of items) {
+          const key = item.tmdbId || item.id;
+          if (vistos.has(key)) continue;
+          vistos.add(key);
+          if ((item.type || '').toLowerCase().includes('serie')) series.push(item);
+          else peliculas.push(item);
         }
       }
- 
-      // Fallback al movies.json viejo si no hay carpetas nuevas
-      if (todos.length === 0) {
-        const oldPath = path.join(dataDir, 'movies.json');
-        if (fs.existsSync(oldPath)) {
-          const raw  = fs.readFileSync(oldPath, 'utf8');
-          const data = JSON.parse(raw);
-          const items = Array.isArray(data) ? data : Object.values(data).flat();
-          for (const item of items) {
-            const key = item.tmdbId || item.id;
-            if (!vistos.has(key)) { vistos.add(key); todos.push(item); }
-          }
-        }
-      }
- 
-      todos.sort((a, b) => b.rating - a.rating);
-      return jsonResponse(res, 200, todos.slice(0, 20));
-    } catch (err) {
-      return jsonResponse(res, 500, { ok: false, error: 'Error generando top global' });
     }
+
+    // Fallback al movies.json viejo si no hay carpetas nuevas
+    if (peliculas.length === 0 && series.length === 0) {
+      const oldPath = path.join(dataDir, 'movies.json');
+      if (fs.existsSync(oldPath)) {
+        const raw  = fs.readFileSync(oldPath, 'utf8');
+        const data = JSON.parse(raw);
+        const items = Array.isArray(data) ? data : Object.values(data).flat();
+        items.forEach(item => {
+          const key = item.tmdbId || item.id;
+          if (vistos.has(key)) return;
+          vistos.add(key);
+          if ((item.type || '').toLowerCase().includes('serie')) series.push(item);
+          else peliculas.push(item);
+        });
+      }
+    }
+
+    series.sort((a, b)    => b.rating - a.rating);
+    peliculas.sort((a, b) => b.rating - a.rating);
+
+    // Top 10 series + Top 10 películas → 20 en total, ordenados por rating
+    const resultado = [...series.slice(0, 10), ...peliculas.slice(0, 10)];
+    resultado.sort((a, b) => b.rating - a.rating);
+
+    return jsonResponse(res, 200, resultado);
+  } catch (err) {
+    return jsonResponse(res, 500, { ok: false, error: 'Error generando top global' });
   }
+}
+ 
+ 
+ 
+ 
  
   /* ── Sin parámetros: devuelve todo combinado ── */
   try {
