@@ -52,26 +52,16 @@ function getMovieCatalog() {
       }
     }
 
-    // Fallback al movies.json viejo
-    if (todos.length === 0) {
-      const oldPath = path.join(dataDir, 'movies.json');
-      if (fs.existsSync(oldPath)) {
-        const raw  = fs.readFileSync(oldPath, 'utf8');
-        const data = JSON.parse(raw);
-        return Array.isArray(data) ? data : Object.values(data).flat();
-      }
-    }
+
 
     return todos;
   } catch { return []; }
 }
 
 
-/* ── Leer catálogo de movies.json ── */
-
 /* ── GET /api/lists/:userId ──
    Retorna { verDespues: [...], historial: [...] }
-   Enriquece cada item con datos del movies.json
+   Enriquece cada item con datos del catálogo
 */
 function getLists(req, res, userId) {
   const catalog = getMovieCatalog();

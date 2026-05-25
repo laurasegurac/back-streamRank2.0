@@ -44,8 +44,6 @@ function getMovies(req, res) {
       path.join(dataDir, 'plataformas', `${categoria}.json`),
       path.join(dataDir, 'estudios',    `${categoria}.json`),
       path.join(dataDir, 'sagas',       `${categoria}.json`),
-      // Fallback al movies.json viejo
-      path.join(dataDir, 'movies.json'),
     ];
  
     for (const filePath of posibles) {
@@ -54,14 +52,11 @@ function getMovies(req, res) {
         const raw  = fs.readFileSync(filePath, 'utf8');
         const data = JSON.parse(raw);
  
-        // Si es el movies.json viejo (objeto por categorías)
-        if (!Array.isArray(data)) {
-          const items = data[categoria] || [];
-          return jsonResponse(res, 200, items);
-        }
- 
-        // Es un array directo (nuevo formato)
-        return jsonResponse(res, 200, data);
+        // Ordenar por rating y limitar a 10
+        const items = data
+          .sort((a, b) => b.rating - a.rating)
+          .slice(0, 10);
+        return jsonResponse(res, 200, items);
       } catch {
         continue;
       }
@@ -114,31 +109,16 @@ if (global_) {
       }
     }
 
-    // Fallback al movies.json viejo si no hay carpetas nuevas
-    if (peliculas.length === 0 && series.length === 0) {
-      const oldPath = path.join(dataDir, 'movies.json');
-      if (fs.existsSync(oldPath)) {
-        const raw  = fs.readFileSync(oldPath, 'utf8');
-        const data = JSON.parse(raw);
-        const items = Array.isArray(data) ? data : Object.values(data).flat();
-        items.forEach(item => {
-          const key = item.tmdbId || item.id;
-          if (vistos.has(key)) return;
-          vistos.add(key);
-          if ((item.type || '').toLowerCase().includes('serie')) series.push(item);
-          else peliculas.push(item);
-        });
-      }
-    }
+
 
     series.sort((a, b)    => b.rating - a.rating);
     peliculas.sort((a, b) => b.rating - a.rating);
 
-    // Top 10 series + Top 10 películas → 20 en total, ordenados por rating
-    const resultado = [...series.slice(0, 10), ...peliculas.slice(0, 10)];
+    // Top 10 en total, ordenados por rating
+    const resultado = [...series.slice(0, 5), ...peliculas.slice(0, 5)];
     resultado.sort((a, b) => b.rating - a.rating);
 
-    return jsonResponse(res, 200, resultado);
+    return jsonResponse(res, 200, resultado.slice(0, 10));
   } catch (err) {
     return jsonResponse(res, 500, { ok: false, error: 'Error generando top global' });
   }
@@ -161,15 +141,6 @@ if (global_) {
         const catId = archivo.replace('.json', '');
         const raw   = fs.readFileSync(path.join(carpetaDir, archivo), 'utf8');
         resultado[catId] = JSON.parse(raw);
-      }
-    }
- 
-    // Fallback al movies.json si no hay nada nuevo
-    if (Object.keys(resultado).length === 0) {
-      const oldPath = path.join(dataDir, 'movies.json');
-      if (fs.existsSync(oldPath)) {
-        const raw = fs.readFileSync(oldPath, 'utf8');
-        return res.end(raw);
       }
     }
  
