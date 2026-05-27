@@ -1,0 +1,1227 @@
+[
+  {
+    "id": "tmdb-155",
+    "tmdbId": 155,
+    "title": "El caballero oscuro",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Suspense"
+    ],
+    "rating": 8.5,
+    "points": 46,
+    "duration": "152 min",
+    "platform": "Netflix",
+    "year": 2008,
+    "img": "https://image.tmdb.org/t/p/w500/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg",
+    "trailer": "https://www.youtube.com/embed/_PZpmTj1Q8Q?autoplay=1",
+    "desc": "Batman/Bruce Wayne regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon y del Fiscal del Distrito Harvey Dent, Batman se propone destruir el crimen organizado en la ciudad de Gotham. El triunvirato demuestra su eficacia, pero, de repente, aparece Joker, un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-769",
+    "tmdbId": 769,
+    "title": "Uno de los nuestros",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Crimen"
+    ],
+    "rating": 8.5,
+    "points": 22,
+    "duration": "146 min",
+    "platform": "Amazon Prime Video",
+    "year": 1990,
+    "img": "https://image.tmdb.org/t/p/w500/3Yy0zBO9AlyAZH1cTI8Ko2ouCi.jpg",
+    "trailer": "https://www.youtube.com/embed/PTBRNXGQR9Q?autoplay=1",
+    "desc": "Henry, un niño de trece años de Brooklyn, vive fascinado con el mundo de los gángsters. Su sueño se hace realidad cuando entra a formar parte de la familia Pauline, dueña absoluta de la zona, que lo educan como un miembro más de la banda convirtiéndole en un destacado mafioso.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-27205",
+    "tmdbId": 27205,
+    "title": "Origen",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Aventura"
+    ],
+    "rating": 8.4,
+    "points": 39,
+    "duration": "148 min",
+    "platform": "Amazon Prime Video",
+    "year": 2010,
+    "img": "https://image.tmdb.org/t/p/w500/tXQvtRWfkUUnWJAn2tN3jERIUG.jpg",
+    "trailer": "https://www.youtube.com/embed/cdx31ak4KbQ?autoplay=1",
+    "desc": "Dom Cobb es un ladrón hábil, el mejor de todos, especializado en el peligroso arte de extracción: el robo de secretos valiosos desde las profundidades del subconsciente durante el estado de sueño cuando la mente está más vulnerable. Esta habilidad excepcional de Cobb le ha hecho un jugador codiciado en el traicionero nuevo mundo de espionaje corporativo, pero al mismo tiempo, le ha convertido en un fugitivo internacional y ha tenido que sacrificar todo que le importaba. Ahora a Cobb se le ofrece una oportunidad para redimirse. Con un último trabajo podría recuperar su vida anterior, pero solamente si logra lo imposible.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-603",
+    "tmdbId": 603,
+    "title": "Matrix",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Ciencia ficción"
+    ],
+    "rating": 8.2,
+    "points": 39,
+    "duration": "138 min",
+    "platform": "Netflix",
+    "year": 1999,
+    "img": "https://image.tmdb.org/t/p/w500/8rT9kG2EYkZpJmYCuTJNnPDEube.jpg",
+    "trailer": "https://www.youtube.com/embed/d0XTFAMmhrE?autoplay=1",
+    "desc": "Thomas Anderson lleva una doble vida: por el día es programador en una importante empresa de software, y por la noche un hacker informático llamado Neo. Su vida no volverá a ser igual cuando unos misteriosos personajes le inviten a descubrir la respuesta a la pregunta que no le deja dormir: ¿qué es Matrix?",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-1124",
+    "tmdbId": 1124,
+    "title": "El truco final (El prestigio)",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Misterio",
+      "Ciencia ficción"
+    ],
+    "rating": 8.2,
+    "points": 13,
+    "duration": "130 min",
+    "platform": "HBO Max",
+    "year": 2006,
+    "img": "https://image.tmdb.org/t/p/w500/lIl2CrnWohGrZSO9eyKRptxZ7Hs.jpg",
+    "trailer": "https://www.youtube.com/embed/ObGVA1WOqyE?autoplay=1",
+    "desc": "Robert Angier es un ilusionista respetado que se obsesiona con uno de los trucos de su rival Alfred Borden. Para conseguir el truco hará todo lo posible, sin saber hasta qué punto cambiará su vida...",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-694",
+    "tmdbId": 694,
+    "title": "El resplandor",
+    "type": "Película",
+    "genres": [
+      "Terror",
+      "Suspense"
+    ],
+    "rating": 8.2,
+    "points": 18,
+    "duration": "146 min",
+    "platform": "HBO Max",
+    "year": 1980,
+    "img": "https://image.tmdb.org/t/p/w500/mm003Mj2e9kJRsrxiVdPn2BSBPh.jpg",
+    "trailer": "https://www.youtube.com/embed/FZQvIJxG9Xs?autoplay=1",
+    "desc": "Jack Torrance se traslada, junto a su mujer y a su hijo, al impresionante hotel Overlook, en Colorado, para encargarse del mantenimiento del mismo durante la temporada invernal, en la que permanece cerrado y aislado por la nieve. Su idea es escribir su novela al tiempo que cuida de las instalaciones durante esos largos y solitarios meses de invierno, pero desde su llegada al hotel, Jack comienza a padecer inquietantes transtornos de personalidad, al mismo tiempo que en el lugar comienzan a suceder diversos fenómenos paranormales.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-185",
+    "tmdbId": 185,
+    "title": "La naranja mecánica",
+    "type": "Película",
+    "genres": [
+      "Ciencia ficción",
+      "Crimen"
+    ],
+    "rating": 8.2,
+    "points": 10,
+    "duration": "136 min",
+    "platform": "HBO Max",
+    "year": 1971,
+    "img": "https://image.tmdb.org/t/p/w500/p40pYh2EBPoyVyqw6qy2PAZkFVA.jpg",
+    "trailer": "https://www.youtube.com/embed/T54uZPI4Z8A?autoplay=1",
+    "desc": "Gran Bretaña, en un futuro indeterminado. Alex es un joven muy agresivo que tiene dos pasiones: la violencia desaforada y Beethoven. Es el jefe de la banda de los drugos, que dan rienda suelta a sus instintos más salvajes apaleando, violando y aterrorizando a la población. Cuando esa escalada de terror llega hasta el asesinato, Alex es detenido y, en prisión, se someterá voluntariamente a una innovadora experiencia de reeducación que pretende anular drásticamente cualquier atisbo de conducta antisocial.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-1422",
+    "tmdbId": 1422,
+    "title": "Infiltrados",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Suspense",
+      "Crimen"
+    ],
+    "rating": 8.2,
+    "points": 12,
+    "duration": "149 min",
+    "platform": "HBO Max",
+    "year": 2006,
+    "img": "https://image.tmdb.org/t/p/w500/hf0Hgw1snmBwinkHYLCxGIs6DgO.jpg",
+    "trailer": "https://www.youtube.com/embed/r-MiSNsCdQ4?autoplay=1",
+    "desc": "El Departamento de Policía de Massachussets se enfrenta a la mayor banda de crimen organizado de la ciudad de Boston. La estrategia consiste en acabar desde dentro con Frank Costello, el poderoso jefe de la mafia irlandesa. El encargado de infiltrarse en la banda es un joven novato, Billy Costigan. Mientras Billy intenta ganarse la confianza de Costello, otro joven policía, Colin Sullivan, sube rápidamente de categoría y ocupa un puesto en la unidad de Investigaciones Especiales, grupo de élite cuya misión también es acabar con Costello. Lo que nadie sabe es que Colin es un topo infiltrado en la policía por el propio Costello.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-289",
+    "tmdbId": 289,
+    "title": "Casablanca",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "rating": 8.1,
+    "points": 7,
+    "duration": "102 min",
+    "platform": "HBO Max",
+    "year": 1943,
+    "img": "https://image.tmdb.org/t/p/w500/a7EjycGNSYw6QqJqDooD9eQGZ4r.jpg",
+    "trailer": "https://www.youtube.com/embed/MF7JH_54d8c?autoplay=1",
+    "desc": "Durante la Segunda Guerra Mundial, Casablanca era una ciudad a la que llegaban huyendo del nazismo gentes de todas partes: llegar era fácil, pero salir era casi imposible, especialmente si el nombre del fugitivo figuraba en las listas de la Gestapo. En esta ocasión el principal objetivo de la policía secreta alemana es el líder checo y héroe de la resistencia Victor Laszlo, cuya única esperanza es Rick Blaine, propietario del 'Rick’s Café' y antiguo amante de su mujer, Ilsa. Cuando Ilsa se ofrece a quedarse a cambio de un visado para sacar a Laszlo del país, Rick deberá elegir entre su propia felicidad o el idealismo que rigió su vida en el pasado.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-475557",
+    "tmdbId": 475557,
+    "title": "Joker",
+    "type": "Película",
+    "genres": [
+      "Crimen",
+      "Suspense",
+      "Drama"
+    ],
+    "rating": 8.1,
+    "points": 17,
+    "duration": "122 min",
+    "platform": "HBO Max",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/g9l7iLYusH82bbEbwGCJzhVkOe2.jpg",
+    "trailer": "https://www.youtube.com/embed/-RFFRxcoKfA?autoplay=1",
+    "desc": "Arthur Fleck es un hombre ignorado por la sociedad, cuya motivación en la vida es hacer reír. Pero una serie de trágicos acontecimientos le llevarán a ver el mundo de otra forma. Película basada en Joker, el popular personaje de DC Comics y archivillano de Batman, pero que en este film toma un cariz más realista y oscuro.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-600",
+    "tmdbId": 600,
+    "title": "La chaqueta metálica",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Bélica"
+    ],
+    "rating": 8.1,
+    "points": 8,
+    "duration": "120 min",
+    "platform": "HBO Max",
+    "year": 1987,
+    "img": "https://image.tmdb.org/t/p/w500/6CX7BcyD8Xd5AQ7myNs0UE4mu6c.jpg",
+    "trailer": "https://www.youtube.com/embed/n2i917l5RFc?autoplay=1",
+    "desc": "Un grupo de reclutas se prepara en Parish Island, centro de entrenamiento de la marina Norteamericana. Allí está el sargento Hartmann, duro e implacable, cuya única misión en la vida es endurecer el cuerpo y el alma de los novatos, para que puedan defenderse del enemigo. Pero no todos los jóvenes soportan igual sus métodos...",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-53210",
+    "tmdbId": 53210,
+    "title": "El pato Lucas: Pato aturdido",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Comedia"
+    ],
+    "rating": 8.1,
+    "points": 1,
+    "duration": "7 min",
+    "platform": "",
+    "year": 1953,
+    "img": "https://image.tmdb.org/t/p/w500/gRZYLCncLa2mzE59qY38McDlFdN.jpg",
+    "trailer": "",
+    "desc": "Duck Amuck es un cortometraje animado de 1953 producido por Warner Bros. como parte de la serie Merrie Melodies y es protagonizado por el Pato Lucas, quien es atormentado por un anónimo animador que cambia constantemente los fondos, ropa, voz, apariencia e incluso forma del pato. El animador cambia todo a medida que Lucas trata de poner orden, e incluso mal interpreta sus demandas.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-791373",
+    "tmdbId": 791373,
+    "title": "La liga de la justicia de Zack Snyder",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía"
+    ],
+    "rating": 8.1,
+    "points": 14,
+    "duration": "242 min",
+    "platform": "HBO Max",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/wcIJgChypo0s6ILm9Dkr13rV5q0.jpg",
+    "trailer": "https://www.youtube.com/embed/ui37YKQ9AC4?autoplay=1",
+    "desc": "Con la determinación de asegurar que el sacrificio definitivo de Superman no fue en vano, Bruce Wayne une fuerzas con Diana Prince para reclutar a un equipo de metahumanos que protejan el mundo de una amenaza inminente de proporciones catastróficas. La tarea es más difícil de lo que Bruce imaginaba, ya que cada uno de los reclutas deberá enfrentarse a sus propios demonios para trascender aquello que los detenía, para unirse y formar de manera definitiva una liga de héroes sin precedentes. Ahora unidos, Batman, Wonder Woman, Aquaman, Cyborg y Flash deberán salvar al planeta de la amenaza de Steppenwolf, DeSaad y Darkseid, antes de que sea demasiado tarde.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-12445",
+    "tmdbId": 12445,
+    "title": "Harry Potter y las Reliquias de la Muerte - Parte 2",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Fantasía"
+    ],
+    "rating": 8.1,
+    "points": 19,
+    "duration": "130 min",
+    "platform": "HBO Max",
+    "year": 2011,
+    "img": "https://image.tmdb.org/t/p/w500/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg",
+    "trailer": "https://www.youtube.com/embed/5NYt1qirBWg?autoplay=1",
+    "desc": "La segunda parte de la batalla final entre las fuerzas del bien y el mal. El juego nunca ha sido tan peligroso y nadie está a salvo. Se acerca el momento de la confrontación final entre Harry Potter y Lord Voldemort. Todo termina aquí…",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-673",
+    "tmdbId": 673,
+    "title": "Harry Potter y el prisionero de Azkaban",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Fantasía"
+    ],
+    "rating": 8,
+    "points": 24,
+    "duration": "141 min",
+    "platform": "HBO Max",
+    "year": 2004,
+    "img": "https://image.tmdb.org/t/p/w500/wF9aoo4YZmpKP4bZPSy4Zwwek6G.jpg",
+    "trailer": "https://www.youtube.com/embed/VwErvYgoH70?autoplay=1",
+    "desc": "Harry está deseando que termine el verano para comenzar un nuevo curso en Hogwarts, y abandonar lo antes posible la casa de sus despreciables tíos, los Dursley. Lo que desconoce Harry es que va a tener que abandonar Privet Drive antes de tiempo e inesperadamente después de convertir a su tía Marge en un globo gigante. Un autobús noctámbulo, y encantado por supuesto, le llevará a la taberna El Caldero Chorreante, donde le espera nada menos que Cornelius Fudge, el Ministro de Magia.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-521",
+    "tmdbId": 521,
+    "title": "Crimen perfecto",
+    "type": "Película",
+    "genres": [
+      "Suspense",
+      "Crimen",
+      "Drama"
+    ],
+    "rating": 8,
+    "points": 3,
+    "duration": "104 min",
+    "platform": "",
+    "year": 1954,
+    "img": "https://image.tmdb.org/t/p/w500/wEdTSmjWddEmEeOIWWmXrRThvzY.jpg",
+    "trailer": "https://www.youtube.com/embed/kR_NZuW28XE?autoplay=1",
+    "desc": "Tony Wendice maquina un plan para deshacerse de Margot, su esposa infiel. Pero la casualidad hará que sea a ella a quien finalmente acusen de asesinato. La inestimable ayuda de un inspector de policía ayudará a resolver el misterioso crimen.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-3175",
+    "tmdbId": 3175,
+    "title": "Barry Lyndon",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Bélica",
+      "Historia"
+    ],
+    "rating": 8,
+    "points": 6,
+    "duration": "188 min",
+    "platform": "",
+    "year": 1975,
+    "img": "https://image.tmdb.org/t/p/w500/x28u4tvapVCPaVWHyvrEyLZWyk8.jpg",
+    "trailer": "https://www.youtube.com/embed/JH8j_1dUlUU?autoplay=1",
+    "desc": "Siglo XVIII. El joven Redmond Barry, huérfano de padre, se ha enamorado de su prima, a la que también pretende el Capitán John Quin. El asunto se resuelve por medio de un duelo, del que Redmond resulta vencedor. A continuación se va a Dublín y decide alistarse en el ejército inglés, donde empieza a desarrollar sus extraordinarias habilidades para sobrevivir. Estando en Alemania, se le presenta la posibilidad de desertar, pero es capturado por el Capitán Potzdorf, un oficial prusiano que le ofrece la posibilidad de unirse a sus tropas o ser colgado por desertor. Una vez en el ejército prusiano, tiene la fortuna de salvarle la vida a Potzdorf, lo que le abre las puertas del servicio secreto prusiano.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-13223",
+    "tmdbId": 13223,
+    "title": "Gran Torino",
+    "type": "Película",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 8,
+    "points": 5,
+    "duration": "112 min",
+    "platform": "Netflix",
+    "year": 2008,
+    "img": "https://image.tmdb.org/t/p/w500/7w54KRHdRokgXqxL59GKVau8e6l.jpg",
+    "trailer": "https://www.youtube.com/embed/F8zue_BzNsw?autoplay=1",
+    "desc": "Walt Kowalski, un veterano de la guerra de Corea, es un obrero jubilado del sector del automóvil. Su máxima pasión es cuidar de su más preciado tesoro: un coche Gran Torino de 1972. Es un hombre inflexible y con una voluntad de hierro, al que le cuesta trabajo asimilar los cambios que se producen a su alrededor. Sin embargo, las circustancias harán que se vea obligado a replantearse sus ideas.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-3090",
+    "tmdbId": 3090,
+    "title": "El tesoro de Sierra Madre",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Drama",
+      "Western"
+    ],
+    "rating": 8,
+    "points": 3,
+    "duration": "126 min",
+    "platform": "",
+    "year": 1948,
+    "img": "https://image.tmdb.org/t/p/w500/6K9oljorPmH0UVxUdACazNBuAlg.jpg",
+    "trailer": "https://www.youtube.com/embed/1DwXNmorsa0?autoplay=1",
+    "desc": "Fred C. Dobbs (Humphrey Bogart) decide ir a Tampico en busca de oro con la intención de dejar atrás la miseria. Emprende el viaje en compañía de otros dos vagabundos (Walter Huston y Tim Holt), pero la codicia y la envidia que surge entre ellos les creará poco a poco más problemas que cualquier otra dificultad del camino.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-70",
+    "tmdbId": 70,
+    "title": "Million Dollar Baby",
+    "type": "Película",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 8,
+    "points": 6,
+    "duration": "132 min",
+    "platform": "Amazon Prime Video",
+    "year": 2004,
+    "img": "https://image.tmdb.org/t/p/w500/3mNb5EaO5HfgrxZGx917c8kNp6E.jpg",
+    "trailer": "https://www.youtube.com/embed/5_RsHRmIRBY?autoplay=1",
+    "desc": "Frankie Dunn, después de haber entrenado y representado a los mejores púgiles, regenta un gimnasio con la ayuda de Scrap, un ex-boxeador que, además, es su único amigo. Frankie es un hombre solitario y adusto que se refugia desde hace años en la religión buscando una redención que no llega. Un día, entra en su gimnasio Maggie Fitzgerald, una voluntariosa chica que quiere boxear y que está dispuesta a luchar denodadamente para conseguirlo. Pero lo que más desea y necesita es que alguien crea en ella. Frankie la rechaza alegando que es demasiado mayor y que, además, él no entrena a chicas. Pero Maggie no se rinde y se machaca cada día en el gimnasio, con el único apoyo de Scrap. Finalmente, convencido de la inquebrantable determinación de Maggie, Frankie decide entrenarla.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-78",
+    "tmdbId": 78,
+    "title": "Blade Runner",
+    "type": "Película",
+    "genres": [
+      "Ciencia ficción",
+      "Drama",
+      "Suspense"
+    ],
+    "rating": 7.9,
+    "points": 12,
+    "duration": "117 min",
+    "platform": "Amazon Prime Video",
+    "year": 1982,
+    "img": "https://image.tmdb.org/t/p/w500/pBA2J6iQMiP5Zd4ewMKdOWfq1HV.jpg",
+    "trailer": "https://www.youtube.com/embed/qoEyZoOTtss?autoplay=1",
+    "desc": "A principios del siglo XXI, la Tyrell Corporation desarrolló un nuevo tipo de robot llamado Nexus, un ser virtualmente idéntico al hombre y conocido como Replicante.  Los Replicantes Nexus-6 eran superiores en fuerza y agilidad, y al menos iguales en inteligencia, a los ingenieros de genética que los crearon.  En el espacio exterior, los Replicantes fueron usados como trabajadores esclavos en la arriesgada exploración y colonización de otros planetas.  Después de la sangrienta rebelión de un equipo de combate de Nexus-6 en una colonia sideral, los Replicantes fueron declarados proscritos en la Tierra bajo pena de muerte.  Brigadas de policías especiales, con el nombre de Unidades de Blade Runners, tenían órdenes de tirar a matar al ver a cualquier Replicante invasor.  A esto no se le llamó ejecución, se le llamó retiro.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-949",
+    "tmdbId": 949,
+    "title": "Heat",
+    "type": "Película",
+    "genres": [
+      "Crimen",
+      "Drama",
+      "Acción"
+    ],
+    "rating": 7.9,
+    "points": 17,
+    "duration": "170 min",
+    "platform": "Netflix",
+    "year": 1995,
+    "img": "https://image.tmdb.org/t/p/w500/kRfh1NCkDXGFrWzL6zDmVnHjRKh.jpg",
+    "trailer": "https://www.youtube.com/embed/14oNcFxiVaQ?autoplay=1",
+    "desc": "Neil McCauley es un experto ladrón. Su filosofía consiste en vivir sin ataduras que puedan constituir un obstáculo, si las cosas se complican. Su banda la forman criminales profesionales tan cualificados que pueden impresionar incluso al detective Vincent Hanna. Pero Hannah vive tan obsesionado con su trabajo que llega incluso a poner en peligro su relación sentimental. Cuando la banda de McCauley prepara el golpe definitivo y el equipo de Hannah intenta evitarlo, cada uno de ellos comprende que tiene que vérselas con una de las mentes más brillantes a la que se ha enfrentado en su carrera.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-33",
+    "tmdbId": 33,
+    "title": "Sin perdón",
+    "type": "Película",
+    "genres": [
+      "Western"
+    ],
+    "rating": 7.9,
+    "points": 7,
+    "duration": "131 min",
+    "platform": "HBO Max",
+    "year": 1992,
+    "img": "https://image.tmdb.org/t/p/w500/bhcVwMko4DbSELZapIQv4mmdPKY.jpg",
+    "trailer": "https://www.youtube.com/embed/amE57OniG9Y?autoplay=1",
+    "desc": "William Munny es un pistolero retirado, viudo y padre de familia, que tiene dificultades económicas para sacar adelante a su hijos. Su única salida es hacer un último trabajo. En compañía de un viejo colega y de un joven inexperto, Munny tendrá que matar a dos hombres que cortaron la cara a una prostituta.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-671",
+    "tmdbId": 671,
+    "title": "Harry Potter y la piedra filosofal",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Fantasía"
+    ],
+    "rating": 7.9,
+    "points": 34,
+    "duration": "152 min",
+    "platform": "HBO Max",
+    "year": 2001,
+    "img": "https://image.tmdb.org/t/p/w500/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
+    "trailer": "https://www.youtube.com/embed/l91Km49W9qI?autoplay=1",
+    "desc": "Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-522212",
+    "tmdbId": 522212,
+    "title": "Cuestión de justicia",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Crimen",
+      "Historia"
+    ],
+    "rating": 7.9,
+    "points": 4,
+    "duration": "140 min",
+    "platform": "MovistarTV",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/sk6EhhB6vOmVGr60dEKrk0fcg9f.jpg",
+    "trailer": "https://www.youtube.com/embed/IuvjuVv30rI?autoplay=1",
+    "desc": "Cuenta la historia real del joven abogado Bryan Stevenson y de su histórica batalla por la justicia. Después de licenciarse en Harvard, Bryan recibe ofertas de trabajo muy lucrativas. Pero él prefiere poner rumbo a Alabama para defender a personas que han sido condenadas erróneamente o que carecían de recursos para tener una representación legal adecuada, y lo hace con el apoyo de la activista local Eva Ansley. Uno de sus primeros y más turbulentos casos es el de Walter McMillian, que en 1987 fue sentenciado a la pena muerte por el asesinato de una chica de 18 años, a pesar de que las pruebas demostraban ostensiblemente su inocencia. En los años posteriores, Bryan se ve envuelto en un laberinto de maniobras legales y políticas y de un racismo abierto y descarado mientras lucha por Walter y otros como él, a pesar de tenerlo todo en su contra, incluido el sistema legal.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-301",
+    "tmdbId": 301,
+    "title": "Río Bravo",
+    "type": "Película",
+    "genres": [
+      "Western",
+      "Drama"
+    ],
+    "rating": 7.8,
+    "points": 5,
+    "duration": "141 min",
+    "platform": "HBO Max",
+    "year": 1959,
+    "img": "https://image.tmdb.org/t/p/w500/8lFSClr6GKKo7GAzLuyZL9bCXfD.jpg",
+    "trailer": "https://www.youtube.com/embed/VD55fwjvJlw?autoplay=1",
+    "desc": "El sheriff Chance encarcela por asesinato al hermano de un poderoso terrateniente cuyos hombres intentarán liberarlo. Para impedirlo, Chance cuenta con la colaboración de dos ayudantes: un alcohólico y un viejo tullido, a los que se une un joven y hábil pistolero llamado Colorado. Todos quedarán encerrados en la cárcel de la oficina del sheriff, roedados, incrementándose la tensión en el pueblo a la espera de que llegue la autoridad estatal para llevarse al detenido.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-674",
+    "tmdbId": 674,
+    "title": "Harry Potter y el cáliz de fuego",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Fantasía"
+    ],
+    "rating": 7.8,
+    "points": 23,
+    "duration": "157 min",
+    "platform": "HBO Max",
+    "year": 2005,
+    "img": "https://image.tmdb.org/t/p/w500/5hrrncgY7GfRHz6JmnhPlvJUONe.jpg",
+    "trailer": "https://www.youtube.com/embed/4xkFJgcCQRE?autoplay=1",
+    "desc": "En el cuarto año en Hogwarts, Harry se enfrenta al mayor de los desafíos y peligros de la saga. Cuando es elegido bajo misteriosas circunstancias como el competidor que representará a Hogwarts en el Torneo Triwizard, Harry deberá competir contra los mejores jóvenes magos de toda Europa. Pero mientras se prepara, aparecen pruebas que manifiestan que Lord Voldemort ha regresado. Antes de darse cuenta, Harry no solo estará luchando por el campeonato sino también por su vida",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-49026",
+    "tmdbId": 49026,
+    "title": "El caballero oscuro: La leyenda renace",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Drama",
+      "Suspense"
+    ],
+    "rating": 7.8,
+    "points": 35,
+    "duration": "165 min",
+    "platform": "HBO Max",
+    "year": 2012,
+    "img": "https://image.tmdb.org/t/p/w500/rrS7K8tXVFUBliIKWaRuSq65nWr.jpg",
+    "trailer": "https://www.youtube.com/embed/GAjBzu8ggi0?autoplay=1",
+    "desc": "Hace ocho años que Batman desapareció, dejando de ser un héroe para convertirse en un fugitivo. Al asumir la culpa por la muerte del fiscal del distrito Harvey Dent, el Caballero Oscuro decidió sacrificarlo todo por lo que consideraba, al igual que el Comisario Gordon, un bien mayor. La mentira funciona durante un tiempo, ya que la actividad criminal de la ciudad de Gotham se ve aplacada gracias a la dura Ley Dent. Pero todo cambia con la llegada de una astuta gata ladrona que pretende llevar a cabo un misterioso plan. Sin embargo, mucho más peligrosa es la aparición en escena de Bane, un terrorista enmascarado cuyos despiadados planes obligan a Bruce a regresar de su voluntario exilio.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-29740",
+    "tmdbId": 29740,
+    "title": "Soy un fugitivo",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Crimen"
+    ],
+    "rating": 7.8,
+    "points": 1,
+    "duration": "90 min",
+    "platform": "",
+    "year": 1932,
+    "img": "https://image.tmdb.org/t/p/w500/5u0ojCGUJO1aRmhv3EmlcOlKJpO.jpg",
+    "trailer": "https://www.youtube.com/embed/24R9vDcviKQ?autoplay=1",
+    "desc": "Retrato desolador de la injusticia y el sufrimiento humanos causados por el sistema penal de los Estados Unidos vigente tras la I Guerra Mundial.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-10229",
+    "tmdbId": 10229,
+    "title": "Un paseo para recordar",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "rating": 7.8,
+    "points": 5,
+    "duration": "100 min",
+    "platform": "Amazon Prime Video",
+    "year": 2002,
+    "img": "https://image.tmdb.org/t/p/w500/ud1yId0IvFKBseGf4KXwmjShwsN.jpg",
+    "trailer": "https://www.youtube.com/embed/Kq02sBe5xko?autoplay=1",
+    "desc": "Jamie era la última persona de la que se enamoraría Landon. Demasiado seria y conservadora para su gusto. Hija de un pastor de la iglesia baptista, Jamie no tenía miedo de manifestar que la fe era lo más importante en su vida, aunque ello le costara las críticas de sus compañeros. Landon y su pandilla mandaban en la escuela, pero su reinado terminaría en cuanto salieran del instituto y tuvieran que afrontar las responsabilidades de la vida.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-12516",
+    "tmdbId": 12516,
+    "title": "Los sueños de Akira Kurosawa",
+    "type": "Película",
+    "genres": [
+      "Fantasía",
+      "Drama"
+    ],
+    "rating": 7.7,
+    "points": 4,
+    "duration": "119 min",
+    "platform": "",
+    "year": 1990,
+    "img": "https://image.tmdb.org/t/p/w500/tn9OJznv1Ii6uXA4p6eZT5tnEo2.jpg",
+    "trailer": "https://www.youtube.com/embed/zFX_AMcPQkI?autoplay=1",
+    "desc": "Película compuesta de ocho cortometrajes de veinte minutos cada uno. Son ensoñaciones dispersas, independientes, pero engarzadas entre sí por deseos, angustias y añoranzas. La historia de Yo, desde su infancia hasta su vejez, sirve para mostrar las relaciones del hombre con el mundo, el arte, la espiritualidad, la muerte. Los ocho relatos (extraídos de sueños de Kurosawa) reflejan lo cambios experimentados por Japón a lo largo de un siglo.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-322",
+    "tmdbId": 322,
+    "title": "Río místico",
+    "type": "Película",
+    "genres": [
+      "Suspense",
+      "Crimen",
+      "Drama",
+      "Misterio"
+    ],
+    "rating": 7.7,
+    "points": 6,
+    "duration": "137 min",
+    "platform": "HBO Max",
+    "year": 2003,
+    "img": "https://image.tmdb.org/t/p/w500/b6j7T4uBjXdG8FBMuDFsHttgIK2.jpg",
+    "trailer": "https://www.youtube.com/embed/W7NktJhrRYQ?autoplay=1",
+    "desc": "Cuando Jimmy Markum, Dave Boyle y Sean Devine eran unos niños que crecían juntos en un peligroso barrio obrero de Boston, pasaban los días jugando al hockey en la calle. Pero, un día, a Dave le ocurrió algo que marcó para siempre su vida y las de sus amigos. Veinticinco años más tarde, otra tragedia los vuelve a unir: el asesinato de Katie, la hija de 19 años de Jimmy. A Sean, que es policía, le asignan el caso; pero también tiene que estar muy pendiente de Jimmy porque, en su desesperación, está intentando tomarse la justicia por su mano.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-9552",
+    "tmdbId": 9552,
+    "title": "El exorcista",
+    "type": "Película",
+    "genres": [
+      "Terror",
+      "Drama"
+    ],
+    "rating": 7.7,
+    "points": 14,
+    "duration": "132 min",
+    "platform": "HBO Max",
+    "year": 1973,
+    "img": "https://image.tmdb.org/t/p/w500/hwJvgHQ4tf9eRQec1ouAgg33dPV.jpg",
+    "trailer": "https://www.youtube.com/embed/BU2eYAO31Cc?autoplay=1",
+    "desc": "Regan es una niña de doce años víctima de fenómenos paranormales como la levitación o la manifestación de una fuerza sobrehumana. Su madre, aterrorizada, tras someter a su hija a múltiples análisis médicos que no ofrecen ningún resultado, acude a un sacerdote con estudios de psiquiatría. Éste está convencido de que el mal no es físico sino espiritual, es decir, que la niña es víctima de una posesión diabólica. Por eso, con la ayuda de otro sacerdote decide practicar un exorcismo.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-12444",
+    "tmdbId": 12444,
+    "title": "Harry Potter y las Reliquias de la Muerte - Parte 1",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Fantasía"
+    ],
+    "rating": 7.7,
+    "points": 19,
+    "duration": "146 min",
+    "platform": "HBO Max",
+    "year": 2010,
+    "img": "https://image.tmdb.org/t/p/w500/w6wsYKdXERaXRdByPsI2O9rn20b.jpg",
+    "trailer": "https://www.youtube.com/embed/Su1LOpjvdZ4?autoplay=1",
+    "desc": "Una tarea casi imposible cae sobre los hombros de Harry: deberá encontrar y destruir los horrocruxes restantes para dar fin al reinado de Lord Voldemort. En el episodio final de la saga, el hechicero de 17 años parte junto con sus amigos Hermione Granger y Ron Weasley en un peligroso viaje por Inglaterra para encontrar los objetos que contienen los fragmentos del alma del Señor Tenebroso, los cuales garantizan su longevidad. Pero el camino no será fácil pues el lado oscuro adquiere más poder con cada minuto que pasa y las lealtades serán puestas a prueba. Harry deberá usar todos los conocimientos que gracias a Dumbledore ha adquirido sobre su enemigo para poder encontrar la forma de sobrevivir a esta última aventura.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-873",
+    "tmdbId": 873,
+    "title": "El color púrpura",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Historia"
+    ],
+    "rating": 7.7,
+    "points": 4,
+    "duration": "154 min",
+    "platform": "MovistarTV",
+    "year": 1985,
+    "img": "https://image.tmdb.org/t/p/w500/mHtsBevQRqQebP4yykJfJcdO2R.jpg",
+    "trailer": "https://www.youtube.com/embed/_h-efLS7VV4?autoplay=1",
+    "desc": "Principios del siglo XX. Narra la historia de Celie, una adolescente negra de catorce años que está embarazada de su propio padre, un hombre despótico y cruel. A partir de entonces su vida estará llena de dolor y humillaciones.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-272",
+    "tmdbId": 272,
+    "title": "Batman Begins",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Crimen",
+      "Acción"
+    ],
+    "rating": 7.7,
+    "points": 16,
+    "duration": "140 min",
+    "platform": "Netflix",
+    "year": 2005,
+    "img": "https://image.tmdb.org/t/p/w500/6yMWU1vWkOBbNRIwOxhetd2aHhO.jpg",
+    "trailer": "https://www.youtube.com/embed/lirBhHXvDSg?autoplay=1",
+    "desc": "¿Cómo cambia un hombre el mundo? Es una pregunta que obsesiona a Bruce Wayne al igual que el fantasma de sus padres, muertos a tiros ante sus ojos en las calles de Gotham una noche que cambió su vida para siempre. Atormentado por la culpa y la ira, el desilusionado heredero industrial desaparece de Gotham y viaja en secreto por el mundo, buscando los medios de luchar contra la injusticia y utilizar el miedo contra los que se aprovechan de los que tienen miedo. Con la ayuda de su leal mayordomo Alfred, el detective Jim Gordon - uno de los pocos buenos policías de las fuerzas del orden público de Gotham - y Lucius Fox, su aliado en la división de Ciencias Aplicadas de Wayne Enterprises, Bruce Wayne libera a su imponente alter ego: Batman, un justiciero enmascarado que utiliza la fuerza, la inteligencia y un despliegue de artefactos de alta tecnología para combatir las fuerzas siniestras que amenazan con destruir la ciudad.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-688",
+    "tmdbId": 688,
+    "title": "Los puentes de Madison",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "rating": 7.7,
+    "points": 7,
+    "duration": "135 min",
+    "platform": "HBO Max",
+    "year": 1995,
+    "img": "https://image.tmdb.org/t/p/w500/xjGrjvD94HvANtEurCXDxGkc0Gj.jpg",
+    "trailer": "https://www.youtube.com/embed/ZoJJkAQV0Bg?autoplay=1",
+    "desc": "La apacible pero anodina vida de Francesca Johnson, un ama de casa que vive en una granja con su familia, se ve alterada con la llegada de Robert Kincaid, un veterano fotógrafo de la revista National Geographic, que visita el condado de Madison para fotografiar sus viejos puentes. Cuando Francesca invita a Robert a cenar, un amor verdadero y una pasión desconocida nacerá entre ellos.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-963",
+    "tmdbId": 963,
+    "title": "El halcón maltés",
+    "type": "Película",
+    "genres": [
+      "Misterio",
+      "Crimen",
+      "Suspense"
+    ],
+    "rating": 7.7,
+    "points": 4,
+    "duration": "100 min",
+    "platform": "",
+    "year": 1941,
+    "img": "https://image.tmdb.org/t/p/w500/zFs0brybfDHNwpfXQVyjFyam8uw.jpg",
+    "trailer": "https://www.youtube.com/embed/Yv-BPuqhW9U?autoplay=1",
+    "desc": "Un detective privado es abordado por una misteriosa mujer, que dice estar amenazada. Pero tanto el perseguidor como el hombre encargado de su protección aparecen muertos. Todo parece girar alrededor de una estatua de un halcón de valor incalculable.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-672",
+    "tmdbId": 672,
+    "title": "Harry Potter y la cámara secreta",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Fantasía"
+    ],
+    "rating": 7.7,
+    "points": 26,
+    "duration": "150 min",
+    "platform": "HBO Max",
+    "year": 2002,
+    "img": "https://image.tmdb.org/t/p/w500/bhCfAzeMMg7GyLDT11yVM2i1NPh.jpg",
+    "trailer": "https://www.youtube.com/embed/nE11U5iBnH0?autoplay=1",
+    "desc": "Harry regresa a su segundo año a Hogwarts, pero descubre que cosas malas ocurren debido a que un sitio llamado la Cámara de los Secretos ha sido abierto por el heredero de Slytherin y hará que los hijos de muggles, los impuros, aparezcan petrificados misteriosamente por un animal monstruoso.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-16052",
+    "tmdbId": 16052,
+    "title": "Selena",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Música",
+      "Historia"
+    ],
+    "rating": 7.7,
+    "points": 4,
+    "duration": "125 min",
+    "platform": "Netflix",
+    "year": 1997,
+    "img": "https://image.tmdb.org/t/p/w500/yKNiK1gwRcy9IGvtHKFewSBaPci.jpg",
+    "trailer": "https://www.youtube.com/embed/RzePZay7fbQ?autoplay=1",
+    "desc": "Basada en hechos reales, narra la meteórica carrera de la joven cantante hispana Selena Quintanilla-Perez, todo un fenómeno de la música que surge en una localidad de Texas para convertirse en una estrella del universo latino. Descubierta casualmente por su propio padre a la temprana edad de 10 años, su vida será un continuo carrusel de problemas familiares, incluyendo su matrimonio en secreto con su guitarrista Chris Perez. A pesar de su corta y trágica carrera, su popularidad fue extraordinaria tanto en México como entre la población hispana de los Estados Unidos, que vivió su fulgurante ascenso y su trágica muerte, sucedida en 1995 cuando contaba con apenas 23 años de edad, a manos de su mayor admiradora: la presidenta de su club de fans y secretaria personal.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-53211",
+    "tmdbId": 53211,
+    "title": "One Froggy Evening",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Música"
+    ],
+    "rating": 7.7,
+    "points": 1,
+    "duration": "7 min",
+    "platform": "",
+    "year": 1955,
+    "img": "https://image.tmdb.org/t/p/w500/3a1IHpFVPLrohpxQiI5WV5fPmxU.jpg",
+    "trailer": "",
+    "desc": "'One Froggy Evening' es el título original del dibujo animado producido por Warner Bros. Es considerado uno de los mejores cortos animados de la historia, famoso por la aparición de la rana cantante, \"Michigan J. Frog\". Fue escrito por Michael Maltese, dirigido por Chuck Jones y se estrenó el 31 de diciembre de 1955. El nombre de la rana le fue dado con posterioridad por Chuck Jones: su apellido responde a su condición de rana (en inglés \"frog\") y su nombre de pila se debe al título de la canción que canta (\"The Michigan Rag\", escrita por Maltese). La historia cuenta cómo un hombre ve la posibilidad de hacer una fortuna cuando consigue una rana capaz de bailar y cantar...",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-3114",
+    "tmdbId": 3114,
+    "title": "Centauros del desierto",
+    "type": "Película",
+    "genres": [
+      "Western"
+    ],
+    "rating": 7.7,
+    "points": 5,
+    "duration": "119 min",
+    "platform": "HBO Max",
+    "year": 1956,
+    "img": "https://image.tmdb.org/t/p/w500/dmnGvL8GRP0hEG7Uph0FxXS9aiK.jpg",
+    "trailer": "https://www.youtube.com/embed/pJXgjw_5erE?autoplay=1",
+    "desc": "Texas. En 1868, tres años después de la guerra de Secesión, Ethan Edwards, un hombre solitario, vuelve derrotado a su hogar. La persecución de los comanches que han raptado a una de sus sobrinas se convertirá en un modo de vida para él y para Martin, un muchacho mestizo adoptado por su familia.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-396",
+    "tmdbId": 396,
+    "title": "¿Quién teme a Virginia Woolf?",
+    "type": "Película",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 7.7,
+    "points": 2,
+    "duration": "131 min",
+    "platform": "MovistarTV",
+    "year": 1966,
+    "img": "https://image.tmdb.org/t/p/w500/o8pH2izWv39EMVJkTVojYpKAR7.jpg",
+    "trailer": "https://www.youtube.com/embed/EOR5mzZyyNw?autoplay=1",
+    "desc": "George y Martha son un matrimonio que se profesa un odio salvaje. Ambos tienen personalidades autodestructivas, conocen perfectamente las debilidades del otro y saben cómo exasperarlo. George es un profesor de historia alcohólico. Martha, la hija del director de la universidad donde George da clases, es una mujer frustrada y vulnerable. Un sábado por la noche, después de una fiesta, invitan a su casa a un nuevo profesor y a su esposa. La presencia de esta pareja no evita que Martha y George se humillen y maltraten como de costumbre. A través de este cruel juego sale a relucir la verdad tanto sobre los anfitriones como sobre los invitados.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-767",
+    "tmdbId": 767,
+    "title": "Harry Potter y el misterio del príncipe",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Fantasía"
+    ],
+    "rating": 7.7,
+    "points": 19,
+    "duration": "153 min",
+    "platform": "HBO Max",
+    "year": 2009,
+    "img": "https://image.tmdb.org/t/p/w500/tO0UGkNuQoxyXve0mvwtXP49NAO.jpg",
+    "trailer": "https://www.youtube.com/embed/DgeDDXcw--I?autoplay=1",
+    "desc": "En medio de los desastres que azotan a Inglaterra, Harry y sus compañeros vuelven a Hogwarts para cursar su sexto año de estudios; y aunque las medidas de seguridad han convertido al colegio en una fortaleza, algunos estudiantes son víctimas de ataques inexplicables. Harry sospecha que Draco Malfoy es el responsable de los mismos y decide averiguar la razón. Mientras tanto, Albus Dumbledore y el protagonista exploran el pasado de Lord Voldemort mediante recuerdos que el director ha recolectado. Con esto, Dumbledore planea preparar al muchacho para el día de la batalla final.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-675",
+    "tmdbId": 675,
+    "title": "Harry Potter y la Orden del Fénix",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Fantasía"
+    ],
+    "rating": 7.7,
+    "points": 20,
+    "duration": "138 min",
+    "platform": "HBO Max",
+    "year": 2007,
+    "img": "https://image.tmdb.org/t/p/w500/xxXiM2Ij7plbzibKWW9BfDk23aI.jpg",
+    "trailer": "https://www.youtube.com/embed/47PHbQTmw5g?autoplay=1",
+    "desc": "Harry Potter regresa por quinto año a Hogwarts aún sacudido por la tragedia ocurrida en el Torneo de los Tres Magos. Debido a que el Ministro de la Magia niega el regreso de Lord Voldemort, Harry se convierte en el centro de atención de la comunidad mágica. Mientras lucha con sus problemas en el colegio, incluyendo a la nueva profesora Dolores Umbridge, intentará aprender más sobre la misteriosa Orden del Fénix.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-845",
+    "tmdbId": 845,
+    "title": "Extraños en un tren",
+    "type": "Película",
+    "genres": [
+      "Crimen",
+      "Suspense",
+      "Drama"
+    ],
+    "rating": 7.7,
+    "points": 3,
+    "duration": "101 min",
+    "platform": "",
+    "year": 1951,
+    "img": "https://image.tmdb.org/t/p/w500/4o0mXvFkVBr7lzH5sOsHGKmsNI5.jpg",
+    "trailer": "https://www.youtube.com/embed/PC62NBWBkjM?autoplay=1",
+    "desc": "Inspirada en la novela homónima de Patricia Higsmith. Durante un viaje en tren, Guy, un joven campeón de tenis (Farley Granger), es abordado por Bruno (Walker), un joven que conoce su vida y milagros a través de la prensa y que, inesperadamente, le propone un doble asesinato, pero intercambiando las víctimas con el fin de garantizarse recíprocamente la impunidad. Así podrían resolver sus respectivos problemas: él suprimiría a la mujer de Guy (que no quiere concederle el divorcio) y, a cambio, Guy debería asesinar al padre de Bruno para que éste pudiera heredar una gran fortuna y vivir a su aire.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-414906",
+    "tmdbId": 414906,
+    "title": "The Batman",
+    "type": "Película",
+    "genres": [
+      "Crimen",
+      "Misterio",
+      "Suspense"
+    ],
+    "rating": 7.7,
+    "points": 24,
+    "duration": "176 min",
+    "platform": "HBO Max",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg",
+    "trailer": "https://www.youtube.com/embed/vc7_mH2PWHs?autoplay=1",
+    "desc": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-15794",
+    "tmdbId": 15794,
+    "title": "Al rojo vivo",
+    "type": "Película",
+    "genres": [
+      "Crimen",
+      "Drama",
+      "Suspense"
+    ],
+    "rating": 7.7,
+    "points": 1,
+    "duration": "114 min",
+    "platform": "HBO Max",
+    "year": 1949,
+    "img": "https://image.tmdb.org/t/p/w500/ih5QqEMXE6UwrbGEjRFGIcGri83.jpg",
+    "trailer": "https://www.youtube.com/embed/3bMtOABixrQ?autoplay=1",
+    "desc": "Cody Jarrett y su banda asaltan un tren que transporta 300.000 dólares, asesinan a los conductores y huyen con el dinero. Poco después, los agentes federales inician la persecución, convencidos de que él es el autor del asalto. Cody se entrega a la policía y es condenado a sólo dos años de prisión, ya que ha preparado una coartada perfecta. Sin embargo, los agentes del tesoro están convencidos de que fue el cerebro del asalto y le tienden una trampa.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-144288",
+    "tmdbId": 144288,
+    "title": "Berserk. La edad de oro III: El advenimiento",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Acción",
+      "Aventura",
+      "Drama",
+      "Fantasía"
+    ],
+    "rating": 7.6,
+    "points": 3,
+    "duration": "112 min",
+    "platform": "",
+    "year": 2013,
+    "img": "https://image.tmdb.org/t/p/w500/eLgS53Y6tZNg2LiHR4Y4NQ2uo8A.jpg",
+    "trailer": "https://www.youtube.com/embed/XcY8qtMU9n0?autoplay=1",
+    "desc": "Ha pasado un año desde que Guts abandonó la Banda del Halcón y Griffith fue encarcelado por el Reino de Midland por traición. En la oscuridad de la noche, en un campamento donde se esconden, la Banda del Halcón es atacada por asesinos Bakiraka liderados por Silat. Cuando todo parece perdido, Guts regresa de su viaje. «Lo destruiste todo». Casca, llorando porque Griffith no es nada sin Guts, une a Guts en cuerpo y alma. Griffith es encarcelado en el edificio más antiguo del Castillo de Wyndham, la Torre del Renacimiento.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-137113",
+    "tmdbId": 137113,
+    "title": "Al filo del mañana",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Ciencia ficción"
+    ],
+    "rating": 7.6,
+    "points": 12,
+    "duration": "113 min",
+    "platform": "Netflix",
+    "year": 2014,
+    "img": "https://image.tmdb.org/t/p/w500/vNjwi0STOwzmwE9laZSMYYh2JPE.jpg",
+    "trailer": "https://www.youtube.com/embed/eb8wTIcGLgQ?autoplay=1",
+    "desc": "En un futuro no muy lejano, invade la Tierra una raza de extraterrestres invencibles. Al comandante William Cage, un oficial que nunca ha entrado en combate, le encargan una misión casi suicida y resulta muerto. Entra entonces en un bucle temporal, en el que se ve obligado a luchar y morir una y otra vez. Pero las múltiples batallas que libra lo hacen cada vez más hábil y eficaz en su lucha contra los alienígenas. Su compañera de combate es Rita Vrataski, una guerrera de las Fuerzas Especiales. Adaptación del manga de Hiroshi Sakurazaka.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-76341",
+    "tmdbId": 76341,
+    "title": "Mad Max: Furia en la carretera",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "rating": 7.6,
+    "points": 35,
+    "duration": "120 min",
+    "platform": "HBO Max",
+    "year": 2015,
+    "img": "https://image.tmdb.org/t/p/w500/fnY0VRsb31A5RLVCBjuR6EFUlo2.jpg",
+    "trailer": "https://www.youtube.com/embed/MonFNCgK4WE?autoplay=1",
+    "desc": "Perseguido por su turbulento pasado, Mad Max cree que la mejor forma de sobrevivir es ir solo por el mundo. Sin embargo, se ve arrastrado a formar parte de un grupo que huye a través del desierto en un War Rig conducido por una Emperatriz de élite: Furiosa. Escapan de una Ciudadela tiranizada por Immortan Joe, a quien han arrebatado algo irreemplazable. Enfurecido, el Señor de la Guerra moviliza a todas sus bandas y persigue implacablemente a los rebeldes en una 'guerra de la carretera' de altas revoluciones.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-212",
+    "tmdbId": 212,
+    "title": "Arsénico por compasión",
+    "type": "Película",
+    "genres": [
+      "Comedia",
+      "Crimen"
+    ],
+    "rating": 7.6,
+    "points": 2,
+    "duration": "118 min",
+    "platform": "",
+    "year": 1944,
+    "img": "https://image.tmdb.org/t/p/w500/t1RP1lzSB8UR4aWuZnCSYcLCIlX.jpg",
+    "trailer": "https://www.youtube.com/embed/7TsXVrLV9gg?autoplay=1",
+    "desc": "Un crítico teatral que acaba de casarse decide visitar a sus ancianas tías antes de marcharse de luna de miel. Durante la visita descubrirá que las encantadoras viejecitas tienen una manera muy peculiar de practicar la caridad.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-3309",
+    "tmdbId": 3309,
+    "title": "Alma en suplicio",
+    "type": "Película",
+    "genres": [
+      "Crimen",
+      "Drama"
+    ],
+    "rating": 7.6,
+    "points": 2,
+    "duration": "111 min",
+    "platform": "",
+    "year": 1945,
+    "img": "https://image.tmdb.org/t/p/w500/tgda61QeFb67YG4G6lpSYy7Op1H.jpg",
+    "trailer": "https://www.youtube.com/embed/KoOr_OoHbv4?autoplay=1",
+    "desc": "Tras el abandono de su marido, Mildred Pierce demuestra que puede llevar una vida independiente, pero no logra ganarse la aprobación de su hija consentida.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-19101",
+    "tmdbId": 19101,
+    "title": "La princesita",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Familia",
+      "Fantasía"
+    ],
+    "rating": 7.6,
+    "points": 3,
+    "duration": "97 min",
+    "platform": "Stingray Amazon Channel",
+    "year": 1995,
+    "img": "https://image.tmdb.org/t/p/w500/jWbUc8zePxkgUO9W9B0luVSrBU5.jpg",
+    "trailer": "https://www.youtube.com/embed/Q3WJrWZ_npg?autoplay=1",
+    "desc": "Sara Crewe (Liesel Matthews) comparte una vida de ensueño en la exótica India con su cariñoso padre (Liam Cunningham), pero la guerra los separa. Él es reclamado por el ejército y Sara es enviada a un internado en Nueva York, el mismo al que su difunta madre había asistido, dirigido por la estricta Srta. Minchin (Eleanor Bron), quien ve a Sara como una niña caprichosa y consentida. Todo cambia cuando a su padre lo dan por muerto y Sara tendrá que hacer labores y limpieza para poder seguir en el internado.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-702",
+    "tmdbId": 702,
+    "title": "Un tranvía llamado deseo",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Suspense"
+    ],
+    "rating": 7.6,
+    "points": 3,
+    "duration": "122 min",
+    "platform": "",
+    "year": 1951,
+    "img": "https://image.tmdb.org/t/p/w500/21aAQ59swa68yYuI7XYyLTn0jqQ.jpg",
+    "trailer": "https://www.youtube.com/embed/U3CXLHLFvyM?autoplay=1",
+    "desc": "Blanche, que pertenece a una rancia pero arruinada familia sureña, es una mujer madura y decadente que vive anclada en el pasado. Ciertas circunstancias la obligan a ir a vivir a Nueva Orleáns con su hermana Stella y su cuñado Stanley (Marlon Brando), un hombre rudo y violento. A pesar de su actitud remilgada y arrogante, Blanche oculta un escabroso pasado que la ha conducido al desequilibrio mental. Su inestable conducta provoca conflictos que alteran la vida de la joven pareja.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-21849",
+    "tmdbId": 21849,
+    "title": "Un rostro en la multitud",
+    "type": "Película",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 7.6,
+    "points": 1,
+    "duration": "126 min",
+    "platform": "",
+    "year": 1957,
+    "img": "https://image.tmdb.org/t/p/w500/2dkl9CDynHbIHDkIiPzKPFqnwFy.jpg",
+    "trailer": "https://www.youtube.com/embed/wKqOfUt_bKs?autoplay=1",
+    "desc": "Una cadena de televisión convierte en estrella televisiva a un vagabundo. La sorprendente reacción del público hacia el personaje cambiará su vida por completo, convirtiéndolo en una víctima de los medios de comunicación.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-67409",
+    "tmdbId": 67409,
+    "title": "El pato Dodgers en el siglo 24 y medio",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Ciencia ficción"
+    ],
+    "rating": 7.6,
+    "points": 0,
+    "duration": "7 min",
+    "platform": "",
+    "year": 1953,
+    "img": "https://image.tmdb.org/t/p/w500/zrOilMBOmb68nf6NY8AkVLizkA9.jpg",
+    "trailer": "",
+    "desc": "Duck Dodgers in the 24½th Century es un cortometraje animado de Looney Tunes estrenado el 25 de julio de 1953, protagonizado por el Pato Lucas como el héroe especial Duck Dodgers, Porky como su asistente, y Marvin El Marciano como su oponente. Marvin El Marciano tuvo su primera aparición bajo el nombre de Commander X2 en Haredevil Hare (1948) interpretando a un enemigo de Bugs Bunny, pero esta fue su primera aparición en algún dibujo animado de Duck Dodgers. El 2004, ganó el Premio Hugo a la mejor representación dramática.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-1712",
+    "tmdbId": 1712,
+    "title": "Gigante",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Western",
+      "Romance"
+    ],
+    "rating": 7.6,
+    "points": 4,
+    "duration": "201 min",
+    "platform": "",
+    "year": 1956,
+    "img": "https://image.tmdb.org/t/p/w500/oruoMYVned5WVdd5uRBXIuRcE1B.jpg",
+    "trailer": "https://www.youtube.com/embed/nzR5GkkvorA?autoplay=1",
+    "desc": "Jordan \"Bick\" Benedict, un joven terrateniente, llega a su inmenso rancho de Texas con su flamante esposa Leslie Benedict, una rica y bella muchacha del Este. No tardan mucho en descubrir que pertenecen a mundos radicalmente opuestos y que los separa un abismo. Jett Rink es un arrogante y joven empleado de los Benedict que tiene la suerte de encontrar petróleo en unas tierras que le ha dejado en su testamento Luz, la hermana de Jordan; pero, a pesar de su inmensa fortuna, no consigue lo que realmente le importa: Leslie.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-616",
+    "tmdbId": 616,
+    "title": "El último samurái",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Acción",
+      "Bélica"
+    ],
+    "rating": 7.6,
+    "points": 10,
+    "duration": "154 min",
+    "platform": "MovistarTV",
+    "year": 2003,
+    "img": "https://image.tmdb.org/t/p/w500/DfwutbQodAsYxdqJu7Cme5jifC.jpg",
+    "trailer": "https://www.youtube.com/embed/QZpQrc0R6J0?autoplay=1",
+    "desc": "1870. El capitán Nathan Algren es un hombre a la deriva. Las batallas que libró en otro tiempo parecen ahora lejanas e inútiles. Una vez arriesgó su vida por el honor y por la patria, pero, en los años transcurridos desde la Guerra de Secesión estadounidense, el mundo ha cambiado. El pragmatismo ha reemplazado al valor, el interés personal ha ocupado el lugar del sacrificio y el honor no se encuentra en ninguna parte, especialmente en el Oeste, donde su papel en las campañas contra los indios acabó en desilusión y tristeza. En algún lugar de las implacables llanuras junto a la ribera del río Washita, Algren perdió su alma. En un mundo completamente distinto, otro soldado ve como su modo de vida está a punto de desintegrarse.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-820",
+    "tmdbId": 820,
+    "title": "JFK: Caso abierto",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Suspense",
+      "Historia"
+    ],
+    "rating": 7.6,
+    "points": 5,
+    "duration": "189 min",
+    "platform": "Disney+",
+    "year": 1991,
+    "img": "https://image.tmdb.org/t/p/w500/14TrPHZxrrQfoIcmXpN7q9Y0WYP.jpg",
+    "trailer": "https://www.youtube.com/embed/s8az13Y1rUM?autoplay=1",
+    "desc": "El fiscal de Nueva Orleans, Jim Garrison, reabrió el caso del asesinato del presidente de los Estados Unidos John F. Kennedy y presentó cargos contra algunas personas. Después de entrevistar a numerosos testigos de Dallas y a personas relacionadas con los hechos, mantuvo la tesis de que el magnicidio fue fruto de una conspiración en la que podrían haber intervenido el FBI, la CIA y el propio vicepresidente Lindon B. Johnson.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-19614",
+    "tmdbId": 19614,
+    "title": "It",
+    "type": "Serie",
+    "genres": [
+      "Misterio",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 6.9,
+    "points": 11,
+    "duration": "1 Temporada",
+    "platform": "",
+    "year": 1990,
+    "img": "https://image.tmdb.org/t/p/w500/uuTYA9LIlIRCFMgFlxWb1KznfEx.jpg",
+    "trailer": "https://www.youtube.com/embed/A4vPcP_tPQE?autoplay=1",
+    "desc": "Un tranquilo y pequeño pueblo de Maine está siendo aterrorizado por una fuerza malévola oculta tras la máscara de un payaso, y que tan sólo se la conoce como \"Eso\". Tras sus primeras víctimas, una pandilla formada por siete amigos de la infancia dedicen volver a reunirse para atacar el mal y destruirlo, intentando librar así del terror a su pueblo natal.",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-16118",
+    "tmdbId": 16118,
+    "title": "El misterio de Salem's Lot",
+    "type": "Serie",
+    "genres": [
+      "Misterio"
+    ],
+    "rating": 6.8,
+    "points": 7,
+    "duration": "1 Temporada",
+    "platform": "",
+    "year": 1979,
+    "img": "https://image.tmdb.org/t/p/w500/tfVZ1eVdDUTS0MAI2vOvPy3vGgv.jpg",
+    "trailer": "https://www.youtube.com/embed/8fy03Ijr4tc?autoplay=1",
+    "desc": "Después de haber estado ausente durante años, el novelista Ben Mears (David Soul) regresa a Salem, su pueblo natal. Buscando inspiración para su nueva novela, se instala en una especie de casa encantada en lo alto de una colina, donde vivió una desagradable experiencia cuando era niño. La casa pertenece al anticuario señor Barlow (James Mason), que ha llegado al pueblo con su ayudante Straker. Cuando los vecinos se van convirtiendo en vampiros, el terror se apoderará del pueblo. Ben intentará averiguar el origen de la epidemia para erradicarla",
+    "categoria": "warner"
+  },
+  {
+    "id": "tmdb-5256",
+    "tmdbId": 5256,
+    "title": "Las brumas de Avalon",
+    "type": "Serie",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "rating": 6.7,
+    "points": 4,
+    "duration": "1 Temporada",
+    "platform": "",
+    "year": 2001,
+    "img": "https://image.tmdb.org/t/p/w500/iVEbAgsYBVwKH8goTkUVd59fIWB.jpg",
+    "trailer": "https://www.youtube.com/embed/NYEvkSc3Nk4?autoplay=1",
+    "desc": "Miniserie que adapta la famosa novela de Marion Zimmer Bradley sobre las leyendas artúricas. En ella se muestra cómo la vida del mítico rey Arturo estuvo siempre marcada por diferentes mujeres que le marcaron desde su infancia, siendo su tía, gran sacerdotisa de la isla de Avalon, el reino de las hadas. Este hecho marcaría su destino.",
+    "categoria": "warner"
+  }
+]

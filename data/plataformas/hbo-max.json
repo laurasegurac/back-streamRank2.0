@@ -1,0 +1,1960 @@
+[
+  {
+    "id": "tmdb-209867",
+    "tmdbId": 209867,
+    "title": "Frieren: Tras finalizar el viaje",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.8,
+    "points": 93,
+    "duration": "1 Temporada",
+    "platform": "HBO Max",
+    "year": 2023,
+    "img": "https://image.tmdb.org/t/p/w500/3NyQpXmkaBVWgYM8miDHEFqGMCB.jpg",
+    "trailer": "https://www.youtube.com/embed/01WEqntM1NI?autoplay=1",
+    "desc": "Décadas después de que su grupo derrotara al Rey Demonio, el funeral de un viejo amigo lleva a la hechicera elfa Frieren a embarcarse en un viaje de autodescubrimiento.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-250307",
+    "tmdbId": 250307,
+    "title": "The Pitt",
+    "type": "Serie",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 8.7,
+    "points": 70,
+    "duration": "3 Temporadas",
+    "platform": "HBO Max",
+    "year": 2025,
+    "img": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+    "trailer": "https://www.youtube.com/embed/ufR_08V38sQ?autoplay=1",
+    "desc": "The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-37854",
+    "tmdbId": 37854,
+    "title": "One Piece",
+    "type": "Serie",
+    "genres": [
+      "Action & Adventure",
+      "Comedia",
+      "Animación"
+    ],
+    "rating": 8.7,
+    "points": 59,
+    "duration": "23 Temporadas",
+    "platform": "HBO Max",
+    "year": 1999,
+    "img": "https://image.tmdb.org/t/p/w500/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
+    "trailer": "https://www.youtube.com/embed/1KMcoJBMWE4?autoplay=1",
+    "desc": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-301507",
+    "tmdbId": 301507,
+    "title": "Más que rivales",
+    "type": "Serie",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 8.7,
+    "points": 24,
+    "duration": "1 Temporada",
+    "platform": "HBO Max",
+    "year": 2025,
+    "img": "https://image.tmdb.org/t/p/w500/rFZLFbuAOIQGZxXJT9XWhE87XMY.jpg",
+    "trailer": "https://www.youtube.com/embed/ADi1iextoUM?autoplay=1",
+    "desc": "Dos de las mayores estrellas de la Major League Hockey están unidas por la ambición, la rivalidad y una atracción magnética que ninguna de las dos comprende del todo. Lo que comienza como una aventura secreta entre dos novatos se convierte en un viaje de años de amor, negación y autodescubrimiento. Durante los siguientes ocho años, mientras buscan la gloria sobre el hielo, luchan por comprender sus sentimientos mutuos. Divididos entre el deporte que les apasiona y el amor que no pueden ignorar, deben decidir si hay espacio en su mundo ferozmente competitivo para algo tan frágil —y poderoso— como el amor verdadero.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-87108",
+    "tmdbId": 87108,
+    "title": "Chernobyl",
+    "type": "Serie",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 8.7,
+    "points": 31,
+    "duration": "1 Temporada",
+    "platform": "HBO Max",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+    "trailer": "https://www.youtube.com/embed/s9APLXM9Ei8?autoplay=1",
+    "desc": "En Abril de 1986, la Central Nuclear de Chernóbil en Ucrania (en aquel entonces, la Unión Soviética), sufrió una explosión masiva que liberó material radioactivo en Bielorrusia, Rusia, Ucrania, así como en zonas de Escandinavia y Europa Central. La serie relata lo que aconteció en 1986, en uno de los mayores desastres provocados por el hombre en la historia reciente, así como los sacrificios realizados para salvar al continente de un desastre sin precedentes.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-60625",
+    "tmdbId": 60625,
+    "title": "Rick y Morty",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "rating": 8.7,
+    "points": 164,
+    "duration": "9 Temporadas",
+    "platform": "HBO Max",
+    "year": 2013,
+    "img": "https://image.tmdb.org/t/p/w500/5Yiep9EwcQgLolg013ETBVqHxuD.jpg",
+    "trailer": "https://www.youtube.com/embed/WNhH00OIPP0?autoplay=1",
+    "desc": "Comedia animada que narra las aventuras de un científico loco Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos Morty y Summer.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-1398",
+    "tmdbId": 1398,
+    "title": "Los Soprano",
+    "type": "Serie",
+    "genres": [
+      "Crimen",
+      "Drama"
+    ],
+    "rating": 8.7,
+    "points": 99,
+    "duration": "6 Temporadas",
+    "platform": "HBO Max",
+    "year": 1999,
+    "img": "https://image.tmdb.org/t/p/w500/p7XPjx5jTFl32TGbbIW8exdY8QW.jpg",
+    "trailer": "https://www.youtube.com/embed/Q8cBFvpqmH0?autoplay=1",
+    "desc": "Los Soprano (The Sopranos) es una serie de televisión estadounidense creada y producida por David Chase. La serie se estrenó en Estados Unidos el 10 de enero de 1999 por el canal de televisión por cable HBO, que la emitió ininterrumpidamente hasta su desenlace, el 10 de junio de 2007. La trama de la serie gira en torno al mafioso de Nueva Jersey Tony Soprano (James Gandolfini) y las dificultades que enfrenta tanto en su hogar como en la organización criminal que dirige. A su vez, la serie también se centra en la historia de los personajes cercanos a Tony, especialmente su esposa Carmela (Edie Falco) y su sobrino y protegido Christopher Moltisanti (Michael Imperioli).",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-131378",
+    "tmdbId": 131378,
+    "title": "Hora de aventuras: Fionna y Cake",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Comedia",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.7,
+    "points": 26,
+    "duration": "2 Temporadas",
+    "platform": "HBO Max",
+    "year": 2023,
+    "img": "https://image.tmdb.org/t/p/w500/2tgXQ9NU48mNgpsEWfyVzTb2Ho8.jpg",
+    "trailer": "https://www.youtube.com/embed/94gpIscW0Mc?autoplay=1",
+    "desc": "Fionna y Cake, con la ayuda del anterior Rey del Hielo, se embarcan en una aventura multiversal y en un viaje de autodescubrimiento.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-278",
+    "tmdbId": 278,
+    "title": "Cadena perpetua",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Crimen"
+    ],
+    "rating": 8.7,
+    "points": 74,
+    "duration": "143 min",
+    "platform": "HBO Max",
+    "year": 1994,
+    "img": "https://image.tmdb.org/t/p/w500/uRRTV7p6l2ivtODWJVVAMRrwTn2.jpg",
+    "trailer": "https://www.youtube.com/embed/PLl99DlL6b4?autoplay=1",
+    "desc": "Acusado del asesinato de su mujer, Andrew Dufresne, tras ser condenado a cadena perpetua, es enviado a la prisión de Shawshank. Con el paso de los años conseguirá ganarse la confianza del director del centro y el respeto de sus compañeros presidiarios, especialmente de Red, el jefe de la mafia de los sobornos.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-89456",
+    "tmdbId": 89456,
+    "title": "Primal",
+    "type": "Serie",
+    "genres": [
+      "Action & Adventure",
+      "Animación"
+    ],
+    "rating": 8.6,
+    "points": 14,
+    "duration": "3 Temporadas",
+    "platform": "HBO Max",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/evxTYlsABHvKkLBtwYqlW3HYnHw.jpg",
+    "trailer": "https://www.youtube.com/embed/V4UN616BFDA?autoplay=1",
+    "desc": "Un hombre de las cavernas forma un vínculo con un dinosaurio mientras luchan por sobrevivir en un mundo hostil.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-68595",
+    "tmdbId": 68595,
+    "title": "Planeta Tierra II",
+    "type": "Serie",
+    "genres": [
+      "Documental",
+      "Familia"
+    ],
+    "rating": 8.6,
+    "points": 8,
+    "duration": "1 Temporada",
+    "platform": "HBO Max",
+    "year": 2016,
+    "img": "https://image.tmdb.org/t/p/w500/mruCboXhVXmGX7NUbD7SIfHwplG.jpg",
+    "trailer": "https://www.youtube.com/embed/kAphgHhlteM?autoplay=1",
+    "desc": "La segunda parte del mítico documental \"Planeta Tierra\", nos sumerge en increíbles paisajes y nos permite experimentar el mundo a través de la perspectiva de los animales. Viajando a través de junglas, desiertos, montañas, islas, dehesas y ciudades, esta serie documental explora las características de los habitantes más icónicos de la tierra y sus extraordinarios modos de supervivencia. La nueva tecnología nos acerca a detalles sin precedentes en la vida de los animales.\n\nHace una década, \"Planeta Tierra\" redefinió la forma de hacer documentales de naturaleza, regalándonos el retrato más completo de la vida en la tierra. En esta ocasión, los revolucionarios equipos y profesionales de BBC Earth han tratado de hacernos experimentar el mundo desde el punto de vista de los propios animales. A través de junglas, desiertos, montañas, islas, llanuras y ciudades, \"Planet Eath II\" explora de una manera única los hábitats naturales más icónicos del mundo.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-31132",
+    "tmdbId": 31132,
+    "title": "Historias corrientes",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.6,
+    "points": 88,
+    "duration": "8 Temporadas",
+    "platform": "HBO Max",
+    "year": 2010,
+    "img": "https://image.tmdb.org/t/p/w500/pBxrxZUNhjPenZKU6bPcnrHkjBH.jpg",
+    "trailer": "",
+    "desc": "Mordecai y Rigby son dos amigos inseparables que convierten en fantasía los problemas y tareas cotidianas de sus aburridos trabajos.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-13916",
+    "tmdbId": 13916,
+    "title": "Death Note",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Misterio",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.6,
+    "points": 46,
+    "duration": "1 Temporada",
+    "platform": "HBO Max",
+    "year": 2006,
+    "img": "https://image.tmdb.org/t/p/w500/cFirFPdzle2QYyjFlLVwWUP5YAo.jpg",
+    "trailer": "https://www.youtube.com/embed/NlJZ-YgAt-c?autoplay=1",
+    "desc": "Light Yagami, un estudiante japonés, encuentra un cuaderno llamado Death Note que permite matar a cualquier persona cuyo nombre se escriba en él. Usando este poder, decide crear un mundo \"perfecto\" eliminando a los criminales. Sin embargo, su plan empieza a torcerse cuando L, un brillante detective, intenta descifrar el misterio que rodea a todas estas muertes.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-1438",
+    "tmdbId": 1438,
+    "title": "Bajo escucha",
+    "type": "Serie",
+    "genres": [
+      "Crimen",
+      "Drama"
+    ],
+    "rating": 8.6,
+    "points": 41,
+    "duration": "5 Temporadas",
+    "platform": "HBO Max",
+    "year": 2002,
+    "img": "https://image.tmdb.org/t/p/w500/v5m7os416ER2a9dTE0M017KqRmZ.jpg",
+    "trailer": "https://www.youtube.com/embed/uDcQbk78CSw?autoplay=1",
+    "desc": "David Simon, creador y coguionista de la miniserie de HBO tres veces ganadora del premio Emmy The Corner, este sencillo y extremadamente realista drama sigue una caótica y controvertida investigación de drogas y asesinatos en Baltimore que conllevará peligrosos pinchazos telefónicos y continua vigilancia. Mostrando ambas perspectivas, de la policía y de sus criminales, la serie captura un universo donde distinguir entre el bien y el mal, el delito y la condena, es siempre desafío.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-74313",
+    "tmdbId": 74313,
+    "title": "Planeta Azul 2",
+    "type": "Serie",
+    "genres": [
+      "Documental",
+      "Familia"
+    ],
+    "rating": 8.6,
+    "points": 4,
+    "duration": "1 Temporada",
+    "platform": "HBO Max",
+    "year": 2017,
+    "img": "https://image.tmdb.org/t/p/w500/fD0qRmAw05m3swozUbKr69LyDFt.jpg",
+    "trailer": "https://www.youtube.com/embed/kAphgHhlteM?autoplay=1",
+    "desc": "Siguiendo la estela de Planeta Azul estrenado en 2001, BBC Earth nos presenta un increíble y actualizado retrato del desconocido mundo marino, justo cuando se hace esencial tomar consciencia del momento crítico de los ecosistemas oceánicos. A lo largo de 4 años de producción se han realizado más de 125 expediciones en 39 países. Los equipos de grabación pasaron más de 1.500 días en el mar grabando en todo tipo de hábitats: desde nuestras cercanas costas hasta las misteriosas profundidades abisales, desde los atestados arrecifes de coral a los inhóspitos desiertos submarinos.\n\nPlaneta Azul II cuenta con Sir David Attenborough como narrador y la banda sonora de la serie ha sido compuesta por el ganador de un Oscar, Hans Zimmer. Además la banda británica Radiohead ha colaborado con el compositor alemán con una nueva versión de su canción Bloom.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-60863",
+    "tmdbId": 60863,
+    "title": "Haikyuu!! Los ases del vóley",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Drama"
+    ],
+    "rating": 8.6,
+    "points": 52,
+    "duration": "4 Temporadas",
+    "platform": "HBO Max",
+    "year": 2014,
+    "img": "https://image.tmdb.org/t/p/w500/k8YZ296JIxo6qr3rS7fxGGJyY4H.jpg",
+    "trailer": "https://www.youtube.com/embed/KhZG9Uw7PxM?autoplay=1",
+    "desc": "Un hecho fortuito desencadena el amor de Shouyou Hinata por el voleibol. Su club no tenía ningún miembro, pero de algún modo perseveró y finalmente realizó su primer y último partido regular de la escuela secundaria, donde fue aniquilado por Tobio Kageyama, un jugador superestrella conocido como \"Rey de la Corte.\" ¡Jurando venganza, Hinata ingresa en el club de voleibol Karasuno, de secundaria alta, solo para volver a encontrarse cara a cara con su odiado rival, Kageyama!",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-65930",
+    "tmdbId": 65930,
+    "title": "My Hero Academia",
+    "type": "Serie",
+    "genres": [
+      "Action & Adventure",
+      "Animación",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.6,
+    "points": 27,
+    "duration": "8 Temporadas",
+    "platform": "HBO Max",
+    "year": 2016,
+    "img": "https://image.tmdb.org/t/p/w500/rxqI6KDfbIzlg5BRqg7i3nLsn9r.jpg",
+    "trailer": "https://www.youtube.com/embed/EPVkcwyLQQ8?autoplay=1",
+    "desc": "Las personas no nacen igual. El protagonista de esta historia es uno de esos casos raros que nacen sin superpoderes, pero esto no le impedirá perseguir su sueño: ser un gran héroe como el legendario All-Might. Para convertirse en el héroe que quiere ser, se apuntará a una de las academias de héroes más prestigiosas del país: Yueiko. Con la ayuda de su ídolo, All-Might, ¿podrá convertirse en un verdadero héroe?",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-2316",
+    "tmdbId": 2316,
+    "title": "The Office",
+    "type": "Serie",
+    "genres": [
+      "Comedia"
+    ],
+    "rating": 8.6,
+    "points": 122,
+    "duration": "9 Temporadas",
+    "platform": "HBO Max",
+    "year": 2005,
+    "img": "https://image.tmdb.org/t/p/w500/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+    "trailer": "https://www.youtube.com/embed/-C2z-nshFts?autoplay=1",
+    "desc": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-220542",
+    "tmdbId": 220542,
+    "title": "Los diarios de la boticaria",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Drama",
+      "Misterio"
+    ],
+    "rating": 8.6,
+    "points": 186,
+    "duration": "1 Temporada",
+    "platform": "HBO Max",
+    "year": 2023,
+    "img": "https://image.tmdb.org/t/p/w500/bYPACmBf5Nomw3I2IEGGTNwgvWj.jpg",
+    "trailer": "https://www.youtube.com/embed/3lfb_KeqdEM?autoplay=1",
+    "desc": "Maomao llevaba una vida tranquila ayudando a su padre, un boticario. Todo cambia el día que la venden como sirvienta al palacio del emperador, pero la vida entre nobles y realeza no es para ella. Cuando la familia imperial enferma, ella decide intervenir para encontrar una cura, lo que llama la atención de Jinshi, un guapo oficial de palacio que decide ascenderla como dama de compañía de una de las concubinas del emperador. ¡Su habilidad con la medicina la hará conocida en el palacio por ayudar a resolver muchos misterios!",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-4613",
+    "tmdbId": 4613,
+    "title": "Hermanos de sangre",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "War & Politics"
+    ],
+    "rating": 8.6,
+    "points": 37,
+    "duration": "1 Temporada",
+    "platform": "HBO Max",
+    "year": 2001,
+    "img": "https://image.tmdb.org/t/p/w500/kq9KiusAWPPITQrGovbgdhD9R1R.jpg",
+    "trailer": "https://www.youtube.com/embed/KKRBAFlN5ww?autoplay=1",
+    "desc": "Miniserie de TV de 10 episodios que se basa en el bestseller de Stephen E. Ambrose \"Band Of Brothers\". Narra la historia de la Easy Company, un batallón americano del regimiento 506 de paracaidistas que luchó en Europa durante la II Guerra Mundial (1939-1945). Incluye entrevistas a los supervivientes, recuerdos de los periodistas y cartas de los soldados.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-46896",
+    "tmdbId": 46896,
+    "title": "Los originales",
+    "type": "Serie",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Misterio"
+    ],
+    "rating": 8.6,
+    "points": 44,
+    "duration": "5 Temporadas",
+    "platform": "HBO Max",
+    "year": 2013,
+    "img": "https://image.tmdb.org/t/p/w500/ztefVQYH97CcZ2WHYq1u7f2m6bR.jpg",
+    "trailer": "https://www.youtube.com/embed/GXrDYboUnnw?autoplay=1",
+    "desc": "Spin off de 'Crónicas vampíricas'. Se concentrará sobre Klaus y los originales de 'Crónicas vampíricas' (después o antes de Elijah). Le veremos regresar al Nuevo Orleans y se reencontrará allí a su diabólico y antiguo protegido Marcel. Phoebe Tonkin, que da vida a la mujer lobo Hayley en la temporada 4 de 'Crónicas vampíricas', también estará presente en el reparto de este potencial spin off que será escrito por Julie Plec, cocreadora de 'Crónicas vampíricas'. La trama contará con Camille, una estudiante de psicología que despertará el interés de Klaus. A pesar de ser humana, el personaje tendrá su lado sombrío y quedará intrigada con el híbrido.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-2098",
+    "tmdbId": 2098,
+    "title": "Batman: La Serie Animada",
+    "type": "Serie",
+    "genres": [
+      "Action & Adventure",
+      "Animación",
+      "Drama",
+      "Misterio"
+    ],
+    "rating": 8.6,
+    "points": 44,
+    "duration": "4 Temporadas",
+    "platform": "HBO Max",
+    "year": 1992,
+    "img": "https://image.tmdb.org/t/p/w500/gcOV7JFbJpNqH8mzSuL8jG1WVy4.jpg",
+    "trailer": "",
+    "desc": "Bruce Wayne de día, Batman de noche. Junto a su inseparable aprendiz, Robin, Batman luchará por la estabilidad y bienestar de los habitantes de Gotham; protegiendo a la ciudad de villanos como Dos Caras, Joker, Harley Quinn y Pingüino.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-98214",
+    "tmdbId": 98214,
+    "title": "Villanos",
+    "type": "Serie",
+    "genres": [
+      "Animación"
+    ],
+    "rating": 8.6,
+    "points": 2,
+    "duration": "2 Temporadas",
+    "platform": "HBO Max",
+    "year": 2017,
+    "img": "https://image.tmdb.org/t/p/w500/9Mf4cr11OP8VT2Baej2sn24aOyd.jpg",
+    "trailer": "https://www.youtube.com/embed/7XGY_fHLqck?autoplay=1",
+    "desc": "Villanos es la historia de Black Hat Org., dirigida por Black Hat (cuyo nombre es un sinonimo de villano, una referencia a los vaqueros malvados con sombrero negro de las películas occidentales) y su equipo de tres ayudantes menos villanos. Black Hat está tratando de vender varios inventos malvados creados por el Dr. Flug y está desesperado por lograr sus aspiraciones malvadas. Sin embargo, las cosas suelen terminar mal para él, ya que las brillantes innovaciones tienden a tener pequeños y a menudo cómicos defectos.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-61617",
+    "tmdbId": 61617,
+    "title": "Más allá del jardín",
+    "type": "Serie",
+    "genres": [
+      "Misterio",
+      "Sci-Fi & Fantasy",
+      "Animación",
+      "Familia",
+      "Comedia"
+    ],
+    "rating": 8.6,
+    "points": 10,
+    "duration": "1 Temporada",
+    "platform": "HBO Max",
+    "year": 2014,
+    "img": "https://image.tmdb.org/t/p/w500/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
+    "trailer": "https://www.youtube.com/embed/36mAsVSH_-s?autoplay=1",
+    "desc": "Los hermanos Wirt y Greg, se encuentran perdidos en Lo Desconocido: un bosque misterioso a la deriva en el tiempo. Con la ayuda de un sombrío leñador y una pájaro azul de nombre Beatriz, Wirt y Greg deben viajar a través de este extraño lugar con la esperanza de regresar a casa.\n\nMás allá del jardín (título original en inglés: Over the Garden Wall) es una miniserie animada estadounidense de 10 episodios, creada por Patrick McHale, y transmitida en Cartoon Network. El show está basado en un cortometraje del mismo McHale titulado como Tome of the unknown, que fue producido como parte de los cortos para programas en desarrollo de Cartoon Network Studios. McHale concibió la idea para esta serie en 2004, y la propuso para la cadena en 2006. Después de trabajar en Las maravillosas desventuras de Flapjack y Hora de aventura, la cadena le expresó su interés a McHale y crearon un piloto, el cual se convirtió en el catalizador para Más allá del jardín.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-1408",
+    "tmdbId": 1408,
+    "title": "House",
+    "type": "Serie",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 8.6,
+    "points": 150,
+    "duration": "8 Temporadas",
+    "platform": "HBO Max",
+    "year": 2004,
+    "img": "https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg",
+    "trailer": "https://www.youtube.com/embed/MczMB8nU1sY?autoplay=1",
+    "desc": "House M. D. es un drama médico Estadounidense que se emitió originalmente por la cadena Fox durante ocho temporadas, desde el 16 de noviembre de 2004 al 21 de mayo de 2012. El protagonista de la serie es el Dr. Gregory House, un médico nada convencional, genio, misántropo y adicto a las drogas que dirige un equipo de diagnósticos en el \"Princeton-Plainsboro Teaching Hospital\" (nombre ficticio) en Nueva Jersey.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-95479",
+    "tmdbId": 95479,
+    "title": "Jujutsu Kaisen",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.6,
+    "points": 150,
+    "duration": "1 Temporada",
+    "platform": "HBO Max",
+    "year": 2020,
+    "img": "https://image.tmdb.org/t/p/w500/80eHrBl03xWcQYecoTO1LlkXpN1.jpg",
+    "trailer": "https://www.youtube.com/embed/VpO6APNqY1c?autoplay=1",
+    "desc": "La vida de Itadori cambia para siempre cuando, para salvar a un compañero de clase, se come el dedo de Ryomen Sukuna y absorbe una poderosa maldición.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-45790",
+    "tmdbId": 45790,
+    "title": "JoJo's Bizarre Adventure",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.6,
+    "points": 80,
+    "duration": "6 Temporadas",
+    "platform": "HBO Max",
+    "year": 2012,
+    "img": "https://image.tmdb.org/t/p/w500/ieP7Q9z24sNUfVNFC38rYBw6yxq.jpg",
+    "trailer": "https://www.youtube.com/embed/fOvrr5izejw?autoplay=1",
+    "desc": "La trama se desarrolla en torno a la historia del linaje Joestar, una poderosa familia de origen británico destinada a combatir fuerzas sobrenaturales malvadas usando poderes adquiridos; la obra abarca varias generaciones de dicho linaje, las cuales son adaptadas en cada parte poniendo un descendiente como protagonista, empezando con Jonathan en el año 1880.  El nombre «JoJo», presente en el título de la obra, consiste en un juego de palabras compuesto por el nombre de los protagonistas de cada parte, los cuales pueden abreviarse como «Jojo» y usarse a forma de apodo; sin embargo, en las últimas partes de la obra se hacen juegos de palabras más complejos: por ejemplo, Josuke es un juego de palabras en japonés en que la sílaba «suke» (助) se puede leer también como «jo», y el diminutivo de Giorno Giovana (Gio. Gio.) tiene una pronunciación bastante similar a «Jojo». Todos los Joestar se identifican porque tienen una marca de nacimiento en forma de estrella de cinco puntas.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-424",
+    "tmdbId": 424,
+    "title": "La lista de Schindler",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Historia",
+      "Bélica"
+    ],
+    "rating": 8.6,
+    "points": 33,
+    "duration": "195 min",
+    "platform": "HBO Max",
+    "year": 1993,
+    "img": "https://image.tmdb.org/t/p/w500/3Ho0pXsnMxpGJWqdOi0KDNdaTkT.jpg",
+    "trailer": "https://www.youtube.com/embed/v0RB-3sWbBA?autoplay=1",
+    "desc": "Oskar Schindler, un hombre de enorme astucia y talento para las relaciones públicas, organiza un ambicioso plan para ganarse la simpatía de los nazis. Después de la invasión de Polonia por los alemanes, consigue, gracias a sus relaciones con los nazis, la propiedad de una fábrica de Cracovia. Allí emplea a cientos de operarios judíos, cuya explotación le hace prosperar rápidamente. Su gerente, también judío, es el verdadero director en la sombra, pues Schindler no tiene el menor conocimiento industrial.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-126506",
+    "tmdbId": 126506,
+    "title": "Smiling Friends",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.5,
+    "points": 14,
+    "duration": "3 Temporadas",
+    "platform": "HBO Max",
+    "year": 2020,
+    "img": "https://image.tmdb.org/t/p/w500/l1Qdw9DsJaomE8BXeVfkF6h1qaa.jpg",
+    "trailer": "https://www.youtube.com/embed/hPlpOXSHNa0?autoplay=1",
+    "desc": "Smiling Friends es una pequeña empresa dedicada a repartir felicidad por el mundo, donde sus trabajadores vivirán locas aventuras.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-37606",
+    "tmdbId": 37606,
+    "title": "El asombroso mundo de Gumball",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Sci-Fi & Fantasy",
+      "Comedia"
+    ],
+    "rating": 8.5,
+    "points": 42,
+    "duration": "6 Temporadas",
+    "platform": "HBO Max",
+    "year": 2011,
+    "img": "https://image.tmdb.org/t/p/w500/dMYY2XqsQvDEdTtPfykTEOUZngK.jpg",
+    "trailer": "https://www.youtube.com/embed/v27QcfOoonI?autoplay=1",
+    "desc": "Narra las divertidas aventuras de Gumball y su peculiar familia en el idílico pueblecito de Elmore. Un papá conejo rosa de 1,95 metros, una madre que se gana la vida vendiendo arco iris, un gato azul muy torpe y una conejita con un cerebro superdotado componen la familia protagonista. No hay que olvidar a Darwin, un pez rojo que se convirtió en miembro del clan el día en que le crecieron piernas y pulmones. Así es el asombroso mundo de Gumball.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-240411",
+    "tmdbId": 240411,
+    "title": "DAN DA DAN",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Comedia",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.5,
+    "points": 36,
+    "duration": "1 Temporada",
+    "platform": "HBO Max",
+    "year": 2024,
+    "img": "https://image.tmdb.org/t/p/w500/wQy1dCYgdSwoY78aKFTWFT1xADX.jpg",
+    "trailer": "https://www.youtube.com/embed/pHLEyqsxZV8?autoplay=1",
+    "desc": "Cuando Momo, una estudiante de instituto de una familia de médiums espirituales, conoce a su compañero de clase Okarun, un friki del ocultismo, discuten: Momo cree en los fantasmas pero no en los extraterrestres, y Okarun cree en los extraterrestres pero no en los fantasmas. Cuando resulta que ambos fenómenos son reales, en Momo surge un poder oculto y en Okarun el poder de una maldición. Juntos, deberán desafiar a las fuerzas paranormales que amenazan su mundo.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-120089",
+    "tmdbId": 120089,
+    "title": "SPY x FAMILY",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Comedia"
+    ],
+    "rating": 8.5,
+    "points": 82,
+    "duration": "3 Temporadas",
+    "platform": "HBO Max",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/vaIREdPGZOnW9Jrs86mheVVlIQQ.jpg",
+    "trailer": "https://www.youtube.com/embed/JP6vBnazpWI?autoplay=1",
+    "desc": "El espía \"Twilight\" recibe la misión de infiltrarse en la familia de un líder político. Para ello, crea una falsa familia con una hija que lee mentes y una esposa asesina, mientras ocultan sus secretos y viven juntos en una aventura peligrosa para mantener la paz mundial.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-15260",
+    "tmdbId": 15260,
+    "title": "Hora de aventuras",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.5,
+    "points": 53,
+    "duration": "10 Temporadas",
+    "platform": "HBO Max",
+    "year": 2010,
+    "img": "https://image.tmdb.org/t/p/w500/vpnV0g2VOounP0kHNi86oBPceMY.jpg",
+    "trailer": "https://www.youtube.com/embed/dQX4tS9JSj8?autoplay=1",
+    "desc": "Un niño de 12 años y su mejor amigo, un sabio perro de 28 años con poderes mágicos, se embarcan en una serie de aventuras surrealistas.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-73223",
+    "tmdbId": 73223,
+    "title": "Black Clover",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.5,
+    "points": 19,
+    "duration": "1 Temporada",
+    "platform": "HBO Max",
+    "year": 2017,
+    "img": "https://image.tmdb.org/t/p/w500/p3rUhlE81nWxPqpPR8F2u7a01Tl.jpg",
+    "trailer": "https://www.youtube.com/embed/QwNWY6z93O4?autoplay=1",
+    "desc": "La historia de Black Clover nos pone en la piel de un joven llamado Asta, el cual quiere convertirse en el mago más grande del reino. Sin embargo, hay un inconveniente: ¡no puede usar magia! Por suerte, Asta recibe el grimorio trébol de cinco hojas, que le otorga el poder de la anti-magia. ¿Puede alguien carente de magia convertirse en el Rey Hechicero? Una cosa está clara, Asta nunca se rendirá.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-68349",
+    "tmdbId": 68349,
+    "title": "El Hada De Las Pesas Kim Bok Joo",
+    "type": "Serie",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ],
+    "rating": 8.5,
+    "points": 9,
+    "duration": "1 Temporada",
+    "platform": "HBO Max",
+    "year": 2016,
+    "img": "https://image.tmdb.org/t/p/w500/8SW0FS3U4nJQVIQj1hecU2Fon8Z.jpg",
+    "trailer": "https://www.youtube.com/embed/FKpPKqEg2Pc?autoplay=1",
+    "desc": "[Weightlifting Fairy Kim Bok Joo] Cuenta la historia de Kim Bok Joo, una joven de 22 años de edad. Huérfana de madre, quien se quedó al cuidado de su padre, un ex levantador de pesas. Asiste a la universidad Hanwool, en la especialidad de Educación física, en la cual muchos atletas entrenan para competencias y así poder representar a su país; ella al igual que su padre se dedica al levantamiento de pesas. Bok Joo conocerá a su primer amor, un médico de una clínica de obesidad. Sin embargo, ella no contaba con que el hermano de este médico fuera Jung Joon Hyung, un viejo compañero de la escuela primaria, con quien además tendrá una colorida amistad. ¿Solo tendrán una bella amistad o nacerán sentimientos románticos?",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-204154",
+    "tmdbId": 204154,
+    "title": "Planeta de recolectores",
+    "type": "Serie",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Animación",
+      "Action & Adventure"
+    ],
+    "rating": 8.5,
+    "points": 14,
+    "duration": "1 Temporada",
+    "platform": "HBO Max",
+    "year": 2023,
+    "img": "https://image.tmdb.org/t/p/w500/iMGhp7CG8pwt3o5VdeVjUEvhzfT.jpg",
+    "trailer": "https://www.youtube.com/embed/NWQH8cMpWTU?autoplay=1",
+    "desc": "Cuando un carguero del espacio profundo es dañado por una llamarada solar, su tripulación sobreviviente queda varada en un planeta hermoso e implacable. Comienzan a entender la verdadera naturaleza de este planeta mientras intentan sobrevivir el tiempo suficiente para escapar o ser rescatados.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-1399",
+    "tmdbId": 1399,
+    "title": "Juego de tronos",
+    "type": "Serie",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "rating": 8.5,
+    "points": 211,
+    "duration": "8 Temporadas",
+    "platform": "HBO Max",
+    "year": 2011,
+    "img": "https://image.tmdb.org/t/p/w500/3hDtRuwTfQQYRst3kjhvp4Cogjw.jpg",
+    "trailer": "https://www.youtube.com/embed/KPLWWIOCOOQ?autoplay=1",
+    "desc": "En una tierra donde los veranos duran décadas y los inviernos pueden durar toda una vida, los problemas acechan. Desde las maquinaciones del sur a las salvajes tierras del este, pasando por el helado norte y el milenario muro que protege el reino de las fuerzas tenebrosas, dos poderosas familias mantienen un enfrentamiento letal por gobernar los Siete Reinos de Poniente. Mientras la traición, la lujuria y las fuerzas sobrenaturales sacuden los pilares de los reinos, la sangrienta batalla por el trono de Hierro tendrá consecuencias imprevistas y trascendentales. El invierno se acerca. Que empiece 'Juego de tronos'.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-66330",
+    "tmdbId": 66330,
+    "title": "W: Entre Dos Mundos",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "Comedia"
+    ],
+    "rating": 8.5,
+    "points": 10,
+    "duration": "1 Temporada",
+    "platform": "HBO Max",
+    "year": 2016,
+    "img": "https://image.tmdb.org/t/p/w500/kNVzS04zUVs5BNSiRcMwjFJh2Fl.jpg",
+    "trailer": "https://www.youtube.com/embed/m0oe3YcTPoA?autoplay=1",
+    "desc": "Oh Yeon Joo es una cirujana cardiotorácica en sus 30 cuyo padre se dedica a escribir el webtoon más famoso de Corea, \"W\". El autor, harto ya del personaje de Kang Chul, decide que es hora de matarlo. Sin embargo, por sucesos inesperados, ella se traslada al mundo ficticio donde vive Kang Chul y lo salva. De ahí en adelante Oh Yeon Joo intentará averiguar que sucede realmente para que ambos mundos se unan y por qué su padre está empecinado en matar al personaje principal de su obra.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-155",
+    "tmdbId": 155,
+    "title": "El caballero oscuro",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Suspense"
+    ],
+    "rating": 8.5,
+    "points": 45,
+    "duration": "152 min",
+    "platform": "HBO Max",
+    "year": 2008,
+    "img": "https://image.tmdb.org/t/p/w500/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg",
+    "trailer": "https://www.youtube.com/embed/_PZpmTj1Q8Q?autoplay=1",
+    "desc": "Batman/Bruce Wayne regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon y del Fiscal del Distrito Harvey Dent, Batman se propone destruir el crimen organizado en la ciudad de Gotham. El triunvirato demuestra su eficacia, pero, de repente, aparece Joker, un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-122",
+    "tmdbId": 122,
+    "title": "El señor de los anillos: El retorno del rey",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Fantasía",
+      "Acción"
+    ],
+    "rating": 8.5,
+    "points": 37,
+    "duration": "202 min",
+    "platform": "HBO Max",
+    "year": 2003,
+    "img": "https://image.tmdb.org/t/p/w500/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg",
+    "trailer": "https://www.youtube.com/embed/zckJCxYxn1g?autoplay=1",
+    "desc": "Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de que se decida el destino de la Tierra Media, y por primera vez en mucho tiempo, parece que hay una pequeña esperanza. La atención del señor oscuro Sauron se centra ahora en Gondor, el último reducto de los hombres, y del cual Aragorn tendrá que reclamar el trono para ocupar su puesto de rey. Pero las fuerzas de Sauron ya se preparan para lanzar el último y definitivo ataque contra el reino de Gondor, la batalla que decidirá el destino de todos. Mientras tanto, Frodo y Sam continuan su camino hacia Mordor, a la espera de que Sauron no repare en que dos pequeños Hobbits se acercan cada día más al final de su camino, el Monte del Destino.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-157336",
+    "tmdbId": 157336,
+    "title": "Interstellar",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Drama",
+      "Ciencia ficción"
+    ],
+    "rating": 8.5,
+    "points": 79,
+    "duration": "169 min",
+    "platform": "HBO Max",
+    "year": 2014,
+    "img": "https://image.tmdb.org/t/p/w500/9cTfZWP5TfdnmAjiD6ZBXWIJ7O9.jpg",
+    "trailer": "https://www.youtube.com/embed/LY19rHKAaAg?autoplay=1",
+    "desc": "Un grupo de exploradores hacen uso de un agujero de gusano recientemente descubierto para superar las limitaciones de los viajes espaciales tripulados y vencer las inmensas distancias que tiene un viaje interestelar.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-769",
+    "tmdbId": 769,
+    "title": "Uno de los nuestros",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Crimen"
+    ],
+    "rating": 8.5,
+    "points": 25,
+    "duration": "146 min",
+    "platform": "HBO Max",
+    "year": 1990,
+    "img": "https://image.tmdb.org/t/p/w500/3Yy0zBO9AlyAZH1cTI8Ko2ouCi.jpg",
+    "trailer": "https://www.youtube.com/embed/PTBRNXGQR9Q?autoplay=1",
+    "desc": "Henry, un niño de trece años de Brooklyn, vive fascinado con el mundo de los gángsters. Su sueño se hace realidad cuando entra a formar parte de la familia Pauline, dueña absoluta de la zona, que lo educan como un miembro más de la banda convirtiéndole en un destacado mafioso.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-100088",
+    "tmdbId": 100088,
+    "title": "The Last of Us",
+    "type": "Serie",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 8.4,
+    "points": 40,
+    "duration": "2 Temporadas",
+    "platform": "HBO Max",
+    "year": 2023,
+    "img": "https://image.tmdb.org/t/p/w500/tNQWO6cNzQYCyvw36mUcAQQyf5F.jpg",
+    "trailer": "https://www.youtube.com/embed/uLtkt8BonwM?autoplay=1",
+    "desc": "Año 2023, veinte años después del comienzo de una plaga mundial que infectó a población con un hongo mutado transformando a las personas en unas criaturas caníbales, el contrabandista Joel tiene la misión de escoltar a la adolescente Ellie por un mundo postapocalíptico en el nada va a ser fácil para los viajeros.  Joel todavía vive atormentado por el recuerdo de su única hija. Ellie es portadora de algo que podría cambiar el destino de la humanidad ¿Conseguirán sobrevivir los dos?",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-224372",
+    "tmdbId": 224372,
+    "title": "El caballero de los Siete Reinos",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "rating": 8.4,
+    "points": 30,
+    "duration": "1 Temporada",
+    "platform": "HBO Max",
+    "year": 2026,
+    "img": "https://image.tmdb.org/t/p/w500/pKWuCnx1DAjLFamTdYVRfK0cck6.jpg",
+    "trailer": "https://www.youtube.com/embed/sItUCKJQLTU?autoplay=1",
+    "desc": "Un siglo antes de los acontecimientos de \"Juego de Tronos\", dos héroes improbables vagaban por Poniente: un joven e ingenuo, pero valiente caballero, Ser Duncan el Alto, y su pequeño escudero, Egg. Ambientada en una época en la que el linaje Targaryen aún ostenta el Trono de Hierro y el recuerdo del último dragón aún no ha desaparecido de la memoria viva, grandes destinos, poderosos enemigos y peligrosas hazañas aguardan a estos improbables e incomparables amigos.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-2723",
+    "tmdbId": 2723,
+    "title": "Samurai Jack",
+    "type": "Serie",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Animación"
+    ],
+    "rating": 8.4,
+    "points": 25,
+    "duration": "5 Temporadas",
+    "platform": "HBO Max",
+    "year": 2001,
+    "img": "https://image.tmdb.org/t/p/w500/6ic7e9zm5DmzGy4mYlIPKf1b3B4.jpg",
+    "trailer": "https://www.youtube.com/embed/VSrv_n4tw7w?autoplay=1",
+    "desc": "Samurai Jack cuenta la historia de un joven príncipe cuyo imperio ha sido destruido por un demonio caído de los cielos llamado Aku. Jack consigue huir de la destrucción y dedica el resto de su vida a entrenarse para poder recuperar su reino y derrotar Aku, vengando así la muerte de todo su pueblo.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-79460",
+    "tmdbId": 79460,
+    "title": "Legacies",
+    "type": "Serie",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "rating": 8.4,
+    "points": 26,
+    "duration": "4 Temporadas",
+    "platform": "HBO Max",
+    "year": 2018,
+    "img": "https://image.tmdb.org/t/p/w500/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg",
+    "trailer": "https://www.youtube.com/embed/xHHM5VTATJo?autoplay=1",
+    "desc": "En un lugar donde jóvenes brujas, vampiros y hombres lobo son educados para ser lo mejor de sí mismos a pesar de sus peores impulsos, la hija de Klaus Mikaelson, Hope Mikaelson de 17 años, las gemelas de Alaric Saltzman, Lizzie y Josie Saltzman, entre otros de edad en héroes y villanos en la Escuela Salvatore para Jóvenes y Dotados.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-1668",
+    "tmdbId": 1668,
+    "title": "Friends",
+    "type": "Serie",
+    "genres": [
+      "Comedia"
+    ],
+    "rating": 8.4,
+    "points": 120,
+    "duration": "10 Temporadas",
+    "platform": "HBO Max",
+    "year": 1994,
+    "img": "https://image.tmdb.org/t/p/w500/rkKCSlr8OH5tbKEdgwtzvEiemrl.jpg",
+    "trailer": "https://www.youtube.com/embed/H29XSxoKp80?autoplay=1",
+    "desc": "Las aventuras de seis jóvenes neoyorquinos unidos por una divertida amistad. Entre el amor, el trabajo y la familia, comparten sus alegrías y preocupaciones en el Central Perk, su café favorito.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-100834",
+    "tmdbId": 100834,
+    "title": "Veneno",
+    "type": "Serie",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 8.4,
+    "points": 3,
+    "duration": "1 Temporada",
+    "platform": "HBO Max",
+    "year": 2020,
+    "img": "https://image.tmdb.org/t/p/w500/cXVbEJ88JmIkibl84F80irRVe6.jpg",
+    "trailer": "",
+    "desc": "Adorada por su carisma y su forma de expresarse libre, deslenguada y divertida, la Veneno alcanzó la popularidad gracias a sus apariciones televisivas en los años noventa. Sin embargo, su vida, y sobre todo su muerte, siguen siendo un enigma. La historia de una mujer luchadora.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-61175",
+    "tmdbId": 61175,
+    "title": "Steven Universe",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Comedia",
+      "Sci-Fi & Fantasy",
+      "Familia"
+    ],
+    "rating": 8.4,
+    "points": 32,
+    "duration": "5 Temporadas",
+    "platform": "HBO Max",
+    "year": 2013,
+    "img": "https://image.tmdb.org/t/p/w500/8zRstOgaipruJPlsHK2diMx4lPy.jpg",
+    "trailer": "https://www.youtube.com/embed/FUAaThUypEM?autoplay=1",
+    "desc": "Sigue la historia de Steven, el miembro más joven de un equipo de guardianes mágicos del Universo.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-604",
+    "tmdbId": 604,
+    "title": "Teen Titans",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.4,
+    "points": 20,
+    "duration": "5 Temporadas",
+    "platform": "HBO Max",
+    "year": 2003,
+    "img": "https://image.tmdb.org/t/p/w500/gxe4wIp3kYfw4QSkLMt99HfLkok.jpg",
+    "trailer": "",
+    "desc": "La serie gira en torno a un grupo de superhéroes adolescentes llamado los Teen Titans formado por Robin, Cyborg, Raven, Starfire, Chico Bestia y Terra (se unió al equipo sólo por un breve tiempo). El equipo tiene sus cuarteles generales en la Torre de los Titanes (un edificio con forma de T) y protegen Jump City, una ciudad que tiene un vago parecido con San Francisco y que está en la costa oeste de Estados Unidos.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-194764",
+    "tmdbId": 194764,
+    "title": "El Pingüino",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "Crimen"
+    ],
+    "rating": 8.4,
+    "points": 17,
+    "duration": "1 Temporada",
+    "platform": "HBO Max",
+    "year": 2024,
+    "img": "https://image.tmdb.org/t/p/w500/mW2qLgX1Z336obi5rWKQFaKw98n.jpg",
+    "trailer": "https://www.youtube.com/embed/sfJG6IiA_s8?autoplay=1",
+    "desc": "Sigue la lucha de Oswald “Oz” Cobb por hacerse con el control de Gotham. Con la ciudad destrozada después del colapso de los diques, Oz busca llenar el vacío de poder que dejó la muerte de Carmine Falcone y darle a su madre Francis la vida que siempre le prometió. Pero antes Oz tendrá que enfrentarse a sus enemigos, incluidos los hijos de Falcone: Sofia y Alberto; la familia Maroni, dirigida por su patriarca encarcelado, Salvatore Maroni; y la propia reputación desmoralizadora de Oz como El Pingüino.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-5920",
+    "tmdbId": 5920,
+    "title": "El mentalista",
+    "type": "Serie",
+    "genres": [
+      "Crimen",
+      "Drama",
+      "Misterio"
+    ],
+    "rating": 8.4,
+    "points": 194,
+    "duration": "7 Temporadas",
+    "platform": "HBO Max",
+    "year": 2008,
+    "img": "https://image.tmdb.org/t/p/w500/snKUzvCl3kGv0RWBjEjnOXMGvdl.jpg",
+    "trailer": "",
+    "desc": "El mentalista es una serie policiaca americana sobre Patrick Jane, ex médium, que trabaja de asesor para la Oficina de Investigación de California (California Bureau of Investigation), usando su altamente desarrollada capacidad de observación, que anteriormente usaba para \"leer\" mentes.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-120",
+    "tmdbId": 120,
+    "title": "El señor de los anillos: La comunidad del anillo",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Fantasía",
+      "Acción"
+    ],
+    "rating": 8.4,
+    "points": 33,
+    "duration": "179 min",
+    "platform": "HBO Max",
+    "year": 2001,
+    "img": "https://image.tmdb.org/t/p/w500/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
+    "trailer": "https://www.youtube.com/embed/_nZdmwHrcnw?autoplay=1",
+    "desc": "En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, que contiene en sí el poder para esclavizar a toda la Tierra Media. Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-598",
+    "tmdbId": 598,
+    "title": "Ciudad de Dios",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Crimen"
+    ],
+    "rating": 8.4,
+    "points": 12,
+    "duration": "130 min",
+    "platform": "HBO Max",
+    "year": 2002,
+    "img": "https://image.tmdb.org/t/p/w500/zYjngc6yGUO1IEuAwk0yAhg8CKh.jpg",
+    "trailer": "https://www.youtube.com/embed/dcUOO4Itgmw?autoplay=1",
+    "desc": "Basada en hechos reales, cuenta la historia del crecimiento del crimen organizado en los suburbios de la ciudad de Río de Janeiro, desde finales de los años sesenta hasta el comienzo de los ochenta, cuando el tráfico de drogas y la violencia impusieron su ley entre la miseria de las favelas.“Buscapé” tiene 11 años y es sólo un niño más en Cidade de Deus, un suburbio de Río de Janeiro. Tímido y delicado, observa a los niños duros de su barrio, sus robos, sus peleas, sus enfrentamientos diarios con la policía. Ya sabe lo que quiere ser si consigue sobrevivir: fotógrafo. “Dadinho”, un niño de su misma edad, se traslada al barrio. Sueña con ser el criminal más peligroso de Río de Janeiro y empieza su aprendizaje haciendo recados para los delincuentes locales. Dos vidas paralelas en Cidade de Deus.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-121",
+    "tmdbId": 121,
+    "title": "El señor de los anillos: Las dos torres",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Fantasía",
+      "Acción"
+    ],
+    "rating": 8.4,
+    "points": 20,
+    "duration": "180 min",
+    "platform": "HBO Max",
+    "year": 2002,
+    "img": "https://image.tmdb.org/t/p/w500/up6gIHZlfEQZkHIfQwcOOaGOzOt.jpg",
+    "trailer": "https://www.youtube.com/embed/nuTU5XcZTLA?autoplay=1",
+    "desc": "La Compañía del Anillo se ha disuelto. El portador del anillo Frodo y su fiel amigo Sam se dirigen hacia Mordor para destruir el Anillo Único y acabar con el poder de Sauron. Mientras, y tras la dura batalla contra los orcos donde cayó Boromir, el hombre Aragorn, el elfo Legolas y el enano Gimli intentan rescatar a los medianos Merry y Pipin, secuestrados por los ogros de Mordor. Por su parte, Saurón y el traidor Sarumán continúan con sus planes en Mordor, en espera de la guerra contra las razas libres de la Tierra Media.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-539",
+    "tmdbId": 539,
+    "title": "Psicosis",
+    "type": "Película",
+    "genres": [
+      "Terror",
+      "Suspense",
+      "Misterio"
+    ],
+    "rating": 8.4,
+    "points": 20,
+    "duration": "109 min",
+    "platform": "HBO Max",
+    "year": 1960,
+    "img": "https://image.tmdb.org/t/p/w500/xFbnc2QPG5H5gYWsGbZT4q8Akya.jpg",
+    "trailer": "https://www.youtube.com/embed/D90QhegiVvo?autoplay=1",
+    "desc": "Una joven secretaria, tras cometer un robo, se marcha de la ciudad y conduce durante horas, parando para descansar en un pequeño motel de carretera regentado por un joven llamado Norman. Todo parece normal y tranquilo en el apartado motel y en la casa de al lado en la que viven Norman y su madre pero, mientras está en la ducha, la joven es asesinada salvajemente a cuchilladas.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-510",
+    "tmdbId": 510,
+    "title": "Alguien voló sobre el nido del cuco",
+    "type": "Película",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 8.4,
+    "points": 15,
+    "duration": "133 min",
+    "platform": "HBO Max",
+    "year": 1975,
+    "img": "https://image.tmdb.org/t/p/w500/lBYmCynNEPt7HVaJvuXgfHvLhbJ.jpg",
+    "trailer": "https://www.youtube.com/embed/F4da9uRIg8c?autoplay=1",
+    "desc": "Randle McMurphy (Jack Nicholson), un violador de espíritu libre, que vive contracorriente, es recluido en un hospital psiquiátrico. La inflexible disciplina del centro acentúa su contagiosa tendencia al desorden, que acabará desencadenando una guerra entre los pacientes y el personal de la clínica con la fría y severa enfermera Ratched (Louise Fletcher) a la cabeza. La suerte de cada paciente del pabellón está en juego.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-807",
+    "tmdbId": 807,
+    "title": "Seven",
+    "type": "Película",
+    "genres": [
+      "Crimen",
+      "Misterio",
+      "Suspense"
+    ],
+    "rating": 8.4,
+    "points": 27,
+    "duration": "127 min",
+    "platform": "HBO Max",
+    "year": 1995,
+    "img": "https://image.tmdb.org/t/p/w500/uVPcVz4b2hnSGrXYLdIGRXwcivs.jpg",
+    "trailer": "https://www.youtube.com/embed/KPOuJGkpblk?autoplay=1",
+    "desc": "El teniente Somerset, del departamento de homicidios, está a punto de jubilarse y ser reemplazado por el ambicioso y brillante detective David Mills. Ambos tendrán que colaborar en la resolución de una serie de asesinatos cometidos por un psicópata que toma como base la relación de los siete pecados capitales: gula, pereza, soberbia, avaricia, envidia, lujuria e ira. Los cuerpos de las víctimas, sobre los que el asesino se ensaña de manera impúdica, se convertirán para los policías en un enigma que les obligará a viajar al horror y la barbarie más absoluta.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-244786",
+    "tmdbId": 244786,
+    "title": "Whiplash",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Música",
+      "Suspense"
+    ],
+    "rating": 8.4,
+    "points": 23,
+    "duration": "105 min",
+    "platform": "HBO Max",
+    "year": 2014,
+    "img": "https://image.tmdb.org/t/p/w500/uy36CPy5ARuC8qrH8Esg2ndFyJ5.jpg",
+    "trailer": "https://www.youtube.com/embed/Q7kZy3T6vRM?autoplay=1",
+    "desc": "El objetivo de Andrew Neiman, un joven y ambicioso baterista de jazz, es triunfar en el elitista Conservatorio de Música de la Costa Este en el que estudia. Marcado por el fracaso de la carrera literaria de su padre, Andrew alberga sueños de grandeza. Terence Fletcher, un profesor conocido tanto por su talento como por sus rigurosos métodos de enseñanza, dirige el mejor conjunto de jazz del Conservatorio. Cuando Fletcher elige a Andrew y para formar parte del conjunto musical que dirige, cambia para siempre la vida del joven. La pasión de Andrew por alcanzar la perfección se convierte en obsesión, al tiempo que su despiadado profesor lo lleva al límite de su capacidad y de su salud mental.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-27205",
+    "tmdbId": 27205,
+    "title": "Origen",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Aventura"
+    ],
+    "rating": 8.4,
+    "points": 38,
+    "duration": "148 min",
+    "platform": "HBO Max",
+    "year": 2010,
+    "img": "https://image.tmdb.org/t/p/w500/tXQvtRWfkUUnWJAn2tN3jERIUG.jpg",
+    "trailer": "https://www.youtube.com/embed/cdx31ak4KbQ?autoplay=1",
+    "desc": "Dom Cobb es un ladrón hábil, el mejor de todos, especializado en el peligroso arte de extracción: el robo de secretos valiosos desde las profundidades del subconsciente durante el estado de sueño cuando la mente está más vulnerable. Esta habilidad excepcional de Cobb le ha hecho un jugador codiciado en el traicionero nuevo mundo de espionaje corporativo, pero al mismo tiempo, le ha convertido en un fugitivo internacional y ha tenido que sacrificar todo que le importaba. Ahora a Cobb se le ofrece una oportunidad para redimirse. Con un último trabajo podría recuperar su vida anterior, pero solamente si logra lo imposible.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-74682",
+    "tmdbId": 74682,
+    "title": "No soy un robot",
+    "type": "Serie",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ],
+    "rating": 8.3,
+    "points": 7,
+    "duration": "1 Temporada",
+    "platform": "HBO Max",
+    "year": 2017,
+    "img": "https://image.tmdb.org/t/p/w500/b60Vh9uxH424J3XDjS0sE1ksWTN.jpg",
+    "trailer": "https://www.youtube.com/embed/gGumnmOarco?autoplay=1",
+    "desc": "Kim Min Kyu es un joven rico que es alérgico a los seres humanos. Debido a su condición, nunca ha salido con una chica. Sin embargo, experimenta las alegrías de enamorarse por primera vez cuando conoce a Jo Ji Ah, una chica que pretende ser una robot.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-1622",
+    "tmdbId": 1622,
+    "title": "Sobrenatural",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "Misterio",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.3,
+    "points": 238,
+    "duration": "15 Temporadas",
+    "platform": "HBO Max",
+    "year": 2005,
+    "img": "https://image.tmdb.org/t/p/w500/58Qaj36FZDz54H36LsUI8mGiW9y.jpg",
+    "trailer": "https://www.youtube.com/embed/yy96yJjkvjo?autoplay=1",
+    "desc": "Cuando eran niños, Sam y Dean Winchester, perdieron a su madre debido a una misteriosa y demoníaca fuerza supernatural. Posteriormente, su padre los crió para que fueran soldados. Él les enseño sobre el mal que vive en los rincones obscuros y en las carreteras secundarias de América... y también les enseñó como matarlo. Ahora los hermanos Winchester recorren el país en su Chevy Impala del '67, luchando contra todo tipo de amenaza sobrenatural que encuentran en el camino.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-60957",
+    "tmdbId": 60957,
+    "title": "Mi amor de las estrellas",
+    "type": "Serie",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ],
+    "rating": 8.3,
+    "points": 15,
+    "duration": "1 Temporada",
+    "platform": "HBO Max",
+    "year": 2013,
+    "img": "https://image.tmdb.org/t/p/w500/gKQXPgtk25JqLtPTt6izyXqJgqm.jpg",
+    "trailer": "",
+    "desc": "Do Min-joon es un extraterrestre con que aterrizó en Corea del Sur durante la  dinastía Joseon (1609). Poseedor de unas habilidades extraordinarias, ha estado viviendo en la Tierra desde hace más de 400 años con la esperanza de poder regresar a su planeta. En la era actual, cuando se acerca el día de su partida y solo le quedan tres meses en la Tierra, conoce a la famosa y conocida actriz de Cheon Song-yi. Este encuentro le hará replantearse su concepción de los humanos y su deseo de partida.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-74440",
+    "tmdbId": 74440,
+    "title": "Harley Quinn",
+    "type": "Serie",
+    "genres": [
+      "Action & Adventure",
+      "Animación",
+      "Comedia",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.3,
+    "points": 24,
+    "duration": "5 Temporadas",
+    "platform": "HBO Max",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/9Dm1SEh8Wxt8LNNg02exHQ595zg.jpg",
+    "trailer": "https://www.youtube.com/embed/mT7A5-oxR3o?autoplay=1",
+    "desc": "Harley Quinn finalmente ha roto las cosas de una vez por todas con el Joker e intenta hacerlo por sí misma como la reina criminal de Gotham City.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-567",
+    "tmdbId": 567,
+    "title": "La ventana indiscreta",
+    "type": "Película",
+    "genres": [
+      "Suspense",
+      "Misterio",
+      "Drama"
+    ],
+    "rating": 8.3,
+    "points": 10,
+    "duration": "112 min",
+    "platform": "HBO Max",
+    "year": 1954,
+    "img": "https://image.tmdb.org/t/p/w500/fH1MipE8PXGg0rlI5cUdzxKnyA2.jpg",
+    "trailer": "https://www.youtube.com/embed/iZOTTxwzyMU?autoplay=1",
+    "desc": "Un reportero fotográfico se ve obligado a permanecer en reposo con una pierna escayolada. A pesar de la compañía de su novia y de su enfermera, procura escapar al tedio, observando desde la ventana de su apartamento con unos prismáticos lo que ocurre en las viviendas de enfrente. Debido a una serie de extrañas circunstancias empieza a sospechar de un vecino cuya mujer ha desaparecido.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-73",
+    "tmdbId": 73,
+    "title": "American History X",
+    "type": "Película",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 8.3,
+    "points": 12,
+    "duration": "119 min",
+    "platform": "HBO Max",
+    "year": 1998,
+    "img": "https://image.tmdb.org/t/p/w500/h2cDqHvnZkycBJKoF7WhcQ2MX1V.jpg",
+    "trailer": "https://www.youtube.com/embed/el6JxnW2Tyg?autoplay=1",
+    "desc": "Derek (Edward Norton) es un joven californiano que se convierte en el líder de una banda de neonazis tras el asesinato de su padre. Su hermano pequeño, Danny, le admira y sigue sus pasos de odio y violencia. Cuando Derek mata a dos ladrones negros, es condenado a tres años de cárcel, donde cambia su forma de pensar al conocer a otros presos. Al salir, intenta alejar a Danny del racismo y la delincuencia, pero se encuentra con la resistencia de sus antiguos compañeros y las consecuencias de su pasado.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-1184918",
+    "tmdbId": 1184918,
+    "title": "Robot salvaje",
+    "type": "Película",
+    "genres": [
+      "Familia",
+      "Animación",
+      "Ciencia ficción",
+      "Aventura"
+    ],
+    "rating": 8.3,
+    "points": 29,
+    "duration": "101 min",
+    "platform": "HBO Max",
+    "year": 2024,
+    "img": "https://image.tmdb.org/t/p/w500/a0a7RC01aTa7pOnskgJb3mCD2Ba.jpg",
+    "trailer": "https://www.youtube.com/embed/VUCNBAmse04?autoplay=1",
+    "desc": "Esta aventura épica cuenta la historia de una robot, Rozzum 7-1-3-4, \"Roz\" para abreviar, que naufraga en una isla inhabitada y debe aprender a adaptarse a los entornos rigurosos construyendo relaciones con los animales de la isla y convirtiéndose en la madre adoptiva de una cría de ganso huérfana.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-603",
+    "tmdbId": 603,
+    "title": "Matrix",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Ciencia ficción"
+    ],
+    "rating": 8.2,
+    "points": 40,
+    "duration": "138 min",
+    "platform": "HBO Max",
+    "year": 1999,
+    "img": "https://image.tmdb.org/t/p/w500/8rT9kG2EYkZpJmYCuTJNnPDEube.jpg",
+    "trailer": "https://www.youtube.com/embed/d0XTFAMmhrE?autoplay=1",
+    "desc": "Thomas Anderson lleva una doble vida: por el día es programador en una importante empresa de software, y por la noche un hacker informático llamado Neo. Su vida no volverá a ser igual cuando unos misteriosos personajes le inviten a descubrir la respuesta a la pregunta que no le deja dormir: ¿qué es Matrix?",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-1124",
+    "tmdbId": 1124,
+    "title": "El truco final (El prestigio)",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Misterio",
+      "Ciencia ficción"
+    ],
+    "rating": 8.2,
+    "points": 12,
+    "duration": "130 min",
+    "platform": "HBO Max",
+    "year": 2006,
+    "img": "https://image.tmdb.org/t/p/w500/lIl2CrnWohGrZSO9eyKRptxZ7Hs.jpg",
+    "trailer": "https://www.youtube.com/embed/ObGVA1WOqyE?autoplay=1",
+    "desc": "Robert Angier es un ilusionista respetado que se obsesiona con uno de los trucos de su rival Alfred Borden. Para conseguir el truco hará todo lo posible, sin saber hasta qué punto cambiará su vida...",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-694",
+    "tmdbId": 694,
+    "title": "El resplandor",
+    "type": "Película",
+    "genres": [
+      "Terror",
+      "Suspense"
+    ],
+    "rating": 8.2,
+    "points": 21,
+    "duration": "146 min",
+    "platform": "HBO Max",
+    "year": 1980,
+    "img": "https://image.tmdb.org/t/p/w500/mm003Mj2e9kJRsrxiVdPn2BSBPh.jpg",
+    "trailer": "https://www.youtube.com/embed/jAE7dNurHR4?autoplay=1",
+    "desc": "Jack Torrance se traslada, junto a su mujer y a su hijo, al impresionante hotel Overlook, en Colorado, para encargarse del mantenimiento del mismo durante la temporada invernal, en la que permanece cerrado y aislado por la nieve. Su idea es escribir su novela al tiempo que cuida de las instalaciones durante esos largos y solitarios meses de invierno, pero desde su llegada al hotel, Jack comienza a padecer inquietantes transtornos de personalidad, al mismo tiempo que en el lugar comienzan a suceder diversos fenómenos paranormales.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-1186532",
+    "tmdbId": 1186532,
+    "title": "La fragua",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Familia"
+    ],
+    "rating": 8.2,
+    "points": 4,
+    "duration": "123 min",
+    "platform": "HBO Max",
+    "year": 2024,
+    "img": "https://image.tmdb.org/t/p/w500/loYpxub1ZZVmI4JzPC0jLkerq3g.jpg",
+    "trailer": "https://www.youtube.com/embed/iAt_j6zEeF0?autoplay=1",
+    "desc": "Isaiah Wright aún tiene que madurar. Tras graduarse en el instituto sin ningún plan para el futuro, Isaiah recibe un empujón para empezar a tomar mejores decisiones en la vida. El plan de Dios para él es mucho mayor de lo que jamás hubiera imaginado.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-68718",
+    "tmdbId": 68718,
+    "title": "Django desencadenado",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "rating": 8.2,
+    "points": 14,
+    "duration": "165 min",
+    "platform": "HBO Max",
+    "year": 2012,
+    "img": "https://image.tmdb.org/t/p/w500/fIxAE6BKfAzhPRYm7DdldBaYu5T.jpg",
+    "trailer": "https://www.youtube.com/embed/_iH0UBYDI4g?autoplay=1",
+    "desc": "Dos años antes de estallar la Guerra Civil (1861-1865), Schultz, un cazarrecompensas alemán que le sigue la pista a unos asesinos, le promete al esclavo Django dejarlo en libertad si le ayuda a atraparlos. Terminado con éxito el trabajo, Django prefiere seguir al lado del alemán y ayudarle a capturar a los delincuentes más buscados del Sur. Se convierte así en un experto cazador de recompensas, pero su único objetivo es rescatar a su esposa Broomhilda, a la que perdió por culpa del tráfico de esclavos. La búsqueda llevará a Django y a Schultz hasta Calvin Candie, el malvado propietario de la plantación \"Candyland\". La presencia de ambos en los alrededores de la propiedad, despierta las sospechas de Stephen, el esclavo de confianza de Candie.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-185",
+    "tmdbId": 185,
+    "title": "La naranja mecánica",
+    "type": "Película",
+    "genres": [
+      "Ciencia ficción",
+      "Crimen"
+    ],
+    "rating": 8.2,
+    "points": 11,
+    "duration": "136 min",
+    "platform": "HBO Max",
+    "year": 1971,
+    "img": "https://image.tmdb.org/t/p/w500/p40pYh2EBPoyVyqw6qy2PAZkFVA.jpg",
+    "trailer": "https://www.youtube.com/embed/2meAsIclTzQ?autoplay=1",
+    "desc": "Gran Bretaña, en un futuro indeterminado. Alex es un joven muy agresivo que tiene dos pasiones: la violencia desaforada y Beethoven. Es el jefe de la banda de los drugos, que dan rienda suelta a sus instintos más salvajes apaleando, violando y aterrorizando a la población. Cuando esa escalada de terror llega hasta el asesinato, Alex es detenido y, en prisión, se someterá voluntariamente a una innovadora experiencia de reeducación que pretende anular drásticamente cualquier atisbo de conducta antisocial.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-348",
+    "tmdbId": 348,
+    "title": "Alien, el octavo pasajero",
+    "type": "Película",
+    "genres": [
+      "Terror",
+      "Ciencia ficción"
+    ],
+    "rating": 8.2,
+    "points": 24,
+    "duration": "117 min",
+    "platform": "HBO Max",
+    "year": 1979,
+    "img": "https://image.tmdb.org/t/p/w500/pZ9cAe5FxexJjpCaeiETbXzz3Fs.jpg",
+    "trailer": "https://www.youtube.com/embed/bM01Al2SWx4?autoplay=1",
+    "desc": "De regreso a la Tierra, la nave de carga Nostromo interrumpe su viaje y despierta a sus siete tripulantes. El ordenador central, MADRE, ha detectado la misteriosa transmisión de una forma de vida desconocida, procedente de un planeta cercano aparentemente deshabitado. La nave se dirige entonces al extraño planeta para investigar el origen de la comunicación.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-537061",
+    "tmdbId": 537061,
+    "title": "Steven Universe: La película",
+    "type": "Película",
+    "genres": [
+      "Película de TV",
+      "Animación",
+      "Familia",
+      "Aventura",
+      "Fantasía"
+    ],
+    "rating": 8.2,
+    "points": 3,
+    "duration": "83 min",
+    "platform": "HBO Max",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/bewhxwbmWTMe16dEQa8ICGe9Y1Y.jpg",
+    "trailer": "https://www.youtube.com/embed/9FGyVAIRI-4?autoplay=1",
+    "desc": "Ambientada dos años después de los acontecimientos acaecidos en la quinta temporada, un Steven de 16 años se enfrenta a un mundo repleto de novedades. Aunque cree que su papel como guardián de la Tierra ya ha terminado, una nueva amenaza se cierne sobre Beach City, por lo que el joven héroe tendrá que enfrentarse a su mayor desafío hasta la fecha.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-1422",
+    "tmdbId": 1422,
+    "title": "Infiltrados",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Suspense",
+      "Crimen"
+    ],
+    "rating": 8.2,
+    "points": 12,
+    "duration": "149 min",
+    "platform": "HBO Max",
+    "year": 2006,
+    "img": "https://image.tmdb.org/t/p/w500/hf0Hgw1snmBwinkHYLCxGIs6DgO.jpg",
+    "trailer": "https://www.youtube.com/embed/r-MiSNsCdQ4?autoplay=1",
+    "desc": "El Departamento de Policía de Massachussets se enfrenta a la mayor banda de crimen organizado de la ciudad de Boston. La estrategia consiste en acabar desde dentro con Frank Costello, el poderoso jefe de la mafia irlandesa. El encargado de infiltrarse en la banda es un joven novato, Billy Costigan. Mientras Billy intenta ganarse la confianza de Costello, otro joven policía, Colin Sullivan, sube rápidamente de categoría y ocupa un puesto en la unidad de Investigaciones Especiales, grupo de élite cuya misión también es acabar con Costello. Lo que nadie sabe es que Colin es un topo infiltrado en la policía por el propio Costello.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-476292",
+    "tmdbId": 476292,
+    "title": "Maquia, una historia de amor inmortal",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Drama",
+      "Fantasía"
+    ],
+    "rating": 8.1,
+    "points": 5,
+    "duration": "115 min",
+    "platform": "HBO Max",
+    "year": 2018,
+    "img": "https://image.tmdb.org/t/p/w500/hUJvmSl8EOFAYgXO1VfwNoQPRLX.jpg",
+    "trailer": "https://www.youtube.com/embed/I5ke_BwozoI?autoplay=1",
+    "desc": "Maquia pertenece a un grupo de gente que deja de envejecer en la adolescencia. Aunque vive tranquila, se siente sola. Esa tranquilidad se rompe cuando un ejército les invade para buscar el secreto de la inmortalidad. Maquia escapa, pero pierde a sus amigos y su hogar. En el bosque conocerá a Ariel, un pequeño que ha perdido a sus padres. La historia desarrolla la relación entre Maquia, que no envejece, y Ariel, que sí.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-426",
+    "tmdbId": 426,
+    "title": "Vértigo (De entre los muertos)",
+    "type": "Película",
+    "genres": [
+      "Misterio",
+      "Romance",
+      "Suspense"
+    ],
+    "rating": 8.1,
+    "points": 6,
+    "duration": "120 min",
+    "platform": "HBO Max",
+    "year": 1958,
+    "img": "https://image.tmdb.org/t/p/w500/r94qq1BK2VE3z9i5agO3llvvIp8.jpg",
+    "trailer": "https://www.youtube.com/embed/UHhsEYDg8GI?autoplay=1",
+    "desc": "Scottie Fergusson es un detective de la policía de San Francisco que padece de vértigo. Cuando un compañero cae al vacío desde una cornisa mientras persiguen a un delincuente, Scottie decide retirarse. Gavin Elster, un viejo amigo del colegio, lo contrata para que vigile a su esposa Madeleine, una bella mujer que está obsesionada con su pasado.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-289",
+    "tmdbId": 289,
+    "title": "Casablanca",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "rating": 8.1,
+    "points": 8,
+    "duration": "102 min",
+    "platform": "HBO Max",
+    "year": 1942,
+    "img": "https://image.tmdb.org/t/p/w500/a7EjycGNSYw6QqJqDooD9eQGZ4r.jpg",
+    "trailer": "https://www.youtube.com/embed/MF7JH_54d8c?autoplay=1",
+    "desc": "Durante la Segunda Guerra Mundial, Casablanca era una ciudad a la que llegaban huyendo del nazismo gentes de todas partes: llegar era fácil, pero salir era casi imposible, especialmente si el nombre del fugitivo figuraba en las listas de la Gestapo. En esta ocasión el principal objetivo de la policía secreta alemana es el líder checo y héroe de la resistencia Victor Laszlo, cuya única esperanza es Rick Blaine, propietario del 'Rick’s Café' y antiguo amante de su mujer, Ilsa. Cuando Ilsa se ofrece a quedarse a cambio de un visado para sacar a Laszlo del país, Rick deberá elegir entre su propia felicidad o el idealismo que rigió su vida en el pasado.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-872",
+    "tmdbId": 872,
+    "title": "Cantando bajo la lluvia",
+    "type": "Película",
+    "genres": [
+      "Comedia",
+      "Romance"
+    ],
+    "rating": 8.1,
+    "points": 7,
+    "duration": "103 min",
+    "platform": "HBO Max",
+    "year": 1952,
+    "img": "https://image.tmdb.org/t/p/w500/5r8jD5R6EzpQ5VLodbzTNhvKcGw.jpg",
+    "trailer": "https://www.youtube.com/embed/lSE8sl2-PZg?autoplay=1",
+    "desc": "Antes de conocer a la aspirante a actriz Cathy Seldon, el ídolo del cine mudo Don Lockwood pensaba que lo tenía todo; fama, fortuna y éxito. Pero, tras conocerla, se da cuenta de que ella es lo que realmente faltaba en su vida. Con el nacimiento del cine sonoro, Don quiere filmar los musicales con Kathy, pero entre ambos se interpone la reina del cine mudo Lina Lamont.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-693134",
+    "tmdbId": 693134,
+    "title": "Dune: Parte dos",
+    "type": "Película",
+    "genres": [
+      "Ciencia ficción",
+      "Aventura"
+    ],
+    "rating": 8.1,
+    "points": 26,
+    "duration": "167 min",
+    "platform": "HBO Max",
+    "year": 2024,
+    "img": "https://image.tmdb.org/t/p/w500/xCHmhHeO7aOCMlzcNukGH6Q7EiD.jpg",
+    "trailer": "https://www.youtube.com/embed/U2Qp5pL3ovA?autoplay=1",
+    "desc": "Sigue el viaje mítico de Paul Atreides mientras se une a Chani y los Fremen en una guerra de venganza contra los conspiradores que destruyeron a su familia. Al enfrentarse a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por evitar un futuro terrible que solo él puede prever.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-475557",
+    "tmdbId": 475557,
+    "title": "Joker",
+    "type": "Película",
+    "genres": [
+      "Crimen",
+      "Suspense",
+      "Drama"
+    ],
+    "rating": 8.1,
+    "points": 17,
+    "duration": "122 min",
+    "platform": "HBO Max",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/g9l7iLYusH82bbEbwGCJzhVkOe2.jpg",
+    "trailer": "https://www.youtube.com/embed/-RFFRxcoKfA?autoplay=1",
+    "desc": "Arthur Fleck es un hombre ignorado por la sociedad, cuya motivación en la vida es hacer reír. Pero una serie de trágicos acontecimientos le llevarán a ver el mundo de otra forma. Película basada en Joker, el popular personaje de DC Comics y archivillano de Batman, pero que en este film toma un cariz más realista y oscuro.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-103",
+    "tmdbId": 103,
+    "title": "Taxi Driver",
+    "type": "Película",
+    "genres": [
+      "Crimen",
+      "Drama"
+    ],
+    "rating": 8.1,
+    "points": 13,
+    "duration": "113 min",
+    "platform": "HBO Max",
+    "year": 1976,
+    "img": "https://image.tmdb.org/t/p/w500/mZMl0YVHJOrkCUSH9oDOEgDwbHT.jpg",
+    "trailer": "https://www.youtube.com/embed/zdqCqDSTVNI?autoplay=1",
+    "desc": "Para sobrellevar el insomnio crónico que sufre después de su regreso de Vietnam, Travis decide trabajar como taxista nocturno. Como individuo tiene poco contacto con la gente, pero observa la violencia y desolación en la que se hunde la ciudad de Nueva York. Travis anota en su diario todas sus impresiones, hasta que un día decide pasar a la acción.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-600",
+    "tmdbId": 600,
+    "title": "La chaqueta metálica",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Bélica"
+    ],
+    "rating": 8.1,
+    "points": 10,
+    "duration": "120 min",
+    "platform": "HBO Max",
+    "year": 1987,
+    "img": "https://image.tmdb.org/t/p/w500/6CX7BcyD8Xd5AQ7myNs0UE4mu6c.jpg",
+    "trailer": "https://www.youtube.com/embed/n2i917l5RFc?autoplay=1",
+    "desc": "Un grupo de reclutas se prepara en Parish Island, centro de entrenamiento de la marina Norteamericana. Allí está el sargento Hartmann, duro e implacable, cuya única misión en la vida es endurecer el cuerpo y el alma de los novatos, para que puedan defenderse del enemigo. Pero no todos los jóvenes soportan igual sus métodos...",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-1297842",
+    "tmdbId": 1297842,
+    "title": "GOAT: Como cabras",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
+    "rating": 8.1,
+    "points": 118,
+    "duration": "100 min",
+    "platform": "HBO Max",
+    "year": 2026,
+    "img": "https://image.tmdb.org/t/p/w500/l8Y8o3RpFg54gmQQ8GVaxVroFmY.jpg",
+    "trailer": "https://www.youtube.com/embed/kmY-rYS7yng?autoplay=1",
+    "desc": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse a los profesionales y jugar al rugebol, un deporte de alta intensidad, mixto y de contacto total dominado por los animales más rápidos y feroces del mundo. A los nuevos compañeros de equipo de Will no les entusiasma tener a una cabrita en su plantilla, pero Will está decidido a revolucionar el deporte y demostrar de una vez por todas que «¡los pequeños saben jugar!».",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-810693",
+    "tmdbId": 810693,
+    "title": "Jujutsu Kaisen 0",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Acción",
+      "Fantasía"
+    ],
+    "rating": 8.1,
+    "points": 15,
+    "duration": "105 min",
+    "platform": "HBO Max",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/2ndvx03fmREMxEgaZ1vWt756TOQ.jpg",
+    "trailer": "https://www.youtube.com/embed/2docezZl574?autoplay=1",
+    "desc": "Yuta Okkotsu es un nervioso estudiante de instituto que sufre un grave problema: su amiga de la infancia Rika se ha convertido en una maldición y no le deja en paz. Como Rika no es una maldición cualquiera, su situación es percibida por Satoru Gojo, un profesor del instituto Jujutsu, una escuela donde los exorcistas noveles aprenden a combatir las maldiciones. Gojo convence a Yuta para que se matricule, pero ¿podrá aprender lo suficiente a tiempo para enfrentarse a la Maldición que le persigue?",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-996",
+    "tmdbId": 996,
+    "title": "Perdición",
+    "type": "Película",
+    "genres": [
+      "Crimen",
+      "Suspense"
+    ],
+    "rating": 8.1,
+    "points": 3,
+    "duration": "107 min",
+    "platform": "HBO Max",
+    "year": 1944,
+    "img": "https://image.tmdb.org/t/p/w500/wiFsjxbmlyP7O8PMASPh18ftRez.jpg",
+    "trailer": "https://www.youtube.com/embed/9oxVkwB05rU?autoplay=1",
+    "desc": "MacMurray es un vendedor de seguros que, en connivencia con Barbara Stanwyck, elabora un plan para asesinar al marido de ella y quedarse con el dinero de su seguro. Obra cumbre del género, uno de los ejercicios de suspense más fascinantes de todos los tiempos.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-791373",
+    "tmdbId": 791373,
+    "title": "La liga de la justicia de Zack Snyder",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía"
+    ],
+    "rating": 8.1,
+    "points": 16,
+    "duration": "242 min",
+    "platform": "HBO Max",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/wcIJgChypo0s6ILm9Dkr13rV5q0.jpg",
+    "trailer": "https://www.youtube.com/embed/ui37YKQ9AC4?autoplay=1",
+    "desc": "Con la determinación de asegurar que el sacrificio definitivo de Superman no fue en vano, Bruce Wayne une fuerzas con Diana Prince para reclutar a un equipo de metahumanos que protejan el mundo de una amenaza inminente de proporciones catastróficas. La tarea es más difícil de lo que Bruce imaginaba, ya que cada uno de los reclutas deberá enfrentarse a sus propios demonios para trascender aquello que los detenía, para unirse y formar de manera definitiva una liga de héroes sin precedentes. Ahora unidos, Batman, Wonder Woman, Aquaman, Cyborg y Flash deberán salvar al planeta de la amenaza de Steppenwolf, DeSaad y Darkseid, antes de que sea demasiado tarde.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-12445",
+    "tmdbId": 12445,
+    "title": "Harry Potter y las Reliquias de la Muerte - Parte 2",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Fantasía"
+    ],
+    "rating": 8.1,
+    "points": 21,
+    "duration": "130 min",
+    "platform": "HBO Max",
+    "year": 2011,
+    "img": "https://image.tmdb.org/t/p/w500/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg",
+    "trailer": "https://www.youtube.com/embed/5NYt1qirBWg?autoplay=1",
+    "desc": "La segunda parte de la batalla final entre las fuerzas del bien y el mal. El juego nunca ha sido tan peligroso y nadie está a salvo. Se acerca el momento de la confrontación final entre Harry Potter y Lord Voldemort. Todo termina aquí…",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-1091",
+    "tmdbId": 1091,
+    "title": "La cosa (El enigma de otro mundo)",
+    "type": "Película",
+    "genres": [
+      "Terror",
+      "Misterio",
+      "Ciencia ficción"
+    ],
+    "rating": 8.1,
+    "points": 13,
+    "duration": "109 min",
+    "platform": "HBO Max",
+    "year": 1982,
+    "img": "https://image.tmdb.org/t/p/w500/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg",
+    "trailer": "https://www.youtube.com/embed/l8A_DMMJC_Q?autoplay=1",
+    "desc": "En una estación experimental de la Antártida, un equipo de investigadores descubre a un ente extraño venido del espacio, que según todos los indicios ha permanecido enterrado en la nieve durante más de 100.000 años. Al descongelarse, experimenta una metamorfosis sorprendente...",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-4348",
+    "tmdbId": 4348,
+    "title": "Orgullo y prejuicio",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "rating": 8.1,
+    "points": 15,
+    "duration": "127 min",
+    "platform": "HBO Max",
+    "year": 2005,
+    "img": "https://image.tmdb.org/t/p/w500/oixzLjpyaLagLa8UREts1NiHr6F.jpg",
+    "trailer": "https://www.youtube.com/embed/tbW-pmLT5UU?autoplay=1",
+    "desc": "Las cinco hermanas Bennet han sido criadas por una madre obsesionada por encontrarles marido. Pero una de ellas, Lizzie, inteligente y con carácter, desea una vida con perspectivas más abiertas, un anhelo respaldado por su padre. Cuando el señor Bingley, un soltero rico, y su círculo de sofisticados amigos se instalan en una mansión vecina para pasar el verano, las Bennett se entusiasman con la posibilidad de encontrar pretendientes. En el baile de bienvenida, Lizzie conoce al apuesto y elegante señor Darcy, pero, a primera vista, le parece demasiado orgulloso y arrogante.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-62",
+    "tmdbId": 62,
+    "title": "2001: Una odisea del espacio",
+    "type": "Película",
+    "genres": [
+      "Ciencia ficción",
+      "Misterio",
+      "Aventura"
+    ],
+    "rating": 8,
+    "points": 15,
+    "duration": "149 min",
+    "platform": "HBO Max",
+    "year": 1968,
+    "img": "https://image.tmdb.org/t/p/w500/sln50uQYigvu5AvN72JfYfu1ckq.jpg",
+    "trailer": "https://www.youtube.com/embed/kR2r-A9H3Kg?autoplay=1",
+    "desc": "Mientras investigan la aparición de misteriosos monolitos en el universo, dos astronautas luchan contra la inteligencia artificial de su nave.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-43949",
+    "tmdbId": 43949,
+    "title": "Flipped",
+    "type": "Película",
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "rating": 8,
+    "points": 14,
+    "duration": "90 min",
+    "platform": "HBO Max",
+    "year": 2010,
+    "img": "https://image.tmdb.org/t/p/w500/ynxs5b9sAo8Lztha796x7PfuhAK.jpg",
+    "trailer": "https://www.youtube.com/embed/aXeJ8NM7c9g?autoplay=1",
+    "desc": "Corre el año 1957. Juli y Bryce, dos niños de siete años aparentemente muy distintos, son vecinos y compañeros de clase. Juli se enamora de Bryce, pero él no siente lo mismo y durante seis años tratará de evitarla. Cuando, en 1963, siendo ya adolescentes, van a la escuela secundaria, las cosas cambian: Bryce empieza a mirar a Juli con otros ojos.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-673",
+    "tmdbId": 673,
+    "title": "Harry Potter y el prisionero de Azkaban",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Fantasía"
+    ],
+    "rating": 8,
+    "points": 25,
+    "duration": "141 min",
+    "platform": "HBO Max",
+    "year": 2004,
+    "img": "https://image.tmdb.org/t/p/w500/wF9aoo4YZmpKP4bZPSy4Zwwek6G.jpg",
+    "trailer": "https://www.youtube.com/embed/VwErvYgoH70?autoplay=1",
+    "desc": "Harry está deseando que termine el verano para comenzar un nuevo curso en Hogwarts, y abandonar lo antes posible la casa de sus despreciables tíos, los Dursley. Lo que desconoce Harry es que va a tener que abandonar Privet Drive antes de tiempo e inesperadamente después de convertir a su tía Marge en un globo gigante. Un autobús noctámbulo, y encantado por supuesto, le llevará a la taberna El Caldero Chorreante, donde le espera nada menos que Cornelius Fudge, el Ministro de Magia.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-347688",
+    "tmdbId": 347688,
+    "title": "¡Scooby Doo! conoce a Kiss: Misterio a ritmo de Rock and Roll",
+    "type": "Película",
+    "genres": [
+      "Familia",
+      "Animación",
+      "Comedia",
+      "Misterio"
+    ],
+    "rating": 8,
+    "points": 2,
+    "duration": "79 min",
+    "platform": "HBO Max",
+    "year": 2015,
+    "img": "https://image.tmdb.org/t/p/w500/d2VonLicr2CVkXYMpy0Lm2F3czM.jpg",
+    "trailer": "https://www.youtube.com/embed/A35YBHx0ots?autoplay=1",
+    "desc": "Los miembros de Kiss, Gene Simmons, Paul Stanley, Eric Singer y Tommy Thayer interpretan a sus propios personajes en la película, que se centra en un concierto de Halloween en el parque de atracciones del grupo, KISS World. Scooby, Shaggy y el resto de Misterios S.A., acuden para escuchar algunas de sus canciones, pero acaban asociándose con los músicos para enfrentarse a la Bruja Carmesí, una dama fantasmagórica con un plan nefasto para invocar al malvado y poderoso Destructor proveniente de la dimensión alternativa de Kissteria.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-264644",
+    "tmdbId": 264644,
+    "title": "La habitación",
+    "type": "Película",
+    "genres": [
+      "Drama",
+      "Suspense"
+    ],
+    "rating": 8,
+    "points": 5,
+    "duration": "118 min",
+    "platform": "HBO Max",
+    "year": 2015,
+    "img": "https://image.tmdb.org/t/p/w500/57aCjpdhzg9RnVMI1410jlpRTWr.jpg",
+    "trailer": "https://www.youtube.com/embed/yfBdUPAjiVQ?autoplay=1",
+    "desc": "Para Jack, un niño de cinco años, la habitación es el mundo entero, el lugar donde nació, donde come, juega y aprende con su madre. Por la noche, mamá lo pone a dormir en el armario, por si viene el viejo Nick. La habitación es el hogar de Jack, mientras que para su madre es el cubículo donde lleva siete años encerrada, secuestrada desde los diecinueve años. Con gran tesón e ingenio, la joven ha creado en ese reducido espacio una vida para su hijo, y su amor por él es lo único que le permite soportar lo insoportable. Sin embargo, la curiosidad de Jack va en aumento, a la par que la desesperación de su madre, que sabe que la habitación no podrá contener ambas cosas por mucho más tiempo.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-13223",
+    "tmdbId": 13223,
+    "title": "Gran Torino",
+    "type": "Película",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 8,
+    "points": 6,
+    "duration": "112 min",
+    "platform": "HBO Max",
+    "year": 2008,
+    "img": "https://image.tmdb.org/t/p/w500/7w54KRHdRokgXqxL59GKVau8e6l.jpg",
+    "trailer": "https://www.youtube.com/embed/F8zue_BzNsw?autoplay=1",
+    "desc": "Walt Kowalski, un veterano de la guerra de Corea, es un obrero jubilado del sector del automóvil. Su máxima pasión es cuidar de su más preciado tesoro: un coche Gran Torino de 1972. Es un hombre inflexible y con una voluntad de hierro, al que le cuesta trabajo asimilar los cambios que se producen a su alrededor. Sin embargo, las circustancias harán que se vea obligado a replantearse sus ideas.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-329",
+    "tmdbId": 329,
+    "title": "Jurassic Park (Parque Jurásico)",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "rating": 8,
+    "points": 8,
+    "duration": "120 min",
+    "platform": "HBO Max",
+    "year": 1993,
+    "img": "https://image.tmdb.org/t/p/w500/h831eszSFmEyr94WKcgscqPIRbh.jpg",
+    "trailer": "https://www.youtube.com/embed/bx46tthKXmc?autoplay=1",
+    "desc": "El multimillonario John Hammond tiene una idea para un espectacular parque temático: una isla retirada donde los visitantes puedan observar dinosaurios reales. Con la última tecnología en el desarrollo de ADN, los científicos pueden clonar braquiosaurios, triceratops, velociraptors y un tiranosaurio rex, utilizando para ello la sangre fosilizada en ámbar contenida en insectos que los mordieron hace millones de años. Los paleontólogos Alan Grant, Ellie Sattler y Ian Malcolm visitan el parque y quedan muy sorprendidos con los resultados obtenidos. Pero cuando un problemático empleado manipula el sofisticado sistema de seguridad los dinosaurios escapan, obligando a los visitantes a luchar por su supervivencia.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-679",
+    "tmdbId": 679,
+    "title": "Aliens: El regreso",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Suspense",
+      "Ciencia ficción"
+    ],
+    "rating": 8,
+    "points": 13,
+    "duration": "150 min",
+    "platform": "HBO Max",
+    "year": 1986,
+    "img": "https://image.tmdb.org/t/p/w500/3QU9EP8BFLnTh6w9ycDSCvhqbRU.jpg",
+    "trailer": "https://www.youtube.com/embed/8OxirbuHsBA?autoplay=1",
+    "desc": "Alien es un organismo perfecto, una máquina de matar cuya superioridad física sólo puede competir con su agresividad. La oficial Ripley y la tripulación de la nave «Nostromo» se habían enfrentado, en el pasado, a esa monstruosa criatura. Y sólo Ripley sobrevivió a la masacre. Después de vagar por el espacio durante varios años, Ripley fue rescatada. Durante ese tiempo, el planeta de Alien ha sido colonizado. Pero, de repente, se pierde la comunicación con la colonia y, para investigar los motivos, se envía una expedición de marines espaciales, capitaneados por Ripley. Allí les esperan miles de espeluznantes criaturas. Alien se ha reproducido y esta vez la lucha es por la supervivencia de la Humanidad.",
+    "categoria": "hbo-max"
+  },
+  {
+    "id": "tmdb-180147",
+    "tmdbId": 180147,
+    "title": "Nosotros los nobles",
+    "type": "Película",
+    "genres": [
+      "Comedia"
+    ],
+    "rating": 8,
+    "points": 2,
+    "duration": "108 min",
+    "platform": "HBO Max",
+    "year": 2013,
+    "img": "https://image.tmdb.org/t/p/w500/mBI1WTduABARAPzOhi8k0Sh2F6b.jpg",
+    "trailer": "https://www.youtube.com/embed/ynA5nXZyZxU?autoplay=1",
+    "desc": "Germán Noble es un manipulador y poderoso empresario quien decide fingir la bancarrota para darles una lección a sus tres frívolos e inútiles hijos.",
+    "categoria": "hbo-max"
+  }
+]

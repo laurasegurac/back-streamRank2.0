@@ -1,0 +1,1722 @@
+[
+  {
+    "id": "tmdb-1439930",
+    "tmdbId": 1439930,
+    "title": "The Punisher: One Last Kill",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Drama",
+      "Crimen"
+    ],
+    "rating": 8.5,
+    "points": 499,
+    "duration": "51 min",
+    "platform": "Disney+",
+    "year": 2026,
+    "img": "https://image.tmdb.org/t/p/w500/p1eqHRxfIxfgtDgfjWcpEESeEvF.jpg",
+    "trailer": "https://www.youtube.com/embed/oSeqs_xeqv4?autoplay=1",
+    "desc": "Mientras Frank Castle busca propósito más allá de la venganza, una fuerza inesperada lo arrastra de nuevo a la lucha.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-299534",
+    "tmdbId": 299534,
+    "title": "Vengadores: Endgame",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Ciencia ficción",
+      "Acción"
+    ],
+    "rating": 8.2,
+    "points": 34,
+    "duration": "181 min",
+    "platform": "Disney+",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+    "trailer": "https://www.youtube.com/embed/AMSITikqKiM?autoplay=1",
+    "desc": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-299536",
+    "tmdbId": 299536,
+    "title": "Vengadores: Infinity War",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Acción",
+      "Ciencia ficción"
+    ],
+    "rating": 8.2,
+    "points": 46,
+    "duration": "149 min",
+    "platform": "Disney+",
+    "year": 2018,
+    "img": "https://image.tmdb.org/t/p/w500/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg",
+    "trailer": "https://www.youtube.com/embed/QwievZ1Tx-8?autoplay=1",
+    "desc": "El todopoderoso Thanos ha despertado con la promesa de arrasar con todo a su paso, portando el Guantelete del Infinito, que le confiere un poder incalculable. Los únicos capaces de pararle los pies son los Vengadores y el resto de superhéroes de la galaxia, que deberán estar dispuestos a sacrificarlo todo por un bien mayor. Capitán América e Ironman deberán limar sus diferencias, Black Panther apoyará con sus tropas desde Wakanda, Thor y los Guardianes de la Galaxia e incluso Spider-Man se unirán antes de que los planes de devastación y ruina pongan fin al universo. ¿Serán capaces de frenar el avance del titán del caos?",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-85271",
+    "tmdbId": 85271,
+    "title": "Bruja Escarlata y Visión",
+    "type": "Serie",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Misterio",
+      "Drama"
+    ],
+    "rating": 8.2,
+    "points": 20,
+    "duration": "1 Temporada",
+    "platform": "Disney+",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/j2VeSZ7tncd2p8z1CeMnxbxK76b.jpg",
+    "trailer": "https://www.youtube.com/embed/UBhlqe2OTt4?autoplay=1",
+    "desc": "Combinando el estilo clásico de las sitcoms con el MCU (Universo Cinematográfico de Marvel), cuenta la historia Wanda Maximoff y Vision, dos seres con superpoderes que viven una vida idílica en las afueras de una ciudad hasta que un día comienzan a sospechar que no todo es lo que parece.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-84958",
+    "tmdbId": 84958,
+    "title": "Loki",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.2,
+    "points": 30,
+    "duration": "2 Temporadas",
+    "platform": "Disney+",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg",
+    "trailer": "https://www.youtube.com/embed/nW948Va-l10?autoplay=1",
+    "desc": "Loki es llevado ante la misteriosa organización llamada AVT (Autoridad de Variación Temporal) después de los acontecimientos  ocurridos en  \"Avengers: Endgame (2019)\" y  se le da a elegir  enfrentarse a ser borrado de la existencia debido a que es una \"variante de tiempo\" o ayudar a arreglar la línea de tiempo y detener una amenaza mayor.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-61889",
+    "tmdbId": 61889,
+    "title": "Marvel - Daredevil",
+    "type": "Serie",
+    "genres": [
+      "Crimen",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "rating": 8.2,
+    "points": 51,
+    "duration": "3 Temporadas",
+    "platform": "Disney+",
+    "year": 2015,
+    "img": "https://image.tmdb.org/t/p/w500/zdjmPOMNlDpmqXLgNaGBT7jAiFj.jpg",
+    "trailer": "https://www.youtube.com/embed/jAy6NJ_D5vU?autoplay=1",
+    "desc": "'Daredevil' es una serie cargada de acción que sigue las aventuras de Matt Murdock -abogado de día y superhéroe de noche- en el barrio de la ciudad de Nueva York conocido como Hell’s Kitchen. Matt quedó ciego tras un accidente de niño, pero ahora tiene los otros cuatro sentidos incrementados y se dedica a luchar contra la injusticia como el superhéroe Daredevil.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-202555",
+    "tmdbId": 202555,
+    "title": "Daredevil: Born Again",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "Action & Adventure",
+      "Crimen"
+    ],
+    "rating": 8.2,
+    "points": 72,
+    "duration": "2 Temporadas",
+    "platform": "Disney+",
+    "year": 2025,
+    "img": "https://image.tmdb.org/t/p/w500/zNH50kOA5Zm5QSFqeIu3hJGuNdO.jpg",
+    "trailer": "https://www.youtube.com/embed/7xALolZzhSM?autoplay=1",
+    "desc": "Matt Murdock, un abogado ciego con habilidades super desarrolladas lucha por la justicia desde su ajetreado bufete mientras el antiguo jefe mafioso Wilson Fisk emprende una carrera política en Nueva York. Cuando sus identidades pasadas empiezan a salir a la luz, ambos se ven abocados a un enfrentamiento inevitable.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-67178",
+    "tmdbId": 67178,
+    "title": "Marvel - The Punisher",
+    "type": "Serie",
+    "genres": [
+      "Action & Adventure",
+      "Crimen",
+      "Drama"
+    ],
+    "rating": 8.1,
+    "points": 89,
+    "duration": "2 Temporadas",
+    "platform": "Disney+",
+    "year": 2017,
+    "img": "https://image.tmdb.org/t/p/w500/8OdIbo68mFE4w6jXA20aL8ocPsE.jpg",
+    "trailer": "https://www.youtube.com/embed/s4QV6OZdmWY?autoplay=1",
+    "desc": "Un antiguo marine decidido a castigar a los asesinos de su familia termina atrapado en una conspiración militar.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-91363",
+    "tmdbId": 91363,
+    "title": "¿Qué pasaría si...?",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 8.1,
+    "points": 29,
+    "duration": "3 Temporadas",
+    "platform": "Disney+",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/ebKQ0Lb84EF897UBk3d1KzMO33V.jpg",
+    "trailer": "https://www.youtube.com/embed/x9D0uUKJ5KI?autoplay=1",
+    "desc": "Inspirándose en los cómics del mismo nombre, cada episodio explora un momento crucial del Universo Cinematográfico Marvel.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-24428",
+    "tmdbId": 24428,
+    "title": "Los Vengadores",
+    "type": "Película",
+    "genres": [
+      "Ciencia ficción",
+      "Acción",
+      "Aventura"
+    ],
+    "rating": 8,
+    "points": 56,
+    "duration": "142 min",
+    "platform": "Disney+",
+    "year": 2012,
+    "img": "https://image.tmdb.org/t/p/w500/ugX4WZJO3jEvTOerctAWJLinujo.jpg",
+    "trailer": "https://www.youtube.com/embed/hIR8Ar-Z4hw?autoplay=1",
+    "desc": "Cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial, Nick Fury, director de la Agencia SHIELD, decide reclutar a un equipo para salvar al mundo de un desastre casi seguro.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-634649",
+    "tmdbId": 634649,
+    "title": "Spider-Man: No Way Home",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "rating": 7.9,
+    "points": 37,
+    "duration": "148 min",
+    "platform": "MovistarTV",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/miZFgV81xG324rpUknQX8dtXuBl.jpg",
+    "trailer": "https://www.youtube.com/embed/1mTjfMFyPi8?autoplay=1",
+    "desc": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser Spider-Man.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-447365",
+    "tmdbId": 447365,
+    "title": "Guardianes de la Galaxia: Volumen 3",
+    "type": "Película",
+    "genres": [
+      "Ciencia ficción",
+      "Aventura",
+      "Acción"
+    ],
+    "rating": 7.9,
+    "points": 17,
+    "duration": "153 min",
+    "platform": "Disney+",
+    "year": 2023,
+    "img": "https://image.tmdb.org/t/p/w500/6GkKzdNosVAL7UGgwTtCHSxLQ67.jpg",
+    "trailer": "https://www.youtube.com/embed/AAE5VZktooM?autoplay=1",
+    "desc": "La querida banda de los Guardianes se instala en Knowhere. Pero sus vidas no tardan en verse alteradas por los ecos del turbulento pasado de Rocket. Peter Quill, aún conmocionado por la pérdida de Gamora, debe reunir a su equipo en una peligrosa misión para salvar la vida de Rocket, una misión que, si no se completa con éxito, podría muy posiblemente conducir al final de los Guardianes tal y como los conocemos.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-118340",
+    "tmdbId": 118340,
+    "title": "Guardianes de la galaxia",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Aventura"
+    ],
+    "rating": 7.9,
+    "points": 9,
+    "duration": "120 min",
+    "platform": "Disney+",
+    "year": 2014,
+    "img": "https://image.tmdb.org/t/p/w500/zqZNnuMtrmK99Xux91KiCdnZxgb.jpg",
+    "trailer": "https://www.youtube.com/embed/3CqymRQ1uUU?autoplay=1",
+    "desc": "El temerario aventurero Peter Quill es objeto de un implacable cazarrecompensas después de robar una misteriosa esfera codiciada por Ronan, un poderoso villano cuya ambición amenaza todo el universo. Para poder escapar del incansable Ronan, Quill se ve obligado a pactar una complicada tregua con un cuarteto de disparatados inadaptados: Rocket, un mapache armado con un rifle, Groot, un humanoide con forma de árbol, la letal y enigmática Gamora y el vengativo Drax the Destroyer. Pero cuando Quill descubre el verdadero poder de la esfera, deberá hacer todo lo posible para derrotar a sus extravagantes rivales en un intento desesperado de salvar el destino de la galaxia.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-88329",
+    "tmdbId": 88329,
+    "title": "Ojo de Halcón",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "Comedia",
+      "Action & Adventure"
+    ],
+    "rating": 7.8,
+    "points": 23,
+    "duration": "1 Temporada",
+    "platform": "Disney+",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/3ZcJetFxd8fwJ1I5xsLHCMTAKQo.jpg",
+    "trailer": "https://www.youtube.com/embed/5VYb3B1ETlk?autoplay=1",
+    "desc": "Después del Lapso en Nueva York, el exvengador Clint Burton (alias Ojo de Halcón) debe cumplir una misión aparentemente sencilla: volver con su familia por Navidad. Pero una amenaza del pasado le obligará a aliarse a regañadientes con Kate Bishop, una hábil arquera de 22 años (y su mayor admiradora), para destapar una conspiración criminal.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-1726",
+    "tmdbId": 1726,
+    "title": "Iron Man",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Aventura"
+    ],
+    "rating": 7.7,
+    "points": 25,
+    "duration": "126 min",
+    "platform": "Disney+",
+    "year": 2008,
+    "img": "https://image.tmdb.org/t/p/w500/tFCTNx7foAsUQpgu2x1KjAJD1wT.jpg",
+    "trailer": "https://www.youtube.com/embed/8ugaeA-nMTc?autoplay=1",
+    "desc": "El multimillonario fabricante de armas Tony Stark debe enfrentarse a su turbio pasado después de sufrir un accidente con una de sus armas. Equipado con una armadura de última generación tecnológica, se convierte en 'El hombre de hierro' para combatir el mal a escala global.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-100402",
+    "tmdbId": 100402,
+    "title": "Capitán América: El soldado de invierno",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "rating": 7.7,
+    "points": 9,
+    "duration": "136 min",
+    "platform": "Disney+",
+    "year": 2014,
+    "img": "https://image.tmdb.org/t/p/w500/3Zv12uAqBxj4xAdeHeVySEQzY1o.jpg",
+    "trailer": "https://www.youtube.com/embed/7SlILk2WMTI?autoplay=1",
+    "desc": "Capitán América, Viuda Negra y un nuevo aliado, Falcon, se enfrentan a un enemigo inesperado mientras intentan sacar a la luz una conspiración que pone en riesgo al mundo.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-283995",
+    "tmdbId": 283995,
+    "title": "Guardianes de la Galaxia Vol. 2",
+    "type": "Película",
+    "genres": [
+      "Ciencia ficción",
+      "Aventura",
+      "Acción"
+    ],
+    "rating": 7.6,
+    "points": 15,
+    "duration": "135 min",
+    "platform": "Disney+",
+    "year": 2017,
+    "img": "https://image.tmdb.org/t/p/w500/kdg6Y06jfq9FV7qknWNcKLYtBJn.jpg",
+    "trailer": "https://www.youtube.com/embed/wUn05hdkhjM?autoplay=1",
+    "desc": "Continúan las aventuras del equipo en su travesía por los confines del cosmos. Los Guardianes deberán luchar para mantener unida a su nueva familia mientras intentan resolver el misterio de los verdaderos orígenes de Peter Quill. Viejos rivales se convertirán en nuevos aliados, y queridos personajes de los cómics clásicos acudirán en ayuda de nuestros héroes a medida que el universo cinematográfico de Marvel continúa expandiéndose.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-284053",
+    "tmdbId": 284053,
+    "title": "Thor: Ragnarok",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Comedia"
+    ],
+    "rating": 7.6,
+    "points": 18,
+    "duration": "131 min",
+    "platform": "Disney+",
+    "year": 2017,
+    "img": "https://image.tmdb.org/t/p/w500/pGtkLdk4rnF2A3Yz2BHiTgRwMU4.jpg",
+    "trailer": "https://www.youtube.com/embed/ue80QwXMRHg?autoplay=1",
+    "desc": "Thor está preso al otro lado del universo sin su poderoso martillo y se enfrenta a una carrera contra el tiempo. Su objetivo es volver a Asgard y parar el Ragnarok porque significaría la destrucción de su planeta natal y el fin de la civilización Asgardiana a manos de una todopoderosa y nueva amenaza, la implacable Hela. Pero, primero deberá sobrevivir a una competición letal de gladiadores que lo enfrentará a su aliado y compañero en los Vengadores, ¡el Increíble Hulk!",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-533535",
+    "tmdbId": 533535,
+    "title": "Deadpool y Lobezno",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Ciencia ficción"
+    ],
+    "rating": 7.6,
+    "points": 33,
+    "duration": "127 min",
+    "platform": "Disney+",
+    "year": 2024,
+    "img": "https://image.tmdb.org/t/p/w500/9TFSqghEHrlBMRR63yTx80Orxva.jpg",
+    "trailer": "https://www.youtube.com/embed/Idh8n5XuYIA?autoplay=1",
+    "desc": "Un apático Wade Wilson se afana en la vida civil tras dejar atrás sus días como Deadpool, un mercenario moralmente flexible. Pero cuando su mundo natal se enfrenta a una amenaza existencial, Wade debe volver a vestirse a regañadientes con un Lobezno aún más reacio a ayudar.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-92749",
+    "tmdbId": 92749,
+    "title": "Caballero Luna",
+    "type": "Serie",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Misterio",
+      "Action & Adventure"
+    ],
+    "rating": 7.6,
+    "points": 19,
+    "duration": "1 Temporada",
+    "platform": "Disney+",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/5AHnvXfW0mtsm047OP54n4pnV0R.jpg",
+    "trailer": "https://www.youtube.com/embed/x7Krla_UxRg?autoplay=1",
+    "desc": "Steven Grant, un amable empleado de una tienda de regalos, sufre pérdidas de memoria y experimenta recuerdos de otra vida. Steven descubre que tiene un trastorno de identidad disociativo y que comparte cuerpo con el mercenario Marc Spector. A medida que los enemigos de Steven/Marc van convergiendo, debe lidiar con la complejidad de sus identidades mientras se sumerge en un misterio letal que habita entre los poderosos dioses de Egipto.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-88396",
+    "tmdbId": 88396,
+    "title": "Falcon y el Soldado de Invierno",
+    "type": "Serie",
+    "genres": [
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 7.6,
+    "points": 12,
+    "duration": "1 Temporada",
+    "platform": "Disney+",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/kW3vNNeeIDkZ2xoRyWmNkeOK6f1.jpg",
+    "trailer": "https://www.youtube.com/embed/ojGHE581lsM?autoplay=1",
+    "desc": "Siguiendo los eventos de 'Vengadores: Endgame', Sam Wilson/Falcon y Bucky Barnes/Soldado de Invierno se unen en una aventura global que pondrá a prueba sus habilidades... y su paciencia",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-566525",
+    "tmdbId": 566525,
+    "title": "Shang-Chi y la leyenda de los Diez Anillos",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía"
+    ],
+    "rating": 7.5,
+    "points": 16,
+    "duration": "132 min",
+    "platform": "Disney+",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/9VqajJXm29uprSaxOcEh7O0d6E9.jpg",
+    "trailer": "https://www.youtube.com/embed/8YjFbMbfXaQ?autoplay=1",
+    "desc": "Adaptación cinematográfica del héroe creado por Steve Englehart y Jim Starlin en 1973, un personaje mitad chino, mitad americano, cuyo característico estilo de combate mezclaba kung-fu, nunchacos y armas de fuego.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-61550",
+    "tmdbId": 61550,
+    "title": "Agente Carter",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 7.5,
+    "points": 13,
+    "duration": "2 Temporadas",
+    "platform": "Disney+",
+    "year": 2015,
+    "img": "https://image.tmdb.org/t/p/w500/scZsg0rfAyH8ADphzrdhgo5jAXd.jpg",
+    "trailer": "https://www.youtube.com/embed/V13W9gQ_1GA?autoplay=1",
+    "desc": "1946. La paz ha significado un revés para la agente Carter al verse marginada cuando los hombres vuelven del extranjero. Trabajando como agente secreta en la R.C.E., Peggy se ve haciendo trabajo administrativo cuando preferiría pasar a la acción y luchar contra los malos. Al mismo tiempo, busca la manera de apañárselas como mujer soltera tras haber perdido al amor de su vida, Steve Rogers. Cuando un viejo amigo, Howard Stark, es acusado injustamente de vender sus armas más letales, se pone en contacto con Peggy para encontrar a los responsables y limpiar su nombre.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-38472",
+    "tmdbId": 38472,
+    "title": "Marvel - Jessica Jones",
+    "type": "Serie",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "rating": 7.5,
+    "points": 20,
+    "duration": "3 Temporadas",
+    "platform": "Disney+",
+    "year": 2015,
+    "img": "https://image.tmdb.org/t/p/w500/b3EVT7sSX8Y8L3OekYWyKLRS1Jt.jpg",
+    "trailer": "https://www.youtube.com/embed/nWHUjuJ8zxE?autoplay=1",
+    "desc": "Jessica Jones, es una serie de televisión estadounidense creada por Netflix y basada en el personaje del mismo nombre de los cómics de Marvel. Una mujer con superpoderes decide renegar de ellos e iniciar una vida nueva ejerciendo como detective privada.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-1403",
+    "tmdbId": 1403,
+    "title": "Marvel Agentes de S.H.I.E.L.D.",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "rating": 7.5,
+    "points": 53,
+    "duration": "7 Temporadas",
+    "platform": "Disney+",
+    "year": 2013,
+    "img": "https://image.tmdb.org/t/p/w500/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg",
+    "trailer": "https://www.youtube.com/embed/T3T-evQZiQo?autoplay=1",
+    "desc": "El agente Phil Coulson, de la película \"Los vengadores\", regresa para liderar a un pequeño grupo de agentes altamente capacitados en el campo.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-138501",
+    "tmdbId": 138501,
+    "title": "Agatha, ¿quién si no?",
+    "type": "Serie",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Misterio"
+    ],
+    "rating": 7.5,
+    "points": 10,
+    "duration": "1 Temporada",
+    "platform": "Disney+",
+    "year": 2024,
+    "img": "https://image.tmdb.org/t/p/w500/nbkbguUUNWQZygVJKjODyELBQk9.jpg",
+    "trailer": "https://www.youtube.com/embed/R9pXbNz6Vbw?autoplay=1",
+    "desc": "Agatha Harkness reúne un aquelarre de brujas y parte hacia la Senda de las Brujas.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-271110",
+    "tmdbId": 271110,
+    "title": "Capitán América: Civil War",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Acción",
+      "Ciencia ficción"
+    ],
+    "rating": 7.4,
+    "points": 18,
+    "duration": "147 min",
+    "platform": "Disney+",
+    "year": 2016,
+    "img": "https://image.tmdb.org/t/p/w500/jPPy7tCfglppQo6J9nGwU6UmJ8X.jpg",
+    "trailer": "https://www.youtube.com/embed/dKrVegVI0Us?autoplay=1",
+    "desc": "Continúa la historia de “Avengers: Age of Ultron”, con Steve Rogers liderando un nuevo equipo de Vengadores en su esfuerzo por proteger a la humanidad. Tras otro incidente internacional relacionado con los Vengadores que ocasiona daños colaterales, la presión política fuerza a crear un sistema de registro y un cuerpo gubernamental para determinar cuándo se requiere los servicios del equipo. El nuevo status quo divide a los Vengadores mientras intentan salvar al mundo de un nuevo y perverso villano.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-284052",
+    "tmdbId": 284052,
+    "title": "Doctor Strange",
+    "type": "Película",
+    "genres": [
+      "Fantasía",
+      "Aventura",
+      "Acción"
+    ],
+    "rating": 7.4,
+    "points": 14,
+    "duration": "115 min",
+    "platform": "Disney+",
+    "year": 2016,
+    "img": "https://image.tmdb.org/t/p/w500/wJEZI3PWyMW7qcW6n9jyCh7Cclf.jpg",
+    "trailer": "https://www.youtube.com/embed/h7gvFravm4A?autoplay=1",
+    "desc": "La vida del famoso neurocirujano Stephen Strange cambia radicalmente cuando un accidente le impide el uso de sus manos y se ve forzado a buscar una cura en un misterioso enclave. Inmediatamente aprende que no solo es un sanatorio... es también el frente de batalla contra oscuras fuerzas, y debe elegir entre volver a su antigua vida o defender al mundo como el más poderoso hechicero del momento. Algunas secuencias o formas con luces parpadeantes pueden afectar a los espectadores fotosensibles.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-429617",
+    "tmdbId": 429617,
+    "title": "Spider-Man: Lejos de casa",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "rating": 7.4,
+    "points": 26,
+    "duration": "129 min",
+    "platform": "Netflix",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/o59zDVJDIehGcWZsMUGU5SN0V0D.jpg",
+    "trailer": "https://www.youtube.com/embed/LFoz8ZJWmPs?autoplay=1",
+    "desc": "Peter Parker decide irse junto a MJ, Ned y el resto de sus amigos a pasar unas vacaciones a Europa. Sin embargo, el plan de Parker por dejar de lado sus superpoderes durante unas semanas se ven truncados cuando Nick Fury contacta con él para solicitarle ayuda para frenar el ataque de unas criaturas elementales que están causando el caos en el continente. En ese momento, Parker vuelve a ponerse el traje de Spider-Man para cumplir con su labor.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-284054",
+    "tmdbId": 284054,
+    "title": "Black Panther",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "rating": 7.4,
+    "points": 18,
+    "duration": "134 min",
+    "platform": "Disney+",
+    "year": 2018,
+    "img": "https://image.tmdb.org/t/p/w500/lAPzezdc5E6DFnttJwCWXZ9A9C6.jpg",
+    "trailer": "https://www.youtube.com/embed/xjDjIWPwcPU?autoplay=1",
+    "desc": "Después de los acontecimientos de \"Capitán América: Civil War\", T'Challa vuelve a casa, la nación aislada y muy avanzada tecnológicamente de Wakanda, para ser proclamado Rey. Pero la reaparición de un viejo enemigo pone a prueba el temple de T'Challa como Rey y Black Panther ya que se ve arrastrado a un conflicto que pone en peligro todo el destino de Wakanda y del mundo.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-114695",
+    "tmdbId": 114695,
+    "title": "LEYENDAS de Marvel Studios",
+    "type": "Serie",
+    "genres": [
+      "Documental",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 7.4,
+    "points": 18,
+    "duration": "2 Temporadas",
+    "platform": "Disney+",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/apFUonh1wVE3LWxbAjJC2zJqZOC.jpg",
+    "trailer": "",
+    "desc": "Vuelve a visitar a los héroes, villanos y momentos épicos de todo el MCU en preparación para las historias que aún están por venir. Cada segmento dinámico se alimenta directamente de la próxima serie, lo que prepara el escenario para eventos futuros. Esta serie entrelaza los muchos hilos que constituyen el incomparable Universo Cinematográfico de Marvel.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-315635",
+    "tmdbId": 315635,
+    "title": "Spider-Man: Homecoming",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "rating": 7.3,
+    "points": 31,
+    "duration": "133 min",
+    "platform": "HBO Max",
+    "year": 2017,
+    "img": "https://image.tmdb.org/t/p/w500/yJfPC6pjSJ5VOsVyXhx5PXBe0mR.jpg",
+    "trailer": "https://www.youtube.com/embed/xEvV3OsE2WM?autoplay=1",
+    "desc": "Peter Parker comienza a experimentar su recién descubierta identidad como el superhéroe Spider-Man. Después de la experiencia vivida con los Vengadores, Peter regresa a casa, donde vive con su tía. Bajo la atenta mirada de su mentor Tony Stark, Peter intenta mantener una vida normal como cualquier joven de su edad, pero interrumpe en su rutina diaria el nuevo villano Vulture y, con él, lo más importante de la vida de Peter comenzará a verse amenazado.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-1010819",
+    "tmdbId": 1010819,
+    "title": "El chiquitín",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Comedia",
+      "Ciencia ficción"
+    ],
+    "rating": 7.3,
+    "points": 1,
+    "duration": "6 min",
+    "platform": "",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/491QwLf3hcIFRu7RHfxIxC8Rscp.jpg",
+    "trailer": "",
+    "desc": "Groot descubre una civilización diminuta que le confunde con el héroe al que estaba esperando.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-986056",
+    "tmdbId": 986056,
+    "title": "Thunderbolts*",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Aventura"
+    ],
+    "rating": 7.3,
+    "points": 19,
+    "duration": "127 min",
+    "platform": "Disney+",
+    "year": 2025,
+    "img": "https://image.tmdb.org/t/p/w500/yDWU8YyFkPnlVY627QXPvct8bz9.jpg",
+    "trailer": "https://www.youtube.com/embed/7rs_HhSA7XY?autoplay=1",
+    "desc": "Un grupo de supervillanos poco convencional es reclutado para hacer misiones para el gobierno: Yelena Belova, Bucky Barnes, Red Guardian, Ghost, Taskmaster y John Walker. Después de verse atrapados en una trampa mortal urdida por Valentina Allegra de Fontaine, estos marginados deben embarcarse en una peligrosa misión que les obligará a enfrentarse a los recovecos más oscuros de su pasado.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-99861",
+    "tmdbId": 99861,
+    "title": "Vengadores: La era de Ultrón",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "rating": 7.3,
+    "points": 19,
+    "duration": "141 min",
+    "platform": "Disney+",
+    "year": 2015,
+    "img": "https://image.tmdb.org/t/p/w500/3Lz6h5rlCFNNyCZRaRJ2ZjtBnAE.jpg",
+    "trailer": "https://www.youtube.com/embed/JAUoeqvedMo?autoplay=1",
+    "desc": "Cuando Tony Stark intenta reactivar un programa caído en desuso cuyo objetivo es mantener la paz, las cosas empiezan a torcerse y los héroes más poderosos de la Tierra, incluyendo a Iron Man, Capitán América, Thor, El Increíble Hulk, Viuda Negra y Ojo de Halcón, tendrán que afrontar la prueba definitiva cuando el destino del planeta se ponga en juego. Cuando el villano Ultron emerge, le corresponderá a Los Vengadores detener sus terribles planes, que junto a incómodas alianzas llevarán a una inesperada acción que allanará el camino para una épica y única aventura.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-67466",
+    "tmdbId": 67466,
+    "title": "Runaways",
+    "type": "Serie",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 7.3,
+    "points": 11,
+    "duration": "3 Temporadas",
+    "platform": "",
+    "year": 2017,
+    "img": "https://image.tmdb.org/t/p/w500/hnHEhbzh0F7kN3Ah1lzRjtQuW16.jpg",
+    "trailer": "",
+    "desc": "Un grupo de adolescentes descubre que tienen una cosa en común: sus padres pertenecen a un grupo de supervillanos llamado Pride. Al saber esto, los chicos se ven obligados a unirse para enfrentarse a su enemigo común a pesar de que no se soportan entre ellos. Así comienzan sus andanzas como superhéroes nóveles cuyo objetivo es acabar con Pride y todos sus miembros. Sin embargo, no estarán solos ya que conocerán a un grupo de ex-superhéroes que se hacen llamar Excelsior. Este grupo se dedica a ayudar a los jóvenes con superpoderes para que se integren en la sociedad y se olviden de salvar el mundo porque \"eso es cosa de adultos\".",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-1010823",
+    "tmdbId": 1010823,
+    "title": "Obra maestra",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Ciencia ficción",
+      "Comedia"
+    ],
+    "rating": 7.2,
+    "points": 1,
+    "duration": "5 min",
+    "platform": "",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/gFuti8UisEutgcKw6xv5G44gyF3.jpg",
+    "trailer": "",
+    "desc": "Groot pinta un retrato familiar de los Guardianes, pero descubre que es una tarea complicada.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-211387",
+    "tmdbId": 211387,
+    "title": "Marvel One-Shot: Agente Carter",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Acción",
+      "Ciencia ficción"
+    ],
+    "rating": 7.2,
+    "points": 2,
+    "duration": "15 min",
+    "platform": "Disney+",
+    "year": 2013,
+    "img": "https://image.tmdb.org/t/p/w500/9gVjhtYNFe1Qcjca84aq2Y2GtWh.jpg",
+    "trailer": "",
+    "desc": "Nos situamos un año después tras el final de 'Capitán América: El primer Vengador' con la agente Peggy Carter persiguiendo algo llamado Zodiac.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-453395",
+    "tmdbId": 453395,
+    "title": "Doctor Strange en el multiverso de la locura",
+    "type": "Película",
+    "genres": [
+      "Fantasía",
+      "Acción",
+      "Aventura"
+    ],
+    "rating": 7.2,
+    "points": 19,
+    "duration": "126 min",
+    "platform": "Disney+",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/1w3MlLZPqr2Pm5loQ9h2gJwenMr.jpg",
+    "trailer": "https://www.youtube.com/embed/Rf8LAYJSOL8?autoplay=1",
+    "desc": "Viaja a lo desconocido con el Doctor Strange, quien, con la ayuda de tanto antiguos como nuevos aliados místicos, recorre las complejas y peligrosas realidades alternativas del multiverso para enfrentarse a un nuevo y misterioso adversario.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-413279",
+    "tmdbId": 413279,
+    "title": "Equipo Thor: Primera parte",
+    "type": "Película",
+    "genres": [
+      "Comedia",
+      "Ciencia ficción"
+    ],
+    "rating": 7.2,
+    "points": 1,
+    "duration": "3 min",
+    "platform": "",
+    "year": 2016,
+    "img": "https://image.tmdb.org/t/p/w500/c7H2a27UeZTtsY3nvEsecoY0US1.jpg",
+    "trailer": "https://www.youtube.com/embed/bPNBKT6JLSU?autoplay=1",
+    "desc": "En formato falso documental, se explica dónde estaba Thor durante los hechos acontecidos en ”Capitán América: Civil War”.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-497698",
+    "tmdbId": 497698,
+    "title": "Viuda Negra",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "rating": 7.2,
+    "points": 15,
+    "duration": "134 min",
+    "platform": "Disney+",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/rjnciyF6Rj2fwZ7mtrj88RB0z8u.jpg",
+    "trailer": "https://www.youtube.com/embed/Fp9pNPdNwjI?autoplay=1",
+    "desc": "Natasha Romanoff, alias Viuda Negra, se enfrenta a las partes más oscuras de su historia cuando surge una peligrosa conspiración con vínculos con su pasado. Perseguida por una fuerza que no se detendrá ante nada para acabar con ella, Natasha debe enfrentarse a su historia como espía y a las relaciones rotas que dejó a su paso mucho antes de convertirse en una Vengadora.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-138505",
+    "tmdbId": 138505,
+    "title": "Marvel Zombis",
+    "type": "Serie",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Animación",
+      "Action & Adventure"
+    ],
+    "rating": 7.2,
+    "points": 10,
+    "duration": "1 Temporada",
+    "platform": "Disney+",
+    "year": 2025,
+    "img": "https://image.tmdb.org/t/p/w500/5UbrwzZUR5lcoDds2phuahFHHhi.jpg",
+    "trailer": "https://www.youtube.com/embed/8VEmp_Ycjws?autoplay=1",
+    "desc": "Cuando los Vengadores sucumben a la plaga zombi, un desesperado grupo de supervivientes descubre la clave para acabar con los superpoderosos no muertos y se juega la vida recorriendo un distópico paisaje para salvar el mundo.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-118924",
+    "tmdbId": 118924,
+    "title": "Marvel Studios: Reunidos",
+    "type": "Serie",
+    "genres": [
+      "Documental"
+    ],
+    "rating": 7.2,
+    "points": 9,
+    "duration": "1 Temporada",
+    "platform": "",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/b1t5usF45oRtgPh3wxQ4gNcgeZh.jpg",
+    "trailer": "",
+    "desc": "\"Reunidos\" es una serie exhaustiva de especiales de tipo documental disponible en Disney+ que relata la creación de los emocionantes estrenos de cine y nuevas series de Marvel Studios. Meteos entre bastidores de producciones como Bruja Escarlata y Visión, Falcon y el Soldado de Invierno y Loki, con imágenes exclusivas de las filmaciones. Acompañad a los realizadores y a estrellas como Scarlett Johansson y Jeremy Renner mientras detallan la génesis de la película Viuda Negra y la serie Ojo de Halcón. \"Reunidos\" es un examen profundo e inmersivo de la siguiente fase del Universo Cinematográfico Marvel.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-1010821",
+    "tmdbId": 1010821,
+    "title": "Groot se da un baño",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Comedia",
+      "Ciencia ficción"
+    ],
+    "rating": 7.1,
+    "points": 3,
+    "duration": "6 min",
+    "platform": "",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/sIyyJ8ifeMNNMewfLnYe0GU7OP.jpg",
+    "trailer": "",
+    "desc": "Todos necesitamos bañarnos, pero las cosas son algo distintas cuando eres un bebé de Flora Colossi.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-1010820",
+    "tmdbId": 1010820,
+    "title": "Una noche movidita",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Comedia",
+      "Ciencia ficción"
+    ],
+    "rating": 7.1,
+    "points": 1,
+    "duration": "6 min",
+    "platform": "",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/346OtqNzFZTBzA9ak6hPsDx3NFd.jpg",
+    "trailer": "",
+    "desc": "Groot investiga un ruido terrorífico en el Cuadrante y acaba bailando sin parar.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-774752",
+    "tmdbId": 774752,
+    "title": "Guardianes de la Galaxia: especial felices fiestas",
+    "type": "Película",
+    "genres": [
+      "Comedia",
+      "Ciencia ficción",
+      "Aventura"
+    ],
+    "rating": 7.1,
+    "points": 5,
+    "duration": "45 min",
+    "platform": "Disney+",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/6vrO8wFlwJFI7hgN0rDt3WnZVrW.jpg",
+    "trailer": "https://www.youtube.com/embed/OYhFFQl4fLs?autoplay=1",
+    "desc": "Con la misión de hacer que Quill tenga una Navidad inolvidable, los Guardianes se dirigen a la Tierra en busca del regalo perfecto.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-102899",
+    "tmdbId": 102899,
+    "title": "Ant-Man",
+    "type": "Película",
+    "genres": [
+      "Ciencia ficción",
+      "Aventura",
+      "Acción"
+    ],
+    "rating": 7.1,
+    "points": 11,
+    "duration": "117 min",
+    "platform": "Disney+",
+    "year": 2015,
+    "img": "https://image.tmdb.org/t/p/w500/zwuE28gSXlLFLgueqMe9b7xKy1f.jpg",
+    "trailer": "https://www.youtube.com/embed/cx3joJnXydc?autoplay=1",
+    "desc": "Armado con la asombrosa capacidad de reducir su tamaño a la dimensiones de un insecto, el estafador Scott Lang debe sacar a relucir al héroe que lleva dentro y ayudar a su mentor, el doctor Hank Pym, a proteger de una nueva generación de amenazas el secreto que se esconde tras el traje de Ant-Man, con un casco que le permite comunicarse con las hormigas. A pesar de los obstáculos aparentemente insuperables que les acechan, Pym y Lang deben planear y llevar a cabo un atraco para intentar salvar al mundo.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-69088",
+    "tmdbId": 69088,
+    "title": "Agentes de S.H.I.E.L.D.: Slingshot",
+    "type": "Serie",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Drama"
+    ],
+    "rating": 7.1,
+    "points": 4,
+    "duration": "1 Temporada",
+    "platform": "",
+    "year": 2016,
+    "img": "https://image.tmdb.org/t/p/w500/bwJej7WdmGRMCMyuDlotwAqVX7S.jpg",
+    "trailer": "https://www.youtube.com/embed/cW1fKV3TfNo?autoplay=1",
+    "desc": "Agentes de SHIELD: Slingshot se lleva a cabo poco antes del comienzo de la temporada 4 de Marvel, Agentes de SHIELD. La serie está protagonizada por Elena \"Yo-Yo\" Rodríguez, una Inhumana con la capacidad de moverse a súper-velocidad. Como persona con poderes, debe firmar los Acuerdos de Sokovia. Sin embargo, las restricciones de los Acuerdos están en conflicto directo con una misión personal que ella está desesperada por cumplir, una que probará sus habilidades e incluirá encuentros tensos con miembros de SHIELD.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-66190",
+    "tmdbId": 66190,
+    "title": "Capa y Puñal",
+    "type": "Serie",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 7.1,
+    "points": 8,
+    "duration": "2 Temporadas",
+    "platform": "Disney+",
+    "year": 2018,
+    "img": "https://image.tmdb.org/t/p/w500/bNj8VjBk9vT5NZUdlegPRjcVHBn.jpg",
+    "trailer": "https://www.youtube.com/embed/rg8PPGBu3gA?autoplay=1",
+    "desc": "En Nueva Orleans, Luisiana, los adolescentes Tandy Bowen y Tyrone Johnson provienen de diferentes orígenes y han adquirido superpoderes después de un evento que cambió sus vidas y que giró en torno al colapso de la Plataforma del Golfo de Roxxon. A medida que su amistad se desarrolla, pronto se dan cuenta de que sus poderes funcionan mejor cuando están juntos y usan estos poderes para tratar de arreglar algunos de los errores en el mundo.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-62285",
+    "tmdbId": 62285,
+    "title": "Marvel - The Defenders",
+    "type": "Serie",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Crimen"
+    ],
+    "rating": 7.1,
+    "points": 9,
+    "duration": "1 Temporada",
+    "platform": "Disney+",
+    "year": 2017,
+    "img": "https://image.tmdb.org/t/p/w500/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg",
+    "trailer": "https://www.youtube.com/embed/MAbjq7ydKDI?autoplay=1",
+    "desc": "Daredevil, Jessica Jones, Luke Cage e Iron Fist unen fuerzas para enfrentarse a sus enemigos comunes mientras una siniestra conspiración amenaza Nueva York.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-505642",
+    "tmdbId": 505642,
+    "title": "Black Panther: Wakanda Forever",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "rating": 7,
+    "points": 16,
+    "duration": "162 min",
+    "platform": "Disney+",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/mYpT2R7639KvKZ668uoQGS2QNFp.jpg",
+    "trailer": "https://www.youtube.com/embed/_Z3QKkl1WyM?autoplay=1",
+    "desc": "La reina Ramonda, Shuri, M’Baku, Okoye y las Dora Milaje, luchan para proteger su nación de la injerencia de potencias mundiales a raíz de la muerte del rey T’Challa. Mientras los wakandianos se esfuerzan por adaptarse a su nueva etapa, los héroes deben actuar unidos, con la ayuda del Perro de la Guerra Nakia y Everett Ross, y forzar un nuevo destino para el reino de Wakanda.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-1771",
+    "tmdbId": 1771,
+    "title": "Capitán América: El primer vengador",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "rating": 7,
+    "points": 8,
+    "duration": "124 min",
+    "platform": "Disney+",
+    "year": 2011,
+    "img": "https://image.tmdb.org/t/p/w500/i5eSA5DK5iAv53SB4yv57bN56o6.jpg",
+    "trailer": "https://www.youtube.com/embed/W4DlMggBPvc?autoplay=1",
+    "desc": "Nacido durante la Gran Depresión, Steve Rogers creció como un chico enclenque en una familia pobre. Horrorizado por las noticias que llegaban de Europa sobre los nazis, decidió enrolarse en el ejército; sin embargo, debido a su precaria salud, fue rechazado una y otra vez. Enternecido por sus súplicas, el general Chester Phillips le ofrece la oportunidad de tomar parte en un experimento especial: la Operación Renacimiento. Tras meses de preparación y entrenamiento recibe su primera misión como Capitán América. Armado con un escudo indestructible y su inteligencia para la batalla, el Capitán América emprende la guerra contra el mal, como centinela de la libertad y como líder de los Vengadores.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-1010818",
+    "tmdbId": 1010818,
+    "title": "Los primeros pasos de Groot",
+    "type": "Película",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Comedia",
+      "Ciencia ficción"
+    ],
+    "rating": 7,
+    "points": 1,
+    "duration": "6 min",
+    "platform": "",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/hyHiJhvcd7sWF0dA6usu9ajYGXh.jpg",
+    "trailer": "",
+    "desc": "Bebé Groot da sus primeros pasos fuera del tiesto y aprende que, antes de correr, hay que andar.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-894205",
+    "tmdbId": 894205,
+    "title": "La maldición del hombre lobo",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Fantasía",
+      "Terror"
+    ],
+    "rating": 7,
+    "points": 5,
+    "duration": "55 min",
+    "platform": "Disney+",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/jCZ92sCQkHv8jHLI9Cz6ETuj0cS.jpg",
+    "trailer": "https://www.youtube.com/embed/kyaCzFvWbdM?autoplay=1",
+    "desc": "En una noche oscura y sombría, un grupo secreto de matamonstruos surge de las sombras y se reúne en el siniestro templo de los Bloodstone tras la muerte de su líder. Tras una extraña y macabra ceremonia en su memoria, los participantes se ven arrastrados a una misteriosa y mortal competición por una poderosa reliquia, una cacería que acabará enfrentándolos a un peligroso monstruo.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-617126",
+    "tmdbId": 617126,
+    "title": "Los Cuatro Fantásticos: Primeros pasos",
+    "type": "Película",
+    "genres": [
+      "Ciencia ficción",
+      "Aventura",
+      "Acción"
+    ],
+    "rating": 7,
+    "points": 22,
+    "duration": "115 min",
+    "platform": "Disney+",
+    "year": 2025,
+    "img": "https://image.tmdb.org/t/p/w500/ckfiXWGEMWrUP53cc6QyHijLlhl.jpg",
+    "trailer": "https://www.youtube.com/embed/LJa5wv93YGM?autoplay=1",
+    "desc": "Con un mundo retrofuturista inspirado en los años 60 como telón de fondo, la Primera Familia de Marvel deberá hacer frente a su mayor desafío hasta la fecha. Obligados a buscar el equilibrio entre su papel de héroes y sus fuertes vínculos familiares, tendrán que defender la Tierra de un hambriento dios espacial llamado Galactus y su intrigante heraldo, Estela Plateada.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-232125",
+    "tmdbId": 232125,
+    "title": "Yo soy Groot",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Sci-Fi & Fantasy",
+      "Kids"
+    ],
+    "rating": 7,
+    "points": 7,
+    "duration": "2 Temporadas",
+    "platform": "Disney+",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/285ULt4SlLQiYabsFGzuAv9r8ww.jpg",
+    "trailer": "https://www.youtube.com/embed/D7eFpRf4tac?autoplay=1",
+    "desc": "Una serie de cortometrajes con Groot junto a varios personajes inusuales. Es infantil y molesta a todos los que le rodean: el árbol parlante Groot. Groot es tan tonto y poco razonable que tiene que abandonar la nave espacial del equipo de héroes y acaba aterrizando en un planeta extraño. Allí se encuentra con todo tipo de criaturas: Alienígenas y robots.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-198178",
+    "tmdbId": 198178,
+    "title": "Wonder Man",
+    "type": "Serie",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ],
+    "rating": 7,
+    "points": 11,
+    "duration": "2 Temporadas",
+    "platform": "Disney+",
+    "year": 2026,
+    "img": "https://image.tmdb.org/t/p/w500/6yy9nQlFt2l6UVWzrfhszFCaZ5C.jpg",
+    "trailer": "https://www.youtube.com/embed/wHuWmjXsReU?autoplay=1",
+    "desc": "El actor de Hollywood Simon Williams se sumerge en el mundo de los superhéroes a medida que obtiene sus propios poderes y se convierte en el nuevo superhéroe Wonder Man.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-68721",
+    "tmdbId": 68721,
+    "title": "Iron Man 3",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "rating": 6.9,
+    "points": 24,
+    "duration": "130 min",
+    "platform": "Disney+",
+    "year": 2013,
+    "img": "https://image.tmdb.org/t/p/w500/cW0fOIZONkgeiMJDYzqUcgl4MUn.jpg",
+    "trailer": "https://www.youtube.com/embed/YLorLVa95Xo?autoplay=1",
+    "desc": "El descarado y brillante empresario Tony Stark/Iron Man se enfrentará a un enemigo cuyo poder no conoce límites. Cuando Stark comprende que su enemigo ha destruido su universo personal, se embarca en una angustiosa búsqueda para encontrar a los responsables. Este viaje pondrá a prueba su entereza una y otra vez. Acorralado, Stark tendrá que sobrevivir por sus propios medios, confiando en su ingenio y su instinto para proteger a las personas que quiere.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-259910",
+    "tmdbId": 259910,
+    "title": "Marvel: Construyendo un universo",
+    "type": "Película",
+    "genres": [
+      "Documental",
+      "Película de TV",
+      "Fantasía"
+    ],
+    "rating": 6.9,
+    "points": 2,
+    "duration": "43 min",
+    "platform": "Disney+",
+    "year": 2014,
+    "img": "https://image.tmdb.org/t/p/w500/41Ke02UzYoPsiTc3YbomPGiQKMl.jpg",
+    "trailer": "",
+    "desc": "Un repaso a la historia de Marvel Studios y el Universo Cinemático Marvel, con entrevistas y escenas making-of de todas las películas Marvel, los Marvel One-Shots y la serie \"Agents of S.H.I.E.L.D.\"",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-441829",
+    "tmdbId": 441829,
+    "title": "Equipo Thor: Segunda parte",
+    "type": "Película",
+    "genres": [
+      "Ciencia ficción",
+      "Comedia",
+      "Fantasía"
+    ],
+    "rating": 6.9,
+    "points": 1,
+    "duration": "5 min",
+    "platform": "MovistarTV",
+    "year": 2017,
+    "img": "https://image.tmdb.org/t/p/w500/hpQFSaSzk5dlbYblH4RRyLJnrkh.jpg",
+    "trailer": "https://www.youtube.com/embed/n3TOw6r7ghc?autoplay=1",
+    "desc": "Una continuación de la parodia documental de lo que Thor y su compañero de cuarto Darryl estaban haciendo durante los eventos de \"Capitán América: Civil War\". Mientras Cap y Iron Man luchan, Thor intenta pagarle a Darryl su alquiler en monedas asgardianas.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-363088",
+    "tmdbId": 363088,
+    "title": "Ant-Man y la Avispa",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "rating": 6.9,
+    "points": 11,
+    "duration": "118 min",
+    "platform": "Disney+",
+    "year": 2018,
+    "img": "https://image.tmdb.org/t/p/w500/bvYI6i9lQ3bsup9PgnMF3YYr8ZR.jpg",
+    "trailer": "https://www.youtube.com/embed/UUkn-enk2RU?autoplay=1",
+    "desc": "Mientras Scott Lang se convierte en un súper héroe y en un padre, Hope van Dyne y el Dr. Hank Pym presentan una nueva misión urgente que encuentra a Ant-Man luchando junto a The Wasp para descubrir secretos de su pasado.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-10138",
+    "tmdbId": 10138,
+    "title": "Iron Man 2",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Acción",
+      "Ciencia ficción"
+    ],
+    "rating": 6.9,
+    "points": 29,
+    "duration": "125 min",
+    "platform": "Disney+",
+    "year": 2010,
+    "img": "https://image.tmdb.org/t/p/w500/ayyJVOV5I4MGjti7nIHC3mVCagR.jpg",
+    "trailer": "https://www.youtube.com/embed/BoohRoVA9WQ?autoplay=1",
+    "desc": "El mundo sabe que el multimillonario Tony Stark es Iron Man, el superhéroe enmascarado. Sometido a presiones por parte del gobierno, la prensa y la opinión pública para que comparta su tecnología con el ejército, Tony es reacio a desvelar los secretos de la armadura de Iron Man porque teme que esa información pueda caer en manos indeseables.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-62126",
+    "tmdbId": 62126,
+    "title": "Marvel - Luke Cage",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "Action & Adventure",
+      "Crimen"
+    ],
+    "rating": 6.9,
+    "points": 17,
+    "duration": "2 Temporadas",
+    "platform": "Disney+",
+    "year": 2016,
+    "img": "https://image.tmdb.org/t/p/w500/yzM1hMB3PUJqbISX0f421b3xOjB.jpg",
+    "trailer": "",
+    "desc": "Un expresidiario encapuchado y de piel impenetrable lucha por limpiar su nombre y salvar su barrio. Él no buscaba pelea, pero la gente necesita un héroe.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-76535",
+    "tmdbId": 76535,
+    "title": "Marvel One-Shot: Algo divertido sucedió de camino al Martillo de Thor",
+    "type": "Película",
+    "genres": [
+      "Ciencia ficción",
+      "Fantasía",
+      "Aventura",
+      "Acción",
+      "Comedia"
+    ],
+    "rating": 6.8,
+    "points": 2,
+    "duration": "4 min",
+    "platform": "",
+    "year": 2011,
+    "img": "https://image.tmdb.org/t/p/w500/JFsVkxLIahGefW8qN4qLzxBVtl.jpg",
+    "trailer": "",
+    "desc": "El agente Coulson se detiene en una tienda donde tiene que lidiar con un robo.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-299537",
+    "tmdbId": 299537,
+    "title": "Capitana Marvel",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "rating": 6.8,
+    "points": 12,
+    "duration": "125 min",
+    "platform": "Disney+",
+    "year": 2019,
+    "img": "https://image.tmdb.org/t/p/w500/5SPa7dZ85p54xa7E9tHRmfKq5ce.jpg",
+    "trailer": "https://www.youtube.com/embed/GX33bIOA5aA?autoplay=1",
+    "desc": "La historia sigue a Carol Danvers mientras se convierte en uno de los héroes más poderosos del universo, cuando la Tierra se encuentra atrapada en medio de una guerra galáctica entre dos razas alienígenas. Situada en los años 90, 'Capitana Marvel' es una historia nueva de un período de tiempo nunca antes visto en la historia del Universo Cinematográfico de Marvel.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-524434",
+    "tmdbId": 524434,
+    "title": "Eternals",
+    "type": "Película",
+    "genres": [
+      "Ciencia ficción",
+      "Acción",
+      "Aventura"
+    ],
+    "rating": 6.8,
+    "points": 12,
+    "duration": "156 min",
+    "platform": "Disney+",
+    "year": 2021,
+    "img": "https://image.tmdb.org/t/p/w500/a2ETqzAPn5oN1BVAMXxIYXj2U0.jpg",
+    "trailer": "https://www.youtube.com/embed/x_me3xsvDgk?autoplay=1",
+    "desc": "Hace millones de años, los seres cósmicos conocidos como los Celestiales comenzaron a experimentar genéticamente con los humanos. Su intención era crear individuos superpoderosos que hicieran únicamente el bien, pero algo salió mal y aparecieron los Desviantes, destruyendo y creando el caos a su paso. Ambas razas se han enfrentado en una eterna lucha de poder a lo largo de la historia. En medio de esta guerra, Ikaris y Sersi tratarán de vivir su propia historia de amor.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-10195",
+    "tmdbId": 10195,
+    "title": "Thor",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Fantasía",
+      "Acción"
+    ],
+    "rating": 6.8,
+    "points": 17,
+    "duration": "115 min",
+    "platform": "Disney+",
+    "year": 2011,
+    "img": "https://image.tmdb.org/t/p/w500/qFAVW4XJaxhj7PcpiUI5hhO9bOX.jpg",
+    "trailer": "https://www.youtube.com/embed/uHBnrJowBZE?autoplay=1",
+    "desc": "Thor es un arrogante y codicioso guerrero cuya imprudencia desata una antigua guerra. Por ese motivo, su padre Odín lo castiga desterrándolo a la Tierra para que viva entre los hombres y descubra así el verdadero sentido de la humildad. Cuando el villano más peligroso de su mundo envía a la Tierra a las fuerzas más oscuras de Asgard, Thor se dará cuenta de lo que realmente hace falta para ser un verdadero héroe.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-253980",
+    "tmdbId": 253980,
+    "title": "Corto Marvel: Todos aclaman al Rey",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Fantasía"
+    ],
+    "rating": 6.7,
+    "points": 2,
+    "duration": "14 min",
+    "platform": "Disney+",
+    "year": 2014,
+    "img": "https://image.tmdb.org/t/p/w500/p6w27tHrpH2ccTrByqy2uwCl1WJ.jpg",
+    "trailer": "",
+    "desc": "Trevor Slattery se ha convertido en un icono infame. También está encerrado en una prisión de alta seguridad. Por suerte, su nuevo perfil le ha comportado la fama y la protección en el interior. El actor ha aceptado de buen grado someterse a una entrevista en profundidad con un director de documentales para que elabore su perfil.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-88987",
+    "tmdbId": 88987,
+    "title": "Helstrom",
+    "type": "Serie",
+    "genres": [
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "rating": 6.7,
+    "points": 7,
+    "duration": "1 Temporada",
+    "platform": "Disney+",
+    "year": 2020,
+    "img": "https://image.tmdb.org/t/p/w500/5QmcKsepYpO9XYsWNLwsiULoaAu.jpg",
+    "trailer": "https://www.youtube.com/embed/XKeugS4qjag?autoplay=1",
+    "desc": "La historia se centra en los hermanos gemelos Daimon y Ana Helstrom, hijos de un asesino en serie con un increíble poder y un halo de misterio que le sigue. A pesar de su complicada situación familiar, están decididos a sacar el mayor partido posible a habilidades y aptitudes únicas que poseen.  Haciendo uso de sus dotes, la pareja de hermanos persigue a lo peor de la humanidad mientras aprenden a convivir en su complicada dinámica y poco a poco, la fama les va alcanzando.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-76338",
+    "tmdbId": 76338,
+    "title": "Thor: el mundo oscuro",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía"
+    ],
+    "rating": 6.5,
+    "points": 13,
+    "duration": "112 min",
+    "platform": "Disney+",
+    "year": 2013,
+    "img": "https://image.tmdb.org/t/p/w500/cs5YLwGBCJBold74avD3NecO5Zc.jpg",
+    "trailer": "https://www.youtube.com/embed/npvJ9FTgZbM?autoplay=1",
+    "desc": "Thor lucha por restablecer el orden en el cosmos, pero una antigua raza liderada por el vengativo Malekith regresa con el propósito de volver a sumir el universo en la oscuridad. Se trata de un villano con el que ni siquiera Odín y Asgard se atreven a enfrentarse; por esa razón, Thor tendrá que emprender un viaje muy peligroso, durante el cual se reunirá con Jane Foster y la obligará a sacrificarlo todo para salvar el mundo.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-62127",
+    "tmdbId": 62127,
+    "title": "Marvel - Iron Fist",
+    "type": "Serie",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 6.5,
+    "points": 5,
+    "duration": "2 Temporadas",
+    "platform": "Disney+",
+    "year": 2017,
+    "img": "https://image.tmdb.org/t/p/w500/ywrvjIgK5K9Ff8RddgdFI3kfDqT.jpg",
+    "trailer": "https://www.youtube.com/embed/f9OKL5no-S0?autoplay=1",
+    "desc": "Danny Rand reaparece 15 años después de ser dado por muerto. Ahora, armado con un increíble poder, tratará de recuperar su pasado y cumplir su destino.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-114472",
+    "tmdbId": 114472,
+    "title": "Invasión secreta",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "rating": 6.5,
+    "points": 10,
+    "duration": "1 Temporada",
+    "platform": "Disney+",
+    "year": 2023,
+    "img": "https://image.tmdb.org/t/p/w500/jXLhr96JH5DG6TBM8rx8subMpnE.jpg",
+    "trailer": "https://www.youtube.com/embed/Tp_YZNqNBhw?autoplay=1",
+    "desc": "Nick Furia descubre que una facción de cambiaformas skrulls está invadiendo la Tierra en secreto.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-119569",
+    "tmdbId": 119569,
+    "title": "Marvel extendido: Artículo 47",
+    "type": "Película",
+    "genres": [
+      "Ciencia ficción",
+      "Acción",
+      "Fantasía"
+    ],
+    "rating": 6.4,
+    "points": 1,
+    "duration": "12 min",
+    "platform": "Disney+",
+    "year": 2012,
+    "img": "https://image.tmdb.org/t/p/w500/gaBttAB2dJWJJCtUdIC6CNof6O3.jpg",
+    "trailer": "",
+    "desc": "Claire y Benny son una pareja que encuentra una de las armas de los Chitauri después de que Los Vengadores salvan al mundo, decidiendo usar el poder de este artefacto para cometer fechorías y tener una vida llena de lujos y facilidades, al estilo de Bonnie y Clyde. Dos agentes de S.H.I.E.L.D., tienen como misión recuperar el arma conocida como 'Artículo 47'.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-616037",
+    "tmdbId": 616037,
+    "title": "Thor: Love and Thunder",
+    "type": "Película",
+    "genres": [
+      "Fantasía",
+      "Acción",
+      "Comedia"
+    ],
+    "rating": 6.4,
+    "points": 14,
+    "duration": "118 min",
+    "platform": "Disney+",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/z9ajF6E39Hg2pXUofmUYgZHvdX.jpg",
+    "trailer": "https://www.youtube.com/embed/Go8nTmfrQd8?autoplay=1",
+    "desc": "El Dios del Trueno emprende un viaje que no se parece en nada a lo que se ha enfrentado hasta ahora: una búsqueda de la paz interior. Pero el retiro de Thor se ve interrumpido por un asesino galáctico conocido como Gorr el Carnicero de Dioses. Para hacer frente a la amenaza, Thor solicita la ayuda de Valkiria, de Korg y de su ex novia Jane Foster que, para sorpresa de Thor, empuña su martillo mágico, Mjolnir, como la Poderosa Thor. Juntos, se embarcan en una aventura cósmica en la que tendrán que descubrir el misterio de la venganza del Carnicero de Dioses y detenerlo antes de que sea demasiado tarde.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-76122",
+    "tmdbId": 76122,
+    "title": "Marvel de un vistazo: El consultor",
+    "type": "Película",
+    "genres": [
+      "Aventura",
+      "Fantasía",
+      "Ciencia ficción",
+      "Acción"
+    ],
+    "rating": 6.3,
+    "points": 2,
+    "duration": "4 min",
+    "platform": "MovistarTV",
+    "year": 2011,
+    "img": "https://image.tmdb.org/t/p/w500/nkEnGdA6duNjvnbOHba69aTP6vq.jpg",
+    "trailer": "",
+    "desc": "El agente Coulson informa al agente Sitwell  de que el Consejo de Seguridad Mundial desea que Emil Blonsky sea liberado de prisión para unirse a la Iniciativa Vengadores. Como Nick Furia no desea liberar a Blonsky, los dos agentes deciden enviar a un 'pringado' para que sabotee la reunión...",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-92782",
+    "tmdbId": 92782,
+    "title": "Ms. Marvel",
+    "type": "Serie",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Comedia"
+    ],
+    "rating": 6.3,
+    "points": 10,
+    "duration": "1 Temporada",
+    "platform": "Disney+",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/3KzoEdclGwXQH2t2oYZZlw46TvW.jpg",
+    "trailer": "https://www.youtube.com/embed/m9EX0f6V11Y?autoplay=1",
+    "desc": "Una gran estudiante, ávida jugadora y voraz escritora de fan-fic, Kamala Khan tiene una afinidad especial por los superhéroes, en particular por la Capitana Marvel. Sin embargo, lucha por encajar en casa y en la escuela, es decir, hasta que obtiene superpoderes como los héroes que siempre ha admirado. La vida es más fácil con superpoderes, ¿verdad?",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-1724",
+    "tmdbId": 1724,
+    "title": "El increíble Hulk",
+    "type": "Película",
+    "genres": [
+      "Ciencia ficción",
+      "Acción",
+      "Aventura"
+    ],
+    "rating": 6.2,
+    "points": 13,
+    "duration": "114 min",
+    "platform": "",
+    "year": 2008,
+    "img": "https://image.tmdb.org/t/p/w500/rCTSJzsU2GkH5uLwP1RFb3OjtLs.jpg",
+    "trailer": "https://www.youtube.com/embed/dz6eBeW19Lg?autoplay=1",
+    "desc": "El científico Bruce Banner recorre el mundo tratando de encontrar una cura a su problema, en busca de un antídoto que le permita librarse de su Alter Ego. Perseguido por el ejército y por su propia rabia interna, es incapaz de sacar de su cabeza a Betty Ross. Así que se decide a volver a la civilización, donde debe enfrentarse a una criatura creada cuando el agente de la KGB, Emil Blonsky, se expone a una dosis superior de la radiación que convirtió a Bruce en Hulk. Incapaz de volver a su estado humano, Emil hace responsable a Hulk de su aterradora condición, mientras que la ciudad de Nueva York se convierte en el escenario de la última batalla entre las dos criaturas más poderosas que jamás han pisado la Tierra.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-640146",
+    "tmdbId": 640146,
+    "title": "Ant-Man y la Avispa: Quantumanía",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "rating": 6.2,
+    "points": 10,
+    "duration": "125 min",
+    "platform": "Disney+",
+    "year": 2023,
+    "img": "https://image.tmdb.org/t/p/w500/lKHy0ntGPdQeFwvNq8gK1D0anEr.jpg",
+    "trailer": "https://www.youtube.com/embed/5WfTEZJnv_8?autoplay=1",
+    "desc": "La pareja de superhéroes Scott Lang y Hope van Dyne regresa para continuar sus aventuras como Ant-Man y la Avispa. Los dos, junto a los padres de Hope, Hank Pym y Janet van Dyne y la hija de Scott, Cassie Lang, se dedican a explorar el Mundo Cuántico, interactuando con nuevas y extrañas criaturas y embarcándose en una aventura que les llevará más allá de los límites de lo que creían posible.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-505945",
+    "tmdbId": 505945,
+    "title": "Equipo Darryl",
+    "type": "Película",
+    "genres": [
+      "Comedia",
+      "Fantasía",
+      "Ciencia ficción"
+    ],
+    "rating": 6.2,
+    "points": 1,
+    "duration": "6 min",
+    "platform": "Disney+",
+    "year": 2018,
+    "img": "https://image.tmdb.org/t/p/w500/pHKtjWBgrGbw9DiLs89ehJNDO2D.jpg",
+    "trailer": "",
+    "desc": "Recién destronado como gobernante de Sakaar, el Gran Maestro se dirige a la Tierra para comenzar una nueva vida. Ha pasado más de un año desde que Thor se fue de Australia y Darryl ha tenido problemas para pagar el alquiler. Ahora Darryl necesita un nuevo compañero de cuarto para ayudar a hacer los pagos mensuales. Desafortunadamente para Darryl, el Gran Maestro fue el único que respondió al anuncio de Darryl \"Se necesita compañero de cuarto\" y sin opciones viables, el Gran Maestro se muda.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-241388",
+    "tmdbId": 241388,
+    "title": "Los ojos de Wakanda",
+    "type": "Serie",
+    "genres": [
+      "Animación",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "rating": 6.2,
+    "points": 4,
+    "duration": "1 Temporada",
+    "platform": "Disney+",
+    "year": 2025,
+    "img": "https://image.tmdb.org/t/p/w500/rp3oUwY6K9mwz9VPFIDZzGyP66h.jpg",
+    "trailer": "https://www.youtube.com/embed/ODHh6oe4MlE?autoplay=1",
+    "desc": "A lo largo de la historia de Wakanda, valientes guerreros han recibido la misión de viajar por el mundo para recuperar peligrosos artefactos de vibranium. La serie explorará diferentes épocas en el tiempo y representará la historia de aquellos que hicieron que Wakanda se mantuviera en secreto durante siglos.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-92783",
+    "tmdbId": 92783,
+    "title": "She-Hulk: abogada Hulka",
+    "type": "Serie",
+    "genres": [
+      "Comedia",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 6.1,
+    "points": 14,
+    "duration": "1 Temporada",
+    "platform": "Disney+",
+    "year": 2022,
+    "img": "https://image.tmdb.org/t/p/w500/7jzX4ZKwDxHZP8uSXrDAkVTdvKe.jpg",
+    "trailer": "https://www.youtube.com/embed/u7JsKhI2An0?autoplay=1",
+    "desc": "Jennifer Walters —una abogada especializada en derecho sobrehumano— tendrá que lidiar con los problemas típicos de una treintañera soltera que además resulta ser una Hulka verde de 2 metros.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-122226",
+    "tmdbId": 122226,
+    "title": "Echo",
+    "type": "Serie",
+    "genres": [
+      "Action & Adventure",
+      "Crimen",
+      "Drama"
+    ],
+    "rating": 6.1,
+    "points": 13,
+    "duration": "1 Temporada",
+    "platform": "Disney+",
+    "year": 2024,
+    "img": "https://image.tmdb.org/t/p/w500/1RFLMSnFng8G23zZ1G5Q6lFVRfY.jpg",
+    "trailer": "https://www.youtube.com/embed/g0f1o-KGWPM?autoplay=1",
+    "desc": "La historia del origen de Echo vuelve a visitar a Maya López, cuyo comportamiento despiadado en la ciudad de Nueva York la alcanza en su ciudad natal. Debe enfrentar su pasado, reconectarse con sus raíces nativas americanas y abrazar el significado de familia y comunidad si alguna vez espera seguir adelante.\n\nPerseguida por el imperio de Fisk, Maya vuelve a casa, donde hará frente a su legado y a su familia.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-822119",
+    "tmdbId": 822119,
+    "title": "Capitán América: Brave New World",
+    "type": "Película",
+    "genres": [
+      "Acción",
+      "Suspense",
+      "Ciencia ficción"
+    ],
+    "rating": 6,
+    "points": 17,
+    "duration": "119 min",
+    "platform": "Disney+",
+    "year": 2025,
+    "img": "https://image.tmdb.org/t/p/w500/vUNj55xlF0pSU5FU3yDHC6L5wVX.jpg",
+    "trailer": "https://www.youtube.com/embed/5PSzFLV-EyQ?autoplay=1",
+    "desc": "Tras reunirse con el recién elegido presidente de los EE. UU., Thaddeus Ross, Sam se encuentra en medio de un incidente internacional. Debe descubrir el motivo que se esconde tras un perverso complot global, antes de que su verdadero artífice enfurezca al mundo entero.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-609681",
+    "tmdbId": 609681,
+    "title": "The Marvels",
+    "type": "Película",
+    "genres": [
+      "Ciencia ficción",
+      "Aventura",
+      "Acción"
+    ],
+    "rating": 5.9,
+    "points": 9,
+    "duration": "105 min",
+    "platform": "Disney+",
+    "year": 2023,
+    "img": "https://image.tmdb.org/t/p/w500/vpuuFM032yiX8tox4L84Wl9MGjG.jpg",
+    "trailer": "https://www.youtube.com/embed/uwmDH12MAA4?autoplay=1",
+    "desc": "Cuando sus obligaciones la envían a un agujero de gusano vinculado a un revolucionario kree, los poderes de Carol Danvers, la capitana Marvel, se entremezclan con los de Kamala Khan, también conocida como la Sra. Marvel y la sobrina de Carol, ahora astronauta de S.A.B.E.R., Monica Rambeau. Juntas, deberán salvar el universo como \"The Marvels\".",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-68716",
+    "tmdbId": 68716,
+    "title": "Inhumans",
+    "type": "Serie",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "rating": 5.9,
+    "points": 6,
+    "duration": "1 Temporada",
+    "platform": "Disney+",
+    "year": 2017,
+    "img": "https://image.tmdb.org/t/p/w500/zKfGip55oJ9tdzhyd9ayGyFFhuo.jpg",
+    "trailer": "https://www.youtube.com/embed/xU9Z6cKsbY0?autoplay=1",
+    "desc": "Se centra en la historia de la familia real de Áttilan, la colonia de una raza superior de humanos genéticamente modificados que habitan en una región oculta de la Luna. El silencioso Rayo Negro, capaz de destruir una ciudad entera con un susurro, gobierna junto a Medusa, con una larga melena de fuerza descomunal. Convencido de que los humanos suponen una amenaza, Máximus, el maquiavélico hermano del rey, encabeza una rebelión que divide a la familia.",
+    "categoria": "mcu"
+  },
+  {
+    "id": "tmdb-114471",
+    "tmdbId": 114471,
+    "title": "Ironheart",
+    "type": "Serie",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Crimen",
+      "Action & Adventure"
+    ],
+    "rating": 5.3,
+    "points": 11,
+    "duration": "1 Temporada",
+    "platform": "Disney+",
+    "year": 2025,
+    "img": "https://image.tmdb.org/t/p/w500/dOh6MJpdlQhYpLBhzhNQeYGKTZ5.jpg",
+    "trailer": "https://www.youtube.com/embed/r6j-wSIqJJ0?autoplay=1",
+    "desc": "La brillante inventora Riri Williams vuelve a Chicago, donde conoce a Parker Robins, el Encapuchado.",
+    "categoria": "mcu"
+  }
+]
