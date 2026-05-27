@@ -18,7 +18,7 @@ const PROVIDERS = {
   'netflix':      8,
   'amazon-prime': 119,
   'disney-plus':  337,
-  'hbo-max':      384,
+  'hbo-max':      1899,
   'apple-tv':     350,
 };
 
