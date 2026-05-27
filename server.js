@@ -55,8 +55,7 @@ function getMovies(req, res) {
         // Añadir nombre de categoría y tipo a cada item
         const items = data
           .map(item => ({ ...item, category: categoria, categoryType: posible.type }))
-          .sort((a, b) => b.rating - a.rating)
-          .slice(0, 10);
+          .sort((a, b) => b.rating - a.rating);
         return jsonResponse(res, 200, items);
       } catch {
         continue;
@@ -157,6 +156,23 @@ const server = http.createServer((req, res) => {
   // ── /api/movies ──
   if (method === 'GET' && url.startsWith('/api/movies')) return getMovies(req, res);
 
+  // ── /api/last-update ──
+  if (method === 'GET' && url === '/api/last-update') {
+    try {
+      const filePath = path.join(__dirname, 'data', 'last-update.json');
+      if (!fs.existsSync(filePath)) {
+        return jsonResponse(res, 200, { fecha: null });
+      }
+      const raw = fs.readFileSync(filePath, 'utf8');
+      if (!raw || !raw.trim()) {
+        return jsonResponse(res, 200, { fecha: null });
+      }
+      return jsonResponse(res, 200, JSON.parse(raw));
+    } catch (err) {
+      return jsonResponse(res, 200, { fecha: null });
+    }
+  }
+
   // ── /api/users ──
   if (url === '/api/users') {
     if (method === 'GET')  return getUsers(req, res);
@@ -236,3 +252,4 @@ server.listen(PORT, () => {
   console.log('   PUT    /api/tops/:topId');
   console.log('   DELETE /api/tops/:topId');
 });
+require('./scrapers/scheduler');

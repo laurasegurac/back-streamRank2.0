@@ -9,6 +9,7 @@
 
 const { execSync } = require('child_process');
 const path         = require('path');
+const fs           = require('fs');
 
 const dir = __dirname;
 
@@ -29,5 +30,12 @@ if (!solo || solo === 'plataformas') correr('scraper-plataformas.js', 'PLATAFORM
 if (!solo || solo === 'estudios')    correr('scraper-estudios.js',    'ESTUDIOS');
 if (!solo || solo === 'sagas')       correr('scraper-sagas.js',       'SAGAS');
 
+const fecha = new Date().toLocaleDateString('es-CO', {
+  day: 'numeric', month: 'long', year: 'numeric'
+});
+const outPath = path.join(__dirname, '..', 'data', 'last-update.json');
+fs.writeFileSync(outPath, JSON.stringify({ fecha, timestamp: Date.now() }), 'utf8');
+
 console.log('\n✅ Todos los scrapers completados');
+console.log(`📅 Última actualización guardada: ${fecha}`);
 console.log('📁 Archivos en: data/plataformas/, data/estudios/, data/sagas/');

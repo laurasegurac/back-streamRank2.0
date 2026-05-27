@@ -15,9 +15,8 @@ const BASE_URL = 'api.themoviedb.org';
 const IMG_BASE = 'https://image.tmdb.org/t/p/w500';
 
 const SAGAS = {
-  'star-wars':    { keyword: 210024, name: 'Star Wars' },
-  'harry-potter': { keyword: 9243,   name: 'Harry Potter' },
-  'lotr':         { keyword: 818,    name: 'Lord of the Rings' },
+  'star-wars':    { keyword: 210024, name: 'Anime' },
+  'lotr':         { keyword: 818,    name: 'Drama' },
   'mcu':          { keyword: 180547, name: 'Marvel Cinematic Universe' },
 };
 
