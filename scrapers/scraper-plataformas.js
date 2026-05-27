@@ -10,7 +10,7 @@ const https = require('https');
 const fs    = require('fs');
 const path  = require('path');
 
-const API_KEY  = 'e34fccb427b4744d95d52c5ab261c873';
+const API_KEY = process.env.TMDB_API_KEY;
 const BASE_URL = 'api.themoviedb.org';
 const IMG_BASE = 'https://image.tmdb.org/t/p/w500';
 
