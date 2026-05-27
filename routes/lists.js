@@ -215,5 +215,85 @@ function removeFromList(req, res, userId, movieId) {
     }
   );
 }
+/* ── GET /api/tops/:userId ── */
+function getTops(req, res, userId) {
+  db.all(
+    'SELECT * FROM user_tops WHERE user_id = ? ORDER BY created_at ASC',
+    [userId],
+    (err, rows) => {
+      if (err) return jsonResponse(res, 500, { ok: false, error: 'Error al obtener tops' });
+      const tops = rows.map(r => ({
+        id:     r.id,
+        nombre: r.nombre,
+        items:  JSON.parse(r.items || '[]'),
+      }));
+      jsonResponse(res, 200, { ok: true, data: tops });
+    }
+  );
+}
 
-module.exports = { getLists, addToList, updateListItem, removeFromList };
+/* ── POST /api/tops ──
+   Body: { userId, nombre }
+*/
+async function createTop(req, res) {
+  try {
+    const { userId, nombre } = await parseBody(req);
+    if (!userId || !nombre)
+      return jsonResponse(res, 400, { ok: false, error: 'userId y nombre son obligatorios' });
+
+    db.run(
+      'INSERT INTO user_tops (user_id, nombre, items) VALUES (?, ?, ?)',
+      [userId, nombre, '[]'],
+      function (err) {
+        if (err) return jsonResponse(res, 500, { ok: false, error: 'Error al crear top' });
+        jsonResponse(res, 201, { ok: true, data: { id: this.lastID, nombre, items: [] } });
+      }
+    );
+  } catch {
+    jsonResponse(res, 400, { ok: false, error: 'Cuerpo inválido' });
+  }
+}
+
+/* ── PUT /api/tops/:topId ──
+   Body: { nombre?, items? }
+*/
+async function updateTop(req, res, topId) {
+  try {
+    const body = await parseBody(req);
+    const { nombre, items } = body;
+
+    const updates = [];
+    const values  = [];
+    if (nombre !== undefined) { updates.push('nombre = ?'); values.push(nombre); }
+    if (items  !== undefined) { updates.push('items = ?');  values.push(JSON.stringify(items)); }
+
+    if (!updates.length)
+      return jsonResponse(res, 400, { ok: false, error: 'Nada que actualizar' });
+
+    values.push(topId);
+    db.run(
+      `UPDATE user_tops SET ${updates.join(', ')} WHERE id = ?`,
+      values,
+      (err) => {
+        if (err) return jsonResponse(res, 500, { ok: false, error: 'Error al actualizar top' });
+        jsonResponse(res, 200, { ok: true, message: 'Top actualizado' });
+      }
+    );
+  } catch {
+    jsonResponse(res, 400, { ok: false, error: 'Cuerpo inválido' });
+  }
+}
+
+/* ── DELETE /api/tops/:topId ── */
+function deleteTop(req, res, topId) {
+  db.run(
+    'DELETE FROM user_tops WHERE id = ?',
+    [topId],
+    (err) => {
+      if (err) return jsonResponse(res, 500, { ok: false, error: 'Error al eliminar top' });
+      jsonResponse(res, 200, { ok: true, message: 'Top eliminado' });
+    }
+  );
+}
+
+module.exports = { getLists, addToList, updateListItem, removeFromList, getTops, createTop, updateTop, deleteTop };

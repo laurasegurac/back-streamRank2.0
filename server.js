@@ -10,7 +10,7 @@ const fs   = require('fs');
 require('./config/db');
 
 const { getUsers, getUserById, createUser, loginUser, updateUser, deleteUser } = require('./routes/users');
-const { getLists, addToList, updateListItem, removeFromList } = require('./routes/lists');
+const { getLists, addToList, updateListItem, removeFromList, getTops, createTop, updateTop, deleteTop } = require('./routes/lists');
 
 const PORT = process.env.PORT || 3000;
 
@@ -192,6 +192,26 @@ const server = http.createServer((req, res) => {
     if (method === 'DELETE') return removeFromList(req, res, userId, movieId);
   }
 
+  // ── /api/tops/:userId ──
+if (url.match(/^\/api\/tops\/\d+$/) && method === 'GET') {
+  const userId = parseInt(url.split('/')[3]);
+  return getTops(req, res, userId);
+}
+
+// ── /api/tops ──
+if (url === '/api/tops' && method === 'POST') return createTop(req, res);
+
+// ── /api/tops/:topId ──
+if (url.match(/^\/api\/tops\/\d+$/) && method === 'PUT') {
+  const topId = parseInt(url.split('/')[3]);
+  return updateTop(req, res, topId);
+}
+
+if (url.match(/^\/api\/tops\/\d+$/) && method === 'DELETE') {
+  const topId = parseInt(url.split('/')[3]);
+  return deleteTop(req, res, topId);
+}
+
   // ── 404 ──
   jsonResponse(res, 404, { ok: false, error: `Ruta ${method} ${url} no encontrada` });
 });
@@ -211,4 +231,8 @@ server.listen(PORT, () => {
   console.log('   POST   /api/lists');
   console.log('   PUT    /api/lists/:userId/:movieId');
   console.log('   DELETE /api/lists/:userId/:movieId');
+  console.log('   GET    /api/tops/:userId');
+  console.log('   POST   /api/tops');
+  console.log('   PUT    /api/tops/:topId');
+  console.log('   DELETE /api/tops/:topId');
 });

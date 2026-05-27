@@ -53,5 +53,16 @@ db.serialize(() => {
       UNIQUE(user_id, movie_id)
     )
   `);
+  db.run(`
+  CREATE TABLE IF NOT EXISTS user_tops (
+    id         INTEGER PRIMARY KEY AUTOINCREMENT,
+    user_id    INTEGER NOT NULL,
+    nombre     TEXT NOT NULL,
+    items      TEXT NOT NULL DEFAULT '[]',
+    created_at TEXT DEFAULT (datetime('now')),
+    FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE
+  )
+`);
+
 });
 module.exports = db;
